@@ -72,5 +72,5 @@ jobs:
         run: |
           git config user.name "blog-bot"
           git config user.email "blog-bot@users.noreply.github.com"
-          for p in data/logs data/history.json data/ledger; do [ -e "$p" ] && git add "$p"; done
+          for p in data/logs data/history.json data/ledger; do if [ -e "$p" ]; then git add "$p"; fi; done
           git diff --cached --quiet || (git commit -m "log: ${{ steps.target.outputs.draft }}" && git pull --rebase && git push)
