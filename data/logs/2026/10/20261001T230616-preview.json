@@ -1,0 +1,72 @@
+{
+  "runId": "20261001T230616-preview",
+  "mode": "preview",
+  "date": "2026-10-02",
+  "draftPath": "data/articles/2026/10/20261002-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-01T23:06:16.798Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-01T23:06:16.798Z",
+      "attempts": 1,
+      "endedAt": "2026-10-01T23:06:16.800Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-01T23:06:16.808Z",
+      "endedAt": "2026-10-01T23:06:16.808Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-01T23:06:16.808Z",
+      "attempts": 1,
+      "endedAt": "2026-10-01T23:06:32.106Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-01T23:06:32.115Z",
+      "endedAt": "2026-10-01T23:06:32.115Z"
+    },
+    "publish": {
+      "status": "SKIPPED",
+      "attempts": 0,
+      "startedAt": "2026-10-01T23:06:32.115Z",
+      "endedAt": "2026-10-01T23:06:32.115Z",
+      "detail": "preview 모드"
+    }
+  },
+  "errors": [],
+  "contentId": "20261002-001",
+  "topic": "기준금리 3.00% 인상 이후 변동금리 대출 이자 부담 계산",
+  "category": "생활경제",
+  "keywords": [
+    "기준금리 인상",
+    "대출이자 계산",
+    "코픽스",
+    "변동금리 대출",
+    "금통위 일정"
+  ],
+  "title": "기준금리 3.00% 인상, 내 대출이자 얼마나 늘까? 1억 기준 계산법",
+  "sources": [
+    "https://www.bok.or.kr/portal/bbs/P0000559/view.do?nttId=11064191&menuNo=200690&programType=newsData&relate=Y&depth=200690",
+    "https://www.seoul.co.kr/news/economy/finance/2026/08/27/20260827500034",
+    "https://www.fnnews.com/news/202607160953106773",
+    "https://www.fntimes.com/html/view.php?ud=202607160949173269179ad43907_18",
+    "https://www.fntimes.com/html/view.php?ud=202608271107018117179ad43907_18",
+    "https://www.etoday.co.kr/news/view/2618695",
+    "https://www.newspim.com/news/view/20260915001248",
+    "https://www.mt.co.kr/finance/2026/09/15/2026091515564982304",
+    "https://portal.kfb.or.kr/compare/loan.php"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 2818,
+  "qualityCheck": "PASS",
+  "publishStatus": "NOT_EXECUTED",
+  "endedAt": "2026-10-01T23:06:32.115Z",
+  "executionTimeMs": 15317
+}
