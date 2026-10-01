@@ -69,7 +69,7 @@ TopicCandidate[] ─ topic-scorer(정성 점수, 데이터 없으면 '확인 불
         ↓
 ArticleDraft(JSON) ← Claude가 리서치·팩트체크 후 작성 (src/types/draft.ts)
         ↓
-fact-checker   본문 숫자 51개 → Claim 대조, 계산식 재계산, 충돌→REVIEW_REQUIRED, 3순위 출처 단독 근거 금지
+fact-checker   본문의 금액·비율·날짜 → Claim 대조, 계산식 재계산, 충돌→REVIEW_REQUIRED, 3순위 출처 단독 근거 금지
 duplicate      제목·주제 유사도, 14일 내 같은 키워드
 html-builder   본문 H2부터(제목 H1은 테마), 출처 각주, 기준일, 고지문
 quality        분량·금지표현·정치중립·SEO·모바일·HTML 안전성·미디어
