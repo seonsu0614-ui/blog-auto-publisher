@@ -91,6 +91,15 @@ describe('호스팅', () => {
     assert.equal(url, 'https://cdn.jsdelivr.net/gh/me/blog-media@abc123/media/2026/10/x.jpg');
     assert.equal(calls.length, 2);
   });
+  it('이미 있는 파일은 그 파일의 커밋으로 고정된 같은 URL을 돌려준다', async () => {
+    const fetchFn = async (url: string) => {
+      if (url.includes('/contents/')) return new Response(JSON.stringify({ sha: 'blob1' }), { status: 200 });
+      if (url.includes('/commits?')) return new Response(JSON.stringify([{ sha: 'def456' }]), { status: 200 });
+      return new Response('{}', { status: 500 });
+    };
+    const host = new GitHubCdnHost({ repo: 'me/blog-media', token: 't', fetchFn });
+    assert.equal(await host.upload('/nope', 'media/x.jpg'), 'https://cdn.jsdelivr.net/gh/me/blog-media@def456/media/x.jpg');
+  });
 });
 
 describe('미디어 팩트체크', () => {

@@ -130,14 +130,23 @@ export async function runDailyRoutine(draftPath: string, mode: 'preview' | 'publ
       'verify_publish',
       async () => {
         if (!pub.url) throw new Error('발행 URL 없음');
-        const v = await deps.publisher!.verify(pub.url, {
-          title: content.title,
-          imageUrls: content.images.map((i) => i.publicUrl!).filter(Boolean),
-          videoUrl: content.video?.publicUrl,
-          // 검증기가 페이지 HTML의 &amp; 등을 디코딩한 뒤 비교하므로 원래 URL 그대로 넘긴다
-          sourceUrls: content.sources.slice(0, 3).map((s) => s.url),
-        });
-        if (!v.success) throw new Error(v.error ?? '검증 실패');
+        // 이미 발행돼 있던 글이면 이번 실행에서 새로 만든 미디어 주소와 비교하지 않는다 (발행된 글은 그대로이므로)
+        const v = await deps.publisher!.verify(
+          pub.url,
+          pub.duplicatePrevented
+            ? { title: content.title }
+            : {
+                title: content.title,
+                imageUrls: content.images.map((i) => i.publicUrl!).filter(Boolean),
+                videoUrl: content.video?.publicUrl,
+                // 검증기가 페이지 HTML의 &amp; 등을 디코딩한 뒤 비교하므로 원래 URL 그대로 넘긴다
+                sourceUrls: content.sources.slice(0, 3).map((s) => s.url),
+              },
+        );
+        if (!v.success) {
+          const failed = v.checks.filter((c) => !c.passed).map((c) => `${c.id}${c.detail ? `(${c.detail.slice(0, 90)})` : ''}`);
+          throw new Error(`검증 실패: ${failed.join(', ') || v.error}`);
+        }
         return v;
       },
       { ...S, retries: deps.verifyAttempts ?? 3, delayMs: deps.verifyDelayMs ?? 10_000 },

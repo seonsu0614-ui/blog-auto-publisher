@@ -42,11 +42,15 @@ export class GitHubCdnHost implements MediaHost {
     const branch = this.o.branch ?? 'main';
     const headers = { authorization: `Bearer ${this.o.token}`, accept: 'application/vnd.github+json', 'x-github-api-version': '2022-11-28' };
 
-    // 이미 있으면 기존 파일의 최신 커밋 URL 재사용
+    // 이미 있으면 그 파일을 마지막으로 바꾼 커밋으로 고정한 URL 재사용 (같은 파일 = 항상 같은 URL)
     try {
       const res = await fetchWithRetry(f, `${this.api(remotePath)}?ref=${branch}`, { headers });
       const meta = (await res.json()) as { sha: string };
-      if (meta.sha) return this.cdnUrl(branch, remotePath);
+      if (meta.sha) {
+        const c = await fetchWithRetry(f, `https://api.github.com/repos/${this.o.repo}/commits?path=${encodeURIComponent(remotePath)}&sha=${branch}&per_page=1`, { headers });
+        const commits = (await c.json()) as Array<{ sha: string }>;
+        return this.cdnUrl(commits[0]?.sha ?? branch, remotePath);
+      }
     } catch (e) {
       if (!(e instanceof HttpError) || e.status !== 404) throw e;
     }
