@@ -1,0 +1,24 @@
+# 비밀값 — 절대 커밋 금지
+.env
+.env.local
+.env.*.local
+*.pem
+client_secret*.json
+token*.json
+cookies*.json
+
+# 의존성/빌드
+node_modules/
+dist/
+*.tsbuildinfo
+
+# 비공개 데이터·로그
+data/private/
+logs/private/
+data/**/*.tmp
+
+# 대용량 미디어 원본은 미디어 저장소/Drive로 관리
+data/images/raw/
+data/videos/raw/
+
+.DS_Store

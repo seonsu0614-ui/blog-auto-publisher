@@ -1,0 +1,22 @@
+{
+  "name": "blog-auto-publisher",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Blogger 자동 콘텐츠 생산·발행 시스템",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test \"tests/**/*.test.ts\"",
+    "blogger:auth": "tsx scripts/blogger-auth.ts",
+    "blogger:check": "tsx scripts/blogger-check.ts",
+    "blogger:draft-test": "tsx scripts/blogger-draft-test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}
