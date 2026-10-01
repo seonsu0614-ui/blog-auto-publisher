@@ -11,6 +11,7 @@
  * 이 스크립트는 비밀번호를 받거나 저장하지 않습니다. 로그인은 사용자가 Google 화면에서 직접 합니다.
  */
 import { createHash, randomBytes } from 'node:crypto';
+import { spawn } from 'node:child_process';
 import { createServer } from 'node:http';
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import type { AddressInfo } from 'node:net';
@@ -19,6 +20,23 @@ import { BloggerApi } from '../src/publishing/blogger/blogger-api.ts';
 import { BloggerAuth, buildAuthUrl, exchangeCode } from '../src/publishing/blogger/blogger-auth.ts';
 
 const b64url = (b: Buffer) => b.toString('base64url');
+
+/** 인증 주소를 기본 브라우저로 자동으로 연다 (실패해도 주소는 화면에 출력되어 있으므로 무시) */
+function openBrowser(url: string) {
+  if (process.argv.includes('--no-open')) return;
+  const [cmd, args] =
+    process.platform === 'win32'
+      ? ['rundll32', ['url.dll,FileProtocolHandler', url]]
+      : process.platform === 'darwin'
+        ? ['open', [url]]
+        : ['xdg-open', [url]];
+  try {
+    spawn(cmd, args as string[], { stdio: 'ignore', detached: true }).on('error', () => {}).unref();
+    console.log('(브라우저를 자동으로 열었습니다. 열리지 않으면 위 주소를 복사해 여세요)');
+  } catch {
+    /* 무시 */
+  }
+}
 
 function upsertEnvFile(updates: Record<string, string>) {
   const path = '.env';
@@ -63,6 +81,7 @@ async function main() {
       const url = buildAuthUrl({ clientId, redirectUri: `http://127.0.0.1:${port}/callback`, state, codeChallenge });
       console.log('\n아래 주소를 브라우저에서 열고, Blogger 블로그를 소유한 Google 계정으로 승인하세요:\n');
       console.log(url + '\n');
+      openBrowser(url);
       console.log('(5분 안에 승인하지 않으면 종료됩니다)');
     });
     setTimeout(() => {

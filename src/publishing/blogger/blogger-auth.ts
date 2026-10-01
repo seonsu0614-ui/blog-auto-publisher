@@ -49,6 +49,13 @@ async function postToken(
     return (await res.json()) as TokenResponse;
   } catch (e) {
     const msg = (e as Error).message ?? String(e);
+    if (msg.includes('invalid_grant') && params.grant_type === 'authorization_code') {
+      throw new OAuthError(
+        '인증 코드 교환 실패: 브라우저에서 연 주소가 이번 실행에서 출력된 주소와 다릅니다(복사 오류 또는 이전 실행의 주소). ' +
+          '`npm run blogger:auth -- --save`를 다시 실행하고, 새로 나온 주소를 그대로 복사해 여세요.',
+        'invalid_grant',
+      );
+    }
     if (msg.includes('invalid_grant')) {
       throw new OAuthError(
         'Refresh Token이 만료되었거나 취소되었습니다. `npm run blogger:auth`로 재발급하세요. ' +
