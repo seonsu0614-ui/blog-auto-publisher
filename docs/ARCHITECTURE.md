@@ -61,3 +61,21 @@ src/
 - Blogger API는 이미지·영상 업로드 기능이 없다 → 미디어는 별도 호스팅 후 URL 삽입
 - 검색 설명(메타 디스크립션)을 API로 지정할 수 있는지는 실제 연결 후 확인 필요 (추가필요)
 - OAuth 동의 화면이 "테스트" 상태면 Refresh Token 7일 만료 → "프로덕션" 전환 필요
+
+## 7. 텍스트 파이프라인 (Phase 2)
+
+```text
+TopicCandidate[] ─ topic-scorer(정성 점수, 데이터 없으면 '확인 불가')
+        ↓
+ArticleDraft(JSON) ← Claude가 리서치·팩트체크 후 작성 (src/types/draft.ts)
+        ↓
+fact-checker   본문 숫자 51개 → Claim 대조, 계산식 재계산, 충돌→REVIEW_REQUIRED, 3순위 출처 단독 근거 금지
+duplicate      제목·주제 유사도, 14일 내 같은 키워드
+html-builder   본문 H2부터(제목 H1은 테마), 출처 각주, 기준일, 고지문
+quality        분량·금지표현·정치중립·SEO·모바일·HTML 안전성·미디어
+        ↓
+decision: PUBLISHABLE | TEXT_READY | REVIEW_REQUIRED | BLOCKED
+```
+
+- 본문 H1 미사용: Blogger 테마가 게시물 제목을 H1으로 출력하므로 본문 H1은 중복이 된다. 요청서의 `<h1>`은 게시물 제목으로 충족.
+- 글자 수는 공백 제외 기준(최소 1,500자, 권장 2,000~3,000자).

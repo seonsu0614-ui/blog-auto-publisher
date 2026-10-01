@@ -12,7 +12,8 @@
     "test": "node --import tsx --test \"tests/**/*.test.ts\"",
     "blogger:auth": "tsx scripts/blogger-auth.ts",
     "blogger:check": "tsx scripts/blogger-check.ts",
-    "blogger:draft-test": "tsx scripts/blogger-draft-test.ts"
+    "blogger:draft-test": "tsx scripts/blogger-draft-test.ts",
+    "preview": "tsx scripts/preview.ts"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
