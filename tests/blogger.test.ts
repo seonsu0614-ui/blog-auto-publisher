@@ -229,3 +229,14 @@ describe('보조 기능', () => {
     assert.equal(contentHash({ title: 'A', html: '<p>x  y</p>' }), contentHash({ title: 'A', html: '<p>x y</p>\n' }));
   });
 });
+
+describe('비밀값 보정', () => {
+  it('붙여넣기 실수(NAME=, 따옴표, 공백, 뒤에 붙은 글자)를 걷어낸다', async () => {
+    const { sanitizeSecret } = await import('../src/config/env.ts');
+    const tok = '1//0eAbc_DEF-123456789012345678901234567890';
+    assert.equal(sanitizeSecret('GOOGLE_REFRESH_TOKEN', `GOOGLE_REFRESH_TOKEN=${tok}\r\nBLOGGER_BLOG_ID=1`), tok);
+    assert.equal(sanitizeSecret('GOOGLE_REFRESH_TOKEN', ` "${tok}" `), tok);
+    assert.equal(sanitizeSecret('GOOGLE_CLIENT_SECRET', '  GOOGLE_CLIENT_SECRET=abc  '), 'abc');
+    assert.equal(sanitizeSecret('BLOGGER_BLOG_ID', '9186214339088845601'), '9186214339088845601');
+  });
+});

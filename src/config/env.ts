@@ -41,12 +41,27 @@ export interface BloggerConfig {
   blogId: string;
 }
 
+/**
+ * 복사·붙여넣기 실수 보정: "NAME=값", 따옴표, 앞뒤 공백·줄바꿈을 걷어낸다.
+ * Refresh Token은 Google 형식(1//로 시작, 영문·숫자·_-)만 골라낸다.
+ */
+export function sanitizeSecret(name: string, raw: string): string {
+  let v = raw.trim();
+  const prefix = new RegExp(`^${name}\\s*=\\s*`);
+  v = v.replace(prefix, '').trim().replace(/^["']|["']$/g, '').trim();
+  if (name === 'GOOGLE_REFRESH_TOKEN') {
+    const m = v.match(/1\/\/[A-Za-z0-9_-]{20,}/);
+    if (m) return m[0];
+  }
+  return v;
+}
+
 export function getBloggerConfig(): BloggerConfig {
   const e = requireEnv(['GOOGLE_CLIENT_ID', 'GOOGLE_CLIENT_SECRET', 'GOOGLE_REFRESH_TOKEN', 'BLOGGER_BLOG_ID']);
   return {
-    clientId: e.GOOGLE_CLIENT_ID,
-    clientSecret: e.GOOGLE_CLIENT_SECRET,
-    refreshToken: e.GOOGLE_REFRESH_TOKEN,
-    blogId: e.BLOGGER_BLOG_ID,
+    clientId: sanitizeSecret('GOOGLE_CLIENT_ID', e.GOOGLE_CLIENT_ID),
+    clientSecret: sanitizeSecret('GOOGLE_CLIENT_SECRET', e.GOOGLE_CLIENT_SECRET),
+    refreshToken: sanitizeSecret('GOOGLE_REFRESH_TOKEN', e.GOOGLE_REFRESH_TOKEN),
+    blogId: sanitizeSecret('BLOGGER_BLOG_ID', e.BLOGGER_BLOG_ID),
   };
 }

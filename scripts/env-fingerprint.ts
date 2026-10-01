@@ -5,6 +5,7 @@
  */
 import { createHash } from 'node:crypto';
 import { existsSync } from 'node:fs';
+import { sanitizeSecret } from '../src/config/env.ts';
 
 if (existsSync('.env')) process.loadEnvFile('.env');
 for (const k of ['GOOGLE_CLIENT_ID', 'GOOGLE_CLIENT_SECRET', 'GOOGLE_REFRESH_TOKEN', 'BLOGGER_BLOG_ID']) {
@@ -12,5 +13,7 @@ for (const k of ['GOOGLE_CLIENT_ID', 'GOOGLE_CLIENT_SECRET', 'GOOGLE_REFRESH_TOK
   const v = raw.trim();
   const fp = createHash('sha256').update(v).digest('hex').slice(0, 8);
   const flags = [raw !== v ? '앞뒤공백있음' : '', /["']/.test(v) ? '따옴표포함' : '', /\s/.test(v) ? '중간공백있음' : '', v.includes('=') ? '등호포함' : ''].filter(Boolean).join(',');
-  console.log(`${k.padEnd(22)} 길이=${String(v.length).padStart(3)} 지문=${fp} ${flags}`);
+  const c = sanitizeSecret(k, raw);
+  const cfp = createHash('sha256').update(c).digest('hex').slice(0, 8);
+  console.log(`${k.padEnd(22)} 길이=${String(v.length).padStart(3)} 지문=${fp} ${flags} → 보정 후 길이=${c.length} 지문=${cfp}`);
 }
