@@ -1,5 +1,6 @@
 import type { CheckStatus } from '../types/content.ts';
 import type { ArticleDraft, Block, Claim } from '../types/draft.ts';
+import { mediaTexts } from '../types/media.ts';
 
 /**
  * 팩트체크 엔진 (결정적 검사).
@@ -120,6 +121,7 @@ export function draftSentences(d: ArticleDraft): string[] {
     ...d.sections.flatMap((s) => [s.heading, ...s.blocks.flatMap(blockTexts)]),
     ...d.faq.flatMap((f) => [f.question, f.answer]),
     ...d.closing,
+    ...mediaTexts(d.media),
   ].filter(Boolean);
 }
 

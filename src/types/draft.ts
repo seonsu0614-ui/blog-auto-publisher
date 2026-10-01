@@ -1,4 +1,5 @@
 import type { ContentCategory, FAQItem, Source } from './content.ts';
+import type { MediaSpec } from './media.ts';
 
 /**
  * 작성 단계의 원고 구조 (ArticleDraft).
@@ -99,6 +100,9 @@ export interface ArticleDraft {
   sources: DraftSource[];
   claims: Claim[];
   tags: string[];
+
+  /** 이미지·영상 사양 (Phase 3). 안의 문장도 팩트체크 대상 */
+  media?: MediaSpec;
 
   topicCandidates?: TopicCandidate[]; // 주제 선정 근거 기록
 }

@@ -1,27 +1,25 @@
 {
-  "decision": "TEXT_READY",
-  "reasons": [
-    "텍스트 검사 통과. 이미지·영상(Phase 3) 연결 후 발행 가능"
-  ],
+  "decision": "PUBLISHABLE",
+  "reasons": [],
   "fact": {
     "status": "PASS",
     "issues": [],
-    "checkedNumbers": 51
+    "checkedNumbers": 101
   },
   "duplicate": {
     "isDuplicate": false,
     "internalLinkCandidates": []
   },
   "quality": {
-    "status": "NOT_RUN",
-    "checkedAt": "2026-10-01T15:15:27.677Z",
+    "status": "PASS",
+    "checkedAt": "2026-10-01T15:27:25.228Z",
     "items": [
       {
         "id": "length",
         "label": "본문 1500자 이상(공백 제외)",
         "critical": true,
         "passed": true,
-        "detail": "2790자"
+        "detail": "2818자"
       },
       {
         "id": "banned",
@@ -80,7 +78,7 @@
         "label": "핵심 키워드 본문 2~12회(도배 금지)",
         "critical": true,
         "passed": true,
-        "detail": "2회"
+        "detail": "3회"
       },
       {
         "id": "meta",
@@ -158,38 +156,60 @@
         "id": "images",
         "label": "이미지 5개 이상",
         "critical": true,
-        "passed": false,
-        "detail": "PENDING (Phase 3)"
+        "passed": true,
+        "detail": "6개"
       },
       {
         "id": "image_license",
         "label": "이미지 라이선스 확인",
         "critical": true,
-        "passed": false,
-        "detail": "PENDING (Phase 3)"
+        "passed": true
       },
       {
         "id": "image_alt",
         "label": "이미지 Alt 텍스트",
         "critical": true,
-        "passed": false,
-        "detail": "PENDING (Phase 3)"
+        "passed": true
+      },
+      {
+        "id": "image_in_html",
+        "label": "이미지가 본문에 삽입됨",
+        "critical": true,
+        "passed": true
+      },
+      {
+        "id": "image_alt_natural",
+        "label": "Alt 텍스트 키워드 반복 없음",
+        "critical": true,
+        "passed": true
+      },
+      {
+        "id": "image_size",
+        "label": "이미지 용량 500KB 이하",
+        "critical": false,
+        "passed": true
       },
       {
         "id": "video",
-        "label": "숏폼 영상 1개",
+        "label": "숏폼 영상 1개(라이선스 확인·본문 삽입)",
         "critical": true,
-        "passed": false,
-        "detail": "PENDING (Phase 3)"
+        "passed": true
+      },
+      {
+        "id": "video_spec",
+        "label": "영상 10~30초, 1080×1920, H.264",
+        "critical": true,
+        "passed": true,
+        "detail": "22.9초 1080×1920 h264"
       }
     ],
     "warnings": [],
     "stats": {
-      "charsNoSpace": 2790,
-      "charsWithSpace": 3601,
+      "charsNoSpace": 2818,
+      "charsWithSpace": 3640,
       "h2": 9,
       "h3": 3,
-      "images": 0,
+      "images": 6,
       "paragraphs": 21,
       "longParagraphs": 0
     }

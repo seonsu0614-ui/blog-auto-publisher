@@ -21,6 +21,8 @@ export interface Source {
 }
 
 export interface BlogImage {
+  /** 본문 image 블록의 slot 번호 */
+  slot?: number;
   localPath: string;
   publicUrl?: string; // 발행 시 사용할 호스팅 URL (Blogger API는 이미지 업로드를 지원하지 않음)
   sourceUrl?: string;
@@ -41,6 +43,7 @@ export interface BlogImage {
 export interface BlogVideo {
   localPath: string;
   publicUrl?: string;
+  posterPath?: string;
   posterUrl?: string;
   durationSec: number;
   width: number;
@@ -49,6 +52,8 @@ export interface BlogVideo {
   origin: 'generated' | 'stock';
   license: string;
   licenseVerified: boolean;
+  fileSizeBytes?: number;
+  altText?: string;
 }
 
 export type CheckStatus = 'PASS' | 'FAIL' | 'REVIEW_REQUIRED' | 'NOT_RUN';

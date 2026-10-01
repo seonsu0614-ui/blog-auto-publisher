@@ -42,7 +42,7 @@ function renderBlock(b: Block, idx: Map<string, number>, media: MediaSlots): str
       return `<div style="overflow-x:auto"><table style="border-collapse:collapse;width:100%;font-size:0.95em">${cap}${head}${body}</table></div>${note}`;
     }
     case 'image': {
-      const img = media.images[b.slot - 1];
+      const img = media.images.find((i) => i.slot === b.slot) ?? (media.images.every((i) => i.slot === undefined) ? media.images[b.slot - 1] : undefined);
       if (!img?.publicUrl) return `<!-- image slot ${b.slot} -->`;
       const credit = img.origin === 'generated' ? '' : `<br/><small>${escapeHtml(img.author ?? '')} / ${escapeHtml(img.license ?? '')}</small>`;
       return `<figure style="margin:16px 0;text-align:center"><img src="${escapeHtml(img.publicUrl)}" alt="${escapeHtml(img.altText)}" width="${img.width ?? ''}" height="${img.height ?? ''}" loading="lazy" style="max-width:100%;height:auto"/>${img.caption || credit ? `<figcaption style="font-size:0.85em;color:#666">${escapeHtml(img.caption ?? '')}${credit}</figcaption>` : ''}</figure>`;
@@ -50,7 +50,7 @@ function renderBlock(b: Block, idx: Map<string, number>, media: MediaSlots): str
     case 'video': {
       const v = media.video;
       if (!v?.publicUrl) return '<!-- video slot -->';
-      return `<figure style="margin:16px 0;text-align:center"><video src="${escapeHtml(v.publicUrl)}" ${v.posterUrl ? `poster="${escapeHtml(v.posterUrl)}"` : ''} controls playsinline muted style="max-width:360px;width:100%"></video></figure>`;
+      return `<figure style="margin:16px 0;text-align:center"><video src="${escapeHtml(v.publicUrl)}" ${v.posterUrl ? `poster="${escapeHtml(v.posterUrl)}"` : ''} controls playsinline muted preload="metadata" aria-label="${escapeHtml(v.altText ?? '요약 영상')}" style="max-width:300px;width:80%;border-radius:12px"></video>${v.altText ? `<figcaption style="font-size:0.85em;color:#666">${escapeHtml(v.altText)}</figcaption>` : ''}</figure>`;
     }
   }
 }

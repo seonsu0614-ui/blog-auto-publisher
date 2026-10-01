@@ -2,6 +2,7 @@ import type { QualityCheckItem, QualityCheckResult } from '../types/content.ts';
 import type { ArticleDraft } from '../types/draft.ts';
 import type { MediaSlots } from './html-builder.ts';
 import { visibleText } from './html-builder.ts';
+import { mediaTexts } from '../types/media.ts';
 
 /**
  * 발행 직전 품질검사.
@@ -98,7 +99,7 @@ export function runQualityCheck(q: QualityInput): QualityReport {
   add('length', `본문 ${MIN_CHARS_NO_SPACE}자 이상(공백 제외)`, true, charsNoSpace >= MIN_CHARS_NO_SPACE, `${charsNoSpace}자`);
   if (charsNoSpace < TARGET_CHARS.min) warnings.push(`권장 분량(${TARGET_CHARS.min}~${TARGET_CHARS.max}자)보다 짧음: ${charsNoSpace}자`);
 
-  const all = [d.title, text].join('\n');
+  const all = [d.title, text, ...mediaTexts(d.media)].join('\n');
   const banned = BANNED_PHRASES.filter((r) => r.test(all)).map((r) => r.source);
   add('banned', '금지 표현(낚시·과장·공포·AI 상투구) 없음', true, banned.length === 0, banned.join(', ') || undefined);
 
@@ -155,8 +156,13 @@ export function runQualityCheck(q: QualityInput): QualityReport {
     add('image_license', '이미지 라이선스 확인', true, images.every((i) => i.licenseVerified));
     add('image_alt', '이미지 Alt 텍스트', true, images.every((i) => i.altText.trim().length >= 5));
     add('image_in_html', '이미지가 본문에 삽입됨', true, images.every((i) => !!i.publicUrl && html.includes(i.publicUrl)));
+    const kw = d.primaryKeyword.trim();
+    const stuffed = images.filter((i) => kw && i.altText.split(kw).length - 1 > 1);
+    add('image_alt_natural', 'Alt 텍스트 키워드 반복 없음', true, stuffed.length === 0, stuffed.map((i) => i.altText).join(' / ') || undefined);
+    add('image_size', '이미지 용량 500KB 이하', false, images.every((i) => (i.fileSizeBytes ?? 0) <= 500 * 1024));
     const v = q.media?.video;
-    add('video', '숏폼 영상 1개(라이선스 확인)', q.requireVideo ?? true, !!v && v.licenseVerified && (!v.publicUrl || html.includes(v.publicUrl)));
+    add('video', '숏폼 영상 1개(라이선스 확인·본문 삽입)', q.requireVideo ?? true, !!v && v.licenseVerified && !!v.publicUrl && html.includes(v.publicUrl));
+    if (v) add('video_spec', '영상 10~30초, 1080×1920, H.264', true, v.durationSec >= 10 && v.durationSec <= 30.5 && v.width === 1080 && v.height === 1920 && v.codec === 'h264', `${v.durationSec}초 ${v.width}×${v.height} ${v.codec}`);
   }
 
   const pending = items.some((i) => i.detail?.startsWith('PENDING'));

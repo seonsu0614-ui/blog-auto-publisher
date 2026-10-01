@@ -10,22 +10,32 @@ import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { runTextPipeline } from '../src/content/pipeline.ts';
 import type { HistoryEntry } from '../src/content/duplicate-checker.ts';
-import { escapeHtml } from '../src/content/html-builder.ts';
+import { escapeHtml, type MediaSlots } from '../src/content/html-builder.ts';
+import { LocalPreviewHost } from '../src/media/media-host.ts';
+import { buildMedia } from '../src/media/media-pipeline.ts';
 import type { ArticleDraft } from '../src/types/draft.ts';
 
 const args = process.argv.slice(2);
 const draftPath = args.find((a) => !a.startsWith('--'));
 if (!draftPath) {
-  console.error('사용법: npm run preview -- <draft.json> [--stage=text|full] [--history=data/history.json]');
+  console.error('사용법: npm run preview -- <draft.json> [--media] [--stage=text|full] [--history=data/history.json]');
   process.exit(2);
 }
-const stage = (args.find((a) => a.startsWith('--stage='))?.split('=')[1] ?? 'text') as 'text' | 'full';
+const withMedia = args.includes('--media');
+const stage = (args.find((a) => a.startsWith('--stage='))?.split('=')[1] ?? (withMedia ? 'full' : 'text')) as 'text' | 'full';
 const historyPath = args.find((a) => a.startsWith('--history='))?.split('=')[1] ?? 'data/history.json';
 
 const draft = JSON.parse(readFileSync(resolve(draftPath), 'utf8')) as ArticleDraft;
 const history: HistoryEntry[] = existsSync(historyPath) ? JSON.parse(readFileSync(historyPath, 'utf8')) : [];
-const r = runTextPipeline(draft, { history, stage });
 const outDir = dirname(resolve(draftPath));
+let media: MediaSlots | undefined;
+let mediaErrors: string[] = [];
+if (withMedia) {
+  const built = await buildMedia(draft, { outDir, host: new LocalPreviewHost(outDir) });
+  media = built.slots;
+  mediaErrors = built.manifest.errors;
+}
+const r = runTextPipeline(draft, { history, stage, media });
 
 writeFileSync(join(outDir, 'article.html'), r.content.html);
 writeFileSync(
@@ -47,6 +57,8 @@ const md = [
   `- 핵심 키워드: ${draft.primaryKeyword}`,
   `- 분량: 공백 제외 ${r.quality.stats.charsNoSpace}자 / 공백 포함 ${r.quality.stats.charsWithSpace}자`,
   `- 팩트체크: ${r.fact.status} (숫자 ${r.fact.checkedNumbers}개 대조, 주장 ${draft.claims.length}개, 출처 ${draft.sources.length}개)`,
+  ...(media ? [`- 미디어: 이미지 ${media.images.length}개${media.video ? `, 영상 ${media.video.durationSec}초 ${media.video.width}×${media.video.height}` : ', 영상 없음'}`] : []),
+  ...(mediaErrors.length ? ['', '## 미디어 오류', ...mediaErrors.map((e) => `- ${e}`)] : []),
   '',
   '## 품질검사',
   ...r.quality.items.map((i) => `- ${line(i.passed, i.detail?.startsWith('PENDING'))} ${i.label}${i.detail ? ` — ${i.detail}` : ''}${i.critical ? '' : ' (권장)'}`),

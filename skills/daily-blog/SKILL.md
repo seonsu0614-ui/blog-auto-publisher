@@ -44,15 +44,23 @@ description: 생활경제 브리핑(Blogger) 매일 글 1편을 트렌드 조사
 - 제목 15~60자, 핵심 키워드 포함, 낚시 금지. 메타 설명 50~160자.
 - 핵심 키워드 본문 2~12회, H2 3개 이상, FAQ 2~4개, 태그 3~15개.
 
+## 5-1. 미디어 사양 (prompts/image.md, prompts/video.md)
+- draft.json의 `media`에 이미지 5~8개(`cover`·`stats`·`table`·`checklist`·`timeline`·`flow`)와 영상 장면 4~6개를 적는다.
+- 각 image의 `slot`은 본문 `{"type":"image","slot":N}`과 같아야 한다. 표지(cover)는 본문 첫 이미지로 둔다(Blogger 썸네일).
+- 이미지·영상 안의 숫자도 `{C번호}`로 근거를 연결한다. 근거 없는 숫자는 팩트체크 FAIL.
+- Alt는 이미지가 실제로 보여주는 내용. 핵심 키워드를 반복해 넣지 않는다.
+
 ## 6. 검사
 ```bash
-npm run preview -- data/articles/YYYY/MM/<contentId>/draft.json --stage=text
+npm run preview -- data/articles/YYYY/MM/<contentId>/draft.json --media
 ```
 - 결과 `report.md`의 결정:
   - `TEXT_READY` / `PUBLISHABLE` → 다음 단계(미디어/발행)
   - `REVIEW_REQUIRED` → 발행 중단, 사유를 알림에 포함
   - `BLOCKED` → 사유를 고쳐 **최대 3회** 재작성·재검사. 3회 실패 시 중단하고 실패 기록.
 - 검사 결과를 고치려고 근거 없는 Claim을 추가하거나 verified를 임의로 true로 바꾸지 않는다.
+
+- 생성된 이미지는 Read로 직접 열어 텍스트 겹침·잘림·영역 밖 배치가 없는지 확인한다. 문제가 있으면 문장을 줄여 다시 생성.
 
 ## 7. 기록
 - 결과(결정, 제목, 키워드, 출처 수, 글자 수, 소요 시간, 오류)를 실행 로그에 남긴다.

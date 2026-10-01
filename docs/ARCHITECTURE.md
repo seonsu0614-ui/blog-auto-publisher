@@ -79,3 +79,20 @@ decision: PUBLISHABLE | TEXT_READY | REVIEW_REQUIRED | BLOCKED
 
 - 본문 H1 미사용: Blogger 테마가 게시물 제목을 H1으로 출력하므로 본문 H1은 중복이 된다. 요청서의 `<h1>`은 게시물 제목으로 충족.
 - 글자 수는 공백 제외 기준(최소 1,500자, 권장 2,000~3,000자).
+
+## 8. 미디어 파이프라인 (Phase 3)
+
+```text
+draft.media (ImageSpec[], VideoSpec)  ← 문장 속 숫자도 팩트체크 대상
+   ├─ infographic.ts   SVG 직접 제작 (cover·stats·table·checklist·timeline·flow, 1200×675 → 1600×900 JPG)
+   ├─ image-processor  리사이즈·mozjpeg 최적화(≤300KB)·SEO 파일명
+   ├─ pexels-provider  (선택) 공식 API + 라이선스 확인된 것만, 네트워크 열린 환경에서만
+   ├─ video-generator  장면 PNG → ffmpeg xfade → 1080×1920 H.264 MP4, ffprobe로 형식·길이 검증
+   └─ media-host       LocalPreviewHost(미리보기) | GitHubCdnHost(공개 저장소 + jsDelivr 커밋 고정 URL)
+        ↓
+media/manifest.json   출처·라이선스·작성일·Alt·크기·용량 기록
+```
+
+- 기본은 직접 제작: 외부 소재가 없어 저작권 위험이 없고, 숫자가 검증값과 일치한다.
+- 클라우드 작업 공간에서는 스톡 이미지 API가 차단되어 있어(BLOCKED) 인포그래픽만 사용한다.
+- 영상은 무음. 음원·외부 영상 미사용.
