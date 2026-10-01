@@ -211,6 +211,23 @@ describe('발행 검증', () => {
     const v = await publisher.verify('https://example.blogspot.com/x.html', { title: '제목', imageUrls: ['https://cdn.example.com/i1.jpg'] });
     assert.equal(v.success, false);
   });
+  it('공개 페이지가 429여도 API로 LIVE·본문이 확인되면 통과', async () => {
+    const { fake, publisher } = setup();
+    const c = content();
+    const p = await publisher.publish(c);
+    fake.publicPages.set(new URL(p.url!).pathname, { status: 429, html: 'Too Many Requests' });
+    const v = await publisher.verify(p.url!, { postId: p.postId, title: c.title, imageUrls: c.images.map((i) => i.publicUrl!) });
+    assert.ok(v.success, v.error);
+    assert.ok(v.checks.some((x) => x.id === 'public_page' && /429/.test(x.detail ?? '')));
+  });
+  it('공개 페이지가 429이고 API 확인도 실패하면 검증 실패', async () => {
+    const { fake, publisher } = setup();
+    const c = content();
+    const p = await publisher.publish(c);
+    fake.publicPages.set(new URL(p.url!).pathname, { status: 429, html: 'x' });
+    const v = await publisher.verify(p.url!, { postId: p.postId, title: '다른 제목' });
+    assert.equal(v.success, false);
+  });
   it('404면 검증 실패', async () => {
     const { publisher } = setup();
     const v = await publisher.verify('https://example.blogspot.com/none.html', {});

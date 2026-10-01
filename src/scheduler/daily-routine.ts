@@ -134,8 +134,9 @@ export async function runDailyRoutine(draftPath: string, mode: 'preview' | 'publ
         const v = await deps.publisher!.verify(
           pub.url,
           pub.duplicatePrevented
-            ? { title: content.title }
+            ? { title: content.title, postId: pub.postId }
             : {
+                postId: pub.postId,
                 title: content.title,
                 imageUrls: content.images.map((i) => i.publicUrl!).filter(Boolean),
                 videoUrl: content.video?.publicUrl,

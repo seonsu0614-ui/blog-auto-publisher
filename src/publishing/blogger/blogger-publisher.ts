@@ -212,7 +212,45 @@ export class BloggerPublisher implements BlogPublisher {
     }
   }
 
-  verify(url: string, expect?: VerifyExpectations): Promise<VerificationResult> {
-    return verifyPublishedPage(url, expect, this.o.fetchFn ?? fetch, this.o.verifyRetry);
+  /**
+   * 2단계 검증
+   * 1) Blogger API로 글 상태 확인 (LIVE, URL 일치, 본문에 제목·이미지·영상·출처 포함) — 기준 검증
+   * 2) 공개 페이지 재접속 — Blogspot이 데이터센터 IP에 429(요청 과다)를 자주 돌려주므로,
+   *    429/403이면 1단계가 통과한 경우에 한해 '공개 페이지 접근 제한'으로 기록하고 통과 처리
+   */
+  async verify(url: string, expect: VerifyExpectations = {}): Promise<VerificationResult> {
+    const checks: VerificationResult['checks'] = [];
+    let apiOk = false;
+    if (expect.postId) {
+      try {
+        const post = await this.o.api.getPost(this.o.blogId, expect.postId);
+        const body = (post.content ?? '').replace(/&amp;/g, '&');
+        checks.push({ id: 'api_status', passed: post.status === 'LIVE', detail: post.status });
+        checks.push({ id: 'api_url', passed: !post.url || post.url === url, detail: post.url });
+        if (expect.title) checks.push({ id: 'api_title', passed: post.title === expect.title, detail: post.title });
+        for (const [i, img] of (expect.imageUrls ?? []).entries()) checks.push({ id: `api_image_${i + 1}`, passed: body.includes(img), detail: img });
+        if (expect.videoUrl) checks.push({ id: 'api_video', passed: body.includes(expect.videoUrl), detail: expect.videoUrl });
+        for (const [i, src] of (expect.sourceUrls ?? []).entries()) checks.push({ id: `api_source_${i + 1}`, passed: body.includes(src), detail: src });
+        apiOk = checks.every((c) => c.passed);
+      } catch (e) {
+        checks.push({ id: 'api_status', passed: false, detail: (e as Error).message });
+      }
+    }
+
+    const page = await verifyPublishedPage(url, expect, this.o.fetchFn ?? fetch, this.o.verifyRetry);
+    const blocked = !page.success && (page.httpStatus === 429 || page.httpStatus === 403);
+    if (blocked && apiOk) {
+      checks.push({ id: 'public_page', passed: true, detail: `HTTP ${page.httpStatus}: 공개 페이지 접근 제한 → Blogger API 확인으로 대체` });
+    } else {
+      checks.push(...page.checks.map((c) => ({ ...c, id: `page_${c.id}` })));
+    }
+    const success = checks.every((c) => c.passed);
+    return {
+      success,
+      url,
+      httpStatus: page.httpStatus,
+      checks,
+      error: success ? undefined : '검증 실패 항목: ' + checks.filter((c) => !c.passed).map((c) => c.id).join(', '),
+    };
   }
 }

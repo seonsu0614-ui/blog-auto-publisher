@@ -61,6 +61,8 @@ export interface VerifyExpectations {
   mustContainText?: string[];
   /** 본문에 넣은 중복방지 마커 해시 */
   markerHash?: string;
+  /** 플랫폼 API로 발행 상태를 직접 확인할 때 사용 */
+  postId?: string;
 }
 
 export interface BlogPublisher {
