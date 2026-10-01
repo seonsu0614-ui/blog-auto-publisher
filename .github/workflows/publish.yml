@@ -1,0 +1,76 @@
+name: publish
+
+# 원고(draft.json)가 push되거나 수동 실행하면: 미디어 생성 → 검사 → Blogger 발행 → 검증 → 로그·이력 커밋
+on:
+  push:
+    branches: [main]
+    paths: ['data/articles/**/draft.json']
+  workflow_dispatch:
+    inputs:
+      draft:
+        description: '발행할 draft.json 경로 (비우면 최근 변경된 원고)'
+        required: false
+      mode:
+        description: 'preview 또는 publish'
+        default: 'publish'
+        required: true
+
+permissions:
+  contents: write # 미디어·로그·이력을 같은 저장소에 커밋 (GITHUB_TOKEN 사용, 별도 토큰 불필요)
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: 영상·한글 글꼴 설치
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-cjk
+
+      - run: npm ci
+
+      - name: 테스트
+        run: npm test
+
+      - name: 대상 원고 찾기
+        id: target
+        run: |
+          if [ -n "${{ github.event.inputs.draft }}" ]; then
+            echo "draft=${{ github.event.inputs.draft }}" >> "$GITHUB_OUTPUT"
+          else
+            f=$(git diff --name-only HEAD~1 HEAD -- 'data/articles/**/draft.json' | tail -1)
+            [ -z "$f" ] && f=$(ls -t data/articles/*/*/*/draft.json | head -1)
+            echo "draft=$f" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 실행
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+          BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
+          GITHUB_MEDIA_REPO: ${{ github.repository }}
+          GITHUB_MEDIA_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_MEDIA_BRANCH: main
+          REQUIRE_VIDEO: 'true'
+        run: npm run daily-blog -- "${{ steps.target.outputs.draft }}" --${{ github.event.inputs.mode || 'publish' }}
+
+      - name: 로그·이력 저장
+        if: always()
+        run: |
+          git config user.name "blog-bot"
+          git config user.email "blog-bot@users.noreply.github.com"
+          git add data/logs data/history.json data/ledger 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "log: ${{ steps.target.outputs.draft }}" && git pull --rebase && git push)
