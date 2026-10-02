@@ -1,0 +1,7 @@
+{
+  "_설명": "무료 범위 유지를 위한 상한. 숫자만 바꾸면 다음 실행부터 적용됩니다.",
+  "maxPostsPerDay": 1,
+  "maxPostsPerMonth": 31,
+  "videoCrf": 28,
+  "maxMediaMBPerPost": 1.5
+}

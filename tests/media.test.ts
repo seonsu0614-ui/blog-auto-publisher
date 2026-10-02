@@ -7,7 +7,7 @@ import sharp from 'sharp';
 import { generateInfographics, GENERATED_LICENSE } from '../src/media/image-engine.ts';
 import { seoFileName } from '../src/media/image-processor.ts';
 import { renderInfographicSvg } from '../src/media/infographic.ts';
-import { GitHubCdnHost, LocalPreviewHost } from '../src/media/media-host.ts';
+import { GitHubCdnHost, LocalPreviewHost, monthlyBranch } from '../src/media/media-host.ts';
 import { clean, wrap } from '../src/media/svg-kit.ts';
 import { plannedDuration, sceneSvg } from '../src/media/video-generator.ts';
 import { runFactCheck } from '../src/research/fact-checker.ts';
@@ -83,22 +83,55 @@ describe('호스팅', () => {
     const calls: string[] = [];
     const fetchFn = async (url: string, init?: RequestInit) => {
       calls.push(`${init?.method ?? 'GET'} ${url}`);
+      if (url.includes('/git/ref/')) return new Response('{}', { status: 200 });
       if ((init?.method ?? 'GET') === 'GET') return new Response('{"message":"Not Found"}', { status: 404 });
       return new Response(JSON.stringify({ commit: { sha: 'abc123' } }), { status: 201 });
     };
-    const host = new GitHubCdnHost({ repo: 'me/blog-media', token: 't', fetchFn });
+    const host = new GitHubCdnHost({ repo: 'me/blog-media', token: 't', branch: 'main', fetchFn });
     const url = await host.upload(file, 'media/2026/10/x.jpg');
     assert.equal(url, 'https://cdn.jsdelivr.net/gh/me/blog-media@abc123/media/2026/10/x.jpg');
-    assert.equal(calls.length, 2);
+    assert.equal(calls.length, 3); // 브랜치 확인 + 파일 확인 + 업로드
   });
   it('이미 있는 파일은 그 파일의 커밋으로 고정된 같은 URL을 돌려준다', async () => {
     const fetchFn = async (url: string) => {
+      if (url.includes('/git/ref/')) return new Response('{}', { status: 200 });
       if (url.includes('/contents/')) return new Response(JSON.stringify({ sha: 'blob1' }), { status: 200 });
       if (url.includes('/commits?')) return new Response(JSON.stringify([{ sha: 'def456' }]), { status: 200 });
       return new Response('{}', { status: 500 });
     };
     const host = new GitHubCdnHost({ repo: 'me/blog-media', token: 't', fetchFn });
     assert.equal(await host.upload('/nope', 'media/x.jpg'), 'https://cdn.jsdelivr.net/gh/me/blog-media@def456/media/x.jpg');
+  });
+});
+
+describe('jsDelivr 50MB 대응 (월별 미디어 브랜치)', () => {
+  it('경로에서 월별 브랜치 이름을 만든다', () => {
+    assert.equal(monthlyBranch('media/2026/10/20261002-001/a.jpg'), 'media-2026-10');
+  });
+  it('월별 브랜치가 없으면 빈 브랜치를 만들고 그 브랜치에 올린다', async () => {
+    const dir = await mkdtemp(join(tmpdir(), 'gh2-'));
+    const file = join(dir, 'x.jpg');
+    await writeFile(file, 'img');
+    const calls: string[] = [];
+    let putBody: any;
+    const fetchFn = async (url: string, init?: RequestInit) => {
+      const m = init?.method ?? 'GET';
+      calls.push(`${m} ${url.replace('https://api.github.com/repos/me/r', '')}`);
+      if (m === 'GET') return new Response('{"message":"Not Found"}', { status: 404 });
+      if (url.endsWith('/git/trees')) return new Response(JSON.stringify({ sha: 'tree1' }), { status: 201 });
+      if (url.endsWith('/git/commits')) {
+        assert.deepEqual(JSON.parse(String(init!.body)).parents, []); // 코드와 섞이지 않는 독립 브랜치
+        return new Response(JSON.stringify({ sha: 'c0' }), { status: 201 });
+      }
+      if (url.endsWith('/git/refs')) return new Response('{}', { status: 201 });
+      putBody = JSON.parse(String(init!.body));
+      return new Response(JSON.stringify({ commit: { sha: 'c1' } }), { status: 201 });
+    };
+    const host = new GitHubCdnHost({ repo: 'me/r', token: 't', branch: 'auto', fetchFn });
+    const url = await host.upload(file, 'media/2026/11/p/x.jpg');
+    assert.equal(url, 'https://cdn.jsdelivr.net/gh/me/r@c1/media/2026/11/p/x.jpg');
+    assert.equal(putBody.branch, 'media-2026-11');
+    assert.ok(calls.some((c) => c === 'POST /git/refs'));
   });
 });
 

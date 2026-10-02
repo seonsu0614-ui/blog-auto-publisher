@@ -71,7 +71,7 @@ jobs:
           BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
           GITHUB_MEDIA_REPO: ${{ github.repository }}
           GITHUB_MEDIA_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_MEDIA_BRANCH: main
+          GITHUB_MEDIA_BRANCH: auto
           REQUIRE_VIDEO: 'true'
         run: npm run daily-blog -- "${{ steps.target.outputs.draft }}" --${{ github.event.inputs.mode || 'publish' }}
 

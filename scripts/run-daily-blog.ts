@@ -15,6 +15,7 @@ import { optionalEnv, requireEnv } from '../src/config/env.ts';
 import { GitHubCdnHost, LocalPreviewHost, type MediaHost } from '../src/media/media-host.ts';
 import { createPublisher } from '../src/publishing/publisher.ts';
 import { DEFAULT_PATHS, runDailyRoutine } from '../src/scheduler/daily-routine.ts';
+import { loadLimits } from '../src/config/limits.ts';
 import { listRunLogs, type RunLog } from '../src/storage/execution-log.ts';
 import { readHistory } from '../src/storage/history.ts';
 import { dirname } from 'node:path';
@@ -42,7 +43,7 @@ function summary(l: RunLog): string {
 function mediaHostFor(mode: 'preview' | 'publish', draftPath: string): MediaHost {
   if (mode === 'preview') return new LocalPreviewHost(dirname(resolve(draftPath)));
   const e = requireEnv(['GITHUB_MEDIA_REPO', 'GITHUB_MEDIA_TOKEN']);
-  return new GitHubCdnHost({ repo: e.GITHUB_MEDIA_REPO, token: e.GITHUB_MEDIA_TOKEN, branch: optionalEnv('GITHUB_MEDIA_BRANCH') ?? 'main' });
+  return new GitHubCdnHost({ repo: e.GITHUB_MEDIA_REPO, token: e.GITHUB_MEDIA_TOKEN, branch: optionalEnv('GITHUB_MEDIA_BRANCH') ?? 'auto' });
 }
 
 async function run(draftPath: string, mode: 'preview' | 'publish') {
@@ -51,11 +52,12 @@ async function run(draftPath: string, mode: 'preview' | 'publish') {
     publisher: mode === 'publish' ? createPublisher('blogger') : undefined,
     paths: DEFAULT_PATHS,
     requireVideo: (optionalEnv('REQUIRE_VIDEO') ?? 'true') !== 'false',
+    limits: loadLimits(),
     log: (m) => console.log(m),
   });
   console.log('\n' + summary(res.log));
   console.log(`\n로그: ${res.logFile}`);
-  process.exitCode = res.log.status === 'SUCCESS' ? 0 : res.log.status === 'REVIEW_REQUIRED' ? 3 : 1;
+  process.exitCode = res.log.status === 'SUCCESS' || res.log.status === 'SKIPPED' ? 0 : res.log.status === 'REVIEW_REQUIRED' ? 3 : 1;
 }
 
 async function main() {

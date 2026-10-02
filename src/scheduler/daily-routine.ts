@@ -8,6 +8,7 @@ import type { BlogPublisher } from '../publishing/adapters/publisher-interface.t
 import { finish, markStep, newRunLog, saveRunLog, step, type RunLog } from '../storage/execution-log.ts';
 import { readHistory, upsertHistory } from '../storage/history.ts';
 import type { ArticleDraft } from '../types/draft.ts';
+import { DEFAULT_LIMITS, quotaCheck, type Limits } from '../config/limits.ts';
 
 /**
  * daily-blog 실행기: 원고(draft.json) → 팩트체크·중복 → 미디어 → 품질검사 → 발행 → 공개 URL 검증 → 로그·이력.
@@ -24,6 +25,8 @@ export interface RoutineDeps {
   publisher?: BlogPublisher; // publish 모드에서 필수
   paths: { logs: string; history: string };
   requireVideo?: boolean;
+  /** 무료 범위 유지용 상한 (config/limits.json) */
+  limits?: Limits;
   /** 공개 URL 검증 재시도 (Blogger 반영 지연 대비) */
   verifyAttempts?: number;
   verifyDelayMs?: number;
@@ -76,15 +79,37 @@ export async function runDailyRoutine(draftPath: string, mode: 'preview' | 'publ
       return { log: runLog, logFile: await saveRunLog(deps.paths.logs, runLog), pipeline };
     }
 
+    // 1-1) 발행 수 상한: 넘으면 미디어도 만들지 않고 건너뜀 (Actions 시간·저장 용량 절약)
+    const limits = deps.limits ?? DEFAULT_LIMITS;
+    if (mode === 'publish') {
+      const q = quotaCheck(history, { date: draft.date, contentId: draft.contentId, limits });
+      if (!q.ok) {
+        markStep(runLog, 'publish', 'SKIPPED', q.reason);
+        runLog.publishStatus = 'SKIPPED_QUOTA';
+        runLog.errors.push(q.reason!);
+        finish(runLog, 'SKIPPED');
+        return { log: runLog, logFile: await saveRunLog(deps.paths.logs, runLog), pipeline: pre };
+      }
+    }
+
     // 2) 미디어
     runLog.status = 'MEDIA_CREATING';
     const outDir = dirname(resolve(draftPath));
-    const built = await step(runLog, 'media', () => buildMedia(draft, { outDir, host: deps.mediaHost }), S);
+    const built = await step(runLog, 'media', () => buildMedia(draft, { outDir, host: deps.mediaHost, videoCrf: limits.videoCrf }), S);
     media = built.slots;
     runLog.imageCount = media.images.filter((i) => i.publicUrl).length;
     runLog.videoCreated = !!media.video?.publicUrl;
     if (built.manifest.errors.length) {
       runLog.steps.media!.detail = built.manifest.errors.join(' / ');
+    }
+    const mediaMB = [...media.images.map((i) => i.fileSizeBytes ?? 0), media.video?.fileSizeBytes ?? 0, 0].reduce((a, b) => a + b, 0) / 1048576;
+    if (mediaMB > limits.maxMediaMBPerPost) {
+      const msg = `미디어 용량 ${mediaMB.toFixed(2)}MB가 상한 ${limits.maxMediaMBPerPost}MB 초과 (jsDelivr 월 50MB 한도 보호)`;
+      runLog.errors.push(msg);
+      runLog.publishStatus = 'NOT_EXECUTED';
+      markStep(runLog, 'quality_check', 'FAILED', msg);
+      finish(runLog, 'FAILED');
+      return { log: runLog, logFile: await saveRunLog(deps.paths.logs, runLog), pipeline: pre, media };
     }
 
     // 3) 최종 품질검사 (미디어 포함)

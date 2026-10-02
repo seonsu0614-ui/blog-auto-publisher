@@ -25,7 +25,7 @@ export function slugOf(d: ArticleDraft): string {
   return d.slug ?? `post-${d.contentId}`;
 }
 
-export async function buildMedia(d: ArticleDraft, o: { outDir: string; host: MediaHost; remotePrefix?: string; retries?: number }): Promise<{ slots: MediaSlots; manifest: MediaManifest }> {
+export async function buildMedia(d: ArticleDraft, o: { outDir: string; host: MediaHost; remotePrefix?: string; retries?: number; videoCrf?: number }): Promise<{ slots: MediaSlots; manifest: MediaManifest }> {
   const mediaDir = join(o.outDir, 'media');
   await mkdir(mediaDir, { recursive: true });
   const slug = slugOf(d);
@@ -51,7 +51,7 @@ export async function buildMedia(d: ArticleDraft, o: { outDir: string; host: Med
 
   let video: BlogVideo | undefined;
   if (d.media?.video) {
-    video = await attempt('영상 생성', () => generateVideo(d.media!.video!, { date: d.date, slug, outDir: mediaDir }));
+    video = await attempt('영상 생성', () => generateVideo(d.media!.video!, { date: d.date, slug, outDir: mediaDir, crf: o.videoCrf }));
     if (video) {
       video.publicUrl = await attempt('영상 업로드', () => o.host.upload(video!.localPath, remote(video!.localPath)));
       if (video.posterPath) video.posterUrl = await attempt('포스터 업로드', () => o.host.upload(video!.posterPath!, remote(video!.posterPath!)));

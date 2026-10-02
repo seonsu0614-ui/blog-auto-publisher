@@ -74,7 +74,7 @@ export async function hasFfmpeg(): Promise<boolean> {
   }
 }
 
-export async function generateVideo(spec: VideoSpec, o: { date: string; slug: string; outDir: string }): Promise<BlogVideo> {
+export async function generateVideo(spec: VideoSpec, o: { date: string; slug: string; outDir: string; crf?: number }): Promise<BlogVideo> {
   if (spec.scenes.length < 2) throw new Error('영상 장면은 2개 이상 필요');
   const dur = plannedDuration(spec);
   if (dur < 10 || dur > 30) throw new Error(`영상 길이 ${dur.toFixed(1)}초: 10~30초 범위를 벗어남`);
@@ -105,7 +105,7 @@ export async function generateVideo(spec: VideoSpec, o: { date: string; slug: st
   args.push(
     '-filter_complex', filters.join(';'),
     '-map', '[vout]',
-    '-c:v', 'libx264', '-profile:v', 'high', '-preset', 'medium', '-crf', '23',
+    '-c:v', 'libx264', '-profile:v', 'high', '-preset', 'medium', '-crf', String(o.crf ?? 23),
     '-pix_fmt', 'yuv420p', '-r', '30', '-movflags', '+faststart', '-an',
     outFile,
   );

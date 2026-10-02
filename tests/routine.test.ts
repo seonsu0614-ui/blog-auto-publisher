@@ -86,6 +86,24 @@ describe('daily-blog 실행기', { timeout: 120_000 }, () => {
     assert.equal((await readHistory(s.paths.history)).length, 1);
   });
 
+  it('오늘 발행 상한(1편)에 닿으면 미디어도 만들지 않고 SKIPPED', async () => {
+    const s = await setup();
+    await writeFile(s.paths.history, JSON.stringify([{ contentId: '20261002-999', date: '2026-10-02', title: '다른 글 제목입니다', topic: '전기요금', primaryKeyword: '전기요금', url: 'https://x/1' }]));
+    const r = await runDailyRoutine(s.draftPath, 'publish', { mediaHost: s.cdn, publisher: s.publisher, paths: s.paths, sleep: noSleep, limits: { maxPostsPerDay: 1, maxPostsPerMonth: 31, videoCrf: 28, maxMediaMBPerPost: 1.5 } });
+    assert.equal(r.log.status, 'SKIPPED');
+    assert.equal(r.log.publishStatus, 'SKIPPED_QUOTA');
+    assert.equal(s.cdn.uploads.length, 0);
+    assert.equal(s.fake.posts.size, 0);
+  });
+
+  it('미디어 용량이 상한을 넘으면 발행하지 않는다', async () => {
+    const s = await setup();
+    const r = await runDailyRoutine(s.draftPath, 'publish', { mediaHost: s.cdn, publisher: s.publisher, paths: s.paths, sleep: noSleep, limits: { maxPostsPerDay: 1, maxPostsPerMonth: 31, videoCrf: 28, maxMediaMBPerPost: 0.1 } });
+    assert.equal(r.log.status, 'FAILED');
+    assert.match(r.log.errors.join(' '), /미디어 용량/);
+    assert.equal(s.fake.posts.size, 0);
+  });
+
   it('출처 충돌이 있으면 미디어·발행 없이 REVIEW_REQUIRED', async () => {
     const s = await setup({ draftPatch: (d) => { d.claims[0].conflict = true; d.claims[0].conflictDetail = 'A 3.00% / B 3.25%'; } });
     const r = await runDailyRoutine(s.draftPath, 'publish', { mediaHost: s.cdn, publisher: s.publisher, paths: s.paths, sleep: noSleep });

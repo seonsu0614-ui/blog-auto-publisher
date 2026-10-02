@@ -199,3 +199,13 @@ describe('주제 점수', () => {
     assert.equal(selected?.candidate.primaryKeyword, 'k');
   });
 });
+
+describe('발행 수 상한', () => {
+  it('같은 원고 재실행은 세지 않고, 다른 글이 오늘 있으면 막는다', async () => {
+    const { quotaCheck, DEFAULT_LIMITS } = await import('../src/config/limits.ts');
+    const h = [{ date: '2026-10-02', contentId: 'A', url: 'u' }];
+    assert.equal(quotaCheck(h, { date: '2026-10-02', contentId: 'A', limits: DEFAULT_LIMITS }).ok, true);
+    assert.equal(quotaCheck(h, { date: '2026-10-02', contentId: 'B', limits: DEFAULT_LIMITS }).ok, false);
+    assert.equal(quotaCheck(h, { date: '2026-10-03', contentId: 'B', limits: DEFAULT_LIMITS }).ok, true);
+  });
+});

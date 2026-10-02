@@ -22,3 +22,8 @@ data/images/raw/
 data/videos/raw/
 
 .DS_Store
+
+# 미디어는 Actions에서 생성해 월별 media-YYYY-MM 브랜치로 올림 (main에는 넣지 않음)
+data/articles/**/media/
+data/articles/**/*.html
+data/articles/**/report.*
