@@ -1,0 +1,16 @@
+/* Blogger 테마 맞춤설정 > 고급 > CSS 추가 에 넣은 내용 (2026-10-02) */
+body{background-color:#eef2f7;}
+.sidebar-container .section{overflow-x:hidden;}
+.sidebar-container .widget .title,.sidebar-container h3.title{color:#1e3a5f;font-weight:700;}
+.sidebar-container .widget a{color:#1e3a5f;}
+.sidebar-container .ReportAbuse a{color:#8a94a3;font-size:12px;}
+.centered-bottom .widget.FeaturedPost,.centered-bottom .post-outer-container{border-radius:14px;box-shadow:0 4px 18px rgba(30,58,95,.08);overflow:hidden;}
+.post-title,.post-title a{color:#1e3a5f;}
+.post-title a:hover{color:#2b6cb0;}
+a.jump-link,.jump-link a,.post-footer a{color:#2b6cb0;}
+.centered-top .PageList ul li a{color:#e8f0fa;font-weight:500;padding-bottom:4px;border-bottom:2px solid transparent;}
+.centered-top .PageList ul li a:hover,.centered-top .PageList ul li.selected a{color:#ffffff;border-bottom-color:#e07a2e;}
+.ContactForm .contact-form-name,.ContactForm .contact-form-email,.ContactForm .contact-form-email-message{width:100%;max-width:100%;box-sizing:border-box;border:1px solid #d5deea;border-radius:8px;padding:8px 10px;font-size:14px;background:#ffffff;}
+.ContactForm .contact-form-email-message{min-height:90px;}
+.ContactForm .contact-form-button-submit{background:#1e3a5f;border:0;border-radius:999px;color:#ffffff;padding:8px 22px;height:auto;line-height:1.4;font-size:14px;cursor:pointer;}
+.ContactForm .contact-form-button-submit:hover{background:#2b6cb0;}
