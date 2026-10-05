@@ -1,0 +1,83 @@
+{
+  "runId": "20261005T044918-publish",
+  "mode": "publish",
+  "date": "2026-10-05",
+  "draftPath": "data/articles/2026/10/20261005-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-05T04:49:18.156Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T04:49:18.156Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T04:49:18.172Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-05T04:49:18.179Z",
+      "endedAt": "2026-10-05T04:49:18.179Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T04:49:18.179Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T04:49:42.202Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-05T04:49:42.205Z",
+      "endedAt": "2026-10-05T04:49:42.205Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T04:49:42.205Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T04:49:45.194Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T04:49:45.195Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T04:49:49.412Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T04:49:49.413Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T04:49:49.422Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261005-001",
+  "topic": "10월 29일 양육비 선지급 소득기준 폐지에 따른 신청 조건과 방법",
+  "category": "정책제도",
+  "keywords": [
+    "양육비 선지급",
+    "소득기준 폐지",
+    "양육비이행관리원",
+    "한부모가족 지원",
+    "양육비 신청 조건"
+  ],
+  "title": "양육비 선지급 소득기준 폐지, 10월 29일부터 달라지는 신청 조건",
+  "sources": [
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+    "https://www.newspim.com/news/view/20260918000963",
+    "https://www.hkilbo.kr/news/articleView.html?idxno=134927",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=282413",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148940402",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=275678"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 2449,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "2848663770382544089",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/child-support-advance-payment-income.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-05T04:49:49.422Z",
+  "executionTimeMs": 31266
+}
