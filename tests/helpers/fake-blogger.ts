@@ -79,7 +79,9 @@ export class FakeBlogger {
       const post = this.posts.get(pub[1]!);
       if (!post) return json(404, { error: { code: 404 } });
       post.status = 'LIVE';
-      post.url = `https://example.blogspot.com/2026/10/post-${post.id}.html`;
+      // 실제 Blogger처럼 '처음 발행할 때의 제목'으로 주소를 만든다 (영문이 없으면 숫자형)
+      const words = post.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+      post.url ??= `https://example.blogspot.com/2026/10/${words || `post-${post.id}`}.html`;
       post.published = '2026-10-02T07:10:00+09:00';
       if (this.opts.publishSucceedsThenFails && this.opts.publishSucceedsThenFails > 0) {
         this.opts.publishSucceedsThenFails--;

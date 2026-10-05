@@ -69,6 +69,17 @@ export function buildPostBody(c: BlogContent): { html: string; hash: string } {
 
 const normTitle = (t: string) => t.replace(/\s+/g, ' ').trim().toLowerCase();
 
+/**
+ * Blogger는 글 주소(permalink)를 '처음 발행할 때의 제목'으로 만든다.
+ * 한글 제목이면 주소가 300-1.html 같은 뜻 없는 문자가 되므로,
+ * 영문 slug가 있으면 그 단어로 초안을 만들어 발행한 뒤 제목을 한글로 바꾼다. (주소는 그대로 유지됨)
+ */
+export function permalinkTitle(c: BlogContent): string | undefined {
+  const s = c.slug?.trim().toLowerCase();
+  if (!s || !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(s)) return undefined;
+  return s.split('-').slice(0, 8).join(' ');
+}
+
 export interface BloggerPublisherOptions {
   blogId: string;
   api: BloggerApi;
@@ -132,7 +143,7 @@ export class BloggerPublisher implements BlogPublisher {
       let lastErr: unknown;
       for (let attempt = 1; attempt <= this.maxAttempts; attempt++) {
         try {
-          const post = await this.o.api.insertPost(this.o.blogId, { title: c.title, content: html, labels: buildLabels(c) }, { isDraft: true });
+          const post = await this.o.api.insertPost(this.o.blogId, { title: permalinkTitle(c) ?? c.title, content: html, labels: buildLabels(c) }, { isDraft: true });
           await this.record(c, post, 'DRAFT');
           return { success: true, postId: post.id, editUrl: `https://www.blogger.com/blog/post/edit/${this.o.blogId}/${post.id}` };
         } catch (e) {
@@ -163,6 +174,7 @@ export class BloggerPublisher implements BlogPublisher {
     }
     if (existing?.status === 'LIVE') {
       this.log(`이미 발행된 글 → 중복 발행 차단: ${existing.postId}`);
+      await this.ensureTitle(c, existing.postId);
       return { success: true, postId: existing.postId, url: existing.url, duplicatePrevented: true };
     }
 
@@ -174,6 +186,7 @@ export class BloggerPublisher implements BlogPublisher {
       try {
         const post = await this.o.api.publishPost(this.o.blogId, draft.postId);
         await this.record(c, post, 'LIVE');
+        await this.ensureTitle(c, post.id, post);
         return { success: true, postId: post.id, url: post.url, publishedAt: post.published };
       } catch (e) {
         lastErr = e;
@@ -182,12 +195,32 @@ export class BloggerPublisher implements BlogPublisher {
         const post = await this.o.api.getPost(this.o.blogId, draft.postId).catch(() => undefined);
         if (post?.status === 'LIVE') {
           await this.record(c, post, 'LIVE');
+          await this.ensureTitle(c, post.id, post);
           return { success: true, postId: post.id, url: post.url, publishedAt: post.published };
         }
         if (attempt < this.maxAttempts) await this.sleep(1000 * 2 ** (attempt - 1));
       }
     }
     return { success: false, postId: draft.postId, error: String((lastErr as Error)?.message ?? lastErr) };
+  }
+
+  /**
+   * 발행 후 제목을 원래(한글) 제목으로 맞춘다. 주소는 바뀌지 않는다.
+   * 제목 수정은 몇 번 해도 결과가 같으므로(멱등) 재시도해도 중복 위험이 없다.
+   */
+  private async ensureTitle(c: BlogContent, postId: string, known?: BloggerPost): Promise<void> {
+    for (let attempt = 1; attempt <= this.maxAttempts; attempt++) {
+      try {
+        const post = known && attempt === 1 ? known : await this.o.api.getPost(this.o.blogId, postId);
+        if (post.title === c.title) return;
+        const { html } = buildPostBody(c);
+        await this.o.api.updatePost(this.o.blogId, postId, { title: c.title, content: post.content ?? html, labels: post.labels ?? buildLabels(c) });
+        return;
+      } catch (e) {
+        this.log(`제목 복원 실패 (${attempt}/${this.maxAttempts}): ${(e as Error).message}`);
+        if (attempt < this.maxAttempts) await this.sleep(1000 * 2 ** (attempt - 1));
+      }
+    }
   }
 
   async update(postId: string, c: BlogContent): Promise<UpdateResult> {

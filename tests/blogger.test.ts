@@ -160,6 +160,24 @@ describe('발행', () => {
     assert.ok(r.success, r.error);
     assert.equal(fake.calls.filter((c) => c.endsWith('/publish')).length, 1);
   });
+  it('영문 slug가 있으면 주소는 slug로, 제목은 한글로 남는다', async () => {
+    const { fake, publisher } = setup();
+    const r = await publisher.publish(content({ slug: 'base-rate-loan-interest' }));
+    assert.ok(r.success, r.error);
+    assert.match(r.url!, /\/base-rate-loan-interest\.html$/);
+    const post = fake.posts.get(r.postId!)!;
+    assert.equal(post.title, content().title);
+    assert.equal(post.url, r.url);
+    const again = await publisher.publish(content({ slug: 'base-rate-loan-interest' }));
+    assert.ok(again.duplicatePrevented);
+    assert.equal(fake.posts.size, 1);
+  });
+  it('slug가 영문 형식이 아니면 원래 제목으로 발행한다', async () => {
+    const { fake, publisher } = setup();
+    const r = await publisher.publish(content({ slug: '기준금리 대출' }));
+    assert.ok(r.success, r.error);
+    assert.equal(fake.posts.get(r.postId!)!.title, content().title);
+  });
   it('팩트체크가 PASS가 아니면 발행을 차단한다', async () => {
     const { fake, publisher } = setup();
     const r = await publisher.publish(content({ factCheck: { status: 'REVIEW_REQUIRED', claims: [] } }));

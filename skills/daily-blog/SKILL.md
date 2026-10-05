@@ -36,6 +36,7 @@ description: 생활경제 브리핑(Blogger) 매일 글 1편을 트렌드 조사
 
 ## 4. 원고 작성 (prompts/article.md, templates/article.md)
 - `ArticleDraft` JSON으로 작성 → `data/articles/YYYY/MM/<contentId>/draft.json`
+- `slug`는 반드시 영문 소문자·숫자·하이픈 3~6단어 (예: `base-rate-loan-interest`). 이 단어로 글 주소가 만들어진다(발행 후 제목은 한글로 자동 복원).
 - 공백 제외 2,000~3,000자 목표(최소 1,500자). 문단 2~4줄, 220자 넘는 문단 금지.
 - 숫자가 들어간 문장 끝에 `{C번호}`, 출처 각주가 필요한 곳에 `[S번호]`.
 - 이미지 자리 `{"type":"image","slot":N}` 5~8개, 영상 자리 `{"type":"video"}` 1개를 미리 배치(Phase 3에서 채움).
