@@ -59,5 +59,37 @@
     "wordCount": 2449,
     "imageCount": 6,
     "videoCreated": true
+  },
+  {
+    "contentId": "20261006-001",
+    "date": "2026-10-06",
+    "title": "보금자리론 신혼부부 소득기준 완화, 10월 19일부터 1명 소득으로 신청",
+    "topic": "10월 19일 보금자리론 신혼가구 소득기준 개선(부부 중 1인 연소득 7,000만 원 이하)과 신청 시 확인할 점",
+    "primaryKeyword": "보금자리론 신혼부부",
+    "secondaryKeywords": [
+      "결혼 페널티",
+      "보금자리론 소득기준",
+      "한국주택금융공사",
+      "신혼가구 주택담보대출"
+    ],
+    "category": "생활경제",
+    "searchIntent": "부부 합산 소득이 기준을 넘어 보금자리론을 못 받던 신혼부부가 10월 19일부터 신청할 수 있는지, 조건과 주의점을 알고 싶음",
+    "tags": [
+      "생활경제",
+      "보금자리론",
+      "보금자리론 신혼부부",
+      "신혼부부 대출",
+      "결혼 페널티",
+      "한국주택금융공사",
+      "주택담보대출",
+      "정책대출",
+      "10월 달라지는 제도"
+    ],
+    "url": "https://lifeeconomy-briefing.blogspot.com/2026/10/bogeumjari-loan-newlywed-income-rule.html",
+    "postId": "3365550650368534992",
+    "publishedAt": "2026-10-06T06:34:56+09:00",
+    "wordCount": 2851,
+    "imageCount": 6,
+    "videoCreated": true
   }
 ]

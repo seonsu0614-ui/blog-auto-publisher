@@ -1,0 +1,83 @@
+{
+  "runId": "20261005T213427-publish",
+  "mode": "publish",
+  "date": "2026-10-06",
+  "draftPath": "data/articles/2026/10/20261006-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-05T21:34:27.266Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T21:34:27.266Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T21:34:27.282Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-05T21:34:27.292Z",
+      "endedAt": "2026-10-05T21:34:27.292Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T21:34:27.292Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T21:34:53.759Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-05T21:34:53.764Z",
+      "endedAt": "2026-10-05T21:34:53.764Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T21:34:53.764Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T21:34:57.807Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T21:34:57.808Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T21:34:58.399Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-05T21:34:58.399Z",
+      "attempts": 1,
+      "endedAt": "2026-10-05T21:34:58.408Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261006-001",
+  "topic": "10월 19일 보금자리론 신혼가구 소득기준 개선(부부 중 1인 연소득 7,000만 원 이하)과 신청 시 확인할 점",
+  "category": "생활경제",
+  "keywords": [
+    "보금자리론 신혼부부",
+    "결혼 페널티",
+    "보금자리론 소득기준",
+    "한국주택금융공사",
+    "신혼가구 주택담보대출"
+  ],
+  "title": "보금자리론 신혼부부 소득기준 완화, 10월 19일부터 1명 소득으로 신청",
+  "sources": [
+    "https://www.fsc.go.kr/no040101?cnId=3374",
+    "https://www.korea.kr/multi/visualNewsView.do?newsId=148970056",
+    "https://www.dt.co.kr/article/12086223",
+    "https://www.dailian.co.kr/news/view/1695199",
+    "https://nwww.newsis.com/view/NISX20260813_0003746944",
+    "https://www.wikitree.co.kr/articles/1162781"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 2851,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "3365550650368534992",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/bogeumjari-loan-newlywed-income-rule.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-05T21:34:58.408Z",
+  "executionTimeMs": 31142
+}
