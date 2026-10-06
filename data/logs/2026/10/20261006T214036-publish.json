@@ -1,0 +1,83 @@
+{
+  "runId": "20261006T214036-publish",
+  "mode": "publish",
+  "date": "2026-10-07",
+  "draftPath": "data/articles/2026/10/20261007-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-06T21:40:36.664Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-06T21:40:36.665Z",
+      "attempts": 1,
+      "endedAt": "2026-10-06T21:40:36.678Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-06T21:40:36.685Z",
+      "endedAt": "2026-10-06T21:40:36.685Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-06T21:40:36.685Z",
+      "attempts": 1,
+      "endedAt": "2026-10-06T21:40:57.168Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-06T21:40:57.170Z",
+      "endedAt": "2026-10-06T21:40:57.170Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-06T21:40:57.170Z",
+      "attempts": 1,
+      "endedAt": "2026-10-06T21:41:00.478Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-06T21:41:00.479Z",
+      "attempts": 1,
+      "endedAt": "2026-10-06T21:41:00.827Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-06T21:41:00.828Z",
+      "attempts": 1,
+      "endedAt": "2026-10-06T21:41:00.833Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261007-001",
+  "topic": "10월 1일 시행된 이동통신 최적요금제 고지 의무(통신 3사, 6개월마다 이용량 분석 후 요금제 추천)와 안내를 받았을 때 확인할 점",
+  "category": "생활경제",
+  "keywords": [
+    "최적요금제 고지",
+    "최적요금제",
+    "통신비 절감",
+    "전기통신사업법",
+    "요금제 변경 위약금"
+  ],
+  "title": "최적요금제 고지 10월 시행, 통신 3사 6개월마다 맞춤 요금제 안내",
+  "sources": [
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260930010010731",
+    "https://www.imaeil.com/page/view/2026100307154356508",
+    "https://m.ddaily.co.kr/page/view/2026080914575973712",
+    "https://www.fnnews.com/news/202603241905387218",
+    "https://biz.heraldcorp.com/article/10885781"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 2741,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "4369658820474819368",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/mobile-optimal-plan-notice.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-06T21:41:00.834Z",
+  "executionTimeMs": 24170
+}
