@@ -1,0 +1,481 @@
+{
+  "contentId": "20261009-001",
+  "date": "2026-10-09",
+  "topic": "10월 8일 시행된 임금체불 법정형 상향(징역 5년·벌금 5천만 원)과 월급을 못 받았을 때 근로자가 확인할 신고·지원 절차",
+  "category": "생활경제",
+  "searchIntent": "임금체불 처벌이 얼마나 세졌는지, 월급이 밀렸을 때 어디에 어떻게 신고하고 무엇을 받을 수 있는지 알고 싶음",
+  "differentiation": "최근 14일 글(기준금리, 양육비 선지급, 보금자리론, 최적요금제)과 키워드가 겹치지 않는 임금·노동 '내 돈' 주제",
+  "title": "임금체불 처벌 10월 8일부터 징역 5년, 월급 밀리면 어디에 신고할까?",
+  "seoTitle": "임금체불 처벌 강화 시행: 징역 5년·벌금 5천만 원과 신고 방법",
+  "metaDescription": "10월 8일부터 임금체불 법정형이 징역 5년·벌금 5천만 원 이하로 올랐습니다. 무엇이 바뀌었는지, 월급을 못 받았을 때 신고하는 방법과 확인할 점을 2026년 10월 9일 기준으로 정리했습니다.",
+  "slug": "wage-arrears-penalty-report-guide",
+  "primaryKeyword": "임금체불 처벌",
+  "secondaryKeywords": [
+    "임금체불 신고",
+    "근로기준법 개정",
+    "도산대지급금",
+    "상습체불"
+  ],
+  "relatedKeywords": [
+    "체불임금 진정",
+    "퇴직금 체불",
+    "징벌적 손해배상",
+    "고용노동부 1350"
+  ],
+  "tags": [
+    "생활경제",
+    "정책제도",
+    "임금체불",
+    "임금체불 처벌",
+    "임금체불 신고",
+    "근로기준법",
+    "대지급금",
+    "퇴직금 체불",
+    "10월 달라지는 제도"
+  ],
+  "hook": [
+    "월급날이 지났는데 회사가 '다음 달에 한꺼번에 주겠다'는 말만 반복한다면, 이제 법이 정한 처벌 수위부터 달라졌습니다.",
+    "2026년 10월 8일부터 임금을 주지 않은 사업주의 법정형 상한이 징역 5년, 벌금 5천만 원으로 올랐습니다.{C1}{C3}",
+    "무엇이 바뀌었는지, 그리고 월급이 밀렸을 때 근로자가 어디에 어떻게 신고하고 무엇을 확인해야 하는지 순서대로 정리했습니다."
+  ],
+  "summary": [
+    "개정 근로기준법에 따라 임금체불 벌칙이 2026년 10월 8일부터 상향됐습니다.{C1}[S2][S4]",
+    "법정형은 3년 이하 징역 또는 3천만 원 이하 벌금에서 5년 이하 징역 또는 5천만 원 이하 벌금으로 바뀌었습니다.{C2}{C3}[S4]",
+    "퇴직금 체불도 같은 수준으로 9월부터 먼저 상향됐습니다.{C4}[S3][S4]",
+    "월급을 못 받았다면 고용노동부 1350 상담이나 온라인 진정으로 신고할 수 있습니다.{C10}[S1]",
+    "법정형은 처벌의 상한이며, 실제 선고 수준은 양형기준에 따라 달라질 수 있습니다. (2026년 10월 9일 기준){C12}"
+  ],
+  "sections": [
+    {
+      "heading": "임금체불 처벌, 무엇이 바뀌었나",
+      "level": 2,
+      "blocks": [
+        { "type": "image", "slot": 1 },
+        { "type": "video" },
+        {
+          "type": "p",
+          "text": "이번 변화의 핵심은 임금을 주지 않은 사업주에게 법원이 선고할 수 있는 형벌의 상한이 높아졌다는 점입니다. 근거는 개정 근로기준법이며, 2026년 10월 8일 시행됐습니다.{C1}[S4]"
+        },
+        {
+          "type": "p",
+          "text": "정부는 상반기에 발간한 '하반기부터 이렇게 달라집니다' 자료에서 이 내용을 안내했고, 여러 언론이 같은 수치로 보도했습니다.[S2][S5] 퇴직금을 주지 않은 경우도 근로자퇴직급여 보장법 개정으로 같은 수준의 처벌이 적용됩니다.{C4}[S3][S4]"
+        },
+        {
+          "type": "p",
+          "text": "법정형(법률이 정한 형벌의 범위)이 오른 것은 체불을 '나중에 갚으면 되는 빚'이 아니라 무거운 범죄로 다루겠다는 방향을 보여 줍니다. 다만 사업주가 실제로 받는 형량은 사건마다 다릅니다."
+        },
+        { "type": "image", "slot": 2 }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 이전과 이후 비교",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "임금체불 벌칙 비교 (2026년 10월 9일 확인 기준){C12}",
+          "headers": ["구분", "이전", "2026년 10월 8일 이후"],
+          "rows": [
+            ["징역 상한", "3년 이하{C2}", "5년 이하{C3}"],
+            ["벌금 상한", "3천만 원 이하{C2}", "5천만 원 이하{C3}"],
+            ["퇴직금 체불", "3년·3천만 원{C2}", "5년·5천만 원(9월부터){C4}"]
+          ],
+          "note": "출처: 법률신문, 머니투데이, 뉴스1, 뉴스핌 보도. 법령 원문은 국가법령정보센터에서 최종 확인"
+        },
+        {
+          "type": "callout",
+          "text": "**계산으로 보면**: 벌금 상한은 3천만 원에서 5천만 원으로 2천만 원 높아졌고,{C5} 징역 상한은 3년에서 5년으로 2년 늘었습니다.{C6} 이는 법이 허용하는 최대치이며 실제 선고액이 아닙니다."
+        },
+        {
+          "type": "p",
+          "text": "체불 규모가 커진 것이 배경으로 꼽힙니다. 연간 임금체불액은 2024년에 2조 원을 넘었습니다.{C7}[S1][S3] 고용노동부는 체불액이 클수록 무겁게 처벌하도록 7월에 대법원 양형위원회에 양형기준 강화를 요청했습니다.{C11}[S3][S7]"
+        },
+        { "type": "image", "slot": 3 }
+      ]
+    },
+    {
+      "heading": "이미 시행 중인 상습체불 제재도 함께 알아 두기",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "법정형 상향과 별개로, 2025년 10월 23일부터는 이른바 상습체불근절법이 시행되고 있습니다.{C8}[S1][S6] 상습체불 사업주는 1년 동안 근로자 1명당 3개월분 이상의 임금을 체불했거나, 5회 이상에 걸쳐 합계 3천만 원 이상을 체불한 경우를 말합니다.{C9}[S1][S2]"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "**신용 제재**: 체불 정보가 신용정보기관에 제공돼 대출·카드 발급 등에 제한이 생길 수 있습니다.[S1][S6]",
+            "**정부 지원 제한**: 정부 보조금·지원사업 참여와 공공 입찰에서 불이익을 받습니다.[S1][S6]",
+            "**반의사불벌 적용 배제**: 명단이 공개된 사업주가 다시 체불하면, 피해 근로자가 처벌을 원하지 않아도 처벌될 수 있습니다.[S1][S7]",
+            "**손해배상**: 요건을 갖추면 근로자는 체불액의 3배 이내에서 손해배상을 청구할 수 있습니다.{C13}[S1][S7]"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "반의사불벌(피해자가 처벌을 원하지 않으면 처벌할 수 없는 규정)은 원래 임금체불에 적용돼 왔습니다. 그래서 사업주가 합의만 하면 형사처벌을 피하는 경우가 많았는데, 상습 사업주에게는 이 길이 좁아졌습니다.[S7]"
+        },
+        { "type": "image", "slot": 4 }
+      ]
+    },
+    {
+      "heading": "월급을 못 받았을 때 신고 순서",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "처벌이 세졌다고 밀린 임금이 저절로 들어오는 것은 아닙니다. 근로자가 직접 신고 절차를 밟아야 체불 사실이 확인되고 지원 제도로 이어집니다."
+        },
+        {
+          "type": "ol",
+          "items": [
+            "**증거 모으기**: 근로계약서, 급여명세서, 통장 입금 내역, 출퇴근 기록, 회사와 주고받은 메시지를 보관합니다.",
+            "**상담하기**: 고용노동부 대표전화 1350이나 관할 지방고용노동관서 민원실에서 상담할 수 있습니다.{C10}[S1]",
+            "**진정 제기**: 고용노동부 누리집이나 노동포털에서 온라인으로 진정서를 낼 수 있습니다.[S1]",
+            "**체불 확인 후 지원 검토**: 근로감독관 조사로 체불이 확인되면 대지급금 등 지원 제도를 이용할 수 있는지 확인합니다."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "대지급금은 사업주 대신 국가가 일정 범위의 체불임금을 먼저 지급하는 제도입니다. 회사가 도산한 경우 받는 도산대지급금은 2026년 8월 20일부터 최종 3개월분에서 최종 6개월분으로 지급 범위가 넓어졌습니다.{C14}[S2][S5]"
+        },
+        { "type": "image", "slot": 5 }
+      ]
+    },
+    {
+      "heading": "주의해야 할 부분",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "법정형은 상한입니다. 실제 선고는 양형기준과 사건 내용에 따라 정해지며, 양형기준이 오랫동안 크게 바뀌지 않아 체감 효과가 바로 나타나지 않을 수 있다는 지적도 있습니다.[S7]",
+            "시행일 전에 발생한 체불에 새 법정형이 적용되는지는 이번에 공식 안내로 확인하지 못했습니다. 개별 사건은 관할 지방고용노동관서에 문의하는 것이 정확합니다.",
+            "대지급금은 지급 요건과 상한액이 정해져 있습니다. 내가 대상인지, 얼마까지 받을 수 있는지는 근로복지공단과 노동관서 안내로 확인해야 합니다.",
+            "임금채권은 시간이 지나면 청구하기 어려워질 수 있으니, 체불을 알았다면 미루지 말고 상담부터 받는 것이 좋습니다."
+          ]
+        },
+        { "type": "image", "slot": 6 }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "임금체불 처벌은 언제부터 세졌나요?",
+      "answer": "개정 근로기준법에 따라 2026년 10월 8일부터 임금체불 법정형이 5년 이하 징역 또는 5천만 원 이하 벌금으로 올랐습니다.{C1}{C3} 퇴직금 체불은 이보다 앞선 9월부터 같은 수준이 적용됐습니다.{C4}"
+    },
+    {
+      "question": "월급이 밀리면 어디에 신고하나요?",
+      "answer": "고용노동부 대표전화 1350이나 관할 지방고용노동관서 민원실에서 상담·신고할 수 있습니다.{C10} 고용노동부 누리집이나 노동포털에서 온라인 진정서도 낼 수 있습니다.[S1]"
+    },
+    {
+      "question": "사업주와 합의하면 처벌을 받지 않나요?",
+      "answer": "일반적인 임금체불은 근로자가 처벌을 원하지 않으면 처벌하지 않는 반의사불벌 규정이 적용됩니다. 다만 명단이 공개된 상습 체불 사업주가 다시 체불하면 합의와 관계없이 처벌될 수 있습니다.[S1][S7]"
+    }
+  ],
+  "closing": [
+    "2026년 10월 8일부터 임금체불 법정형 상한이 징역 5년, 벌금 5천만 원으로 올랐습니다.{C1}{C3}",
+    "퇴직금 체불도 9월부터 같은 수준으로 처벌합니다.{C4}",
+    "월급이 밀리면 증거를 모아 1350 상담이나 온라인 진정으로 신고하세요.{C10}",
+    "회사가 도산했다면 도산대지급금 지급 범위가 최종 6개월분으로 넓어졌는지 함께 확인하세요.{C14}"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "임금체불 강제수사 34%↑···악덕 사업주 응징한다",
+      "url": "https://m.ktv.go.kr/content/view?content_id=728885",
+      "publisher": "KTV 국민방송",
+      "tier": 1,
+      "accessedAt": "2026-10-09",
+      "referenceDate": "2025-05-29"
+    },
+    {
+      "id": "S2",
+      "title": "임금체불 사업주 처벌 '징역 5년·벌금 5천만원' 상향",
+      "url": "https://www.mt.co.kr/economy/2026/06/30/2026063010072821787",
+      "publisher": "머니투데이",
+      "tier": 2,
+      "accessedAt": "2026-10-09",
+      "referenceDate": "2026-06-30"
+    },
+    {
+      "id": "S3",
+      "title": "추석 전 임금 체불 105억, 2년 연속 2조원…내달부터 처벌 수위 더 높아진다",
+      "url": "https://www.news1.kr/economy/employment-labor/6300736",
+      "publisher": "뉴스1",
+      "tier": 2,
+      "accessedAt": "2026-10-09",
+      "referenceDate": "2026-09-24"
+    },
+    {
+      "id": "S4",
+      "title": "2026년 하반기 인사·노무 관련 법령 주요 개정 사항",
+      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226934",
+      "publisher": "법률신문",
+      "tier": 2,
+      "accessedAt": "2026-10-09",
+      "referenceDate": "2026-09-28"
+    },
+    {
+      "id": "S5",
+      "title": "[하반기 달라지는 것] 회사 도산해도 반년치 밀린 월급 지원",
+      "url": "https://www.newspim.com/news/view/20260629001441",
+      "publisher": "뉴스핌",
+      "tier": 2,
+      "accessedAt": "2026-10-09",
+      "referenceDate": "2026-06-30"
+    },
+    {
+      "id": "S6",
+      "title": "올해 임금체불 총액 1조 원···지자체와 함께 임금체불 예방한다",
+      "url": "https://m.ktv.go.kr/news/sphere/T000021/view?content_id=737444",
+      "publisher": "KTV 국민방송",
+      "tier": 1,
+      "accessedAt": "2026-10-09",
+      "referenceDate": "2025-09-16"
+    },
+    {
+      "id": "S7",
+      "title": "[경남시론] 임금체불 처벌 강화, 근로자와 사업주 모두 대비해야",
+      "url": "https://v.daum.net/v/20261005191644411",
+      "publisher": "경남신문",
+      "tier": 2,
+      "accessedAt": "2026-10-09",
+      "referenceDate": "2026-10-05"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "개정 근로기준법 임금체불 벌칙 상향 시행일 2026년 10월 8일",
+      "value": "10월 8일",
+      "referenceDate": "2026-10-08",
+      "sourceIds": ["S2", "S3", "S4", "S5", "S7"],
+      "verified": true,
+      "conflict": false,
+      "condition": "근로기준법 제107조(법률신문·경남신문 기준). 법령 원문(law.go.kr)은 이번 실행에서 직접 열람하지 못함"
+    },
+    {
+      "id": "C2",
+      "claim": "개정 전 임금·퇴직금 체불 법정형 3년 이하 징역 또는 3천만 원 이하 벌금",
+      "value": "3년, 3천만 원",
+      "referenceDate": "2026-10-07",
+      "sourceIds": ["S2", "S3", "S4", "S5", "S7"],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C3",
+      "claim": "개정 후 임금체불 법정형 5년 이하 징역 또는 5천만 원 이하 벌금",
+      "value": "5년, 5천만 원",
+      "referenceDate": "2026-10-08",
+      "sourceIds": ["S2", "S3", "S4", "S5", "S7"],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C4",
+      "claim": "퇴직급여 체불 법정형도 5년 이하 징역 또는 5천만 원 이하 벌금으로 2026년 9월부터 상향",
+      "value": "9월, 5년, 5천만 원",
+      "referenceDate": "2026-09-18",
+      "sourceIds": ["S2", "S3", "S4", "S5", "S7"],
+      "verified": true,
+      "conflict": false,
+      "condition": "시행일을 S2·S3·S4·S7은 9월 18일, S5는 9월 19일로 보도. 일(日)이 달라 본문에는 '9월부터'로만 표기"
+    },
+    {
+      "id": "C5",
+      "claim": "벌금 상한 증가폭 2천만 원",
+      "value": "2,000만 원",
+      "referenceDate": "2026-10-08",
+      "sourceIds": ["S4", "S2"],
+      "verified": true,
+      "conflict": false,
+      "formula": "50000000 - 30000000"
+    },
+    {
+      "id": "C6",
+      "claim": "징역 상한 증가폭 2년",
+      "value": "2년",
+      "referenceDate": "2026-10-08",
+      "sourceIds": ["S4", "S2"],
+      "verified": true,
+      "conflict": false,
+      "formula": "5 - 3"
+    },
+    {
+      "id": "C7",
+      "claim": "2024년 연간 임금체불액 2조 원 초과",
+      "value": "2조 원",
+      "referenceDate": "2024-12-31",
+      "sourceIds": ["S1", "S3", "S6"],
+      "verified": true,
+      "conflict": false,
+      "condition": "고용노동부 통계. S3는 2024년 2조 448억 원으로 보도"
+    },
+    {
+      "id": "C8",
+      "claim": "상습체불근절법(개정 근로기준법) 시행일 2025년 10월 23일",
+      "value": "2025년 10월 23일",
+      "referenceDate": "2025-10-23",
+      "sourceIds": ["S1", "S6"],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "상습체불 기준: 1년간 근로자 1명당 3개월분 이상 체불 또는 5회 이상·합계 3천만 원 이상 체불",
+      "value": "1년, 3개월, 5회, 3천만 원",
+      "referenceDate": "2025-10-23",
+      "sourceIds": ["S1", "S2", "S6"],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C10",
+      "claim": "고용노동부 대표전화 1350에서 임금체불 상담·신고 가능",
+      "value": "1350",
+      "referenceDate": "2025-05-29",
+      "sourceIds": ["S1"],
+      "verified": true,
+      "conflict": false,
+      "condition": "1순위 출처(KTV) 원문 직접 확인"
+    },
+    {
+      "id": "C11",
+      "claim": "고용노동부, 2026년 7월 대법원 양형위원회에 임금체불 양형기준 강화 요청",
+      "value": "7월",
+      "referenceDate": "2026-07-09",
+      "sourceIds": ["S3", "S7"],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C12",
+      "claim": "원고 작성·출처 확인 기준일 2026년 10월 9일",
+      "value": "2026년 10월 9일",
+      "referenceDate": "2026-10-09",
+      "sourceIds": ["S1", "S4"],
+      "verified": true,
+      "conflict": false,
+      "notes": "출처 확인일(accessedAt)"
+    },
+    {
+      "id": "C13",
+      "claim": "요건 충족 시 체불액의 3배 이내 손해배상 청구 가능",
+      "value": "3배",
+      "referenceDate": "2025-10-23",
+      "sourceIds": ["S1", "S7"],
+      "verified": true,
+      "conflict": false,
+      "condition": "S7: 명백한 고의 또는 3개월 이상 장기 체불 등 요건"
+    },
+    {
+      "id": "C14",
+      "claim": "도산대지급금 지급 범위 최종 3개월분 → 최종 6개월분, 2026년 8월 20일 시행",
+      "value": "8월 20일, 3개월, 6개월",
+      "referenceDate": "2026-08-20",
+      "sourceIds": ["S2", "S5"],
+      "verified": true,
+      "conflict": false,
+      "condition": "임금·휴업수당·출산전후휴가기간 급여 대상. 상한액은 확인하지 못해 본문에 쓰지 않음"
+    }
+  ],
+  "topicCandidates": [
+    { "topic": "임금체불 법정형 상향(10/8 시행)과 신고 방법", "category": "생활경제", "primaryKeyword": "임금체불 처벌", "angle": "월급 밀렸을 때 근로자가 할 일", "whyNow": "10월 8일 시행 https://www.lawtimes.co.kr/news/articleView.html?idxno=226934", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "medium", "differentiation": "high", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" } },
+    { "topic": "도산대지급금 6개월분 확대(8/20)", "category": "생활경제", "primaryKeyword": "도산대지급금", "angle": "회사 도산 시 받을 수 있는 금액", "whyNow": "8월 20일 시행, 상한액 공식 확인 불가", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "low", "depth": "medium", "differentiation": "medium", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "high", "contentRisk": "low" } },
+    { "topic": "후불 기후동행카드 종료·기후동행패스 단일화(10/1)", "category": "생활경제", "primaryKeyword": "기후동행패스", "angle": "교통비 환급 조건 변화", "whyNow": "10월 1일 시행(공식 출처 미확인)", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "medium", "differentiation": "medium", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "high", "contentRisk": "low" } },
+    { "topic": "불법스팸 방치 사업자 과징금(10/1)", "category": "정책/제도", "primaryKeyword": "불법스팸 과징금", "angle": "이용자 영향", "whyNow": "10월 1일 시행", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "medium", "intentClarity": "low", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" } },
+    { "topic": "열차 승차권 예매 2개월 전으로 확대", "category": "생활경제", "primaryKeyword": "열차 예매 2개월", "angle": "연말 예매 일정", "whyNow": "10월 1일 시행", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "low", "differentiation": "medium", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "low" } },
+    { "topic": "배달앱 농산물 원산지 표시 의무(10/30)", "category": "생활경제", "primaryKeyword": "배달앱 원산지 표시", "angle": "소비자가 확인할 표시", "whyNow": "10월 30일 시행", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "low", "differentiation": "medium", "intentClarity": "medium", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" } },
+    { "topic": "재난문자 157자 확대(10/29)", "category": "정책/제도", "primaryKeyword": "재난문자", "angle": "달라지는 문자 형식", "whyNow": "10월 29일 시행", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "low", "differentiation": "low", "intentClarity": "low", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "low" } },
+    { "topic": "푸른씨앗 가입 대상 50인 미만 확대(7/1)", "category": "경제", "primaryKeyword": "푸른씨앗 퇴직연금", "angle": "중소기업 퇴직연금", "whyNow": "7월 1일 시행", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "low", "depth": "medium", "differentiation": "medium", "intentClarity": "medium", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" } },
+    { "topic": "양육비 선지급 소득기준 폐지(10/29)", "category": "생활경제", "primaryKeyword": "양육비 선지급", "angle": "최근 14일 내 발행 — 제외", "whyNow": "2026-10-05 발행 이력과 중복", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "medium", "differentiation": "low", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" } },
+    { "topic": "최적요금제 고지(10/1)", "category": "생활경제", "primaryKeyword": "최적요금제 고지", "angle": "최근 14일 내 발행 — 제외", "whyNow": "2026-10-07 발행 이력과 중복", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "medium", "differentiation": "low", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" } }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "임금체불 처벌 상향 시행을 알리는 표지 그래픽",
+        "eyebrow": "2026년 10월 8일 시행{C1}",
+        "title": "임금체불 처벌 상향",
+        "subtitle": "징역 5년·벌금 5천만 원 이하{C3}"
+      },
+      {
+        "kind": "stats",
+        "slot": 2,
+        "alt": "임금체불 법정형의 징역과 벌금 상한이 이전보다 얼마나 올랐는지 보여주는 숫자 카드",
+        "title": "법정형 상한 변화",
+        "stats": [
+          { "label": "징역 상한", "value": "5년", "note": "이전 3년{C2}{C3}" },
+          { "label": "벌금 상한", "value": "5천만 원", "note": "이전 3천만 원{C2}{C3}" },
+          { "label": "벌금 증가폭", "value": "2,000만 원", "note": "단순 차이{C5}" }
+        ],
+        "footnote": "출처: 법률신문·머니투데이·뉴스1 보도"
+      },
+      {
+        "kind": "table",
+        "slot": 3,
+        "alt": "임금체불과 퇴직금 체불의 개정 전후 법정형을 비교한 표",
+        "title": "개정 전후 비교",
+        "headers": ["구분", "이전", "이후"],
+        "rows": [
+          ["임금 체불", "3년·3천만 원{C2}", "5년·5천만 원{C3}"],
+          ["퇴직금 체불", "3년·3천만 원{C2}", "5년·5천만 원{C4}"],
+          ["시행", "-", "10월 8일·9월{C1}{C4}"]
+        ],
+        "footnote": "법정형은 상한이며 실제 선고와 다름"
+      },
+      {
+        "kind": "checklist",
+        "slot": 4,
+        "alt": "상습체불 사업주에게 적용되는 제재 네 가지를 정리한 체크리스트",
+        "title": "상습체불 사업주 제재",
+        "items": [
+          "신용정보기관에 체불 정보 제공",
+          "정부 지원·공공 입찰 불이익",
+          "명단 공개 후 재체불은 합의해도 처벌 가능",
+          "체불액 3배 이내 손해배상 청구{C13}"
+        ],
+        "footnote": "2025년 10월 23일 시행{C8} · 출처: KTV 국민방송"
+      },
+      {
+        "kind": "flow",
+        "slot": 5,
+        "alt": "증거 수집, 상담, 진정 제기, 지원 제도 확인으로 이어지는 임금체불 신고 순서",
+        "title": "월급 밀렸을 때 순서",
+        "steps": [
+          "계약서·입금 내역 모으기",
+          "1350 상담{C10}",
+          "온라인·방문 진정",
+          "대지급금 등 지원 확인"
+        ],
+        "footnote": "출처: KTV 국민방송(고용노동부 안내)"
+      },
+      {
+        "kind": "timeline",
+        "slot": 6,
+        "alt": "상습체불 제재부터 법정형 상향까지 임금체불 관련 제도 시행 일정",
+        "title": "제도 시행 일정",
+        "events": [
+          { "date": "2025.10.23", "label": "상습체불 제재{C8}" },
+          { "date": "2026.8.20", "label": "도산대지급금 6개월분{C14}" },
+          { "date": "2026.9월", "label": "퇴직금 체불 처벌 상향{C4}" },
+          { "date": "2026.10.8", "label": "임금체불 처벌 상향{C1}" }
+        ],
+        "footnote": "2026년 10월 9일 확인 기준{C12}"
+      }
+    ],
+    "video": {
+      "alt": "임금체불 처벌 상향 내용과 월급을 못 받았을 때 신고 방법을 요약한 세로 영상",
+      "scenes": [
+        { "kind": "hook", "heading": "월급이 밀렸는데 계속 기다리고 있나요?" },
+        { "kind": "fact", "heading": "임금체불 처벌 상향", "big": "10월 8일{C1}", "body": "개정 근로기준법 시행" },
+        { "kind": "fact", "heading": "법정형 상한", "big": "징역 5년{C3}", "body": "벌금은 5천만 원 이하{C3}" },
+        { "kind": "explain", "heading": "증거를 모아 1350 상담·온라인 진정{C10}" },
+        { "kind": "cta", "heading": "자세한 내용은 본문에서", "body": "대지급금 대상인지도 확인" }
+      ]
+    }
+  }
+}
