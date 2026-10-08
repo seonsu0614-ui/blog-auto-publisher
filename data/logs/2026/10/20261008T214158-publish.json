@@ -1,0 +1,73 @@
+{
+  "runId": "20261008T214158-publish",
+  "mode": "publish",
+  "date": "2026-10-09",
+  "draftPath": "data/articles/2026/10/20261009-001/draft.json",
+  "status": "FAILED",
+  "startedAt": "2026-10-08T21:41:58.251Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-08T21:41:58.251Z",
+      "attempts": 1,
+      "endedAt": "2026-10-08T21:41:58.265Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-08T21:41:58.271Z",
+      "endedAt": "2026-10-08T21:41:58.271Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-08T21:41:58.271Z",
+      "attempts": 1,
+      "endedAt": "2026-10-08T21:42:38.975Z",
+      "detail": "업로드 wage-arrears-penalty-report-guide-02-stats.jpg 실패 (1/3): HTTP 422 https://api.github.com/repos/seonsu0614-ui/blog-auto-publisher/contents/media/2026/10/20261009-001/wage-arrears-penalty-report-guide-02-stats.jpg: {\"message\":\"Invalid request.\\n\\n\\\"sha\\\" wasn't supplied.\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"422\"}"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-08T21:42:38.979Z",
+      "endedAt": "2026-10-08T21:42:38.979Z"
+    },
+    "publish": {
+      "status": "FAILED",
+      "startedAt": "2026-10-08T21:42:38.979Z",
+      "attempts": 1,
+      "error": "중복 확인 실패로 발행 중단: Refresh Token이 만료되었거나 취소되었습니다. `npm run blogger:auth`로 재발급하세요. (OAuth 동의 화면이 \"테스트\" 상태면 7일 후 만료됩니다 → \"프로덕션\"으로 전환 필요)",
+      "endedAt": "2026-10-08T21:42:39.073Z"
+    }
+  },
+  "errors": [
+    "[publish] 중복 확인 실패로 발행 중단: Refresh Token이 만료되었거나 취소되었습니다. `npm run blogger:auth`로 재발급하세요. (OAuth 동의 화면이 \"테스트\" 상태면 7일 후 만료됩니다 → \"프로덕션\"으로 전환 필요) (시도 1회)"
+  ],
+  "contentId": "20261009-001",
+  "topic": "10월 8일 시행된 임금체불 법정형 상향(징역 5년·벌금 5천만 원)과 월급을 못 받았을 때 근로자가 확인할 신고·지원 절차",
+  "category": "생활경제",
+  "keywords": [
+    "임금체불 처벌",
+    "임금체불 신고",
+    "근로기준법 개정",
+    "도산대지급금",
+    "상습체불"
+  ],
+  "title": "임금체불 처벌 10월 8일부터 징역 5년, 월급 밀리면 어디에 신고할까?",
+  "sources": [
+    "https://m.ktv.go.kr/content/view?content_id=728885",
+    "https://www.mt.co.kr/economy/2026/06/30/2026063010072821787",
+    "https://www.news1.kr/economy/employment-labor/6300736",
+    "https://www.lawtimes.co.kr/news/articleView.html?idxno=226934",
+    "https://www.newspim.com/news/view/20260629001441",
+    "https://m.ktv.go.kr/news/sphere/T000021/view?content_id=737444",
+    "https://v.daum.net/v/20261005191644411"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3019,
+  "qualityCheck": "PASS",
+  "publishStatus": "NOT_EXECUTED",
+  "endedAt": "2026-10-08T21:42:39.074Z",
+  "executionTimeMs": 40823
+}
