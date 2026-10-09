@@ -1,0 +1,72 @@
+{
+  "runId": "20261009T213043-publish",
+  "mode": "publish",
+  "date": "2026-10-10",
+  "draftPath": "data/articles/2026/10/20261010-001/draft.json",
+  "status": "FAILED",
+  "startedAt": "2026-10-09T21:30:43.836Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-09T21:30:43.837Z",
+      "attempts": 1,
+      "endedAt": "2026-10-09T21:30:43.844Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-09T21:30:43.855Z",
+      "endedAt": "2026-10-09T21:30:43.855Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-09T21:30:43.855Z",
+      "attempts": 1,
+      "endedAt": "2026-10-09T21:31:03.709Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-09T21:31:03.713Z",
+      "endedAt": "2026-10-09T21:31:03.713Z"
+    },
+    "publish": {
+      "status": "FAILED",
+      "startedAt": "2026-10-09T21:31:03.713Z",
+      "attempts": 1,
+      "error": "중복 확인 실패로 발행 중단: Refresh Token이 만료되었거나 취소되었습니다. `npm run blogger:auth`로 재발급하세요. (OAuth 동의 화면이 \"테스트\" 상태면 7일 후 만료됩니다 → \"프로덕션\"으로 전환 필요)",
+      "endedAt": "2026-10-09T21:31:03.815Z"
+    }
+  },
+  "errors": [
+    "[publish] 중복 확인 실패로 발행 중단: Refresh Token이 만료되었거나 취소되었습니다. `npm run blogger:auth`로 재발급하세요. (OAuth 동의 화면이 \"테스트\" 상태면 7일 후 만료됩니다 → \"프로덕션\"으로 전환 필요) (시도 1회)"
+  ],
+  "contentId": "20261010-001",
+  "topic": "청년미래적금 2차 가입 신청(10월 7~16일): 남은 신청일, 가입 대상·소득 기준, 정부기여금 계산, 청년도약계좌 갈아타기 순서",
+  "category": "생활경제",
+  "keywords": [
+    "청년미래적금 2차",
+    "청년미래적금 가입 조건",
+    "정부기여금",
+    "청년도약계좌 갈아타기",
+    "청년미래적금 우대형"
+  ],
+  "title": "청년미래적금 2차 신청 10월 16일 마감, 나도 가입 대상일까?",
+  "sources": [
+    "https://www.fsc.go.kr/no010101/87726",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148971997",
+    "https://www.newspim.com/news/view/20261006000250",
+    "https://biz.heraldcorp.com/article/10894282",
+    "https://www.fnnews.com/news/202610061201390283",
+    "https://biz.sbs.co.kr/amp/article/20000334931",
+    "https://www.tossbank.com/articles/youth-future-saving-2nd"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3365,
+  "qualityCheck": "PASS",
+  "publishStatus": "NOT_EXECUTED",
+  "endedAt": "2026-10-09T21:31:03.815Z",
+  "executionTimeMs": 19979
+}
