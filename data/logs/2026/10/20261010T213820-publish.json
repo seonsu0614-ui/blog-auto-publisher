@@ -1,0 +1,73 @@
+{
+  "runId": "20261010T213820-publish",
+  "mode": "publish",
+  "date": "2026-10-11",
+  "draftPath": "data/articles/2026/10/20261011-001/draft.json",
+  "status": "FAILED",
+  "startedAt": "2026-10-10T21:38:20.568Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-10T21:38:20.568Z",
+      "attempts": 1,
+      "endedAt": "2026-10-10T21:38:20.583Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-10T21:38:20.591Z",
+      "endedAt": "2026-10-10T21:38:20.591Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-10T21:38:20.592Z",
+      "attempts": 1,
+      "endedAt": "2026-10-10T21:38:47.535Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-10T21:38:47.541Z",
+      "endedAt": "2026-10-10T21:38:47.541Z"
+    },
+    "publish": {
+      "status": "FAILED",
+      "startedAt": "2026-10-10T21:38:47.541Z",
+      "attempts": 1,
+      "error": "중복 확인 실패로 발행 중단: Refresh Token이 만료되었거나 취소되었습니다. `npm run blogger:auth`로 재발급하세요. (OAuth 동의 화면이 \"테스트\" 상태면 7일 후 만료됩니다 → \"프로덕션\"으로 전환 필요)",
+      "endedAt": "2026-10-10T21:38:47.652Z"
+    }
+  },
+  "errors": [
+    "[publish] 중복 확인 실패로 발행 중단: Refresh Token이 만료되었거나 취소되었습니다. `npm run blogger:auth`로 재발급하세요. (OAuth 동의 화면이 \"테스트\" 상태면 7일 후 만료됩니다 → \"프로덕션\"으로 전환 필요) (시도 1회)"
+  ],
+  "contentId": "20261011-001",
+  "topic": "건강보험 무사고 계약전환 제도 개선(금융감독원 10월 5일 발표): 1년 넘은 계약 중 17.6%만 할인, 전화·모바일 신청과 보험사가 유리한 유형 적용으로 바뀌는 점과 신청 전 확인할 사항",
+  "category": "생활경제",
+  "keywords": [
+    "건강보험 무사고 할인",
+    "무사고 계약전환",
+    "보험료 할인",
+    "간편보험",
+    "보험료 절감"
+  ],
+  "title": "건강보험 무사고 할인, 1년 넘은 계약 17.6%만 받아…나도 대상일까?",
+  "sources": [
+    "https://eiec.kdi.re.kr/policy/materialView.do?num=287802",
+    "https://www.mt.co.kr/finance/2026/10/05/2026100217272736588",
+    "https://www.insnews.co.kr/news/articleView.html?idxno=93153",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/05/2026100500033.html",
+    "https://www.dailian.co.kr/news/view/1697867/",
+    "https://biz.sbs.co.kr/amp/article/20000338289",
+    "https://www.fnnews.com/news/202610051249043299",
+    "https://www.issueedico.co.kr/news/article.html?no=38671"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3926,
+  "qualityCheck": "PASS",
+  "publishStatus": "NOT_EXECUTED",
+  "endedAt": "2026-10-10T21:38:47.653Z",
+  "executionTimeMs": 27085
+}
