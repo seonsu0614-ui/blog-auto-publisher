@@ -1,0 +1,918 @@
+{
+  "contentId": "20261011-001",
+  "date": "2026-10-11",
+  "topic": "건강보험 무사고 계약전환 제도 개선(금융감독원 10월 5일 발표): 1년 넘은 계약 중 17.6%만 할인, 전화·모바일 신청과 보험사가 유리한 유형 적용으로 바뀌는 점과 신청 전 확인할 사항",
+  "category": "생활경제",
+  "searchIntent": "내 실손·건강보험에 무사고 할인이 있는지, 얼마나 깎이는지, 어떻게 신청하는지, 주의할 점이 무엇인지 알고 싶음",
+  "differentiation": "최근 14일 글(기준금리, 양육비 선지급, 보금자리론, 최적요금제, 임금체불, 청년미래적금)과 키워드가 겹치지 않는 보험료 절감 '내 돈' 주제. 10월 5일 금감원 발표로 신청 절차가 바뀐 시점",
+  "title": "건강보험 무사고 할인, 1년 넘은 계약 17.6%만 받아…나도 대상일까?",
+  "seoTitle": "건강보험 무사고 할인 신청 방법: 무사고 계약전환 대상·할인율·주의점",
+  "metaDescription": "보험사 건강보험의 무사고 할인(무사고 계약전환)은 1년 넘은 계약 중 17.6%만 받고 있습니다. 10월 5일 금감원 발표로 바뀐 신청 방법, 할인율 사례, 주의할 점을 2026년 10월 11일 기준으로 정리했습니다.",
+  "slug": "health-insurance-no-claim-discount",
+  "primaryKeyword": "건강보험 무사고 할인",
+  "secondaryKeywords": [
+    "무사고 계약전환",
+    "보험료 할인",
+    "간편보험",
+    "보험료 절감"
+  ],
+  "relatedKeywords": [
+    "무사고 전환 신청 방법",
+    "금융감독원 보험",
+    "계약응당일",
+    "고지의무",
+    "간편심사보험"
+  ],
+  "tags": [
+    "생활경제",
+    "건강보험 무사고 할인",
+    "무사고 계약전환",
+    "보험료 할인",
+    "보험료 절감",
+    "간편보험",
+    "금융감독원",
+    "보험 꿀팁"
+  ],
+  "hook": [
+    "보험사에 매달 건강보험료를 내면서 몇 년째 입원이나 수술을 한 적이 없다면, 보험료를 덜 낼 수 있는 계약일 수 있습니다.",
+    "보험사 건강보험에는 사고가 없으면 보장은 그대로 두고 보험료를 깎아 주는 '무사고 계약전환' 제도가 붙어 있는 경우가 많습니다. 그런데 1년 넘게 유지된 해당 계약 가운데 실제 할인을 받는 계약은 17.6%뿐이었습니다.{C5}",
+    "금융감독원이 10월 5일 신청 절차를 바꾸면서 이제는 전화나 모바일로 '전환하고 싶다'고 말하면 됩니다.{C1} 내 계약이 대상인지, 얼마나 깎이는지, 신청 전 무엇을 확인해야 하는지 정리했습니다."
+  ],
+  "summary": [
+    "무사고 계약전환은 보험사 건강보험 가입 후 입원·수술·중증 질병 진단이 없으면 보장은 유지하고 보험료를 할인하는 제도로, 손해보험사 9곳과 생명보험사 9곳이 운영합니다.{C2}[S1][S2]",
+    "2026년 5월 말 기준 제도가 붙은 계약은 1,081만 건이고, 1년 이상 지난 657만 건 중 116만 건(17.6%)만 할인을 받고 있습니다.{C3}{C4}{C5}[S1][S2]",
+    "한 보험사 간편보험 40대 남성 사례에서 할인율은 1년 무사고 6.5%, 10년 무사고 45.9%였습니다.{C6}[S2][S4]",
+    "10월 5일 발표로 보험사는 업무 절차를 즉시 고치고, 2027년 1월까지 전산과 약관 정비를 마칩니다.{C1}{C7}[S1]",
+    "할인은 신청한 날 이후부터 적용되고 지난 보험료는 돌려받지 못합니다. (2026년 10월 11일 확인 기준){C8}{C11}"
+  ],
+  "sections": [
+    {
+      "heading": "건강보험 무사고 할인, 어떤 제도인가",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "여기서 말하는 건강보험은 국민건강보험공단의 공적 건강보험이 아니라, 보험사에서 가입한 질병·상해 보장 상품을 말합니다. 이런 상품 가운데 상당수에 '무사고 계약전환' 기능이 붙어 있습니다.[S1][S2]"
+        },
+        {
+          "type": "p",
+          "text": "가입한 뒤 일정 기간 입원, 수술, 중증 질병 진단이 없으면 보장 내용은 그대로 둔 채 보험료가 낮은 계약 유형으로 바꿔 주는 방식입니다. 손해보험사 9곳과 생명보험사 9곳이 이 제도를 운영하고 있습니다.{C2}[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "무사고로 인정되는 기간이 길수록 할인 폭이 커지는 구조이며, 금감원이 소개한 할인 사례도 간편보험 상품이었습니다.[S2][S3]"
+        },
+        {
+          "type": "callout",
+          "text": "**용어 풀이**: 간편보험(간편심사보험)은 병력 질문을 줄여 가입 문턱을 낮춘 상품입니다. 대신 일반 심사 상품보다 보험료가 높게 책정되는 경우가 많습니다."
+        }
+      ]
+    },
+    {
+      "heading": "1년 넘은 계약 중 17.6%만 할인받는 이유",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "금감원 집계로 2026년 5월 말 기준 무사고 전환제도가 붙은 계약은 1,081만 건입니다.{C3} 이 가운데 계약한 지 1년 이상 지나 할인을 따져 볼 수 있는 계약은 657만 건이었습니다.{C4}[S1][S2]"
+        },
+        {
+          "type": "p",
+          "text": "실제로 보험료 할인을 받는 계약은 116만 건으로 17.6%에 그쳤습니다.{C5} 할인을 받지 않는 나머지 541만 건이 모두 대상인 것은 아니지만, 금감원은 요건을 갖추고도 신청하지 않은 계약자가 116만 건보다 많을 것으로 봤습니다.{C10}[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "그동안은 계약자가 무사고 기간을 직접 계산하고, 여러 전환 유형 가운데 할인율을 스스로 골라야 했습니다. 일부 보험사는 지점을 방문하거나 설계사를 거쳐야 신청을 받았고, 안내도 1년에 한 번 계약응당일(매년 돌아오는 계약일) 전에만 보내는 곳이 있었습니다.[S4][S5]"
+        },
+        {
+          "type": "p",
+          "text": "그 결과 2년 동안 사고가 없었는데도 1년 무사고 유형을 골라 할인을 덜 받은 사례도 있었습니다.[S3] 금감원은 안내 문자가 스팸으로 오인되지 않도록 안내문 형식도 함께 바꾸기로 했습니다.[S6]"
+        },
+        {
+          "type": "image",
+          "slot": 2
+        }
+      ]
+    },
+    {
+      "heading": "10월 5일 발표로 달라지는 신청 방법",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "금감원이 10월 5일 발표한 개선안의 핵심은 계약자가 할 일을 '전환 의사 표시' 하나로 줄인 것입니다.{C1} 보험사가 사고 내역과 고지 내용을 확인해 가장 유리한 전환 유형을 대신 적용합니다.[S1][S5]"
+        },
+        {
+          "type": "table",
+          "caption": "무사고 계약전환, 바뀌기 전과 후",
+          "headers": [
+            "구분",
+            "이전",
+            "개선 후"
+          ],
+          "rows": [
+            [
+              "할인 유형 선택",
+              "계약자가 무사고 기간 계산 후 직접 선택",
+              "보험사가 가장 유리한 유형 적용"
+            ],
+            [
+              "신청 경로",
+              "일부 보험사는 지점 방문·설계사 경유",
+              "모바일·전화로 비대면 신청"
+            ],
+            [
+              "안내 시기",
+              "일부는 연 1회, 계약응당일 전",
+              "계약응당일 이후에도 계속 안내"
+            ],
+            [
+              "안내 수단",
+              "알림톡·문자 중심",
+              "전화·음성봇·우편 추가"
+            ]
+          ],
+          "note": "금융감독원 발표(10월 5일) 보도 기준{C1}"
+        },
+        {
+          "type": "p",
+          "text": "안내문 형식도 바뀝니다. 제목과 첫 문장에 보험료 할인 안내라는 점을 밝히고, 전환 전후의 계약 유형과 보험료를 함께 보여 줘야 합니다.[S3][S5] 비대면으로 안내를 받았다면 안내문에 적힌 전화번호로 신청부터 심사까지 끝낼 수 있습니다.[S3][S5]"
+        },
+        {
+          "type": "p",
+          "text": "보험사는 업무 절차를 바로 고치고, 전산 시스템과 보험 약관 정비는 2027년 1월까지 마칠 예정입니다.{C7}[S1][S7] 업무 절차는 발표와 함께 바로 고치도록 했으므로, 안내를 기다리지 않고 보험사 고객센터에 내 계약이 대상인지 먼저 물어볼 수도 있습니다.[S5][S7]"
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 할인율 사례와 보험료 계산",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "할인율은 상품과 보험사, 나이, 무사고 기간에 따라 다릅니다. 금감원이 소개한 한 보험사 간편보험 사례(40대 남성)에서는 1년 무사고 때 6.5%, 10년 무사고 때 최대 45.9%가 할인됐습니다.{C6}[S2][S3][S5]"
+        },
+        {
+          "type": "table",
+          "caption": "월 보험료 10만 원(가정)에 사례 할인율을 적용한 단순 계산",
+          "headers": [
+            "무사고 기간(사례)",
+            "할인율",
+            "월 할인액",
+            "할인 후 월 보험료"
+          ],
+          "rows": [
+            [
+              "1년",
+              "6.5%{C6}",
+              "6,500원{C12}",
+              "93,500원{C13}"
+            ],
+            [
+              "10년",
+              "45.9%{C6}",
+              "45,900원{C14}",
+              "54,100원{C15}"
+            ]
+          ],
+          "note": "월 보험료 10만 원은 계산 예시용 가정. 할인율은 특정 보험사 간편보험 40대 남성 사례로, 내 계약의 실제 할인율과 다를 수 있음"
+        },
+        {
+          "type": "callout",
+          "text": "**계산으로 보면**: 월 보험료가 10만 원이라고 가정하면 1년 무사고 할인율 6.5%를 적용할 때 매달 6,500원,{C12} 1년이면 78,000원을 덜 냅니다.{C16} 10년 무사고 사례의 45.9%를 적용하면 월 보험료는 54,100원이 됩니다.{C15}"
+        },
+        {
+          "type": "p",
+          "text": "이 계산은 사례 할인율을 가정한 보험료에 단순 적용한 것입니다. 실제 할인액은 보험사 안내문의 '전환 후 보험료'로 확인해야 하며, 개선안에 따라 안내문에 전환 전후 보험료가 함께 적힙니다.[S3][S5]"
+        },
+        {
+          "type": "image",
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "heading": "신청 전 확인해야 할 사항",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "**내 계약에 제도가 붙어 있는지 확인**: 가입한 건강보험 약관이나 보험사 앱·고객센터에서 무사고 계약전환 대상 상품인지 확인합니다.[S1][S5]",
+            "**최근 입원·수술·진단 이력 정리**: 가입 후 입원, 수술, 중증 질병 진단이 있었는지 날짜와 함께 정리해 둡니다.[S2][S3]",
+            "**전환 의사 표시**: 안내문의 전화번호나 모바일 알림톡, 보험사 고객센터로 전환을 원한다고 알립니다.[S3][S5]",
+            "**전환 후 보험료 확인**: 보험사가 적용한 유형과 전환 전후 보험료가 안내문 내용과 같은지 확인합니다.[S3][S6]"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "무사고로 인정되는 기준과 전환할 수 있는 기간은 상품과 약관마다 다릅니다.[S8] 같은 회사 상품이라도 조건이 다를 수 있으니, 계약별로 따로 확인하는 것이 안전합니다."
+        },
+        {
+          "type": "image",
+          "slot": 5
+        }
+      ]
+    },
+    {
+      "heading": "주의해야 할 부분",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "**소급 적용 없음**: 할인은 전환을 신청한 날 이후 보험료부터 적용됩니다. 이미 낸 보험료는 돌려받지 못하므로 대상이라면 미루지 않는 편이 낫습니다.{C8}[S3][S5]",
+            "**사고 이력은 정확히 알리기**: 전환 과정에서 알리지 않은 사고가 나중에 확인되면 전환이 무효가 되고, 할인받은 보험료를 돌려줘야 할 수 있습니다.{C9}[S3][S5]",
+            "**해지·새 가입 전에 먼저 확인**: 금감원은 보험료 부담 때문에 새 보험 가입이나 기존 계약 해지를 고민한다면, 지금 계약에 이 제도가 있는지부터 확인하라고 안내했습니다.[S4]",
+            "**사칭 연락 주의**: 할인 안내 연락을 받으면 가입한 보험사 공식 고객센터 번호로 다시 확인합니다. 보험사가 안내 수단을 전화·우편까지 넓히는 만큼 발신처 확인이 필요합니다."
+          ]
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "국민건강보험료도 무사고 할인이 되나요?",
+      "answer": "아닙니다. 이번 무사고 계약전환은 보험사에서 가입한 건강보험(질병·상해 보장 상품)에 붙은 제도입니다.[S1][S2] 국민건강보험공단이 걷는 건강보험료와는 관계가 없습니다."
+    },
+    {
+      "question": "실손보험도 무사고 계약전환 대상인가요?",
+      "answer": "이번 발표는 무사고 전환제도가 부가된 건강보험을 대상으로 했고, 보험회사별 대상 상품 목록은 금감원 보도자료 붙임에 따로 실렸습니다.[S1] 내 실손보험이나 건강보험이 대상인지는 보험사 고객센터나 약관에서 확인해야 합니다."
+    },
+    {
+      "question": "전환하면 보장 내용이 줄어드나요?",
+      "answer": "금감원 설명에 따르면 무사고 계약전환은 보장은 그대로 두고 보험료만 할인하는 제도입니다.[S1][S2] 다만 전환 후 계약 유형이 바뀌므로 안내문에서 전환 전후 계약 유형과 보험료를 함께 확인하세요.[S3]"
+    }
+  ],
+  "closing": [
+    "보험사 건강보험 가입 후 입원·수술·중증 진단이 없었다면 무사고 할인 대상인지 확인하세요.[S1]",
+    "1년 넘은 대상 계약 중 할인을 받는 비율은 17.6%였습니다(2026년 5월 말).{C5}",
+    "10월 5일 발표 이후 전화·모바일로 전환 의사만 밝히면 보험사가 유리한 유형을 적용합니다.{C1}",
+    "할인은 신청일 이후부터 적용되니, 대상이라면 미루지 말고 사고 이력은 정확히 알리세요.{C8}{C9}"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "\"전환하고 싶어요\" 한 마디면 보험료가 할인됩니다 (금융감독원 보도자료, KDI 경제교육·정보센터 게재)",
+      "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=287802",
+      "publisher": "금융감독원",
+      "tier": 1,
+      "accessedAt": "2026-10-11",
+      "referenceDate": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "title": "보험료 깎을 수 있는데 몰랐다…건강보험 할인받는 계약 17.6%뿐",
+      "url": "https://www.mt.co.kr/finance/2026/10/05/2026100217272736588",
+      "publisher": "머니투데이",
+      "tier": 2,
+      "accessedAt": "2026-10-11",
+      "referenceDate": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "title": "\"전환할게요\" 한마디면 보험료 할인… '무사고 계약전환' 절차 간소화",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93153",
+      "publisher": "한국보험신문",
+      "tier": 2,
+      "accessedAt": "2026-10-11",
+      "referenceDate": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "title": "\"전환할게요\" 한마디면 무사고 할인 … 보험사가 유리한 조건 찾아준다",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/05/2026100500033.html",
+      "publisher": "뉴데일리",
+      "tier": 2,
+      "accessedAt": "2026-10-11",
+      "referenceDate": "2026-10-05"
+    },
+    {
+      "id": "S5",
+      "title": "건강보험 무사고 할인 쉬워진다…전화 한 번으로 신청",
+      "url": "https://www.dailian.co.kr/news/view/1697867/",
+      "publisher": "데일리안",
+      "tier": 2,
+      "accessedAt": "2026-10-11",
+      "referenceDate": "2026-10-05"
+    },
+    {
+      "id": "S6",
+      "title": "건강보험 '무사고 할인' 더 손쉽게…전화·모바일로 신청",
+      "url": "https://biz.sbs.co.kr/amp/article/20000338289",
+      "publisher": "SBS Biz",
+      "tier": 2,
+      "accessedAt": "2026-10-11",
+      "referenceDate": "2026-10-05"
+    },
+    {
+      "id": "S7",
+      "title": "'무사고 보험 할인' 현재는 17.6%만 이용...금감원, 접근권 개선",
+      "url": "https://www.fnnews.com/news/202610051249043299",
+      "publisher": "파이낸셜뉴스",
+      "tier": 2,
+      "accessedAt": "2026-10-11",
+      "referenceDate": "2026-10-05"
+    },
+    {
+      "id": "S8",
+      "title": "입원·수술 이력 없다면 보험료 할인…보험사에 전화 한 통이면 끝",
+      "url": "https://www.issueedico.co.kr/news/article.html?no=38671",
+      "publisher": "이슈에디코",
+      "tier": 2,
+      "accessedAt": "2026-10-11",
+      "referenceDate": "2026-10-05"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "금융감독원 2026년 10월 5일 무사고 계약전환 제도 개선 발표, 보험사 업무절차 즉시 개선",
+      "value": "10월 5일",
+      "referenceDate": "2026-10-05",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "S1(KDI 게재본) 게재일은 10월 6일, 보도 6곳 모두 금감원 5일 발표로 보도"
+    },
+    {
+      "id": "C2",
+      "claim": "무사고 전환제도 운영: 손해보험사 9곳, 생명보험사 9곳",
+      "value": "손해보험사 9곳, 생명보험사 9곳",
+      "referenceDate": "2026-10-05",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C3",
+      "claim": "무사고 전환제도 부가 계약 1,081만 건(2026년 5월 말)",
+      "value": "1,081만 건",
+      "referenceDate": "2026-05-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "2026년 5월 말 기준"
+    },
+    {
+      "id": "C4",
+      "claim": "계약 체결 후 1년 이상 경과 계약 657만 건(2026년 5월 말)",
+      "value": "657만 건",
+      "referenceDate": "2026-05-31",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "2026년 5월 말 기준"
+    },
+    {
+      "id": "C5",
+      "claim": "1년 이상 경과 계약 중 실제 할인 적용 116만 건, 17.6%(2026년 5월 말)",
+      "value": "116만 건, 17.6%",
+      "referenceDate": "2026-05-31",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "2026년 5월 말 기준, 금감원 발표 비율 그대로 인용(116/657=17.66%를 금감원이 17.6%로 표기)"
+    },
+    {
+      "id": "C6",
+      "claim": "한 보험사 간편보험 40대 남성 사례 할인율: 1년 무사고 6.5%, 10년 무사고 최대 45.9%",
+      "value": "6.5%, 45.9%",
+      "referenceDate": "2026-10-05",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "특정 보험사 간편보험 40대 남성 사례. 상품·나이에 따라 다름"
+    },
+    {
+      "id": "C7",
+      "claim": "전산시스템·보험약관 정비 2027년 1월까지 완료 예정",
+      "value": "2027년 1월",
+      "referenceDate": "2026-10-05",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C8",
+      "claim": "할인은 전환 신청일 이후 적용, 소급 없음",
+      "value": "신청일 이후",
+      "referenceDate": "2026-10-05",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "고지하지 않은 사고 확인 시 전환 무효, 할인 보험료 반환",
+      "value": "전환 무효",
+      "referenceDate": "2026-10-05",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C10",
+      "claim": "1년 이상 경과 계약 중 할인 미적용 계약 541만 건",
+      "value": "541만 건",
+      "referenceDate": "2026-05-31",
+      "sourceIds": [
+        "S1",
+        "S2"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "6570000 - 1160000",
+      "notes": "657만 건 - 116만 건. 모두 대상이라는 뜻 아님"
+    },
+    {
+      "id": "C11",
+      "claim": "원고 작성·출처 확인 기준일 2026년 10월 11일",
+      "value": "2026년 10월 11일",
+      "referenceDate": "2026-10-11",
+      "sourceIds": [
+        "S1",
+        "S2"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "출처 확인일(accessedAt)"
+    },
+    {
+      "id": "C12",
+      "claim": "월 보험료 10만 원(가정)에 6.5% 적용 시 월 할인액 6,500원",
+      "value": "6,500원",
+      "referenceDate": "2026-10-11",
+      "sourceIds": [
+        "S2",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "100000 * 0.065",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C13",
+      "claim": "월 보험료 10만 원(가정)에 6.5% 적용 시 할인 후 93,500원",
+      "value": "93,500원",
+      "referenceDate": "2026-10-11",
+      "sourceIds": [
+        "S2",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "100000 - 6500",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C14",
+      "claim": "월 보험료 10만 원(가정)에 45.9% 적용 시 월 할인액 45,900원",
+      "value": "45,900원",
+      "referenceDate": "2026-10-11",
+      "sourceIds": [
+        "S2",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "100000 * 0.459",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C15",
+      "claim": "월 보험료 10만 원(가정)에 45.9% 적용 시 할인 후 54,100원",
+      "value": "54,100원",
+      "referenceDate": "2026-10-11",
+      "sourceIds": [
+        "S2",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "100000 - 45900",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C16",
+      "claim": "월 할인액 6,500원(가정) 12개월 합계 78,000원",
+      "value": "78,000원",
+      "referenceDate": "2026-10-11",
+      "sourceIds": [
+        "S2",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "6500 * 12",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C17",
+      "claim": "월 보험료 10만 원 가정",
+      "value": "10만 원",
+      "referenceDate": "2026-10-11",
+      "sourceIds": [
+        "S2"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "계산 예시용 가정값(출처 수치 아님)"
+    }
+  ],
+  "topicCandidates": [
+    {
+      "topic": "건강보험 무사고 계약전환 개선(10/5 금감원): 17.6%만 할인",
+      "category": "생활경제",
+      "primaryKeyword": "건강보험 무사고 할인",
+      "angle": "대상인데 못 받는 보험료 할인, 신청법과 주의점",
+      "whyNow": "10월 5일 금감원 발표 https://eiec.kdi.re.kr/policy/materialView.do?num=287802",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://eiec.kdi.re.kr/policy/materialView.do?num=287802",
+        "https://www.mt.co.kr/finance/2026/10/05/2026100217272736588"
+      ]
+    },
+    {
+      "topic": "철도 승차권 출발 2개월 전 예매(10/1)",
+      "category": "생활경제",
+      "primaryKeyword": "KTX 2개월 전 예매",
+      "angle": "연말 여행 예매 시점",
+      "whyNow": "10월 1일 시행 https://www.newsis.com/view/NISX20260919_0003796834",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "9월 가계대출 동향·가계부채 점검회의(10/15 예정)",
+      "category": "경제",
+      "primaryKeyword": "가계대출 동향",
+      "angle": "발표 후 대출 규제 영향",
+      "whyNow": "10월 15일 발표 예정 https://www.newspim.com/news/view/20261008001274",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "unknown",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "medium"
+      }
+    },
+    {
+      "topic": "배달앱·온라인몰 원산지 표시 고지 의무(10/30)",
+      "category": "생활경제",
+      "primaryKeyword": "배달앱 원산지 표시",
+      "angle": "소비자 확인 방법",
+      "whyNow": "10월 30일 시행 https://www.korea-news.com/news/articleView.html?idxno=105077",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "모바일 신분증 발급 앱에 은행 앱 4곳 추가",
+      "category": "생활경제",
+      "primaryKeyword": "모바일 신분증 은행앱",
+      "angle": "발급 방법",
+      "whyNow": "10월 시행 https://www.korea-news.com/news/articleView.html?idxno=105077",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "주민등록표 등·초본 가족 표기 통일(10/29)",
+      "category": "정책제도",
+      "primaryKeyword": "등본 세대원 표기",
+      "angle": "표기 변화",
+      "whyNow": "10월 29일 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "low",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "대전 영구임대 입주자 모집(10/20~22)",
+      "category": "생활경제",
+      "primaryKeyword": "영구임대 모집",
+      "angle": "신청 자격",
+      "whyNow": "지역 한정 공고",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "4분기 전기요금 동결",
+      "category": "생활경제",
+      "primaryKeyword": "4분기 전기요금",
+      "angle": "가구 요금 영향",
+      "whyNow": "9월 발표, 신선도 낮음",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "low",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "청년미래적금 2차(10/16 마감)",
+      "category": "생활경제",
+      "primaryKeyword": "청년미래적금 2차",
+      "angle": "2026-10-10 원고와 중복 — 제외",
+      "whyNow": "2026-10-10 원고와 중복",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "임금체불 처벌 강화(10/8)",
+      "category": "생활경제",
+      "primaryKeyword": "임금체불 처벌",
+      "angle": "2026-10-09 원고와 중복 — 제외",
+      "whyNow": "2026-10-09 원고와 중복",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "건강보험 무사고 할인 제도와 할인 적용 비율을 알리는 표지 그래픽",
+        "eyebrow": "10월 5일 금감원 발표{C1}",
+        "title": "건강보험 무사고 할인",
+        "subtitle": "1년 넘은 계약 중 17.6%만 할인{C5}"
+      },
+      {
+        "kind": "stats",
+        "slot": 2,
+        "alt": "무사고 전환제도 계약 수, 1년 이상 경과 계약 수, 실제 할인 계약 수를 보여주는 숫자 카드",
+        "title": "무사고 전환제도 이용 현황",
+        "stats": [
+          {
+            "label": "제도 부가 계약",
+            "value": "1,081만 건",
+            "note": "2026년 5월 말{C3}"
+          },
+          {
+            "label": "1년 이상 경과",
+            "value": "657만 건",
+            "note": "할인 검토 가능{C4}"
+          },
+          {
+            "label": "실제 할인",
+            "value": "116만 건",
+            "note": "17.6%{C5}"
+          }
+        ],
+        "footnote": "출처: 금융감독원 발표(2026년 5월 말 기준)"
+      },
+      {
+        "kind": "flow",
+        "slot": 3,
+        "alt": "보험사 안내를 받고 전환 의사를 밝히면 보험사가 유리한 유형을 적용하는 네 단계 흐름",
+        "title": "바뀐 신청 흐름",
+        "steps": [
+          "할인 안내 받기",
+          "전화·모바일로 의사 표시",
+          "보험사가 사고 내역 확인",
+          "유리한 유형으로 전환"
+        ],
+        "footnote": "10월 5일 금감원 개선안{C1} · 전산·약관 정비 2027년 1월{C7}"
+      },
+      {
+        "kind": "table",
+        "slot": 4,
+        "alt": "월 보험료 10만 원을 가정해 무사고 1년과 10년 사례 할인율을 적용한 계산표",
+        "title": "월 10만 원 가정 시 보험료",
+        "headers": [
+          "무사고",
+          "할인율",
+          "할인 후"
+        ],
+        "rows": [
+          [
+            "1년",
+            "6.5%{C6}",
+            "93,500원{C13}"
+          ],
+          [
+            "10년",
+            "45.9%{C6}",
+            "54,100원{C15}"
+          ]
+        ],
+        "footnote": "가정 보험료에 특정 보험사 간편보험 사례 할인율을 단순 적용"
+      },
+      {
+        "kind": "checklist",
+        "slot": 5,
+        "alt": "무사고 계약전환을 신청하기 전에 확인할 네 가지 항목",
+        "title": "신청 전 확인할 것",
+        "items": [
+          "내 계약에 제도가 붙어 있나",
+          "입원·수술·진단 이력 정리",
+          "전화·알림톡으로 전환 의사 표시",
+          "전환 전후 보험료 확인"
+        ],
+        "footnote": "조건은 상품·약관마다 다름"
+      },
+      {
+        "kind": "timeline",
+        "slot": 6,
+        "alt": "무사고 계약전환 제도 개선 발표부터 전산·약관 정비까지의 일정",
+        "title": "제도 개선 일정",
+        "events": [
+          {
+            "date": "2026.5말",
+            "label": "이용률 17.6% 집계{C5}"
+          },
+          {
+            "date": "10.5",
+            "label": "금감원 개선안 발표{C1}"
+          },
+          {
+            "date": "즉시",
+            "label": "보험사 업무절차 개선"
+          },
+          {
+            "date": "2027.1",
+            "label": "전산·약관 정비 완료{C7}"
+          }
+        ],
+        "footnote": "할인은 신청일 이후부터 적용{C8}"
+      }
+    ],
+    "video": {
+      "alt": "건강보험 무사고 할인 이용률, 할인율 사례, 바뀐 신청 방법을 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "입원·수술 없었다면, 보험료 덜 낼 수 있을까?"
+        },
+        {
+          "kind": "fact",
+          "heading": "할인받는 계약",
+          "big": "17.6%{C5}",
+          "body": "1년 넘은 657만 건 중 116만 건{C4}"
+        },
+        {
+          "kind": "fact",
+          "heading": "간편보험 사례 할인율",
+          "big": "최대 45.9%{C6}",
+          "body": "10년 무사고, 40대 남성 사례{C6}"
+        },
+        {
+          "kind": "explain",
+          "heading": "이제 전화·모바일로 전환 의사만 밝히면 됩니다"
+        },
+        {
+          "kind": "cta",
+          "heading": "자세한 내용은 본문에서",
+          "body": "할인은 신청일 이후부터 적용{C8}"
+        }
+      ]
+    }
+  }
+}
