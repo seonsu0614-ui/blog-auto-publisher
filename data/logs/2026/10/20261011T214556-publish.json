@@ -1,0 +1,74 @@
+{
+  "runId": "20261011T214556-publish",
+  "mode": "publish",
+  "date": "2026-10-12",
+  "draftPath": "data/articles/2026/10/20261012-001/draft.json",
+  "status": "FAILED",
+  "startedAt": "2026-10-11T21:45:56.596Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-11T21:45:56.596Z",
+      "attempts": 1,
+      "endedAt": "2026-10-11T21:45:56.622Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-11T21:45:56.632Z",
+      "endedAt": "2026-10-11T21:45:56.632Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-11T21:45:56.632Z",
+      "attempts": 1,
+      "endedAt": "2026-10-11T21:46:20.775Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-11T21:46:20.782Z",
+      "endedAt": "2026-10-11T21:46:20.782Z"
+    },
+    "publish": {
+      "status": "FAILED",
+      "startedAt": "2026-10-11T21:46:20.782Z",
+      "attempts": 1,
+      "error": "중복 확인 실패로 발행 중단: Refresh Token이 만료되었거나 취소되었습니다. `npm run blogger:auth`로 재발급하세요. (OAuth 동의 화면이 \"테스트\" 상태면 7일 후 만료됩니다 → \"프로덕션\"으로 전환 필요)",
+      "endedAt": "2026-10-11T21:46:20.943Z"
+    }
+  },
+  "errors": [
+    "[publish] 중복 확인 실패로 발행 중단: Refresh Token이 만료되었거나 취소되었습니다. `npm run blogger:auth`로 재발급하세요. (OAuth 동의 화면이 \"테스트\" 상태면 7일 후 만료됩니다 → \"프로덕션\"으로 전환 필요) (시도 1회)"
+  ],
+  "contentId": "20261012-001",
+  "topic": "한국주택금융공사 무주택 청년 특례전세보증 제도 개선(10월 8일 발표, 10월 19일 신규 보증신청분부터): 지원 연령 만 34세→만 39세, 신혼·자녀양육가구 보증한도 3억 원, 신혼부부 1인 연소득 7,000만 원 기준과 보증금별 한도 계산",
+  "category": "생활경제",
+  "keywords": [
+    "청년 특례전세보증",
+    "청년 전세대출",
+    "전세보증 한도",
+    "신혼부부 전세대출",
+    "주택금융공사 전세보증"
+  ],
+  "title": "청년 특례전세보증 만 39세로 확대, 10월 19일부터 나도 대상일까?",
+  "sources": [
+    "https://hf.go.kr/_custom/hf/_common/board/index/21.do?mode=view&articleNo=600626&article.offset=0&articleLimit=10",
+    "https://www.fnnews.com/news/202610081002501455",
+    "https://www.fnnews.com/news/202610081040296892",
+    "https://www.ajunews.com/view/20261008103937015",
+    "https://view.asiae.co.kr/article/2026100810551684503",
+    "https://nocutnews.co.kr/news/6588723",
+    "https://www.thedailyeconomy.kr/news/articleView.html?idxno=6474",
+    "https://www.newsprime.co.kr/news/article/?no=748995",
+    "https://www.reportera.co.kr/news/youth-jeonse-loan-guarantee-expansion-hf/"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3734,
+  "qualityCheck": "PASS",
+  "publishStatus": "NOT_EXECUTED",
+  "endedAt": "2026-10-11T21:46:20.944Z",
+  "executionTimeMs": 24348
+}
