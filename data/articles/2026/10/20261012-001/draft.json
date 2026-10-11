@@ -1,0 +1,986 @@
+{
+  "contentId": "20261012-001",
+  "date": "2026-10-12",
+  "topic": "한국주택금융공사 무주택 청년 특례전세보증 제도 개선(10월 8일 발표, 10월 19일 신규 보증신청분부터): 지원 연령 만 34세→만 39세, 신혼·자녀양육가구 보증한도 3억 원, 신혼부부 1인 연소득 7,000만 원 기준과 보증금별 한도 계산",
+  "category": "생활경제",
+  "searchIntent": "30대 후반 무주택자나 신혼부부가 청년 전세대출 보증을 받을 수 있는지, 한도가 얼마인지, 언제부터 어떻게 신청하는지 알고 싶음",
+  "differentiation": "최근 14일 글(기준금리, 양육비 선지급, 보금자리론 신혼부부, 최적요금제, 임금체불, 청년미래적금, 건강보험 무사고 할인)과 다른 전세대출 보증 주제. 10월 6일 보금자리론 글은 주택 구입 대출이고, 이 글은 전세보증의 연령·한도 변경(10월 8일 새 발표)을 다룸",
+  "title": "청년 특례전세보증 만 39세로 확대, 10월 19일부터 나도 대상일까?",
+  "seoTitle": "청년 특례전세보증 만 39세 확대: 신혼·자녀가구 한도 3억, 소득 기준 정리",
+  "metaDescription": "청년 특례전세보증 지원 연령이 만 34세에서 만 39세로 넓어지고 신혼·자녀가구 한도는 3억 원으로 오릅니다. 10월 19일 신청분부터 바뀌는 조건과 보증금별 한도 계산을 2026년 10월 12일 기준으로 정리했습니다.{C22}",
+  "slug": "youth-jeonse-guarantee-age-39",
+  "primaryKeyword": "청년 특례전세보증",
+  "secondaryKeywords": [
+    "청년 전세대출",
+    "전세보증 한도",
+    "신혼부부 전세대출",
+    "주택금융공사 전세보증"
+  ],
+  "relatedKeywords": [
+    "무주택 청년",
+    "결혼 페널티",
+    "보증료율",
+    "임차보증금",
+    "8·13 대책"
+  ],
+  "tags": [
+    "생활경제",
+    "청년 특례전세보증",
+    "청년 전세대출",
+    "전세보증 한도",
+    "신혼부부 전세대출",
+    "주택금융공사 전세보증",
+    "주택금융공사",
+    "전세대출",
+    "10월 달라지는 제도"
+  ],
+  "hook": [
+    "30대 후반에 전셋집을 구하는 무주택자라면, 나이 때문에 청년 전세대출 보증을 못 받는다는 말을 들은 적이 있을 수 있습니다.",
+    "한국주택금융공사의 청년 특례전세보증 지원 연령이 10월 19일 신규 신청분부터 만 34세 이하에서 만 39세 이하로 넓어집니다.{C2}{C3}",
+    "신혼부부와 자녀를 키우는 가구는 보증한도가 3억 원으로 오르고, 맞벌이 부부의 소득 기준도 완화됩니다.{C4}{C6} 내가 대상인지, 보증금에 따라 얼마까지 보증되는지 정리했습니다."
+  ],
+  "summary": [
+    "한국주택금융공사는 10월 8일 무주택 청년 대상 특례전세보증의 지원 연령을 만 39세 이하로 넓힌다고 발표했습니다.{C1}{C3}[S1]",
+    "새 기준은 10월 19일 신규 보증신청 건부터 적용됩니다.{C2}[S1]",
+    "신혼가구·자녀양육가구 보증한도는 2억 원에서 3억 원으로 오르고, 그 밖의 청년은 2억 원이 유지됩니다.{C4}{C5}[S1][S4]",
+    "신혼부부는 합산 소득이 기준을 넘어도 한 명의 연소득이 7,000만 원 이하면 이용할 수 있습니다.{C6}[S1]",
+    "보증은 임차보증금의 90% 이내이며 실제 한도는 심사에 따라 달라집니다. (2026년 10월 12일 확인 기준){C10}{C22}"
+  ],
+  "sections": [
+    {
+      "heading": "청년 특례전세보증, 무엇이 바뀌나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "청년 특례전세보증은 한국주택금융공사(HF)가 무주택 청년의 은행 전세대출에 서 주는 보증입니다. 보증이 있으면 은행은 대출을 떼일 걱정이 줄어 대출을 내주기 쉬워지고, 세입자는 보증서를 담보로 전세자금을 빌립니다.[S1][S4]"
+        },
+        {
+          "type": "p",
+          "text": "주택금융공사는 10월 8일 이 보증의 지원 연령을 만 34세 이하에서 만 39세 이하로 넓힌다고 발표했습니다.{C1}{C3} 바뀐 기준은 10월 19일 새로 보증을 신청하는 건부터 적용됩니다.{C2}[S1][S2]"
+        },
+        {
+          "type": "p",
+          "text": "함께 바뀌는 것은 두 가지입니다. 신혼가구와 자녀양육가구의 보증한도가 2억 원에서 3억 원으로 오르고,{C4}{C5} 신혼부부는 부부 중 한 명의 연소득만 7,000만 원 이하여도 이용할 수 있게 됩니다.{C6}[S1][S4]"
+        },
+        {
+          "type": "p",
+          "text": "이번 개선은 정부가 8월 13일 발표한 '부동산 시장 안정을 위한 금융 종합대책'의 후속 조치입니다.{C14}[S1][S5]"
+        },
+        {
+          "type": "callout",
+          "text": "**용어 풀이**: 보증비율은 대출금 가운데 보증기관이 대신 갚아 주기로 약속하는 비율입니다. 청년 특례전세보증은 이 비율이 100%로, 은행 입장에서 대출 전액이 보증으로 보호됩니다.{C11}[S4][S8]"
+        }
+      ]
+    },
+    {
+      "heading": "달라지는 조건 한눈에 보기",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "10월 19일 전후 조건 비교",
+          "headers": [
+            "구분",
+            "기존",
+            "10월 19일 신청분부터"
+          ],
+          "rows": [
+            [
+              "나이",
+              "만 34세 이하{C3}",
+              "만 39세 이하{C3}"
+            ],
+            [
+              "보증한도(신혼·자녀가구)",
+              "2억 원{C5}",
+              "3억 원{C4}"
+            ],
+            [
+              "보증한도(그 밖의 청년)",
+              "2억 원{C5}",
+              "2억 원(유지){C5}"
+            ],
+            [
+              "신혼부부 소득",
+              "부부합산 연 7,000만 원 이하{C7}",
+              "합산 초과여도 1인 7,000만 원 이하면 가능{C6}"
+            ]
+          ],
+          "note": "한국주택금융공사 발표(10월 8일)와 언론 보도 기준. 보증한도는 임차보증금의 90% 이내{C10}"
+        },
+        {
+          "type": "p",
+          "text": "임차보증금 상한(수도권 7억 원, 지방 5억 원), 보증비율 100%, 보증료율 연 0.02%는 이번에 바뀌지 않았습니다.{C13}{C11}{C12}[S4][S9] 그 밖의 다른 요건도 기존과 같이 적용된다고 보도됐습니다.[S4]"
+        },
+        {
+          "type": "image",
+          "slot": 2
+        }
+      ]
+    },
+    {
+      "heading": "나도 대상일까? 가구별로 따져 보기",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "가장 큰 변화는 만 35세부터 39세까지의 무주택자입니다. 지금까지는 나이 때문에 이 보증을 쓸 수 없었지만, 10월 19일부터는 신청할 수 있습니다.{C2}{C3}[S4][S7]"
+        },
+        {
+          "type": "p",
+          "text": "신혼가구는 대출신청일 기준 혼인신고 후 7년 이내인 가구이고, 신청일로부터 3개월 안에 결혼할 예정인 예비부부도 포함됩니다.{C8} 자녀양육가구는 태아를 포함해 민법상 미성년 자녀가 1명 이상인 가구입니다.{C9}[S1][S2]"
+        },
+        {
+          "type": "p",
+          "text": "맞벌이 신혼부부라면 소득 기준을 다시 확인해 볼 만합니다. 부부합산 연소득 7,000만 원 이하라는 기준은 그대로지만,{C7} 합산이 이를 넘더라도 한 명의 연소득이 7,000만 원 이하라면 이용할 수 있습니다.{C6}[S1][S4]"
+        },
+        {
+          "type": "p",
+          "text": "다만 이 경우 소득을 입증한 사람이 직접 대출을 신청해 차주(돈을 빌리는 사람)가 되어야 합니다.[S3][S4][S9] 배우자 명의로 신청할지 미리 정해 두는 것이 좋습니다."
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 보증금별 한도와 보증료",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "보증한도는 임차보증금의 90% 이내에서 정해집니다.{C10} 아래 표는 보증금을 가정해 90%를 계산한 뒤 가구별 최대 한도를 적용한 단순 예시입니다.[S4][S8]"
+        },
+        {
+          "type": "table",
+          "caption": "보증금(가정)별 보증 가능 최대 금액 단순 계산",
+          "headers": [
+            "가정",
+            "보증금의 90%",
+            "적용 한도",
+            "보증 최대치"
+          ],
+          "rows": [
+            [
+              "신혼부부, 보증금 3억 원",
+              "2억 7,000만 원{C16}",
+              "3억 원{C4}",
+              "2억 7,000만 원{C16}"
+            ],
+            [
+              "신혼부부, 보증금 4억 원",
+              "3억 6,000만 원{C17}",
+              "3억 원{C4}",
+              "3억 원{C4}"
+            ],
+            [
+              "미혼 37세, 보증금 2억 5,000만 원",
+              "2억 2,500만 원{C18}",
+              "2억 원{C5}",
+              "2억 원{C5}"
+            ]
+          ],
+          "note": "보증금은 계산 예시용 가정. 실제 이용 한도는 소득·부채 심사와 은행 심사에 따라 달라짐"
+        },
+        {
+          "type": "callout",
+          "text": "**계산으로 보면**: 신혼·자녀가구의 한도가 1억 원 오른 효과는 보증금이 3억 원을 넘는 집에서 나타납니다.{C21} 보증금 4억 원이라면 90%는 3억 6,000만 원이지만,{C17} 한도 3억 원까지만 보증됩니다.{C4}"
+        },
+        {
+          "type": "p",
+          "text": "보증료도 따져 볼 만합니다. 보증료율 연 0.02%를 보증금액 3억 원에 그대로 적용하면 연 6만 원,{C19} 2억 원이면 연 4만 원입니다.{C20} 실제 보증료는 주택금융공사 산정 기준에 따라 달라질 수 있으니 신청 단계에서 확인하세요.[S4][S9]"
+        },
+        {
+          "type": "p",
+          "text": "3억 원은 어디까지나 최대 한도입니다. 소득과 기존 부채, 은행 내규 심사에 따라 실제로 빌릴 수 있는 금액은 이보다 적을 수 있습니다.{C4}[S3][S7]"
+        },
+        {
+          "type": "image",
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "heading": "신청 전에 확인할 사항",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "**신청 날짜 확인**: 바뀐 기준은 10월 19일 신규 보증신청 건부터 적용됩니다. 그 전에 신청하면 기존 기준이 적용될 수 있습니다.{C2}[S1]",
+            "**나이·가구 요건**: 만 39세 이하 무주택자인지, 신혼(혼인신고 7년 이내)이나 자녀양육가구에 해당하는지 확인합니다.{C3}{C8}[S1]",
+            "**보증금 상한**: 임차보증금이 수도권 7억 원, 지방 5억 원 이하인지 봅니다.{C13}[S4]",
+            "**집의 안전성**: 선순위 채권과 보증금을 합친 금액이 주택가격의 90% 이하여야 합니다.{C15}[S4][S9]",
+            "**신청 창구**: 보증을 취급하는 은행에서 전세대출과 함께 신청하므로, 거래 은행에 취급 여부와 필요 서류를 먼저 문의합니다.[S1]"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "주택금융공사는 제도 개선 사항과 질의·응답 자료를 보도자료에 함께 첨부했습니다.[S1] 세부 조건이 헷갈리면 주택금융공사 누리집이나 고객센터에서 확인하는 것이 안전합니다."
+        },
+        {
+          "type": "image",
+          "slot": 5
+        }
+      ]
+    },
+    {
+      "heading": "주의해야 할 부분",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "**한도 상향은 신혼·자녀가구만**: 미혼이고 자녀가 없는 청년의 한도는 2억 원으로 그대로입니다.{C5}[S4][S7]",
+            "**1인 소득 특례는 신혼부부용**: 부부 중 한 명 소득으로 판단하는 완화는 신혼가구에 적용되는 내용입니다.{C6}[S1]",
+            "**정부 기금 대출과 구분**: 이 상품은 은행 전세대출에 붙는 주택금융공사 보증입니다. 주택도시기금의 버팀목 전세자금대출과는 별개 제도이므로 조건을 따로 확인해야 합니다.[S1]",
+            "**심사 결과는 개인마다 다름**: 대상 요건을 갖춰도 소득·부채 심사와 은행 심사에서 한도가 줄거나 거절될 수 있습니다.[S3][S7]"
+          ]
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "만 38세 미혼 직장인도 청년 전세보증을 받을 수 있나요?",
+      "answer": "10월 19일 신규 신청분부터 지원 연령이 만 39세 이하로 넓어져 나이 요건은 충족합니다.{C2}{C3}[S1] 다만 미혼·무자녀라면 보증한도는 2억 원이고, 무주택·소득·보증금 상한 등 다른 요건도 함께 갖춰야 합니다.{C5}[S4]"
+    },
+    {
+      "question": "맞벌이 신혼부부 합산 소득이 7,000만 원을 넘으면 이용할 수 없나요?",
+      "answer": "이번 개선으로 부부 중 한 명의 연소득이 7,000만 원 이하라면 이용할 수 있습니다.{C6}[S1] 이때는 소득을 입증한 사람이 직접 대출을 신청해 차주가 되어야 합니다.[S3][S4]"
+    },
+    {
+      "question": "10월 19일 전에 이미 보증을 받았으면 한도가 자동으로 오르나요?",
+      "answer": "발표에 따르면 개선 내용은 10월 19일 신규 보증신청 건부터 적용됩니다.{C2}[S1] 이미 받은 보증의 증액이나 재신청 가능 여부는 발표에 나와 있지 않으므로 은행이나 주택금융공사에 문의해야 합니다."
+    }
+  ],
+  "closing": [
+    "청년 특례전세보증 지원 연령이 만 34세에서 만 39세로 넓어집니다.{C3}",
+    "10월 19일 신규 보증신청 건부터 적용되니, 대상이라면 신청 날짜를 맞춰 보세요.{C2}",
+    "신혼·자녀가구 한도는 3억 원으로 오르지만, 보증금의 90% 이내이고 심사에 따라 달라집니다.{C4}{C10}",
+    "신혼부부는 한 명 연소득 7,000만 원 이하면 가능하며, 그 사람이 직접 차주가 되어야 합니다.{C6}[S3]"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "주택금융공사, 무주택 청년 특례전세보증 지원 강화 (보도자료)",
+      "url": "https://hf.go.kr/_custom/hf/_common/board/index/21.do?mode=view&articleNo=600626&article.offset=0&articleLimit=10",
+      "publisher": "한국주택금융공사",
+      "tier": 1,
+      "accessedAt": "2026-10-12",
+      "referenceDate": "2026-10-08"
+    },
+    {
+      "id": "S2",
+      "title": "\"지원 대상 만 34세→39세\"..주택금융공사, 무주택 청년 특례전세보증 지원 강화",
+      "url": "https://www.fnnews.com/news/202610081002501455",
+      "publisher": "파이낸셜뉴스",
+      "tier": 2,
+      "accessedAt": "2026-10-12",
+      "referenceDate": "2026-10-08"
+    },
+    {
+      "id": "S3",
+      "title": "청년 특례전세보증 만 39세까지 확대…신혼·유자녀 보증 한도 3억",
+      "url": "https://www.fnnews.com/news/202610081040296892",
+      "publisher": "파이낸셜뉴스",
+      "tier": 2,
+      "accessedAt": "2026-10-12",
+      "referenceDate": "2026-10-08"
+    },
+    {
+      "id": "S4",
+      "title": "만 39세까지 청년 특례전세보증 받는다…신혼·양육가구는 최대 3억원",
+      "url": "https://www.ajunews.com/view/20261008103937015",
+      "publisher": "아주경제",
+      "tier": 2,
+      "accessedAt": "2026-10-12",
+      "referenceDate": "2026-10-08"
+    },
+    {
+      "id": "S5",
+      "title": "주택금융공사, 무주택 청년 특례전세보증 지원 확대",
+      "url": "https://view.asiae.co.kr/article/2026100810551684503",
+      "publisher": "아시아경제",
+      "tier": 2,
+      "accessedAt": "2026-10-12",
+      "referenceDate": "2026-10-08"
+    },
+    {
+      "id": "S6",
+      "title": "청년 특례전세보증 만39세까지 확대…신혼·자녀가구 한도 3억원",
+      "url": "https://nocutnews.co.kr/news/6588723",
+      "publisher": "CBS노컷뉴스",
+      "tier": 2,
+      "accessedAt": "2026-10-12",
+      "referenceDate": "2026-10-08"
+    },
+    {
+      "id": "S7",
+      "title": "청년 특례전세보증 만 39세까지…신혼·자녀가구 한도 3억원",
+      "url": "https://www.thedailyeconomy.kr/news/articleView.html?idxno=6474",
+      "publisher": "The Daily Economy",
+      "tier": 2,
+      "accessedAt": "2026-10-12",
+      "referenceDate": "2026-10-08"
+    },
+    {
+      "id": "S8",
+      "title": "\"10월부터 만 39세까지\" 청년 전세대출 문턱 낮아진다",
+      "url": "https://www.newsprime.co.kr/news/article/?no=748995",
+      "publisher": "프라임경제",
+      "tier": 2,
+      "accessedAt": "2026-10-12",
+      "referenceDate": "2026-09-28"
+    },
+    {
+      "id": "S9",
+      "title": "전세대출 포기했었는데… 30대 후반이 다시 환호한 까닭",
+      "url": "https://www.reportera.co.kr/news/youth-jeonse-loan-guarantee-expansion-hf/",
+      "publisher": "리포테라",
+      "tier": 2,
+      "accessedAt": "2026-10-12",
+      "referenceDate": "2026-10-08"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "한국주택금융공사 10월 8일 무주택 청년 특례전세보증 제도 개선 발표",
+      "value": "10월 8일",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C2",
+      "claim": "10월 19일 신규 보증신청 건부터 적용",
+      "value": "10월 19일",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "10월 19일 이후 새로 보증을 신청하는 건"
+    },
+    {
+      "id": "C3",
+      "claim": "지원 연령 만 34세 이하에서 만 39세 이하로 확대",
+      "value": "만 34세 → 만 39세",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S7",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "기존 34세 기준은 S4·S7·S9, 39세 확대는 S1"
+    },
+    {
+      "id": "C4",
+      "claim": "신혼가구·자녀양육가구 보증한도 3억 원으로 상향",
+      "value": "3억 원",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C5",
+      "claim": "기존 보증한도 2억 원, 일반(신혼·자녀가구 아닌) 청년은 2억 원 유지",
+      "value": "2억 원",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S4",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C6",
+      "claim": "신혼가구는 부부합산 소득 기준을 넘어도 부부 중 1인 연소득 7,000만 원 이하면 이용 가능",
+      "value": "7,000만 원",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C7",
+      "claim": "부부합산 연소득 7,000만 원 이하 기준은 유지",
+      "value": "7,000만 원",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S4",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C8",
+      "claim": "신혼가구: 대출신청일 기준 혼인신고 후 7년 이내, 신청일로부터 3개월 이내 결혼 예정 포함",
+      "value": "7년 이내, 3개월 이내",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "자녀양육가구: 민법상 미성년 자녀(태아 포함) 1명 이상",
+      "value": "1명 이상",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C10",
+      "claim": "보증은 임차보증금의 90% 이내",
+      "value": "90%",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C11",
+      "claim": "보증비율 100% 유지",
+      "value": "100%",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S4",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C12",
+      "claim": "보증료율 연 0.02%",
+      "value": "0.02%",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S4",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "2026년 10월 8일 보도 기준, 기존과 같음"
+    },
+    {
+      "id": "C13",
+      "claim": "임차보증금 상한 수도권 7억 원, 지방 5억 원",
+      "value": "7억 원, 5억 원",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S4",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C14",
+      "claim": "8월 13일 정부 '부동산 시장 안정을 위한 금융 종합대책'에 따른 개선",
+      "value": "8월 13일",
+      "referenceDate": "2026-08-13",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C15",
+      "claim": "선순위 채권과 임차보증금 합계가 주택가격의 90% 이하",
+      "value": "90%",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S4",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C16",
+      "claim": "보증금 3억 원(가정)의 90%",
+      "value": "2억 7,000만 원",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "300000000 * 0.9",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C17",
+      "claim": "보증금 4억 원(가정)의 90%",
+      "value": "3억 6,000만 원",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "400000000 * 0.9",
+      "notes": "계산 예시용 가정. 신혼·자녀가구 한도 3억 원 적용"
+    },
+    {
+      "id": "C18",
+      "claim": "보증금 2억 5,000만 원(가정)의 90%",
+      "value": "2억 2,500만 원",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "250000000 * 0.9",
+      "notes": "계산 예시용 가정. 일반 청년 한도 2억 원 적용"
+    },
+    {
+      "id": "C19",
+      "claim": "보증금액 3억 원에 보증료율 연 0.02% 단순 적용 시 연 보증료",
+      "value": "6만 원",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S4",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "300000000 * 0.0002",
+      "notes": "계산 예시용 단순 계산. 실제 보증료는 HF 산정 기준에 따름"
+    },
+    {
+      "id": "C20",
+      "claim": "보증금액 2억 원에 보증료율 연 0.02% 단순 적용 시 연 보증료",
+      "value": "4만 원",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S4",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "200000000 * 0.0002",
+      "notes": "계산 예시용 단순 계산"
+    },
+    {
+      "id": "C22",
+      "claim": "원고 작성·출처 확인 기준일 2026년 10월 12일",
+      "value": "2026년 10월 12일",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C21",
+      "claim": "한도 상향폭 3억-2억",
+      "value": "1억 원",
+      "referenceDate": "2026-10-08",
+      "sourceIds": [
+        "S4",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "300000000 - 200000000"
+    }
+  ],
+  "topicCandidates": [
+    {
+      "topic": "청년 특례전세보증 만 39세 확대(10/19 신규 신청분)",
+      "category": "생활경제",
+      "primaryKeyword": "청년 특례전세보증",
+      "angle": "30대 후반·신혼부부가 대상인지와 보증금별 한도 계산",
+      "whyNow": "10월 8일 주택금융공사 발표, 10월 19일 적용 https://hf.go.kr/_custom/hf/_common/board/index/21.do?mode=view&articleNo=600626",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "시외·고속버스 운임 상한 9% 인상(10/1)",
+      "category": "생활경제",
+      "primaryKeyword": "고속버스 요금 인상",
+      "angle": "노선별 요금 확인법",
+      "whyNow": "10월 1일 시행 https://www.newsprime.co.kr/news/article/?no=748995",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "철도 승차권 출발 2개월 전 예매(10/1)",
+      "category": "생활경제",
+      "primaryKeyword": "KTX 2개월 전 예매",
+      "angle": "연말 여행 예매 시점",
+      "whyNow": "10월 1일 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "9월 가계대출 동향(10/15 예정)",
+      "category": "경제",
+      "primaryKeyword": "가계대출 동향",
+      "angle": "발표 후 대출 영향",
+      "whyNow": "10월 15일 발표 예정 — 아직 자료 없음",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "unknown",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "배달앱·온라인몰 원산지 표시(10/30)",
+      "category": "생활경제",
+      "primaryKeyword": "배달앱 원산지 표시",
+      "angle": "소비자 확인법",
+      "whyNow": "10월 30일 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "모바일 신분증 은행 앱 4곳 추가",
+      "category": "생활경제",
+      "primaryKeyword": "모바일 신분증 은행앱",
+      "angle": "발급 방법",
+      "whyNow": "10월 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "주민등록 등·초본 가족 표기 변경",
+      "category": "정책제도",
+      "primaryKeyword": "등본 세대원 표기",
+      "angle": "표기 변화",
+      "whyNow": "10월 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "low",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "안전안내문자 157자 확대",
+      "category": "정책제도",
+      "primaryKeyword": "재난문자 글자수",
+      "angle": "문자 변화",
+      "whyNow": "10월 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "low",
+        "intentClarity": "low",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "보금자리론 신혼부부 소득기준(10/19)",
+      "category": "생활경제",
+      "primaryKeyword": "보금자리론 신혼부부",
+      "angle": "2026-10-06 원고와 중복 — 제외",
+      "whyNow": "2026-10-06 원고와 중복",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "건강보험 무사고 할인",
+      "category": "생활경제",
+      "primaryKeyword": "건강보험 무사고 할인",
+      "angle": "2026-10-11 원고와 중복 — 제외",
+      "whyNow": "2026-10-11 원고와 중복",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "청년 전세보증 지원 연령 확대와 적용일을 알리는 표지 그래픽",
+        "eyebrow": "10월 19일 신규 신청분부터{C2}",
+        "title": "청년 특례전세보증 만 39세로",
+        "subtitle": "신혼·자녀가구 한도 3억 원{C4}"
+      },
+      {
+        "kind": "stats",
+        "slot": 2,
+        "alt": "바뀌는 지원 연령, 신혼·자녀가구 보증한도, 신혼부부 1인 소득 기준을 보여주는 숫자 카드",
+        "title": "무엇이 달라지나",
+        "stats": [
+          {
+            "label": "지원 연령",
+            "value": "만 39세",
+            "note": "기존 만 34세{C3}"
+          },
+          {
+            "label": "신혼·자녀가구",
+            "value": "3억 원",
+            "note": "기존 2억 원{C4}{C5}"
+          },
+          {
+            "label": "신혼 1인 소득",
+            "value": "7,000만 원",
+            "note": "이하면 이용 가능{C6}"
+          }
+        ],
+        "footnote": "출처: 한국주택금융공사 발표(10월 8일)·언론 보도"
+      },
+      {
+        "kind": "checklist",
+        "slot": 3,
+        "alt": "보증 대상인지 확인하는 네 가지 질문",
+        "title": "나도 대상일까?",
+        "items": [
+          "만 39세 이하 무주택자인가",
+          "혼인신고 7년 이내 또는 3개월 내 결혼 예정",
+          "미성년 자녀(태아 포함)가 있나",
+          "소득 입증한 사람이 차주가 되나"
+        ],
+        "footnote": "신혼·자녀가구 정의: 주택금융공사 발표{C8}{C9}"
+      },
+      {
+        "kind": "table",
+        "slot": 4,
+        "alt": "보증금 가정별로 90%를 계산하고 가구별 한도를 적용한 결과표",
+        "title": "보증금별 보증 최대치",
+        "headers": [
+          "가정",
+          "90%",
+          "최대치"
+        ],
+        "rows": [
+          [
+            "신혼 3억 원",
+            "2.7억 원{C16}",
+            "2.7억 원{C16}"
+          ],
+          [
+            "신혼 4억 원",
+            "3.6억 원{C17}",
+            "3억 원{C4}"
+          ],
+          [
+            "미혼 2.5억 원",
+            "2.25억 원{C18}",
+            "2억 원{C5}"
+          ]
+        ],
+        "footnote": "보증금은 계산 예시용 가정. 실제 한도는 심사에 따라 다름"
+      },
+      {
+        "kind": "flow",
+        "slot": 5,
+        "alt": "요건 확인부터 은행 신청, 보증 심사, 전세대출 실행까지의 네 단계",
+        "title": "신청 흐름",
+        "steps": [
+          "자격 요건 확인",
+          "취급 은행에 전세대출 상담",
+          "보증·대출 심사",
+          "전세대출 실행"
+        ],
+        "footnote": "10월 19일 신규 보증신청분부터 새 기준{C2}"
+      },
+      {
+        "kind": "timeline",
+        "slot": 6,
+        "alt": "금융 종합대책 발표부터 주택금융공사 개선안 발표, 새 기준 적용까지의 일정",
+        "title": "제도 개선 일정",
+        "events": [
+          {
+            "date": "8.13",
+            "label": "정부 금융 종합대책 발표{C14}"
+          },
+          {
+            "date": "10.8",
+            "label": "주택금융공사 개선안 발표{C1}"
+          },
+          {
+            "date": "10.19",
+            "label": "신규 보증신청분 적용{C2}"
+          }
+        ],
+        "footnote": "출처: 한국주택금융공사 보도자료"
+      }
+    ],
+    "video": {
+      "alt": "청년 전세보증 연령 확대, 신혼·자녀가구 한도, 적용일을 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "30대 후반 무주택자, 전세보증 받을 수 있을까?"
+        },
+        {
+          "kind": "fact",
+          "heading": "지원 연령 확대",
+          "big": "만 39세{C3}",
+          "body": "기존 만 34세 이하{C3}"
+        },
+        {
+          "kind": "fact",
+          "heading": "신혼·자녀가구 보증한도",
+          "big": "3억 원{C4}",
+          "body": "임차보증금의 90% 이내{C10}"
+        },
+        {
+          "kind": "explain",
+          "heading": "신혼부부는 한 명 연소득 7,000만 원 이하면 가능{C6}"
+        },
+        {
+          "kind": "cta",
+          "heading": "자세한 내용은 본문에서",
+          "body": "10월 19일 신규 신청분부터{C2}"
+        }
+      ]
+    }
+  }
+}
