@@ -1,0 +1,84 @@
+{
+  "runId": "20261012T021829-publish",
+  "mode": "publish",
+  "date": "2026-10-09",
+  "draftPath": "data/articles/2026/10/20261009-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-12T02:18:29.278Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:18:29.278Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:18:29.292Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-12T02:18:29.300Z",
+      "endedAt": "2026-10-12T02:18:29.300Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:18:29.300Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:18:44.844Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-12T02:18:44.848Z",
+      "endedAt": "2026-10-12T02:18:44.848Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:18:44.848Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:18:49.271Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:18:49.272Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:18:53.994Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:18:53.995Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:18:54.002Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261009-001",
+  "topic": "10월 8일 시행된 임금체불 법정형 상향(징역 5년·벌금 5천만 원)과 월급을 못 받았을 때 근로자가 확인할 신고·지원 절차",
+  "category": "생활경제",
+  "keywords": [
+    "임금체불 처벌",
+    "임금체불 신고",
+    "근로기준법 개정",
+    "도산대지급금",
+    "상습체불"
+  ],
+  "title": "임금체불 처벌 10월 8일부터 징역 5년, 월급 밀리면 어디에 신고할까?",
+  "sources": [
+    "https://m.ktv.go.kr/content/view?content_id=728885",
+    "https://www.mt.co.kr/economy/2026/06/30/2026063010072821787",
+    "https://www.news1.kr/economy/employment-labor/6300736",
+    "https://www.lawtimes.co.kr/news/articleView.html?idxno=226934",
+    "https://www.newspim.com/news/view/20260629001441",
+    "https://m.ktv.go.kr/news/sphere/T000021/view?content_id=737444",
+    "https://v.daum.net/v/20261005191644411"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3019,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "9053727212346705442",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/wage-arrears-penalty-report-guide.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-12T02:18:54.003Z",
+  "executionTimeMs": 24725
+}
