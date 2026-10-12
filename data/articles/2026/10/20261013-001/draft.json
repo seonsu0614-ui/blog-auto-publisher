@@ -1,0 +1,967 @@
+{
+  "contentId": "20261013-001",
+  "date": "2026-10-13",
+  "topic": "국토교통부 전세사기특별법 시행령 개정(10월 6일 국무회의 의결, 11월 13일 시행): 회복액이 임차보증금 3분의 1에 못 미치면 차액을 주는 최소보장제와 신탁사기 등 피해자 선지급-후정산제, 보증금별 최소지원금 계산과 LH 신청 절차",
+  "category": "생활경제",
+  "searchIntent": "전세사기 피해자가 11월 13일부터 보증금을 얼마나 돌려받을 수 있는지, 최소지원금·선지급금 계산법과 신청 시기·절차를 알고 싶음",
+  "differentiation": "최근 14일 글(기준금리, 양육비 선지급, 보금자리론 신혼부부, 최적요금제, 임금체불, 청년미래적금, 건강보험 무사고 할인, 청년 특례전세보증)과 겹치지 않는 전세사기 피해 구제 주제. 10월 12일 글은 전세대출 보증 자격이고, 이 글은 피해 보증금 회복(최소보장제) 계산과 신청 절차를 다룸",
+  "title": "전세사기 최소보장제 11월 13일 시행, 보증금 얼마나 돌려받을까?",
+  "seoTitle": "전세사기 최소보장제 11월 시행: 보증금 3분의 1 보장, 최소지원금 계산·신청 절차",
+  "metaDescription": "전세사기 최소보장제가 11월 13일 시행됩니다. 회복액이 보증금의 3분의 1에 못 미치면 차액을 받는 최소지원금 계산법과 선지급금, LH 신청 절차를 2026년 10월 13일 기준으로 정리했습니다.{C22}",
+  "slug": "jeonse-fraud-minimum-guarantee",
+  "primaryKeyword": "전세사기 최소보장제",
+  "secondaryKeywords": [
+    "전세사기 피해자 지원",
+    "최소지원금",
+    "선지급금",
+    "전세사기특별법 시행령"
+  ],
+  "relatedKeywords": [
+    "임차보증금",
+    "LH 피해주택 매입",
+    "경매차익",
+    "신탁사기",
+    "이의신청"
+  ],
+  "tags": [
+    "생활경제",
+    "전세사기 최소보장제",
+    "전세사기 피해자 지원",
+    "최소지원금",
+    "선지급금",
+    "전세사기특별법 시행령",
+    "전세사기",
+    "LH",
+    "11월 달라지는 제도"
+  ],
+  "hook": [
+    "전세사기로 경매까지 갔는데 돌려받은 돈이 보증금의 일부에 그쳤다면, 남은 손해를 어디까지 보전받을 수 있는지가 가장 궁금할 수 있습니다.",
+    "11월 13일부터 회복한 돈이 보증금의 3분의 1에 못 미치면 그 차이를 채워 주는 전세사기 최소보장제가 시행됩니다.{C2}{C3}",
+    "보증금별로 얼마를 받을 수 있는지, 언제 어디에 신청하는지 정리했습니다."
+  ],
+  "summary": [
+    "국토교통부는 10월 6일 국무회의에서 전세사기특별법 시행령 개정안이 의결됐다고 밝혔습니다.{C1}[S1][S2]",
+    "최소보장제와 선지급-후정산제는 11월 13일부터 시행됩니다.{C2}[S1]",
+    "최소보장금은 임차보증금의 3분의 1이고, 이미 회복한 돈을 뺀 차액을 최소지원금으로 받습니다.{C3}[S3]",
+    "신청·지급·정산은 LH가 맡고, 신청일부터 90일 안에 지급 여부를 알려 줍니다.{C5}[S4]",
+    "9월 말까지 누적 전세사기피해자 결정은 4만 1,559건입니다. (2026년 10월 13일 확인 기준){C14}{C22}[S7]"
+  ],
+  "sections": [
+    {
+      "heading": "전세사기 최소보장제, 무엇이 바뀌나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "국토교통부는 10월 6일 국무회의에서 「전세사기피해자 지원 및 주거안정에 관한 특별법」(전세사기특별법) 시행령 개정안이 의결됐다고 밝혔습니다.{C1} 5월 12일 공포된 특별법 개정의 세부 기준을 정한 것입니다.{C4}[S3][S4]"
+        },
+        {
+          "type": "p",
+          "text": "핵심은 두 가지입니다. 경매·공매 등을 거친 뒤에도 회복한 돈이 보증금의 3분의 1에 못 미치면 모자란 만큼을 채워 주는 최소보장제,{C3} 그리고 신탁사기처럼 계약 효력을 인정받기 어려운 피해자에게 돈을 먼저 주고 나중에 정산하는 선지급-후정산제입니다.[S2][S3]"
+        },
+        {
+          "type": "p",
+          "text": "두 제도 모두 11월 13일부터 시행되며, 신청·지급·정산 업무는 한국토지주택공사(LH)가 맡습니다.{C2}[S1][S3]"
+        },
+        {
+          "type": "callout",
+          "text": "**용어 풀이**: 최소보장금은 임차보증금의 3분의 1입니다.{C3} 최소지원금은 이 금액에서 이미 돌려받은 돈(배당금, 경매차익, 임대료 지원액 등)을 뺀 나머지입니다.[S3][S5]"
+        }
+      ]
+    },
+    {
+      "heading": "최소지원금과 선지급금, 어떻게 계산하나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "최소지원금 = 최소보장금(보증금의 3분의 1) − 기존 회복액입니다.{C3} 기존 회복액에는 대항력·우선변제권으로 받은 배당액, 임차보증금반환채권 변제액, 경매차익, 임대료 지원액 등이 들어갑니다.[S4][S5]"
+        },
+        {
+          "type": "p",
+          "text": "선지급금은 최소보장금에서 임차보증금반환채권 변제액과 선지급 전까지 받은 임대료 지원액 등을 뺀 금액입니다. 경·공매가 끝나기 전에 먼저 받고, 이후 더 회수되는 돈이 있으면 정산합니다.[S3][S4]"
+        },
+        {
+          "type": "table",
+          "caption": "국토교통부 발표 예시(보증금 1억 5,000만 원)",
+          "headers": [
+            "구분",
+            "최소보장제 예시",
+            "선지급제 예시"
+          ],
+          "rows": [
+            [
+              "최소보장금(3분의 1)",
+              "5,000만 원{C9}",
+              "5,000만 원{C9}"
+            ],
+            [
+              "이미 회복한 돈",
+              "배당+경매차익 3,000만 원{C10}",
+              "임대료 지원 1,000만 원"
+            ],
+            [
+              "추가로 받는 돈",
+              "최소지원금 2,000만 원{C11}",
+              "선지급금 4,000만 원{C12}"
+            ],
+            [
+              "총 회복액",
+              "5,000만 원{C9}",
+              "5,000만 원{C9}"
+            ]
+          ],
+          "note": "국토교통부 발표 예시를 보도한 기사 기준. 실제 금액은 개인별 회수액에 따라 달라짐"
+        },
+        {
+          "type": "image",
+          "slot": 2
+        }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 내 보증금이라면 얼마일까",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "발표 산식을 다른 보증금에 넣어 단순 계산해 보면 이렇습니다. 아래 보증금과 배당액은 계산 예시용 가정입니다.[S3][S5]"
+        },
+        {
+          "type": "table",
+          "caption": "보증금(가정)별 최소지원금 단순 계산",
+          "headers": [
+            "가정",
+            "최소보장금",
+            "이미 회복한 돈",
+            "최소지원금"
+          ],
+          "rows": [
+            [
+              "보증금 1억 2,000만 원",
+              "4,000만 원{C19}",
+              "배당 2,500만 원",
+              "1,500만 원{C20}"
+            ],
+            [
+              "보증금 9,000만 원",
+              "3,000만 원{C21}",
+              "배당 3,000만 원",
+              "0원{C23}"
+            ]
+          ],
+          "note": "단순 계산. 경매차익·임대료 지원액 등 다른 회수액이 있으면 그만큼 줄어듦"
+        },
+        {
+          "type": "callout",
+          "text": "**계산으로 보면**: 이미 보증금의 3분의 1 이상을 돌려받았다면 최소지원금은 0원입니다.{C23} 보증금의 3분의 1을 현금으로 따로 더 받는 제도가 아니라, 회복액이 3분의 1에 못 미칠 때 그 차이를 채우는 구조입니다.{C3}[S6]"
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "신청 시기와 처리 절차",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "**피해자 결정 먼저**: 거주지 관할 시·도에 신청해 전세사기피해자로 결정받아야 합니다. 결정문이 제출 서류에 포함됩니다.[S5][S7]",
+            "**최소지원금 신청 시기**: LH에 피해주택 매입을 요청했다면 경매차익 산정이 끝난 뒤, 그 밖에는 피해주택 처분 절차가 끝난 뒤 신청합니다.[S2][S4]",
+            "**선지급금 신청 시기**: LH 매입이 끝나기 전 또는 처분이 끝나기 전에 신청합니다.[S2][S4]",
+            "**LH 결정**: 신청일부터 90일 안에 지급 여부와 금액을 알려 주며,{C5} 부득이하면 30일 범위에서 한 번 연장할 수 있습니다.{C6}[S4]",
+            "**이의신청**: 결정에 동의하지 않으면 통지를 받은 날부터 30일 안에 이의신청할 수 있습니다.{C7}[S4][S5]"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "제출 서류는 피해자 결정문, 임대차계약서 사본, 주민등록표 초본, 등기사항전부증명서, 배당표 또는 배분계산서, 보증금반환채권 변제 관련 서류 등입니다. 질병이나 해외 체류로 직접 신청하기 어려우면 대리인을 정할 수 있습니다.[S4][S5]"
+        },
+        {
+          "type": "image",
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "heading": "피해자 결정 현황과 주의할 점",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "국토교통부가 10월 12일 밝힌 자료에 따르면 9월 한 달 동안 623건이 전세사기피해자 등으로 추가 결정돼 누적 결정은 4만 1,559건이 됐습니다.{C13}{C14}[S7][S8]"
+        },
+        {
+          "type": "p",
+          "text": "같은 달 583건은 요건을 충족하지 못해 부결됐고,{C15} 208건은 보증보험이나 최우선변제금으로 보증금 전액을 돌려받을 수 있어 적용에서 제외됐습니다.{C16} LH가 사들인 피해주택은 9월 말 기준 1만 1,148가구입니다.{C17}[S7][S8]"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "**받은 뒤 더 회수하면 반납**: 지원금을 받은 뒤 보증금을 추가로 돌려받으면 신고하고 반납해야 하며, 어기면 최대 3,000만 원 과태료가 부과될 수 있습니다.{C8}[S3][S4]",
+            "**실제 금액은 개인마다 다름**: 배당금·경매차익·임대료 지원액에 따라 지원액이 달라지므로 위 계산은 참고용입니다.[S6]",
+            "**세부 요건은 공식 안내로 확인**: 이미 경매가 끝난 피해자의 적용 방식 등 세부 사항은 LH와 국토교통부 안내를 확인하는 것이 안전합니다.[S1]"
+          ]
+        },
+        {
+          "type": "image",
+          "slot": 5
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "전세사기 피해자는 누구나 보증금의 3분의 1을 더 받나요?",
+      "answer": "아닙니다. 이미 회복한 돈이 보증금의 3분의 1에 못 미칠 때 그 차이만 받습니다.{C3}[S3] 이미 3분의 1 이상을 돌려받았다면 최소지원금은 없습니다.{C23}"
+    },
+    {
+      "question": "경매가 끝나지 않았는데도 돈을 먼저 받을 수 있나요?",
+      "answer": "신탁사기 등으로 계약 효력을 인정받기 어려운 피해자는 선지급금을 경·공매 종료 전에 받을 수 있습니다.[S3] 이후 추가 회수액을 반영해 정산합니다.[S4]"
+    },
+    {
+      "question": "신청하면 언제 결과가 나오나요?",
+      "answer": "LH는 신청일부터 90일 안에 지급 여부와 금액을 알려야 하고,{C5} 부득이한 경우 30일 범위에서 한 번 연장할 수 있습니다.{C6}[S4] 결과에 이의가 있으면 30일 안에 이의신청할 수 있습니다.{C7}"
+    }
+  ],
+  "closing": [
+    "전세사기 최소보장제는 11월 13일부터 시행됩니다.{C2}",
+    "회복액이 보증금의 3분의 1에 못 미치면 그 차이를 최소지원금으로 받습니다.{C3}",
+    "먼저 시·도에서 피해자 결정을 받고, 신청은 LH에 합니다.[S5][S7]",
+    "결과는 신청 후 90일 안에 나오며, 30일 안에 이의신청할 수 있습니다.{C5}{C7}"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "전세사기 피해 보증금 '최소 3분의 1 회복' 보장…11월 13일 시행 (정책뉴스)",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973064",
+      "publisher": "대한민국 정책브리핑(국토교통부)",
+      "tier": 1,
+      "accessedAt": "2026-10-13",
+      "referenceDate": "2026-10-06"
+    },
+    {
+      "id": "S2",
+      "title": "'전세사기 특별법' 국무회의 의결…국가가 임차보증금 3분의 1 보장",
+      "url": "https://m.sedaily.com/article/20098487",
+      "publisher": "서울경제",
+      "tier": 2,
+      "accessedAt": "2026-10-13",
+      "referenceDate": "2026-10-06"
+    },
+    {
+      "id": "S3",
+      "title": "국토부, 전세사기 최소보장·선지급제 11월 시행",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=71063",
+      "publisher": "뉴스후플러스",
+      "tier": 2,
+      "accessedAt": "2026-10-13",
+      "referenceDate": "2026-10-06"
+    },
+    {
+      "id": "S4",
+      "title": "국토교통부 '전세사기특별법' 시행령 개정안, 6일 국무회의 의결",
+      "url": "https://www.jungbunews.com/news/articleView.html?idxno=2751725",
+      "publisher": "중부뉴스통신",
+      "tier": 2,
+      "accessedAt": "2026-10-13",
+      "referenceDate": "2026-10-06"
+    },
+    {
+      "id": "S5",
+      "title": "전세사기 피해자 보증금 3분의 1 최소 보장…11월 13일부터 시행",
+      "url": "https://www.youcandonews.com/news/articleView.html?idxno=20526",
+      "publisher": "월드장애인사랑뉴스",
+      "tier": 2,
+      "accessedAt": "2026-10-13",
+      "referenceDate": "2026-10-06"
+    },
+    {
+      "id": "S6",
+      "title": "전세사기 피해자 보증금 3분의 1 최소보장…11월 13일부터 시행",
+      "url": "https://www.kairnews.com/news/529458",
+      "publisher": "한국AI부동산신문",
+      "tier": 2,
+      "accessedAt": "2026-10-13",
+      "referenceDate": "2026-10-12"
+    },
+    {
+      "id": "S7",
+      "title": "전세사기 피해자 623명 추가 인정…누적 4만1559건",
+      "url": "https://www.newspim.com/news/view/20261008001304",
+      "publisher": "뉴스핌",
+      "tier": 2,
+      "accessedAt": "2026-10-13",
+      "referenceDate": "2026-10-12"
+    },
+    {
+      "id": "S8",
+      "title": "9월 전세사기 피해자 623건 추가…누적 4만1559건 인정",
+      "url": "https://biz.heraldcorp.com/article/10898782",
+      "publisher": "헤럴드경제",
+      "tier": 2,
+      "accessedAt": "2026-10-13",
+      "referenceDate": "2026-10-12"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "국토교통부, 10월 6일 국무회의에서 전세사기특별법 시행령 일부 개정안 의결",
+      "value": "10월 6일",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C2",
+      "claim": "최소보장제·선지급-후정산제 11월 13일 시행",
+      "value": "11월 13일",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C3",
+      "claim": "최소보장금은 임차보증금의 3분의 1",
+      "value": "3분의 1",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C4",
+      "claim": "전세사기특별법 개정안 2026년 5월 12일 공포",
+      "value": "5월 12일",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C5",
+      "claim": "LH는 신청일부터 90일 이내 지급 여부·금액 결정·통지",
+      "value": "90일",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C6",
+      "claim": "부득이한 경우 30일 범위에서 한 차례 연장",
+      "value": "30일, 1회",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C7",
+      "claim": "결정 통지를 받은 날부터 30일 이내 이의신청",
+      "value": "30일",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C8",
+      "claim": "반납 사유 미신고·기한 내 미반납 시 위반 횟수에 따라 최대 3,000만 원 과태료",
+      "value": "3,000만 원",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "예시: 보증금 1억 5,000만 원의 3분의 1(최소보장금)",
+      "value": "5,000만 원",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "150000000 / 3",
+      "notes": "국토부 발표 예시"
+    },
+    {
+      "id": "C10",
+      "claim": "예시: 경매 배당 2,000만 원 + 경매차익 1,000만 원 = 기존 회복액",
+      "value": "3,000만 원",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "20000000 + 10000000",
+      "notes": "국토부 발표 예시"
+    },
+    {
+      "id": "C11",
+      "claim": "예시: 최소지원금 = 5,000만 원 - 3,000만 원",
+      "value": "2,000만 원",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "50000000 - 30000000",
+      "notes": "국토부 발표 예시. 총 회복액 5,000만 원"
+    },
+    {
+      "id": "C12",
+      "claim": "예시: 보증금 1억 5,000만 원, 임대료 지원 1,000만 원일 때 선지급금",
+      "value": "4,000만 원",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "50000000 - 10000000",
+      "notes": "국토부 발표 예시. 다른 회복금 없음 가정"
+    },
+    {
+      "id": "C13",
+      "claim": "9월 전세사기피해자등 추가 결정",
+      "value": "623건",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C14",
+      "claim": "전세사기피해자등 누적 결정",
+      "value": "4만 1,559건",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C15",
+      "claim": "9월 요건 미충족 부결",
+      "value": "583건",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C16",
+      "claim": "9월 보증보험·최우선변제금으로 전액 회수 가능해 적용 제외",
+      "value": "208건",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C17",
+      "claim": "LH 피해주택 누적 매입(9월 30일 기준)",
+      "value": "1만 1,148가구",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C18",
+      "claim": "피해자 협동조합이 발행주식 50% 이상 보유한 부동산투자회사에 지방정부 지원 가능",
+      "value": "50%",
+      "referenceDate": "2026-10-06",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C19",
+      "claim": "가정: 보증금 1억 2,000만 원의 3분의 1",
+      "value": "4,000만 원",
+      "referenceDate": "2026-10-13",
+      "sourceIds": [
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "120000000 / 3",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C20",
+      "claim": "가정: 4,000만 원 - 배당 2,500만 원 = 최소지원금",
+      "value": "1,500만 원",
+      "referenceDate": "2026-10-13",
+      "sourceIds": [
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "40000000 - 25000000",
+      "notes": "계산 예시용 가정. 단순 계산"
+    },
+    {
+      "id": "C21",
+      "claim": "가정: 보증금 9,000만 원의 3분의 1",
+      "value": "3,000만 원",
+      "referenceDate": "2026-10-13",
+      "sourceIds": [
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "90000000 / 3",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C22",
+      "claim": "원고 작성·출처 확인 기준일",
+      "value": "2026년 10월 13일",
+      "referenceDate": "2026-10-13",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C23",
+      "claim": "가정: 배당 3,000만 원 회수 시 최소지원금(3,000만 원 - 3,000만 원)",
+      "value": "0원",
+      "referenceDate": "2026-10-13",
+      "sourceIds": [
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "30000000 - 30000000",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C24",
+      "claim": "누적 주거·금융·법률 지원",
+      "value": "8만 188건",
+      "referenceDate": "2026-10-12",
+      "sourceIds": [
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    }
+  ],
+  "topicCandidates": [
+    {
+      "topic": "전세사기 최소보장제·선지급제 11월 13일 시행",
+      "category": "생활경제",
+      "primaryKeyword": "전세사기 최소보장제",
+      "angle": "보증금별 최소지원금 계산과 신청 절차",
+      "whyNow": "10월 6일 시행령 국무회의 의결, 10월 12일 피해자 결정 현황 https://www.newswhoplus.com/news/articleView.html?idxno=71063",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "철도 승차권 2개월 전 예매(10월 1일)",
+      "category": "생활경제",
+      "primaryKeyword": "KTX 2개월 전 예매",
+      "angle": "연말 열차표 예매 시점",
+      "whyNow": "9월 20일 국토부·코레일 발표 https://www.newsis.com/view/NISX20260919_0003796834",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "유류세 인하 11월 말까지 연장",
+      "category": "경제",
+      "primaryKeyword": "유류세 인하 연장",
+      "angle": "리터당 인하액과 주유비 계산",
+      "whyNow": "9월 17일 정부 발표 https://www.newspim.com/news/view/20260917001192",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "4분기 전기요금 동결",
+      "category": "생활경제",
+      "primaryKeyword": "4분기 전기요금",
+      "angle": "가구별 요금 영향",
+      "whyNow": "9월 21일 한전 발표 https://www.fnnews.com/news/202609210822423785",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "low",
+        "depth": "low",
+        "differentiation": "low",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "9월 전세사기 피해자 623건 추가 결정",
+      "category": "생활경제",
+      "primaryKeyword": "전세사기 피해자 결정",
+      "angle": "피해자 결정 현황",
+      "whyNow": "10월 12일 국토부 발표 https://www.newspim.com/news/view/20261008001304",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "low",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "주민등록표 등·초본 가족 표기 통일(10월 29일)",
+      "category": "정책/제도",
+      "primaryKeyword": "주민등록표 가족 표기",
+      "angle": "등본 표기 변화",
+      "whyNow": "정책브리핑 10월 달라지는 제도 https://www.korea-news.com/news/articleView.html?idxno=105077",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "배달앱 농수산물 원산지 고지 의무(10월 30일)",
+      "category": "생활경제",
+      "primaryKeyword": "배달앱 원산지 표시",
+      "angle": "소비자 확인법",
+      "whyNow": "정책브리핑 10월 달라지는 제도 https://www.korea-news.com/news/articleView.html?idxno=105077",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "가공식품 가격 인상(피자·아이스크림)",
+      "category": "생활경제",
+      "primaryKeyword": "가공식품 가격 인상",
+      "angle": "품목별 인상률",
+      "whyNow": "10월 8일 보도 https://segye.com/newsView/20261008507643",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "low",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "경기도 청년기본소득 4분기 신청",
+      "category": "생활경제",
+      "primaryKeyword": "경기도 청년기본소득",
+      "angle": "신청 기간·대상",
+      "whyNow": "10월 안내 https://www.make2t.kr/2026/10/gyeonggi-youth-basic-income-2026-apply.html",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "전세사기 피해 방지 주택임대차보호법 개정",
+      "category": "정책/제도",
+      "primaryKeyword": "주택임대차보호법 개정",
+      "angle": "세입자 보호 변화",
+      "whyNow": "korea.kr 보도자료 https://www.korea.kr/briefing/pressReleaseView.do?newsId=156552137",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "low",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      }
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "전세사기 피해 보증금 최소보장제 시행일을 알리는 표지 그래픽",
+        "eyebrow": "11월 13일 시행{C2}",
+        "title": "전세사기 최소보장제",
+        "subtitle": "보증금의 3분의 1까지 회복 보장{C3}"
+      },
+      {
+        "kind": "stats",
+        "slot": 2,
+        "alt": "발표 예시에서 최소보장금, 기존 회복액, 최소지원금을 보여주는 숫자 카드",
+        "title": "국토부 발표 예시로 보면",
+        "stats": [
+          {
+            "label": "최소보장금",
+            "value": "5,000만 원",
+            "note": "보증금의 3분의 1{C9}"
+          },
+          {
+            "label": "기존 회복액",
+            "value": "3,000만 원",
+            "note": "배당+경매차익{C10}"
+          },
+          {
+            "label": "최소지원금",
+            "value": "2,000만 원",
+            "note": "차액 지원{C11}"
+          }
+        ],
+        "footnote": "출처: 국토교통부 발표 예시(10월 6일)"
+      },
+      {
+        "kind": "table",
+        "slot": 3,
+        "alt": "가정한 보증금별 최소보장금과 최소지원금 계산표",
+        "title": "보증금별 단순 계산",
+        "headers": [
+          "가정",
+          "3분의 1",
+          "지원금"
+        ],
+        "rows": [
+          [
+            "1억 2,000만 원",
+            "4,000만 원{C19}",
+            "1,500만 원{C20}"
+          ],
+          [
+            "9,000만 원",
+            "3,000만 원{C21}",
+            "0원{C23}"
+          ]
+        ],
+        "footnote": "보증금·배당액은 계산 예시용 가정"
+      },
+      {
+        "kind": "flow",
+        "slot": 4,
+        "alt": "피해자 결정부터 LH 신청, 결정 통지, 지급까지의 네 단계",
+        "title": "신청 흐름",
+        "steps": [
+          "시·도 피해자 결정",
+          "LH에 지원금 신청",
+          "90일 내 결정 통지",
+          "지급 또는 이의신청"
+        ],
+        "footnote": "처리기간 90일, 이의신청 30일{C5}{C7}"
+      },
+      {
+        "kind": "checklist",
+        "slot": 5,
+        "alt": "지원금 신청 전 확인할 네 가지 사항",
+        "title": "신청 전 확인",
+        "items": [
+          "피해자 결정문을 받았나",
+          "배당·경매차익 등 회수액 정리",
+          "선지급 대상(신탁사기 등)인가",
+          "추가 회수 시 반납 의무 확인"
+        ],
+        "footnote": "출처: 국토교통부 발표·언론 보도"
+      },
+      {
+        "kind": "timeline",
+        "slot": 6,
+        "alt": "특별법 개정 공포부터 시행령 의결, 제도 시행까지의 일정",
+        "title": "제도 일정",
+        "events": [
+          {
+            "date": "5.12",
+            "label": "특별법 개정 공포{C4}"
+          },
+          {
+            "date": "10.6",
+            "label": "시행령 국무회의 의결{C1}"
+          },
+          {
+            "date": "11.13",
+            "label": "최소보장제 시행{C2}"
+          }
+        ],
+        "footnote": "출처: 국토교통부"
+      }
+    ],
+    "video": {
+      "alt": "전세사기 최소보장제의 시행일, 보장 비율, 계산 예시를 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "전세사기 피해, 보증금 얼마나 돌려받을까?"
+        },
+        {
+          "kind": "fact",
+          "heading": "최소보장 비율",
+          "big": "3분의 1{C3}",
+          "body": "11월 13일 시행{C2}"
+        },
+        {
+          "kind": "fact",
+          "heading": "국토부 발표 예시로 보면",
+          "big": "2,000만 원{C11}",
+          "body": "기존 회복 3,000만 원에 더해{C10}"
+        },
+        {
+          "kind": "explain",
+          "heading": "LH가 90일 안에 지급 여부 결정{C5}"
+        },
+        {
+          "kind": "cta",
+          "heading": "자세한 내용은 본문에서",
+          "body": "11월 13일부터 신청{C2}"
+        }
+      ]
+    }
+  }
+}
