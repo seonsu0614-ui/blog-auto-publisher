@@ -1,0 +1,85 @@
+{
+  "runId": "20261012T214339-publish",
+  "mode": "publish",
+  "date": "2026-10-13",
+  "draftPath": "data/articles/2026/10/20261013-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-12T21:43:39.569Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T21:43:39.569Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T21:43:39.581Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-12T21:43:39.589Z",
+      "endedAt": "2026-10-12T21:43:39.589Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T21:43:39.589Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T21:44:03.398Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-12T21:44:03.402Z",
+      "endedAt": "2026-10-12T21:44:03.402Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T21:44:03.402Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T21:44:08.164Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T21:44:08.165Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T21:44:12.794Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T21:44:12.795Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T21:44:12.802Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261013-001",
+  "topic": "국토교통부 전세사기특별법 시행령 개정(10월 6일 국무회의 의결, 11월 13일 시행): 회복액이 임차보증금 3분의 1에 못 미치면 차액을 주는 최소보장제와 신탁사기 등 피해자 선지급-후정산제, 보증금별 최소지원금 계산과 LH 신청 절차",
+  "category": "생활경제",
+  "keywords": [
+    "전세사기 최소보장제",
+    "전세사기 피해자 지원",
+    "최소지원금",
+    "선지급금",
+    "전세사기특별법 시행령"
+  ],
+  "title": "전세사기 최소보장제 11월 13일 시행, 보증금 얼마나 돌려받을까?",
+  "sources": [
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148973064",
+    "https://m.sedaily.com/article/20098487",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=71063",
+    "https://www.jungbunews.com/news/articleView.html?idxno=2751725",
+    "https://www.youcandonews.com/news/articleView.html?idxno=20526",
+    "https://www.kairnews.com/news/529458",
+    "https://www.newspim.com/news/view/20261008001304",
+    "https://biz.heraldcorp.com/article/10898782"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3197,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "7390422898963999022",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/jeonse-fraud-minimum-guarantee.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-12T21:44:12.802Z",
+  "executionTimeMs": 33233
+}
