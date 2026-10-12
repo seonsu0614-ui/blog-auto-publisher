@@ -1,0 +1,85 @@
+{
+  "runId": "20261012T021549-publish",
+  "mode": "publish",
+  "date": "2026-10-11",
+  "draftPath": "data/articles/2026/10/20261011-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-12T02:15:49.050Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:15:49.050Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:15:49.069Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-12T02:15:49.081Z",
+      "endedAt": "2026-10-12T02:15:49.081Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:15:49.081Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:16:05.873Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-12T02:16:05.879Z",
+      "endedAt": "2026-10-12T02:16:05.879Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:16:05.879Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:16:11.003Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:16:11.004Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:16:15.814Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:16:15.814Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:16:15.824Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261011-001",
+  "topic": "건강보험 무사고 계약전환 제도 개선(금융감독원 10월 5일 발표): 1년 넘은 계약 중 17.6%만 할인, 전화·모바일 신청과 보험사가 유리한 유형 적용으로 바뀌는 점과 신청 전 확인할 사항",
+  "category": "생활경제",
+  "keywords": [
+    "건강보험 무사고 할인",
+    "무사고 계약전환",
+    "보험료 할인",
+    "간편보험",
+    "보험료 절감"
+  ],
+  "title": "건강보험 무사고 할인, 1년 넘은 계약 17.6%만 받아…나도 대상일까?",
+  "sources": [
+    "https://eiec.kdi.re.kr/policy/materialView.do?num=287802",
+    "https://www.mt.co.kr/finance/2026/10/05/2026100217272736588",
+    "https://www.insnews.co.kr/news/articleView.html?idxno=93153",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/05/2026100500033.html",
+    "https://www.dailian.co.kr/news/view/1697867/",
+    "https://biz.sbs.co.kr/amp/article/20000338289",
+    "https://www.fnnews.com/news/202610051249043299",
+    "https://www.issueedico.co.kr/news/article.html?no=38671"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3926,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "8564134287531575796",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/health-insurance-no-claim-discount.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-12T02:16:15.825Z",
+  "executionTimeMs": 26775
+}
