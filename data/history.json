@@ -122,5 +122,37 @@
     "wordCount": 2741,
     "imageCount": 6,
     "videoCreated": true
+  },
+  {
+    "contentId": "20261010-001",
+    "date": "2026-10-10",
+    "title": "청년미래적금 2차 신청 10월 16일 마감, 나도 가입 대상일까?",
+    "topic": "청년미래적금 2차 가입 신청(10월 7~16일): 남은 신청일, 가입 대상·소득 기준, 정부기여금 계산, 청년도약계좌 갈아타기 순서",
+    "primaryKeyword": "청년미래적금 2차",
+    "secondaryKeywords": [
+      "청년미래적금 가입 조건",
+      "정부기여금",
+      "청년도약계좌 갈아타기",
+      "청년미래적금 우대형"
+    ],
+    "category": "생활경제",
+    "searchIntent": "청년미래적금 2차를 언제까지 신청할 수 있는지, 내가 대상인지, 3년간 넣으면 정부기여금을 얼마 받는지, 청년도약계좌에서 갈아탈 때 순서를 알고 싶음",
+    "tags": [
+      "생활경제",
+      "청년미래적금",
+      "청년미래적금 2차",
+      "청년 적금",
+      "정부기여금",
+      "청년도약계좌",
+      "갈아타기",
+      "금융위원회",
+      "목돈 마련"
+    ],
+    "url": "https://lifeeconomy-briefing.blogspot.com/2026/10/youth-future-savings-second-round.html",
+    "postId": "4283776092073864111",
+    "publishedAt": "2026-10-12T11:10:06+09:00",
+    "wordCount": 3365,
+    "imageCount": 6,
+    "videoCreated": true
   }
 ]

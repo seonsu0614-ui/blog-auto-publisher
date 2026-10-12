@@ -1,0 +1,84 @@
+{
+  "runId": "20261012T020946-publish",
+  "mode": "publish",
+  "date": "2026-10-10",
+  "draftPath": "data/articles/2026/10/20261010-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-12T02:09:46.446Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:09:46.446Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:09:46.461Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-12T02:09:46.472Z",
+      "endedAt": "2026-10-12T02:09:46.472Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:09:46.473Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:10:03.346Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-12T02:10:03.353Z",
+      "endedAt": "2026-10-12T02:10:03.353Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:10:03.353Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:10:08.249Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:10:08.250Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:10:12.808Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-12T02:10:12.808Z",
+      "attempts": 1,
+      "endedAt": "2026-10-12T02:10:12.817Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261010-001",
+  "topic": "청년미래적금 2차 가입 신청(10월 7~16일): 남은 신청일, 가입 대상·소득 기준, 정부기여금 계산, 청년도약계좌 갈아타기 순서",
+  "category": "생활경제",
+  "keywords": [
+    "청년미래적금 2차",
+    "청년미래적금 가입 조건",
+    "정부기여금",
+    "청년도약계좌 갈아타기",
+    "청년미래적금 우대형"
+  ],
+  "title": "청년미래적금 2차 신청 10월 16일 마감, 나도 가입 대상일까?",
+  "sources": [
+    "https://www.fsc.go.kr/no010101/87726",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148971997",
+    "https://www.newspim.com/news/view/20261006000250",
+    "https://biz.heraldcorp.com/article/10894282",
+    "https://www.fnnews.com/news/202610061201390283",
+    "https://biz.sbs.co.kr/amp/article/20000334931",
+    "https://www.tossbank.com/articles/youth-future-saving-2nd"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3365,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "4283776092073864111",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/youth-future-savings-second-round.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-12T02:10:12.818Z",
+  "executionTimeMs": 26372
+}
