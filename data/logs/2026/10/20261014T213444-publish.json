@@ -1,0 +1,85 @@
+{
+  "runId": "20261014T213444-publish",
+  "mode": "publish",
+  "date": "2026-10-15",
+  "draftPath": "data/articles/2026/10/20261015-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-14T21:34:44.303Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-14T21:34:44.303Z",
+      "attempts": 1,
+      "endedAt": "2026-10-14T21:34:44.315Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-14T21:34:44.323Z",
+      "endedAt": "2026-10-14T21:34:44.323Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-14T21:34:44.323Z",
+      "attempts": 1,
+      "endedAt": "2026-10-14T21:35:06.937Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-14T21:35:06.941Z",
+      "endedAt": "2026-10-14T21:35:06.941Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-14T21:35:06.941Z",
+      "attempts": 1,
+      "endedAt": "2026-10-14T21:35:11.753Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-14T21:35:11.753Z",
+      "attempts": 1,
+      "endedAt": "2026-10-14T21:35:12.747Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-14T21:35:12.748Z",
+      "attempts": 1,
+      "endedAt": "2026-10-14T21:35:12.755Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261015-001",
+  "topic": "보건복지부 장애인활동 지원에 관한 법률 시행령 개정(10월 13일 국무회의 의결): 최중증 발달장애인·희귀질환자 가정의 가족 활동지원 허용 기한을 2026년 10월 31일에서 2028년 12월 31일로 2년 2개월 연장, 대상 요건과 활동지원 제도 기본 구조",
+  "category": "정책제도",
+  "keywords": [
+    "가족 활동지원",
+    "장애인 활동지원",
+    "최중증 발달장애인",
+    "희귀질환자 돌봄",
+    "장애인활동지원법 시행령"
+  ],
+  "title": "최중증 장애인 가족 활동지원 2028년 말까지 연장, 대상과 조건은?",
+  "sources": [
+    "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1483437&mid=a10503010100&nPage=1&tag=",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148929369",
+    "https://biz.heraldcorp.com/article/10901007",
+    "https://www.etoday.co.kr/news/view/2634920",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274789",
+    "https://www.nursenews.co.kr/news/articleView.html?idxno=45052",
+    "https://www.youcandonews.com/news/articleView.html?idxno=20761",
+    "https://www.ksw-news.com/news/articleView.html?idxno=3046463"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 5,
+  "videoCreated": true,
+  "wordCount": 2897,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "1908932407449338937",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/family-disability-care-extension.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-14T21:35:12.755Z",
+  "executionTimeMs": 28452
+}
