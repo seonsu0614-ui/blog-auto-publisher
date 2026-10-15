@@ -1,0 +1,87 @@
+{
+  "runId": "20261015T213802-publish",
+  "mode": "publish",
+  "date": "2026-10-16",
+  "draftPath": "data/articles/2026/10/20261016-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-15T21:38:02.718Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-15T21:38:02.719Z",
+      "attempts": 1,
+      "endedAt": "2026-10-15T21:38:02.735Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-15T21:38:02.746Z",
+      "endedAt": "2026-10-15T21:38:02.746Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-15T21:38:02.746Z",
+      "attempts": 1,
+      "endedAt": "2026-10-15T21:38:30.085Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-15T21:38:30.094Z",
+      "endedAt": "2026-10-15T21:38:30.094Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-15T21:38:30.094Z",
+      "attempts": 1,
+      "endedAt": "2026-10-15T21:38:35.045Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-15T21:38:35.046Z",
+      "attempts": 1,
+      "endedAt": "2026-10-15T21:38:39.601Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-15T21:38:39.603Z",
+      "attempts": 1,
+      "endedAt": "2026-10-15T21:38:39.611Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261016-001",
+  "topic": "금융위원회 2026년 9월 가계대출 동향(잠정): 전 금융권 가계대출 2조 2,000억 원 감소(올해 첫 감소), 업권·대출 종류별 변화, 연말 대출절벽 우려에 대한 금융당국 설명(8·13 대책 총량 목표 상향·집단대출 제외)",
+  "category": "생활경제",
+  "keywords": [
+    "가계대출 감소",
+    "연말 대출절벽",
+    "가계대출 총량",
+    "주택담보대출",
+    "신용대출"
+  ],
+  "title": "9월 가계대출 올해 첫 감소, 연말에 대출 막힐까? 업권별 숫자로 정리",
+  "sources": [
+    "https://eiec.kdi.re.kr/policy/materialView.do?num=288149",
+    "https://eiec.kdi.re.kr/policy/materialView.do?num=288135",
+    "https://www.seoul.co.kr/news/economy/2026/10/15/20261015500136",
+    "https://ddaily.co.kr/page/view/2026101517154858960",
+    "https://www.seoulfn.com/news/articleView.html?idxno=640136",
+    "https://news.mtn.co.kr/article/2026101513252932708",
+    "https://www.etnews.com/20261015000242",
+    "https://www.newspim.com/news/view/20261015000426",
+    "https://www.greened.kr/news/articleView.html?idxno=352187",
+    "https://www.g-enews.com/article/Finance/2026/08/202608131427584955a6e8311f64_1"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3428,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "3695241909405729476",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/household-loan-decline-september.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-15T21:38:39.612Z",
+  "executionTimeMs": 36894
+}

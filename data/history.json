@@ -312,5 +312,38 @@
     "wordCount": 2897,
     "imageCount": 5,
     "videoCreated": true
+  },
+  {
+    "contentId": "20261016-001",
+    "date": "2026-10-16",
+    "title": "9월 가계대출 올해 첫 감소, 연말에 대출 막힐까? 업권별 숫자로 정리",
+    "topic": "금융위원회 2026년 9월 가계대출 동향(잠정): 전 금융권 가계대출 2조 2,000억 원 감소(올해 첫 감소), 업권·대출 종류별 변화, 연말 대출절벽 우려에 대한 금융당국 설명(8·13 대책 총량 목표 상향·집단대출 제외)",
+    "primaryKeyword": "가계대출 감소",
+    "secondaryKeywords": [
+      "연말 대출절벽",
+      "가계대출 총량",
+      "주택담보대출",
+      "신용대출"
+    ],
+    "category": "생활경제",
+    "searchIntent": "가계대출이 줄었다는데 연말에 주택담보대출·신용대출을 받기 어려워지는지, 은행과 2금융권에서 무엇이 달라졌는지 알고 싶음",
+    "tags": [
+      "생활경제",
+      "가계대출 감소",
+      "가계대출",
+      "연말 대출절벽",
+      "가계대출 총량",
+      "주택담보대출",
+      "신용대출",
+      "집단대출",
+      "금융위원회",
+      "가계부채"
+    ],
+    "url": "https://lifeeconomy-briefing.blogspot.com/2026/10/household-loan-decline-september.html",
+    "postId": "3695241909405729476",
+    "publishedAt": "2026-10-16T06:38:33+09:00",
+    "wordCount": 3428,
+    "imageCount": 6,
+    "videoCreated": true
   }
 ]
