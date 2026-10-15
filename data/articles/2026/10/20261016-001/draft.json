@@ -1,0 +1,1150 @@
+{
+  "contentId": "20261016-001",
+  "date": "2026-10-16",
+  "topic": "금융위원회 2026년 9월 가계대출 동향(잠정): 전 금융권 가계대출 2조 2,000억 원 감소(올해 첫 감소), 업권·대출 종류별 변화, 연말 대출절벽 우려에 대한 금융당국 설명(8·13 대책 총량 목표 상향·집단대출 제외)",
+  "category": "생활경제",
+  "searchIntent": "가계대출이 줄었다는데 연말에 주택담보대출·신용대출을 받기 어려워지는지, 은행과 2금융권에서 무엇이 달라졌는지 알고 싶음",
+  "differentiation": "최근 14일 글(기준금리, 양육비 선지급, 보금자리론 신혼부부, 최적요금제, 임금체불, 청년미래적금, 건강보험 무사고 할인, 청년 특례전세보증, 전세사기 최소보장제, 가족 활동지원)과 겹치지 않는 가계대출 월간 통계·총량 관리 주제. 보금자리론·청년 전세보증은 시행일만 짧게 언급",
+  "title": "9월 가계대출 올해 첫 감소, 연말에 대출 막힐까? 업권별 숫자로 정리",
+  "seoTitle": "9월 가계대출 감소 전환과 연말 대출절벽 우려: 은행·2금융권 숫자 정리",
+  "metaDescription": "9월 전 금융권 가계대출이 2조 2,000억 원 줄며 올해 처음 감소했습니다. 은행·2금융권 변화와 연말 대출절벽 우려에 대한 금융위 설명을 10월 15일 발표 기준으로 정리했습니다.{C1}{C26}",
+  "slug": "household-loan-decline-september",
+  "primaryKeyword": "가계대출 감소",
+  "secondaryKeywords": [
+    "연말 대출절벽",
+    "가계대출 총량",
+    "주택담보대출",
+    "신용대출"
+  ],
+  "relatedKeywords": [
+    "가계부채 점검회의",
+    "2금융권 가계대출",
+    "집단대출",
+    "8·13 대책",
+    "금융위원회"
+  ],
+  "tags": [
+    "생활경제",
+    "가계대출 감소",
+    "가계대출",
+    "연말 대출절벽",
+    "가계대출 총량",
+    "주택담보대출",
+    "신용대출",
+    "집단대출",
+    "금융위원회",
+    "가계부채"
+  ],
+  "hook": [
+    "연말에 이사나 잔금 일정이 잡혀 있다면, 가계대출이 줄었다는 소식에 \"대출 문이 닫히는 것 아닌가\" 하는 걱정이 먼저 들 수 있습니다.",
+    "9월 전 금융권 가계대출은 한 달 새 2조 2,000억 원 줄었습니다.{C1}[S1]",
+    "그런데 주택담보대출은 여전히 늘었고, 줄어든 것은 주로 신용대출 등 기타대출이었습니다.{C7}{C9}",
+    "어디서 얼마나 줄었는지, 연말 대출 여력은 어떻게 되는지 금융당국 설명을 기준으로 정리했습니다."
+  ],
+  "summary": [
+    "금융위원회는 10월 15일 9월 가계대출이 전 금융권에서 2조 2,000억 원 감소했다고 발표했습니다(잠정).{C26}{C1}[S1][S4]",
+    "감소는 올해 들어 처음이며, 2025년 12월(1조 2,000억 원 감소) 이후 9개월 만입니다.{C2}[S5]",
+    "주택담보대출은 3조 3,000억 원 늘었지만, 기타대출이 5조 5,000억 원 줄어 전체가 감소로 돌아섰습니다.{C7}{C9}[S4]",
+    "금융당국은 총량 목표 상향(1.5%에서 3.0%)과 집단대출 제외로 연말 대출절벽 우려는 제한적이라고 설명했습니다.{C23}{C24}[S3][S6]"
+  ],
+  "sections": [
+    {
+      "heading": "9월 가계대출, 무엇이 줄었나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "이번 수치는 금융위원회·금융감독원이 낸 「2026년 9월 가계대출 동향(잠정)」 기준입니다. 9월 말 잔액을 8월 말과 비교한 값이며, 잠정치라 확정 때 조금 달라질 수 있습니다.[S1][S4]"
+        },
+        {
+          "type": "p",
+          "text": "월별 흐름을 보면 증가폭은 5월 9조 3,000억 원, 6월 8조 3,000억 원, 7월 6조 4,000억 원으로 줄어들다가 8월 2조 8,000억 원까지 내려왔습니다.{C3}{C4}{C5}{C6}[S5]"
+        },
+        {
+          "type": "p",
+          "text": "9월에는 증가가 아니라 감소로 바뀌었습니다. 다만 **주택담보대출(주담대)은 3조 3,000억 원 늘었고**, 8월보다 증가폭이 1조 원 작아진 것입니다.{C7}{C30}[S4]"
+        },
+        {
+          "type": "p",
+          "text": "가계대출 감소를 이끈 것은 기타대출입니다. 신용대출·마이너스통장 등을 포함한 기타대출이 5조 5,000억 원 줄었고, 이 가운데 신용대출이 3조 원 감소했습니다.{C9}{C11}[S3][S4]"
+        },
+        {
+          "type": "callout",
+          "text": "기타대출 감소 5조 5,000억 원에서 주담대 증가 3조 3,000억 원을 빼면 전 금융권 순감소 2조 2,000억 원과 맞습니다.{C29}"
+        }
+      ]
+    },
+    {
+      "heading": "은행과 2금융권, 업권별로 보면",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "은행권 가계대출은 6,000억 원 늘었습니다. 8월(3조 5,000억 원 증가)보다 증가폭이 크게 줄었습니다.{C12}{C13}[S5]"
+        },
+        {
+          "type": "p",
+          "text": "은행 주담대는 2조 9,000억 원 늘어 8월(4조 1,000억 원)보다 둔화했고, 은행 기타대출은 2조 3,000억 원 줄었습니다. 한국은행 집계에서도 은행 가계대출 잔액은 9월 말 1,198조 9,000억 원이었습니다.{C14}{C15}{C16}{C22}[S2][S8]"
+        },
+        {
+          "type": "table",
+          "caption": "9월 업권별 가계대출 증감(전월 대비, 잠정)",
+          "headers": [
+            "업권",
+            "9월 증감"
+          ],
+          "rows": [
+            [
+              "전 금융권",
+              "2조 2,000억 원 감소{C1}"
+            ],
+            [
+              "은행권",
+              "6,000억 원 증가{C12}"
+            ],
+            [
+              "2금융권 합계",
+              "2조 8,000억 원 감소{C17}"
+            ],
+            [
+              "여신전문금융회사",
+              "9,000억 원 감소{C20}"
+            ],
+            [
+              "보험",
+              "8,000억 원 감소{C19}"
+            ]
+          ],
+          "note": "금융위원회 발표를 보도한 언론 기준. 상호금융은 7,000억 원, 저축은행은 4,000억 원 감소(C18, C21)"
+        },
+        {
+          "type": "p",
+          "text": "2금융권(은행 외 상호금융·보험·카드사 등)은 2조 8,000억 원 줄었습니다. 상호금융 7,000억 원, 저축은행 4,000억 원도 감소했습니다.{C17}{C18}{C21}[S4][S5]"
+        },
+        {
+          "type": "callout",
+          "text": "은행권 6,000억 원 증가와 2금융권 2조 8,000억 원 감소를 합치면 전 금융권 2조 2,000억 원 감소가 됩니다.{C28}"
+        },
+        {
+          "type": "image",
+          "slot": 2
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "왜 줄었나: 금융당국과 한국은행의 설명",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "금융위원회는 감소 이유로 주택 거래와 입주 물량 감소, 분기 말 금융회사의 부실채권 매각·상각, 명절 상여금 유입 같은 계절 요인을 꼽았습니다.[S3][S7]"
+        },
+        {
+          "type": "p",
+          "text": "한국은행은 기타대출이 줄어든 배경으로 개인의 주식 투자 감소를 함께 들었습니다. 추석 상여금으로 대출을 갚은 영향도 있었다고 설명했습니다.[S2][S9]"
+        },
+        {
+          "type": "p",
+          "text": "계절 요인이 섞여 있다는 점은 기억해 둘 만합니다. 금융당국도 한 달 감소를 추세 전환으로 보기에는 이르다는 입장이며, 집값 기대심리와 신용대출 변동성을 하반기 위험 요인으로 꼽았습니다.[S3][S6]"
+        },
+        {
+          "type": "image",
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "heading": "연말 대출절벽, 정말 오지 않을까",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "연말이 되면 금융회사가 연간 대출 목표를 맞추느라 신규 대출을 줄이는 일이 생깁니다. 이런 현상을 흔히 대출절벽이라고 부릅니다."
+        },
+        {
+          "type": "p",
+          "text": "금융당국은 올해는 그 가능성이 제한적이라고 봤습니다. 8월 13일 대책에서 올해 가계대출 총량 증가율 목표를 1.5%에서 3.0%로 높였기 때문입니다.{C25}{C23}[S5][S10]"
+        },
+        {
+          "type": "p",
+          "text": "또 신축 입주 단지의 이주비·중도금·잔금 같은 집단대출은 금융회사별 총량 목표에서 전액 제외됩니다.{C24}[S3][S5] 분양받을 때 세운 자금 계획대로 잔금대출을 받을 수 있도록 하라는 취지입니다."
+        },
+        {
+          "type": "p",
+          "text": "신진창 금융위 사무처장은 회의에서 일부 금융회사가 목표 관리를 이유로 집단대출 취급을 제한하지 않는지 점검해 달라고 주문했습니다.[S5][S7]"
+        },
+        {
+          "type": "p",
+          "text": "다만 신용대출은 기존 관리 기조가 유지됩니다. 총량 여유가 생겼다고 개인별 심사 기준(소득, DSR 등)까지 느슨해지는 것은 아닙니다.[S10]"
+        },
+        {
+          "type": "image",
+          "slot": 5
+        }
+      ]
+    },
+    {
+      "heading": "실제로 확인해야 할 사항",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "**잔금·중도금 일정이 있다면**: 분양 단지의 집단대출 취급 은행과 한도를 시행사·은행에 미리 확인합니다.",
+            "**개별 주담대가 필요하다면**: 은행마다 월별 취급 한도가 다를 수 있어 2~3곳의 상담 결과를 비교합니다.",
+            "**신용대출·마이너스통장**: 연장 시점이 연말이라면 금리와 한도 변경 여부를 미리 문의합니다.",
+            "**정책대출 대상인지**: 10월 19일부터 보금자리론 신혼부부 소득기준과 청년 특례전세보증 나이 기준이 바뀝니다.{C27}[S4]",
+            "**금리 비교**: 대출 금리는 은행연합회 소비자포털, 금융감독원 금융상품통합비교공시에서 확인할 수 있습니다."
+          ]
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    },
+    {
+      "heading": "주의해야 할 부분",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "이번 숫자는 잠정치이며, 전체 금융권 합계입니다. 내가 거래하는 은행의 대출 여력이나 승인 여부를 알려 주는 숫자는 아닙니다.[S1]"
+        },
+        {
+          "type": "p",
+          "text": "\"가계대출 감소 = 대출 받기 쉬워짐\"으로 바로 연결하기도 어렵습니다. 신용대출 감소에는 상환과 상각 같은 요인이 섞여 있고, 금융회사별 연말 운용 방침은 다를 수 있습니다.[S3][S9]"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "가계대출이 줄었으면 대출 금리도 내려가나요?",
+      "answer": "이번 발표는 대출 잔액 증감에 관한 것이고, 금리 변화를 발표한 것은 아닙니다.[S1] 실제 금리는 은행별 공시와 상담으로 확인해야 합니다."
+    },
+    {
+      "question": "연말에 잔금대출을 못 받을 수도 있나요?",
+      "answer": "금융당국은 신축 입주 단지 집단대출을 총량 목표에서 전액 제외하고, 취급 제한 여부를 점검하겠다고 밝혔습니다.{C24}[S3] 다만 개인 심사 결과는 소득·DSR 등에 따라 달라집니다."
+    },
+    {
+      "question": "2금융권 가계대출은 왜 더 많이 줄었나요?",
+      "answer": "상호금융·보험·카드사·저축은행이 모두 줄어 2금융권 합계가 2조 8,000억 원 감소했습니다.{C17}[S5] 업권별 세부 원인은 발표 자료에 따로 제시되지 않았습니다."
+    }
+  ],
+  "closing": [
+    "9월 가계대출은 전 금융권에서 줄었지만, 주담대는 여전히 3조 3,000억 원 늘었습니다.{C7}",
+    "감소분 대부분은 신용대출 등 기타대출이며, 상여금·상각 같은 계절 요인이 섞여 있습니다.",
+    "총량 목표가 3.0%로 올라 금융당국은 연말 대출절벽 가능성을 제한적으로 봅니다.{C23}",
+    "잔금·대출 연장 일정이 있으면 취급 은행과 한도를 미리 확인해 두는 것이 좋습니다."
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "2026년 9월 가계대출 동향(잠정) 및 「가계부채 점검회의」 개최",
+      "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288149",
+      "publisher": "금융위원회(KDI 경제정보센터 게재)",
+      "tier": 1,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S2",
+      "title": "2026년 9월 금융시장 동향",
+      "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288135",
+      "publisher": "한국은행(KDI 경제정보센터 게재)",
+      "tier": 1,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S3",
+      "title": "가계대출 9개월 만에 줄었는데… 금융위 “연말 대출절벽 우려 제한적”",
+      "url": "https://www.seoul.co.kr/news/economy/2026/10/15/20261015500136",
+      "publisher": "서울신문",
+      "tier": 2,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S4",
+      "title": "9월 가계대출 2.2조 감소…9개월 만에 감소 전환, 주담대 증가세도 둔화",
+      "url": "https://ddaily.co.kr/page/view/2026101517154858960",
+      "publisher": "디지털데일리",
+      "tier": 2,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S5",
+      "title": "9월 全 금융권 가계대출 2.2조원 감소···올해 첫 감소 전환",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=640136",
+      "publisher": "서울파이낸스",
+      "tier": 2,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S6",
+      "title": "9월 가계대출 2.2조원 감소…\"연말 대출절벽 우려 제한적\"",
+      "url": "https://news.mtn.co.kr/article/2026101513252932708",
+      "publisher": "머니투데이방송(MTN)",
+      "tier": 2,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S7",
+      "title": "9월 가계대출 2조2000억 순감…금융위 “연말 대출절벽 우려 제한적”",
+      "url": "https://www.etnews.com/20261015000242",
+      "publisher": "전자신문",
+      "tier": 2,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S8",
+      "title": "9월 은행 가계대출 6000억원↑…주담대 둔화·기타대출 급감",
+      "url": "https://www.newspim.com/news/view/20261015000426",
+      "publisher": "뉴스핌",
+      "tier": 2,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S9",
+      "title": "은행 가계대출 증가폭 6000억원으로 축소, 석 달 연속 둔화…기타대출은 2조3000억원 감소",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=352187",
+      "publisher": "녹색경제신문",
+      "tier": 2,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S10",
+      "title": "[8·13 대책] 대출 총량규제 1.5%→3%로 완화…가계대출 30조원 더 푼다",
+      "url": "https://www.g-enews.com/article/Finance/2026/08/202608131427584955a6e8311f64_1",
+      "publisher": "글로벌이코노믹",
+      "tier": 2,
+      "accessedAt": "2026-10-16",
+      "referenceDate": "2026-08-13"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "9월 전 금융권 가계대출 전월 대비 감소액",
+      "value": "2조 2,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "전 금융권, 9월 말 잔액의 전월 말 대비 증감(잠정)",
+      "notes": "S1 제목·발표기관·게재일 확인(본문 열람 불가), 수치는 독립 언론 보도 대조"
+    },
+    {
+      "id": "C2",
+      "claim": "직전 감소 시점 2025년 12월 감소액",
+      "value": "1조 2,000억 원",
+      "referenceDate": "2025-12-31",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "S1 제목·발표기관·게재일 확인(본문 열람 불가), 수치는 독립 언론 보도 대조"
+    },
+    {
+      "id": "C3",
+      "claim": "2026년 5월 전 금융권 가계대출 증가액",
+      "value": "9조 3,000억 원",
+      "referenceDate": "2026-05-31",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C4",
+      "claim": "2026년 6월 전 금융권 가계대출 증가액",
+      "value": "8조 3,000억 원",
+      "referenceDate": "2026-06-30",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C5",
+      "claim": "2026년 7월 전 금융권 가계대출 증가액",
+      "value": "6조 4,000억 원",
+      "referenceDate": "2026-07-31",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C6",
+      "claim": "2026년 8월 전 금융권 가계대출 증가액",
+      "value": "2조 8,000억 원",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C7",
+      "claim": "9월 전 금융권 주택담보대출 증가액",
+      "value": "3조 3,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C8",
+      "claim": "8월 전 금융권 주택담보대출 증가액",
+      "value": "4조 3,000억 원",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "9월 전 금융권 기타대출(신용대출 포함) 감소액",
+      "value": "5조 5,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C10",
+      "claim": "8월 전 금융권 기타대출 감소액",
+      "value": "1조 5,000억 원",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C11",
+      "claim": "9월 신용대출 감소액",
+      "value": "3조 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C12",
+      "claim": "9월 은행권 가계대출 증가액",
+      "value": "6,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C13",
+      "claim": "8월 은행권 가계대출 증가액",
+      "value": "3조 5,000억 원",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C14",
+      "claim": "9월 은행 주택담보대출 증가액",
+      "value": "2조 9,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C15",
+      "claim": "8월 은행 주택담보대출 증가액",
+      "value": "4조 1,000억 원",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C16",
+      "claim": "9월 은행 기타대출 감소액",
+      "value": "2조 3,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S5",
+        "S6",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C17",
+      "claim": "9월 2금융권 가계대출 감소액",
+      "value": "2조 8,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C18",
+      "claim": "9월 상호금융 가계대출 감소액",
+      "value": "7,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C19",
+      "claim": "9월 보험업권 가계대출 감소액",
+      "value": "8,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C20",
+      "claim": "9월 여신전문금융회사 가계대출 감소액",
+      "value": "9,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C21",
+      "claim": "9월 저축은행 가계대출 감소액(8월 3,000억 원 증가에서 전환)",
+      "value": "4,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C22",
+      "claim": "9월 말 은행 가계대출 잔액",
+      "value": "1,198조 9,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S2",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "한국은행 금융시장 동향, 은행 기준"
+    },
+    {
+      "id": "C23",
+      "claim": "올해 가계대출 총량 증가율 관리 목표 상향",
+      "value": "1.5%에서 3.0%",
+      "referenceDate": "2026-08-13",
+      "sourceIds": [
+        "S4",
+        "S5",
+        "S6",
+        "S10"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "8·13 대책, 전 금융권 연간 증가율 목표",
+      "notes": "MTN은 “약 3%”로 표기, 다른 출처는 3.0%·3%로 같은 값"
+    },
+    {
+      "id": "C24",
+      "claim": "신축 입주 단지 이주비·중도금·잔금 등 집단대출은 금융회사별 총량 목표에서 전액(100%) 제외",
+      "value": "전액 제외",
+      "referenceDate": "2026-08-13",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S7",
+        "S10"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C25",
+      "claim": "8·13 대책 발표일",
+      "value": "8월 13일",
+      "referenceDate": "2026-08-13",
+      "sourceIds": [
+        "S4",
+        "S10"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C26",
+      "claim": "금융위원회 가계부채 점검회의 개최·9월 동향 발표일",
+      "value": "10월 15일",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C27",
+      "claim": "보금자리론 신혼부부 소득기준·청년 특례전세보증 나이 기준 변경 시행일",
+      "value": "10월 19일",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C28",
+      "claim": "은행권 증가분과 2금융권 감소분을 합친 전 금융권 순감소액",
+      "value": "2조 2,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "2800000000000-600000000000",
+      "notes": "2금융권 감소 2조 8,000억 원 - 은행권 증가 6,000억 원"
+    },
+    {
+      "id": "C29",
+      "claim": "기타대출 감소분이 주담대 증가분보다 큰 차이(전 금융권 순감소액과 같음)",
+      "value": "2조 2,000억 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "5500000000000-3300000000000",
+      "notes": "기타대출 감소 5조 5,000억 원 - 주담대 증가 3조 3,000억 원"
+    },
+    {
+      "id": "C30",
+      "claim": "전 금융권 주담대 증가폭 축소 규모(8월→9월)",
+      "value": "1조 원",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "4300000000000-3300000000000"
+    }
+  ],
+  "topicCandidates": [
+    {
+      "topic": "9월 가계대출 올해 첫 감소와 연말 대출절벽 우려",
+      "category": "생활경제",
+      "primaryKeyword": "가계대출 감소",
+      "angle": "업권·대출 종류별 숫자와 연말 대출 여력",
+      "whyNow": "10월 15일 금융위 9월 가계대출 동향 발표 https://www.seoul.co.kr/news/economy/2026/10/15/20261015500136",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://ddaily.co.kr/page/view/2026101517154858960",
+        "https://www.seoulfn.com/news/articleView.html?idxno=640136"
+      ]
+    },
+    {
+      "topic": "잠든 선불충전금 사용 안내(금융위)",
+      "category": "생활경제",
+      "primaryKeyword": "선불충전금",
+      "angle": "잊힌 페이 충전금 확인·환급 방법",
+      "whyNow": "10월 15일 금융위 자료(KDI 경제정보센터 목록) https://eiec.kdi.re.kr/policy/materialList.do",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://eiec.kdi.re.kr/policy/materialList.do"
+      ]
+    },
+    {
+      "topic": "어린이집·유치원 입소·입학 신청 간소화(교육부)",
+      "category": "정책제도",
+      "primaryKeyword": "어린이집 입소 신청",
+      "angle": "신청 절차가 어떻게 바뀌나",
+      "whyNow": "10월 15일 교육부 자료 https://eiec.kdi.re.kr/policy/materialList.do",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://eiec.kdi.re.kr/policy/materialList.do"
+      ]
+    },
+    {
+      "topic": "9월 소비자물가 2.9% 상승",
+      "category": "경제",
+      "primaryKeyword": "9월 소비자물가",
+      "angle": "품목별 물가와 장바구니 영향",
+      "whyNow": "10월 초 데이터처 발표, 7일 이상 경과 https://www.mt.co.kr/economy/2026/10/02/2026100207131172401",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://mods.go.kr/board.es?act=view&bid=213&list_no=447322&mid=a10301040200"
+      ]
+    },
+    {
+      "topic": "전자바우처 부정수급 관리 강화(복지부)",
+      "category": "정책제도",
+      "primaryKeyword": "전자바우처 부정수급",
+      "angle": "이용자·제공기관이 알아둘 점",
+      "whyNow": "10월 16일 복지부 자료 https://eiec.kdi.re.kr/policy/materialList.do",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://eiec.kdi.re.kr/policy/materialList.do"
+      ]
+    },
+    {
+      "topic": "청년 프리랜서 일하는 사람 기본법 추진(고용부)",
+      "category": "정책제도",
+      "primaryKeyword": "일하는 사람 기본법",
+      "angle": "프리랜서 보호 내용(법안 단계)",
+      "whyNow": "10월 15일 고용부 자료 https://eiec.kdi.re.kr/policy/materialList.do",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": [
+        "https://eiec.kdi.re.kr/policy/materialList.do"
+      ]
+    },
+    {
+      "topic": "국가통합바이오빅데이터 국민 참여 확대",
+      "category": "정책제도",
+      "primaryKeyword": "바이오빅데이터 참여",
+      "angle": "참여 방법과 개인정보",
+      "whyNow": "10월 15일 복지부 자료 https://eiec.kdi.re.kr/policy/materialList.do",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": [
+        "https://eiec.kdi.re.kr/policy/materialList.do"
+      ]
+    },
+    {
+      "topic": "고유가 피해지원금 2차 지급",
+      "category": "생활경제",
+      "primaryKeyword": "고유가 피해지원금",
+      "angle": "신청 방법·사용처",
+      "whyNow": "지원금 안내 다수 https://kbthink.com/life/daily/high-oil-price-relief-fund.html",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "unknown",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": [
+        "https://kbthink.com/life/daily/high-oil-price-relief-fund.html"
+      ]
+    },
+    {
+      "topic": "긴급생계비 지원 신청 조건",
+      "category": "생활경제",
+      "primaryKeyword": "긴급생계비",
+      "angle": "대상·금액 확인",
+      "whyNow": "상시 수요 주제, 신규 발표 확인 안 됨 https://www.make2t.kr/2026/10/emergency-livelihood-support-2026.html",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "low",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": []
+    },
+    {
+      "topic": "10월 증시 급락과 개인 투자자 매도",
+      "category": "경제",
+      "primaryKeyword": "증시 급락",
+      "angle": "유관기관 긴급 점검회의 내용",
+      "whyNow": "10월 15일 금융위 긴급 점검회의 https://eiec.kdi.re.kr/policy/materialList.do",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "high"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261015000426"
+      ]
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "9월 가계대출 감소 전환을 알리는 표지 그래픽",
+        "eyebrow": "10월 15일 금융위 발표{C26}",
+        "title": "9월 가계대출 올해 첫 감소",
+        "subtitle": "전 금융권 2조 2,000억 원 감소{C1}"
+      },
+      {
+        "kind": "table",
+        "slot": 2,
+        "alt": "전 금융권, 은행권, 2금융권의 9월 가계대출 증감을 비교한 표",
+        "title": "업권별 9월 증감",
+        "headers": [
+          "구분",
+          "9월",
+          "8월"
+        ],
+        "rows": [
+          [
+            "전 금융권",
+            "-2조 2,000억 원{C1}",
+            "+2조 8,000억 원{C6}"
+          ],
+          [
+            "은행권",
+            "+6,000억 원{C12}",
+            "+3조 5,000억 원{C13}"
+          ],
+          [
+            "주담대(전체)",
+            "+3조 3,000억 원{C7}",
+            "+4조 3,000억 원{C8}"
+          ],
+          [
+            "기타대출(전체)",
+            "-5조 5,000억 원{C9}",
+            "-1조 5,000억 원{C10}"
+          ]
+        ],
+        "footnote": "금융위원회 잠정 집계, 언론 보도 기준"
+      },
+      {
+        "kind": "stats",
+        "slot": 3,
+        "alt": "전 금융권 감소액, 주담대 증가액, 신용대출 감소액을 보여주는 숫자 카드",
+        "title": "9월 가계대출 숫자",
+        "stats": [
+          {
+            "label": "전 금융권",
+            "value": "-2조 2,000억 원",
+            "note": "전월 대비{C1}"
+          },
+          {
+            "label": "주담대",
+            "value": "+3조 3,000억 원",
+            "note": "증가 지속{C7}"
+          },
+          {
+            "label": "신용대출",
+            "value": "-3조 원",
+            "note": "감소 확대{C11}"
+          }
+        ],
+        "footnote": "출처: 금융위원회 발표 보도"
+      },
+      {
+        "kind": "flow",
+        "slot": 4,
+        "alt": "9월 가계대출 감소의 주요 원인 네 가지를 나열한 흐름도",
+        "title": "감소 원인(당국 설명)",
+        "steps": [
+          "주택 거래·입주 감소",
+          "분기 말 부실채권 정리",
+          "명절 상여금 유입",
+          "주식 투자 감소"
+        ],
+        "footnote": "금융위원회·한국은행 설명"
+      },
+      {
+        "kind": "timeline",
+        "slot": 5,
+        "alt": "작년 12월 감소부터 10월 19일 정책대출 변경까지의 일정",
+        "title": "가계대출 주요 일정",
+        "events": [
+          {
+            "date": "2025.12",
+            "label": "1조 2,000억 원 감소{C2}"
+          },
+          {
+            "date": "2026.08.13",
+            "label": "총량 목표 1.5%→3.0%{C23}"
+          },
+          {
+            "date": "2026.09",
+            "label": "올해 첫 감소{C1}"
+          },
+          {
+            "date": "2026.10.19",
+            "label": "보금자리론 등 기준 변경{C27}"
+          }
+        ],
+        "footnote": "출처: 금융위원회 발표·언론 보도"
+      },
+      {
+        "kind": "checklist",
+        "slot": 6,
+        "alt": "연말 대출을 앞두고 확인할 네 가지 항목",
+        "title": "연말 대출 전 확인",
+        "items": [
+          "집단대출 취급 은행·한도",
+          "은행별 주담대 상담 비교",
+          "신용대출 연장 조건",
+          "정책대출 대상 여부"
+        ],
+        "footnote": "개인 심사 결과는 소득·DSR 등에 따라 다름"
+      }
+    ],
+    "video": {
+      "alt": "9월 가계대출 감소와 연말 대출 여력을 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "가계대출 줄었다는데, 연말 대출은?"
+        },
+        {
+          "kind": "fact",
+          "heading": "9월 전 금융권 가계대출",
+          "big": "-2조 2,000억 원{C1}",
+          "body": "올해 첫 감소"
+        },
+        {
+          "kind": "fact",
+          "heading": "올해 총량 목표",
+          "big": "3.0%{C23}",
+          "body": "1.5%에서 상향"
+        },
+        {
+          "kind": "explain",
+          "heading": "입주 단지 집단대출은 총량에서 제외"
+        },
+        {
+          "kind": "cta",
+          "heading": "자세한 내용은 본문에서",
+          "body": "잔금 일정 있으면 은행에 미리 확인"
+        }
+      ]
+    }
+  }
+}
