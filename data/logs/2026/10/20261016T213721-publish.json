@@ -1,0 +1,86 @@
+{
+  "runId": "20261016T213721-publish",
+  "mode": "publish",
+  "date": "2026-10-17",
+  "draftPath": "data/articles/2026/10/20261017-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-16T21:37:21.890Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-16T21:37:21.890Z",
+      "attempts": 1,
+      "endedAt": "2026-10-16T21:37:21.911Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-16T21:37:21.925Z",
+      "endedAt": "2026-10-16T21:37:21.925Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-16T21:37:21.925Z",
+      "attempts": 1,
+      "endedAt": "2026-10-16T21:37:49.840Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-16T21:37:49.847Z",
+      "endedAt": "2026-10-16T21:37:49.847Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-16T21:37:49.847Z",
+      "attempts": 1,
+      "endedAt": "2026-10-16T21:37:54.052Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-16T21:37:54.053Z",
+      "attempts": 1,
+      "endedAt": "2026-10-16T21:37:54.823Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-16T21:37:54.824Z",
+      "attempts": 1,
+      "endedAt": "2026-10-16T21:37:54.832Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261017-001",
+  "topic": "국무조정실·국토교통부 제1차 주택공급 정례브리핑(10월 16일): 2026년 수도권 착공 목표 26만 8,000호 중 9만 9,000호 이상 착공(37%), 연말 전망 21만 8,000~23만 5,000호, 4분기 공공분양 1만 호·공공임대 5,000호 이상 모집, 12월 인천계양 3기 신도시 첫 입주",
+  "category": "생활경제",
+  "keywords": [
+    "수도권 주택 착공",
+    "주택공급 정례브리핑",
+    "공공분양",
+    "3기 신도시 입주",
+    "공공임대 모집"
+  ],
+  "title": "수도권 주택 착공 목표의 37%, 연말까지 공공분양 1만 호 나올까?",
+  "sources": [
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148970016",
+    "https://www.jungbunews.com/news/articleView.html?idxno=2763739",
+    "https://intn.co.kr/news/articleView.html?idxno=2054109",
+    "https://www.etoday.co.kr/news/view/2636716",
+    "https://www.joongangenews.com/news/articleView.html?idxno=555752",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/16/2026101600185.html",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801618",
+    "https://www.segye.com/newsView/20261016516771",
+    "https://www.newspim.com/news/view/20261016000715"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3574,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "1219152762563511823",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/metro-housing-starts-supply-briefing.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-16T21:37:54.833Z",
+  "executionTimeMs": 32943
+}
