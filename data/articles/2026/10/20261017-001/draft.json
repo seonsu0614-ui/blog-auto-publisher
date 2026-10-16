@@ -1,0 +1,1162 @@
+{
+  "contentId": "20261017-001",
+  "date": "2026-10-17",
+  "topic": "국무조정실·국토교통부 제1차 주택공급 정례브리핑(10월 16일): 2026년 수도권 착공 목표 26만 8,000호 중 9만 9,000호 이상 착공(37%), 연말 전망 21만 8,000~23만 5,000호, 4분기 공공분양 1만 호·공공임대 5,000호 이상 모집, 12월 인천계양 3기 신도시 첫 입주",
+  "category": "생활경제",
+  "searchIntent": "수도권 집이 실제로 얼마나 지어지고 있는지, 연말까지 청약·입주자 모집이 얼마나 나오는지, 3기 신도시 입주는 언제인지 알고 싶음",
+  "differentiation": "최근 14일 글(가계대출 감소, 가족 활동지원, 전세사기 최소보장제, 청년 특례전세보증 등)과 겹치지 않는 주택 공급 실적·청약 물량 주제. 8·13 대책은 배경으로만 짧게 언급",
+  "title": "수도권 주택 착공 목표의 37%, 연말까지 공공분양 1만 호 나올까?",
+  "seoTitle": "수도권 주택 착공 9.9만 호(목표 37%)와 연말 공공분양·임대 모집 계획 정리",
+  "metaDescription": "10월 16일 첫 주택공급 정례브리핑 기준으로 수도권 주택 착공 실적(목표의 37%), 연말 착공 전망, 공공분양 1만 호·공공임대 모집 계획과 3기 신도시 입주 시기를 정리했습니다.{C29}{C3}{C11}",
+  "slug": "metro-housing-starts-supply-briefing",
+  "primaryKeyword": "수도권 주택 착공",
+  "secondaryKeywords": [
+    "주택공급 정례브리핑",
+    "공공분양",
+    "3기 신도시 입주",
+    "공공임대 모집"
+  ],
+  "relatedKeywords": [
+    "8·13 대책",
+    "신축매입주택",
+    "인천계양",
+    "과천지식정보타운",
+    "디지털 주택공급 상황판"
+  ],
+  "tags": [
+    "생활경제",
+    "수도권 주택 착공",
+    "주택공급",
+    "주택공급 정례브리핑",
+    "공공분양",
+    "공공임대",
+    "3기 신도시",
+    "인천계양",
+    "청약",
+    "국토교통부",
+    "8·13 대책"
+  ],
+  "hook": [
+    "내 집 마련이나 이사를 앞두고 있다면 \"집이 정말 지어지고 있나\"가 가장 궁금할 수 있습니다.",
+    "정부가 10월 16일 처음 연 주택공급 정례브리핑에서 올해 수도권 착공 실적을 공개했습니다.{C29}[S2]",
+    "목표 26만 8,000호 가운데 10월 둘째 주까지 9만 9,000호 이상이 착공됐습니다.{C1}{C2}[S4]",
+    "연말까지 착공이 어디까지 늘지, 청약과 입주자 모집은 얼마나 나오는지 숫자로 정리했습니다."
+  ],
+  "summary": [
+    "2026년 수도권 주택 착공 목표는 26만 8,000호이고, 10월 둘째 주 기준 9만 9,000호 이상이 착공돼 목표의 37% 수준입니다.{C1}{C2}{C3}[S4][S5]",
+    "정부는 연말까지 21만 8,000~23만 5,000호 착공을 전망했습니다. 목표 대비 81~88%입니다.{C4}{C5}[S3][S5]",
+    "연말까지 공공분양 1만 호 분양 공고와 공공임대 5,000호 이상 입주자 모집을 계획하고 있습니다.{C11}{C12}[S2]",
+    "3기 신도시 입주는 12월 인천계양부터 시작하고, 내년 말까지 수도권 공적주택 약 10만 호 입주를 추진합니다.{C31}{C15}[S2][S6]",
+    "브리핑은 이달부터 월 2회 열리며 착공·분양·입주 단계별 진행 상황을 공개합니다(10월 16일 발표 기준).{C18}{C29}[S2]"
+  ],
+  "sections": [
+    {
+      "heading": "수도권 주택 착공, 지금 어디까지 왔나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "이번 수치는 국무조정실과 국토교통부가 정부서울청사에서 연 제1차 주택공급 정례브리핑 자료 기준입니다. 착공은 공사를 시작한 물량이라 입주까지는 보통 몇 년이 더 걸립니다.[S2][S9]"
+        },
+        {
+          "type": "p",
+          "text": "올해 수도권 착공 목표는 26만 8,000호이며, 이 가운데 공공주택 목표가 6만 2,000호 포함돼 있습니다. 10월 둘째 주까지 착공 물량은 9만 9,000호 이상입니다.{C1}{C2}[S3][S5]"
+        },
+        {
+          "type": "table",
+          "caption": "10월 둘째 주까지 수도권 주요 유형별 착공 실적",
+          "headers": [
+            "유형",
+            "착공 물량"
+          ],
+          "rows": [
+            [
+              "공공주택(3기 신도시 포함)",
+              "1만 6,200호{C6}"
+            ],
+            [
+              "3기 신도시",
+              "7,300호{C7}"
+            ],
+            [
+              "도심 신축매입주택",
+              "1만 3,000호{C8}"
+            ],
+            [
+              "민간 정비사업",
+              "1만 7,000호{C9}"
+            ]
+          ],
+          "note": "3기 신도시 물량은 공공주택에 포함된 수치. 일반 민간주택 등 나머지 유형은 보도마다 분류가 달라 표에서 뺐습니다."
+        },
+        {
+          "type": "p",
+          "text": "3기 신도시는 고양창릉·인천계양·하남교산 등에서 7,300호가 착공됐습니다. 민간 정비사업은 흑석11구역·중계본동·신림2구역 등이 포함됐습니다.{C7}[S2][S4]"
+        },
+        {
+          "type": "image",
+          "slot": 2
+        }
+      ]
+    },
+    {
+      "heading": "연말 전망: 목표까지 얼마나 남았나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "정부는 남은 착공 예정 물량을 관리해 연말까지 수도권에서 21만 8,000~23만 5,000호가 착공될 것으로 내다봤습니다.{C4}[S2][S3]"
+        },
+        {
+          "type": "p",
+          "text": "이 전망대로라면 목표 대비 81~88% 수준입니다. 공공주택 물량이 통상 하반기에 착공되는 구조라 4분기에 착공이 몰린다는 것이 정부 설명입니다.{C5}[S5][S8]"
+        },
+        {
+          "type": "table",
+          "caption": "연말 전망 기준 계산(단순 차감)",
+          "headers": [
+            "구분",
+            "전망 하단",
+            "전망 상단"
+          ],
+          "rows": [
+            [
+              "연말 착공 전망",
+              "21만 8,000호{C4}",
+              "23만 5,000호{C4}"
+            ],
+            [
+              "남은 기간 필요한 착공",
+              "11만 9,000호{C24}",
+              "13만 6,000호{C25}"
+            ],
+            [
+              "목표 대비 부족분",
+              "5만 호{C27}",
+              "3만 3,000호{C26}"
+            ]
+          ],
+          "note": "계산: 전망치 − 현재 착공 9만 9,000호, 목표 26만 8,000호 − 전망치"
+        },
+        {
+          "type": "callout",
+          "text": "남은 두 달 반 동안 지금까지 9개월여간 착공한 물량보다 많은 11만 9,000~13만 6,000호를 더 착공해야 전망치에 닿습니다.{C24}{C25}"
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "연말까지 청약·입주자 모집은 얼마나 나오나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "실수요자에게 더 직접적인 것은 분양과 입주자 모집 일정입니다. 정부는 연말까지 공공분양과 공공임대를 합쳐 1만 5,000호 이상 입주자를 모집할 계획입니다.{C10}{C28}[S2]"
+        },
+        {
+          "type": "p",
+          "text": "공공분양은 3기 신도시 약 2,000호를 포함해 1만 호를 분양 공고할 예정입니다. 3분기까지 공급한 공공분양은 1만 4,800호였습니다.{C11}{C14}{C30}[S2][S5]"
+        },
+        {
+          "type": "p",
+          "text": "공공임대는 과천지식정보타운 1,400호 등 5,000호 이상 입주자를 모집합니다. 단지별 공고 일정은 LH청약플러스 등 공급기관 공고에서 확인해야 합니다.{C12}{C13}[S2][S4]"
+        },
+        {
+          "type": "p",
+          "text": "3기 신도시 입주는 12월 인천계양부터 순차로 시작합니다. 올해 4분기부터 내년 말까지 수도권 공적주택 약 10만 호 입주도 추진합니다.{C31}{C15}[S2][S7]"
+        },
+        {
+          "type": "image",
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "heading": "서울 공급 지표와 정부 후속 과제",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "서울은 올해 1~8월 주택 인허가가 4만 호로 전년 같은 기간보다 40% 늘었고, 착공은 2만 1,000호로 41% 늘었습니다.{C16}{C17}[S2][S4]"
+        },
+        {
+          "type": "p",
+          "text": "공급 걸림돌 해소도 함께 발표됐습니다. 8월 13일 발표한 주택 신속공급 방안의 세부 과제 145건 중 48건이 완료됐습니다.{C22}{C19}[S1][S2]"
+        },
+        {
+          "type": "p",
+          "text": "8·13 대책은 수도권에 23만 호 이상을 추가 공급하는 내용을 담고 있습니다. 금융당국은 주거용 PF(프로젝트 파이낸싱, 사업성을 담보로 한 대출) 사업장 300여 곳에 밀착관리 담당자를 지정했습니다.{C21}{C20}[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "연내에는 인허가·PF 애로를 한곳에서 처리하는 통합 주택공급 지원센터가 출범할 예정입니다. 공급계획·실적·분양 일정을 모은 디지털 주택공급 상황판도 구축할 계획입니다.[S2][S3]"
+        },
+        {
+          "type": "p",
+          "text": "수요자 지원으로는 내년부터 청년월세 지원 소득기준 완화, 청년 보편형 전세임대 신설, 고령자복지주택 연 3,500호 공급 등이 제시됐습니다. 세부 기준은 아직 발표되지 않았습니다.{C23}[S2][S3]"
+        }
+      ]
+    },
+    {
+      "heading": "청약·이사 계획이 있다면 확인할 사항",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "**청약 일정**: 공공분양 1만 호는 단지별로 공고가 나뉘어 나옵니다. 청약홈과 LH청약플러스의 입주자 모집 공고를 확인합니다.{C11}",
+            "**자격 요건**: 공공분양·공공임대는 무주택·소득·자산 기준이 단지와 유형마다 다릅니다. 공고문의 자격 조건을 먼저 봅니다.",
+            "**3기 신도시 입주 시점**: 인천계양 이후 다른 지구의 입주 시기는 단지별로 다르니 사업시행자 안내를 확인합니다.",
+            "**전월세 계약 만기**: 입주 시점이 계약 만기와 맞지 않으면 이사 공백이 생길 수 있어 일정을 함께 따져 봅니다.",
+            "**정례브리핑 공개 자료**: 월 2회 브리핑에서 사업장별 진행 상황이 공개되므로 관심 지역 일정을 계속 확인합니다.{C18}"
+          ]
+        },
+        {
+          "type": "image",
+          "slot": 5
+        }
+      ]
+    },
+    {
+      "heading": "숫자를 읽을 때 주의할 점",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "착공 물량은 곧바로 입주 물량이 아닙니다. 착공부터 분양·준공·입주까지 단계가 있어 오늘 착공한 집은 몇 년 뒤에 입주할 수 있습니다."
+        },
+        {
+          "type": "p",
+          "text": "연말 21만 8,000~23만 5,000호는 정부 전망치입니다. 실제 착공은 인허가, PF 자금 조달, 공사비 등에 따라 달라질 수 있습니다.{C4}[S4]"
+        },
+        {
+          "type": "p",
+          "text": "유형별 착공 수치는 집계 기준일이 조금씩 달라 합계가 전체 9만 9,000호와 정확히 맞지 않습니다. 이 글은 전체 수치와 주요 유형만 옮겼습니다.{C2}[S5]"
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "공공분양 1만 호는 어디서 청약하나요?",
+      "answer": "정부는 연말까지 3기 신도시 약 2,000호를 포함한 공공분양 1만 호를 공고할 계획입니다.{C11}{C14}[S2] 단지별 모집 공고는 청약홈과 LH청약플러스 등 공급기관 공고에서 확인할 수 있습니다."
+    },
+    {
+      "question": "착공 목표에 못 미치면 집값이나 전셋값이 오르나요?",
+      "answer": "이번 브리핑은 공급 실적과 전망을 공개한 것이고, 집값·전셋값 전망을 발표한 것은 아닙니다.[S2] 가격은 금리·대출·지역 수요 등 여러 요인에 영향을 받으므로 공급 숫자만으로 판단하기는 어렵습니다."
+    },
+    {
+      "question": "3기 신도시는 언제부터 입주하나요?",
+      "answer": "정부 계획으로는 12월 인천계양부터 3기 신도시 입주가 시작됩니다.{C31}[S2][S6] 다른 지구의 입주 일정은 단지마다 달라 사업시행자 안내를 따로 확인해야 합니다."
+    }
+  ],
+  "closing": [
+    "올해 수도권 주택 착공은 10월 둘째 주까지 목표의 37%인 9만 9,000호 이상입니다.{C3}{C2}",
+    "정부 전망대로면 연말 착공은 목표의 81~88%로, 3만 3,000~5만 호가 모자랍니다.{C5}{C26}{C27}",
+    "연말까지 공공분양 1만 호와 공공임대 5,000호 이상 모집이 계획돼 있어 청약 공고를 챙겨 볼 만합니다.{C11}{C12}",
+    "3기 신도시 입주는 12월 인천계양부터 시작되며, 진행 상황은 월 2회 정례브리핑에서 공개됩니다.{C31}{C18}"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "수도권에 23만 호+α 추가 공급…부동산PF 자금지원 늘려 속도전",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970016",
+      "publisher": "대한민국 정책브리핑(관계부처 합동)",
+      "tier": 1,
+      "accessedAt": "2026-10-17",
+      "referenceDate": "2026-08-13"
+    },
+    {
+      "id": "S2",
+      "title": "국토교통부, \"내 집 어디에, 언제 공급되나\" 주택공급, 계획부터 성과까지 정례적으로 공개합니다",
+      "url": "https://www.jungbunews.com/news/articleView.html?idxno=2763739",
+      "publisher": "중부뉴스통신(국토교통부 보도자료 게재)",
+      "tier": 2,
+      "accessedAt": "2026-10-17",
+      "referenceDate": "2026-10-16"
+    },
+    {
+      "id": "S3",
+      "title": "연말까지 수도권 최대 23.5만호 착공…정부, 주택공급 정례 브리핑·디지털 상황판 도입",
+      "url": "https://intn.co.kr/news/articleView.html?idxno=2054109",
+      "publisher": "일간NTN",
+      "tier": 2,
+      "accessedAt": "2026-10-17",
+      "referenceDate": "2026-10-16"
+    },
+    {
+      "id": "S4",
+      "title": "수도권 주택 착공 목표 미달 전망⋯정부 \"연말 물량 집중, 공급지표 개선\" [종합]",
+      "url": "https://www.etoday.co.kr/news/view/2636716",
+      "publisher": "이투데이",
+      "tier": 2,
+      "accessedAt": "2026-10-17",
+      "referenceDate": "2026-10-16"
+    },
+    {
+      "id": "S5",
+      "title": "정부 \"수도권 주택 9.9만호 착공...연말까지 목표의 최대 88% 전망\"",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=555752",
+      "publisher": "중앙이코노미뉴스",
+      "tier": 2,
+      "accessedAt": "2026-10-17",
+      "referenceDate": "2026-10-16"
+    },
+    {
+      "id": "S6",
+      "title": "국토부, 月 2회 주택 공급 브리핑 하기로 … 올해 23만호 첫 삽 뜬다",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/16/2026101600185.html",
+      "publisher": "뉴데일리경제",
+      "tier": 2,
+      "accessedAt": "2026-10-17",
+      "referenceDate": "2026-10-16"
+    },
+    {
+      "id": "S7",
+      "title": "'주택 공급' 브리핑 시작…\"착공 목표 37% 달성\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801618",
+      "publisher": "SBS",
+      "tier": 2,
+      "accessedAt": "2026-10-17",
+      "referenceDate": "2026-10-16"
+    },
+    {
+      "id": "S8",
+      "title": "수도권 주택 착공 달성률 37% 그쳐…정부 \"연말까지 23만 5000호 속도전\"",
+      "url": "https://www.segye.com/newsView/20261016516771",
+      "publisher": "세계일보",
+      "tier": 2,
+      "accessedAt": "2026-10-17",
+      "referenceDate": "2026-10-16"
+    },
+    {
+      "id": "S9",
+      "title": "첫 주택공급 정례브리핑…\"주택 공급 목표 26.8만호 중 9.9만호 이상 착공\"",
+      "url": "https://www.newspim.com/news/view/20261016000715",
+      "publisher": "뉴스핌",
+      "tier": 2,
+      "accessedAt": "2026-10-17",
+      "referenceDate": "2026-10-16"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "2026년 수도권 주택 착공 목표",
+      "value": "26만 8,000호",
+      "referenceDate": "2026-10-16",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "수도권, 착공 기준, 공공주택 6만 2,000호 포함",
+      "notes": "국토부 보도자료 게재본과 독립 언론 보도 대조(정책브리핑 원문 페이지 열람 불가)"
+    },
+    {
+      "id": "C2",
+      "claim": "10월 둘째 주까지 수도권 누적 착공",
+      "value": "9만 9,000호 이상",
+      "referenceDate": "2026-10-09",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "10월 둘째 주 기준 집계",
+      "notes": "국토부 보도자료 게재본과 독립 언론 보도 대조(정책브리핑 원문 페이지 열람 불가)"
+    },
+    {
+      "id": "C3",
+      "claim": "착공 목표 대비 달성률",
+      "value": "37%",
+      "referenceDate": "2026-10-09",
+      "sourceIds": [
+        "S4",
+        "S5",
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "99000/268000*100",
+      "notes": "9만 9,000호 ÷ 26만 8,000호 ≈ 36.9%, 보도는 37%로 표기"
+    },
+    {
+      "id": "C4",
+      "claim": "연말까지 수도권 착공 전망",
+      "value": "21만 8,000~23만 5,000호",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "정부 전망치(확정 실적 아님)"
+    },
+    {
+      "id": "C5",
+      "claim": "연말 전망치의 목표 대비 비율",
+      "value": "81~88%",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "218000/268000=81.3%, 235000/268000=87.7%"
+    },
+    {
+      "id": "C6",
+      "claim": "공공주택 착공 실적",
+      "value": "1만 6,200호",
+      "referenceDate": "2026-10-09",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "3기 신도시 7,300호 포함"
+    },
+    {
+      "id": "C7",
+      "claim": "3기 신도시 착공 물량",
+      "value": "7,300호",
+      "referenceDate": "2026-10-09",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S6",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "고양창릉·인천계양·하남교산 등"
+    },
+    {
+      "id": "C8",
+      "claim": "도심 신축매입주택 착공 실적",
+      "value": "1만 3,000호",
+      "referenceDate": "2026-10-09",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "민간 정비사업 착공 실적",
+      "value": "1만 7,000호",
+      "referenceDate": "2026-10-09",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "S5는 8월 말 기준으로 표기"
+    },
+    {
+      "id": "C10",
+      "claim": "연말까지 입주자 모집 계획(공공분양+공공임대)",
+      "value": "1만 5,000호 이상",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "정부 계획"
+    },
+    {
+      "id": "C11",
+      "claim": "연말까지 공공분양 분양 공고 계획",
+      "value": "1만 호",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "3기 신도시 약 2,000호 포함"
+    },
+    {
+      "id": "C12",
+      "claim": "연말까지 공공임대 입주자 모집 계획",
+      "value": "5,000호 이상",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "과천지식정보타운 1,400호 포함"
+    },
+    {
+      "id": "C13",
+      "claim": "과천지식정보타운 공공임대 모집 물량",
+      "value": "1,400호",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C14",
+      "claim": "3기 신도시 분양 공고 포함 물량",
+      "value": "약 2,000호",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C15",
+      "claim": "수도권 공적주택 입주 추진 물량(2026년 4분기~2027년 말)",
+      "value": "약 10만 호",
+      "referenceDate": "2027-12-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "공공분양·매입임대·전세임대 등 공적주택"
+    },
+    {
+      "id": "C16",
+      "claim": "서울 1~8월 주택 인허가",
+      "value": "4만 호, 40% 증가",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "전년 동기 대비"
+    },
+    {
+      "id": "C17",
+      "claim": "서울 1~8월 주택 착공",
+      "value": "2만 1,000호, 41% 증가",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "전년 동기 대비"
+    },
+    {
+      "id": "C18",
+      "claim": "주택공급 정례브리핑 주기",
+      "value": "월 2회",
+      "referenceDate": "2026-10-16",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S6",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "국무조정실·국토부 교대 진행"
+    },
+    {
+      "id": "C19",
+      "claim": "8·13 대책 세부 과제 완료 현황",
+      "value": "145건 중 48건",
+      "referenceDate": "2026-10-16",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C20",
+      "claim": "밀착관리 담당자를 지정한 주거용 PF 사업장",
+      "value": "300여 곳",
+      "referenceDate": "2026-10-16",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C21",
+      "claim": "8·13 대책 수도권 추가 공급 물량",
+      "value": "23만 호 이상",
+      "referenceDate": "2026-08-13",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "신규택지 10만 호 포함"
+    },
+    {
+      "id": "C22",
+      "claim": "8·13 대책 발표일",
+      "value": "8월 13일",
+      "referenceDate": "2026-08-13",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C23",
+      "claim": "고령자복지주택 공급 계획",
+      "value": "연 3,500호",
+      "referenceDate": "2026-10-16",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C24",
+      "claim": "연말 전망 하단까지 추가로 필요한 착공",
+      "value": "11만 9,000호",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "218000-99000"
+    },
+    {
+      "id": "C25",
+      "claim": "연말 전망 상단까지 추가로 필요한 착공",
+      "value": "13만 6,000호",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "235000-99000"
+    },
+    {
+      "id": "C26",
+      "claim": "연말 전망 상단 기준 목표 대비 부족분",
+      "value": "3만 3,000호",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "268000-235000"
+    },
+    {
+      "id": "C27",
+      "claim": "연말 전망 하단 기준 목표 대비 부족분",
+      "value": "5만 호",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "268000-218000"
+    },
+    {
+      "id": "C28",
+      "claim": "공공분양과 공공임대 모집 계획 합계",
+      "value": "1만 5,000호",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S2",
+        "S3"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "10000+5000"
+    },
+    {
+      "id": "C29",
+      "claim": "제1차 주택공급 정례브리핑 개최일",
+      "value": "10월 16일",
+      "referenceDate": "2026-10-16",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S6",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C30",
+      "claim": "3분기까지 공급한 공공분양 물량",
+      "value": "1만 4,800호",
+      "referenceDate": "2026-09-30",
+      "sourceIds": [
+        "S5",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C31",
+      "claim": "3기 신도시 첫 입주 시기",
+      "value": "2026년 12월 인천계양",
+      "referenceDate": "2026-12-31",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "정부 계획"
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "수도권 주택 착공 실적이 목표의 37%라는 내용을 담은 표지 그래픽",
+        "eyebrow": "10월 16일 주택공급 정례브리핑{C29}",
+        "title": "수도권 주택 착공 목표의 37%",
+        "subtitle": "26만 8,000호 중 9만 9,000호 이상{C1}{C2}"
+      },
+      {
+        "kind": "stats",
+        "slot": 2,
+        "alt": "올해 착공 목표, 현재 착공 실적, 달성률을 보여주는 숫자 카드",
+        "title": "수도권 착공 현황",
+        "stats": [
+          {
+            "label": "올해 목표",
+            "value": "26만 8,000호",
+            "note": "착공 기준{C1}"
+          },
+          {
+            "label": "현재 착공",
+            "value": "9만 9,000호+",
+            "note": "10월 둘째 주{C2}"
+          },
+          {
+            "label": "달성률",
+            "value": "37%",
+            "note": "목표 대비{C3}"
+          }
+        ],
+        "footnote": "출처: 국토교통부 정례브리핑 보도"
+      },
+      {
+        "kind": "table",
+        "slot": 3,
+        "alt": "연말 착공 전망 하단과 상단에 따른 추가 필요 물량과 부족분 비교표",
+        "title": "연말 착공 전망 계산",
+        "headers": [
+          "구분",
+          "하단",
+          "상단"
+        ],
+        "rows": [
+          [
+            "연말 전망",
+            "21.8만 호{C4}",
+            "23.5만 호{C4}"
+          ],
+          [
+            "추가 필요",
+            "11.9만 호{C24}",
+            "13.6만 호{C25}"
+          ],
+          [
+            "목표 대비",
+            "81%{C5}",
+            "88%{C5}"
+          ]
+        ],
+        "footnote": "현재 착공 9.9만 호 기준 단순 차감"
+      },
+      {
+        "kind": "timeline",
+        "slot": 4,
+        "alt": "8월 대책 발표부터 내년 말 공적주택 입주까지 주요 일정",
+        "title": "주택공급 주요 일정",
+        "events": [
+          {
+            "date": "2026.08.13",
+            "label": "주택 신속공급 방안{C22}"
+          },
+          {
+            "date": "2026.10.16",
+            "label": "첫 정례브리핑{C29}"
+          },
+          {
+            "date": "2026.12",
+            "label": "인천계양 첫 입주{C31}"
+          },
+          {
+            "date": "2027 말",
+            "label": "공적주택 약 10만 호 입주{C15}"
+          }
+        ],
+        "footnote": "정부 계획 기준, 일정은 달라질 수 있음"
+      },
+      {
+        "kind": "checklist",
+        "slot": 5,
+        "alt": "청약이나 이사를 앞두고 확인할 다섯 가지 항목",
+        "title": "청약·이사 전 확인",
+        "items": [
+          "청약홈·LH 모집 공고",
+          "무주택·소득·자산 기준",
+          "3기 신도시 지구별 입주 시점",
+          "전월세 계약 만기와 입주 시점",
+          "월 2회 정례브리핑 자료"
+        ],
+        "footnote": "자격 요건은 단지·유형별 공고문 기준"
+      },
+      {
+        "kind": "flow",
+        "slot": 6,
+        "alt": "인허가에서 착공, 분양, 입주로 이어지는 주택 공급 단계",
+        "title": "주택 공급 단계",
+        "steps": [
+          "인허가",
+          "착공",
+          "분양·모집 공고",
+          "준공·입주"
+        ],
+        "footnote": "착공 물량이 곧 입주 물량은 아님"
+      }
+    ],
+    "video": {
+      "alt": "수도권 주택 착공 실적과 연말 청약 물량을 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "수도권 집, 얼마나 지어지고 있을까?"
+        },
+        {
+          "kind": "fact",
+          "heading": "올해 수도권 착공",
+          "big": "37%{C3}",
+          "body": "목표 26만 8,000호 중 9만 9,000호 이상{C1}{C2}"
+        },
+        {
+          "kind": "fact",
+          "heading": "연말 공공분양 계획",
+          "big": "1만 호{C11}",
+          "body": "공공임대 5,000호 이상 모집도 계획{C12}"
+        },
+        {
+          "kind": "explain",
+          "heading": "3기 신도시 입주는 12월 인천계양부터{C31}"
+        },
+        {
+          "kind": "cta",
+          "heading": "자세한 내용은 본문에서",
+          "body": "청약 공고 일정 미리 확인"
+        }
+      ]
+    }
+  },
+  "topicCandidates": [
+    {
+      "topic": "제1차 주택공급 정례브리핑: 수도권 착공 37%와 연말 청약 물량",
+      "category": "생활경제",
+      "primaryKeyword": "수도권 주택 착공",
+      "angle": "착공 실적·연말 전망 계산과 공공분양·임대 모집, 3기 신도시 입주 시점",
+      "whyNow": "10월 16일 첫 정례브리핑 https://www.jungbunews.com/news/articleView.html?idxno=2763739",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.etoday.co.kr/news/view/2636716",
+        "https://www.joongangenews.com/news/articleView.html?idxno=555752"
+      ]
+    },
+    {
+      "topic": "유류세 인하 11월 말까지 연장",
+      "category": "생활경제",
+      "primaryKeyword": "유류세 인하 연장",
+      "angle": "리터당 세금과 12월 이후 가격",
+      "whyNow": "9월 18일 발표(7일 초과) https://www.hankyung.com/article/2026091826797",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "low",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.hankyung.com/article/2026091826797"
+      ]
+    },
+    {
+      "topic": "철도 승차권 예매 출발 2개월 전으로 확대",
+      "category": "생활경제",
+      "primaryKeyword": "기차표 예매 2개월 전",
+      "angle": "연말·설 예매 일정",
+      "whyNow": "10월 1일 시행 https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "low",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "여권 묶음배송 10월 6일 시행",
+      "category": "생활경제",
+      "primaryKeyword": "여권 묶음배송",
+      "angle": "가족 여권 한 번에 받기",
+      "whyNow": "10월 6일 시행 https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "배달앱·쇼핑몰 원산지 표시 고지 의무 10월 30일",
+      "category": "생활경제",
+      "primaryKeyword": "배달앱 원산지 표시",
+      "angle": "소비자가 확인할 표시 방식",
+      "whyNow": "10월 30일 시행 https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "주민등록표 등·초본 세대원·동거인 표기 통일",
+      "category": "정책제도",
+      "primaryKeyword": "주민등록 등본 표기",
+      "angle": "10월 29일부터 달라지는 표기",
+      "whyNow": "10월 29일 시행 https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "모바일 신분증 발급 앱 11개로 확대",
+      "category": "생활경제",
+      "primaryKeyword": "모바일 신분증 발급",
+      "angle": "은행 앱에서 발급하는 방법",
+      "whyNow": "10월 달라지는 제도 https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "사업재편 승인기업 지원기간 3년→5년",
+      "category": "경제",
+      "primaryKeyword": "사업재편 지원 확대",
+      "angle": "중소기업 대상 변화",
+      "whyNow": "10월 22일 시행 https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "low",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "양육비 선지급 소득기준 폐지 10월 29일",
+      "category": "정책제도",
+      "primaryKeyword": "양육비 선지급",
+      "angle": "10월 5일 글과 중복",
+      "whyNow": "10월 29일 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "토지거래허가구역 연말 만료와 재지정 여부",
+      "category": "생활경제",
+      "primaryKeyword": "토지거래허가구역 재지정",
+      "angle": "결정 전이라 확정 정보 부족",
+      "whyNow": "10월 16일 브리핑 언급 https://www.segye.com/newsView/20261016516771",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "high",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": [
+        "https://www.segye.com/newsView/20261016516771"
+      ]
+    }
+  ]
+}
