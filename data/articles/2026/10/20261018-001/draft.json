@@ -1,0 +1,908 @@
+{
+  "contentId": "20261018-001",
+  "date": "2026-10-18",
+  "topic": "금융위원회·금융감독원(10월 15일): 네이버페이·카카오페이·토스 장기 미사용 선불충전금 255억 원(176만 명) 10월 19일부터 연 1회 이상 통지·환급 안내",
+  "category": "생활경제",
+  "searchIntent": "내 네이버페이·카카오페이·토스에 잊은 충전금이 있는지, 안내는 언제 어떻게 오는지, 현금으로 돌려받는 방법과 사칭 주의점을 알고 싶음",
+  "differentiation": "최근 14일 글(주택 착공, 가계대출, 가족 활동지원, 전세사기 최소보장제, 청년 특례전세보증 등)과 겹치지 않는 간편결제 선불충전금 주제. 회사별 통지 기준 비교와 사칭 주의를 중심으로 정리",
+  "title": "선불충전금 환급 안내 10월 19일 시작, 네이버페이·카카오페이·토스에 잠든 돈 255억",
+  "seoTitle": "선불충전금 환급 안내 10월 19일 시작: 네이버페이·카카오페이·토스 회사별 기준 정리",
+  "metaDescription": "10월 15일 금융위원회 발표 기준으로 네이버페이·카카오페이·토스 장기 미사용 선불충전금 255억 원의 통지 기준, 10월 19일 안내 시작, 환급 방법과 사칭 주의점을 정리했습니다.{C10}{C2}{C3}",
+  "slug": "idle-prepaid-balance-refund-notice",
+  "primaryKeyword": "선불충전금 환급",
+  "secondaryKeywords": [
+    "장기 미사용 선불충전금",
+    "네이버페이 환급",
+    "카카오페이 환급",
+    "토스머니 환급"
+  ],
+  "relatedKeywords": [
+    "페이머니",
+    "선불전자지급수단",
+    "유효기간",
+    "금융위원회",
+    "전자금융"
+  ],
+  "tags": [
+    "생활경제",
+    "선불충전금 환급",
+    "선불충전금",
+    "장기 미사용 선불",
+    "네이버페이",
+    "카카오페이",
+    "토스",
+    "간편결제",
+    "금융위원회",
+    "금융감독원",
+    "전자금융"
+  ],
+  "hook": [
+    "예전에 충전해 두고 잊어버린 네이버페이·카카오페이·토스 잔액이 있을 수 있습니다.",
+    "이런 장기 미사용 선불충전금이 3개사에만 255억 원, 통지 대상은 중복 포함 176만 명입니다.{C2}{C1}[S1]",
+    "3개사는 10월 19일부터 이용자에게 잔액을 알리고 환급 방법도 함께 안내합니다.{C3}[S3]",
+    "내가 안내 대상인지, 돈은 어떻게 돌려받는지, 가짜 안내는 어떻게 구별하는지 정리했습니다."
+  ],
+  "summary": [
+    "금융위원회·금융감독원은 10월 15일 빅테크 3개사와 장기 미사용 선불충전금 통지·환급 촉진 방안을 발표했습니다.{C10}[S1][S2]",
+    "8월 말 기준 통지 대상은 중복 포함 176만 명, 보유 잔액은 255억 원입니다.{C1}{C2}[S1]",
+    "안내 기준은 카카오페이 1년 이상·1원 이상, 네이버페이와 토스 2년 이상·1,000원 이상 미사용 잔액입니다.{C4}{C5}{C6}[S3][S4]",
+    "3개사는 10월 19일부터 순차적으로, 이후 연 1회 이상 잔액과 유효기간을 알립니다.{C3}{C7}[S3][S5]",
+    "안내에는 환급 방법이 함께 담기며, 장기 미사용으로 분류돼도 사용·환급에는 제한이 없습니다.{C14}[S4][S7]"
+  ],
+  "sections": [
+    {
+      "heading": "장기 미사용 선불충전금, 무엇이 바뀌나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "선불충전금은 간편결제 앱에 미리 넣어 둔 돈입니다. 페이머니처럼 여러 가맹점에서 쓰고 남은 돈을 돌려받을 수 있는 선불이 대상입니다.[S1]"
+        },
+        {
+          "type": "p",
+          "text": "이번 방안은 법 개정이 아니라 네이버파이낸셜, 카카오페이, 비바리퍼블리카(토스) 3개사가 먼저 자체 도입하는 방식입니다. 금융당국은 운영 결과를 보고 다른 전자금융업자로 확산을 유도할 계획입니다.[S1][S7]"
+        },
+        {
+          "type": "p",
+          "text": "핵심은 두 가지입니다. 오래 쓰지 않은 잔액을 연 1회 이상 정기적으로 알리고, 그 안내에 환급 방법을 같이 넣는 것입니다.{C7}[S1][S3]"
+        },
+        {
+          "type": "image",
+          "slot": 2
+        }
+      ]
+    },
+    {
+      "heading": "왜 지금 알아야 하나: 9년 넘게 알림이 없던 구조",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "지금까지 선불업자는 신유형 상품권 표준약관에 따라 유효기간 만료 30일 전부터 3회 이상만 안내하면 됐습니다.{C9}[S5][S8]"
+        },
+        {
+          "type": "p",
+          "text": "네이버페이와 카카오페이 충전금 유효기간은 10년이고, 토스머니는 별도 유효기간이 없습니다. 유효기간이 길다 보니 만료 직전까지 오랫동안 따로 알림을 받기 어려웠습니다.{C8}[S3][S4]"
+        },
+        {
+          "type": "p",
+          "text": "잊힌 선불 잔액 문제는 전부터 지적돼 왔습니다. 국민권익위원회는 2025년 교통카드·페이 등 선불 잔액 가운데 소멸시효가 지난 돈이 2021~2024년 2,116억 원이라고 밝혔습니다.{C11}[S9]"
+        },
+        {
+          "type": "p",
+          "text": "이 집계는 이번 3개사 통지 대상과 범위가 다릅니다. 다만 쓰지 않고 잊은 잔액이 적지 않다는 점은 같습니다.[S9]"
+        }
+      ]
+    },
+    {
+      "heading": "내가 안내 대상일까: 회사별 기준",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "장기 미사용 기준은 마지막으로 충전하거나 사용한 날부터 따집니다. 회사마다 기간과 최소 잔액, 알림 경로가 다릅니다.[S1][S3]"
+        },
+        {
+          "type": "table",
+          "caption": "빅테크 3개사 장기 미사용 선불충전금 안내 기준",
+          "headers": [
+            "회사",
+            "미사용 기간",
+            "최소 잔액",
+            "안내 경로"
+          ],
+          "rows": [
+            [
+              "카카오페이",
+              "1년 이상{C4}",
+              "1원 이상{C4}",
+              "카카오톡 알림톡"
+            ],
+            [
+              "네이버페이",
+              "2년 이상{C5}",
+              "1,000원 이상{C5}",
+              "네이버톡톡 공식 계정"
+            ],
+            [
+              "토스",
+              "2년 이상{C6}",
+              "1,000원 이상{C6}",
+              "토스 앱 푸시 알림"
+            ]
+          ],
+          "note": "10월 15일 발표 기준. 세부 운영은 각 회사 공지에 따라 달라질 수 있습니다."
+        },
+        {
+          "type": "p",
+          "text": "카카오페이는 1원만 남아 있어도 1년 넘게 쓰지 않았다면 안내 대상입니다. 네이버페이와 토스는 2년 이상 쓰지 않은 잔액이 1,000원 이상일 때 안내합니다.{C4}{C5}{C6}[S4][S6]"
+        },
+        {
+          "type": "p",
+          "text": "안내 대상이 아니라고 돈이 사라지는 것은 아닙니다. 기준에 못 미치는 잔액도 앱에서 직접 확인하고 쓰거나 돌려받을 수 있습니다.{C14}[S4]"
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 255억 원은 얼마나 되나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "장기 미사용 선불충전금 주요 숫자",
+          "headers": [
+            "구분",
+            "값",
+            "기준"
+          ],
+          "rows": [
+            [
+              "통지 대상 이용자",
+              "176만 명{C1}",
+              "8월 말, 중복 포함"
+            ],
+            [
+              "보유 잔액",
+              "255억 원{C2}",
+              "8월 말, 3개사 합계"
+            ],
+            [
+              "1명당 단순 평균",
+              "약 1만 4,000원대{C13}",
+              "255억 원 ÷ 176만 명"
+            ],
+            [
+              "선불 소멸시효 만료액(참고)",
+              "연평균 529억 원{C12}",
+              "2021~2024년, 권익위"
+            ]
+          ],
+          "note": "1명당 평균은 중복 포함 인원으로 나눈 단순 계산이라 실제 개인별 잔액과 다를 수 있습니다."
+        },
+        {
+          "type": "p",
+          "text": "255억 원을 176만 명으로 나누면 1명당 약 1만 4,000원대입니다. 다만 한 사람이 여러 회사에 잔액이 있으면 중복으로 세어져, 실제 1인당 금액은 이보다 클 수 있습니다.{C13}"
+        },
+        {
+          "type": "p",
+          "text": "권익위 집계로는 2021~2024년 4년 동안 소멸시효가 지난 선불 잔액이 2,116억 원, 연평균 529억 원이었습니다. 계산식은 2,116억 원 ÷ 4년입니다.{C11}{C12}[S9]"
+        },
+        {
+          "type": "image",
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "heading": "선불충전금 환급, 이렇게 받습니다",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "**공식 알림 확인**: 카카오톡 알림톡, 네이버톡톡 공식 계정, 토스 앱 푸시로 온 안내인지 봅니다.{C4}{C5}{C6}",
+            "**공식 앱 직접 실행**: 메시지 속 링크 대신 설치된 공식 앱을 열어 로그인합니다.",
+            "**잔액·유효기간 확인**: 페이머니 잔액과 유효기간을 확인합니다.",
+            "**송금·환급 메뉴 선택**: 안내된 환급 메뉴에서 받을 계좌와 금액을 고릅니다.[S3][S4]",
+            "**환급 내역 확인**: 내 은행 계좌에 입금됐는지 확인합니다."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "전에는 이용자가 홈페이지나 앱에서 환급 메뉴를 일일이 찾아야 했습니다. 이번에는 안내에 환급 정보가 함께 담겨 절차가 줄어듭니다.[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "선불충전금 환급 수수료나 처리 시간은 이번 발표에 나오지 않았습니다. 회사별 앱 안내와 이용약관에서 확인하는 것이 안전합니다.[S3]"
+        },
+        {
+          "type": "image",
+          "slot": 5
+        }
+      ]
+    },
+    {
+      "heading": "실제로 확인해야 할 사항과 주의할 점",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "**사칭 주의**: 환급을 미끼로 계좌번호·비밀번호를 묻는 문자나 이메일에는 응하지 않습니다.[S3][S4]",
+            "**공식 채널만 신뢰**: 3개사 안내는 앱 알림이나 알림톡 등 공식 채널로만 옵니다.[S4]",
+            "**알림 수신 설정**: 앱 푸시나 알림톡을 꺼 두었다면 안내를 못 받을 수 있어 직접 잔액을 확인합니다.",
+            "**다른 페이도 점검**: 이번 방안은 3개사가 먼저 도입했습니다. 교통카드 등 다른 선불 잔액은 각 회사에서 확인합니다.[S1][S7]",
+            "**유효기간 확인**: 네이버페이·카카오페이는 10년 유효기간이 있어 충전 시점을 확인합니다.{C8}"
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "금융당국은 출처가 불분명한 문자·이메일로 계좌 정보를 요구하면 응하지 말라고 당부했습니다. 의심되면 공식 앱 고객센터로 직접 확인하세요.[S3][S4]"
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "장기 미사용으로 분류되면 선불충전금을 못 쓰나요?",
+      "answer": "아닙니다. 장기 미사용으로 분류돼도 기존 선불충전금의 사용이나 환급은 제한되지 않습니다.{C14}[S4][S7] 안내는 잔액이 있다는 사실과 유효기간을 알려 주는 것입니다."
+    },
+    {
+      "question": "안내 문자를 못 받았으면 선불충전금 환급 대상이 아닌가요?",
+      "answer": "안내는 회사별 기준(카카오페이 1년·1원, 네이버페이·토스 2년·1,000원 이상)에 맞는 잔액에 대해 10월 19일부터 순차로 나갑니다.{C3}{C4}{C5}{C6}[S3] 기준에 못 미쳐도 잔액은 남아 있으니 앱에서 직접 확인해 쓰거나 환급받을 수 있습니다."
+    },
+    {
+      "question": "토스머니도 유효기간이 지나면 사라지나요?",
+      "answer": "보도에 따르면 토스머니는 별도 유효기간이 없고, 네이버페이·카카오페이는 10년입니다.{C8}[S3][S4] 세부 조건은 각 회사 이용약관에서 확인하는 것이 좋습니다."
+    }
+  ],
+  "closing": [
+    "네이버페이·카카오페이·토스 3개사는 10월 19일부터 장기 미사용 선불충전금을 순차 안내합니다.{C3}",
+    "카카오페이는 1년·1원 이상, 네이버페이·토스는 2년·1,000원 이상 미사용 잔액이 안내 기준입니다.{C4}{C5}{C6}",
+    "선불충전금 환급은 공식 앱에서 송금·환급 메뉴로 계좌를 골라 받으면 됩니다.",
+    "계좌 정보를 묻는 출처 불분명한 문자·이메일은 사칭일 수 있으니 공식 앱으로 직접 확인하세요."
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "'잠든 선불충전금 있어요~'…네이버·카카오 등 통지·환급 강화",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973556",
+      "publisher": "대한민국 정책브리핑(금융위원회)",
+      "tier": 1,
+      "accessedAt": "2026-10-18",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S2",
+      "title": "잠든 선불충전금, 잊지 말고 사용하세요 - 빅테크 3개사, 장기간 미사용 선불의 이용자 통지 및 환급 촉진",
+      "url": "https://www.fsc.go.kr/no010101/87938",
+      "publisher": "금융위원회(디지털금융총괄과)",
+      "tier": 1,
+      "accessedAt": "2026-10-18",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S3",
+      "title": "네이버페이·카카오페이·토스에 잠든 255억원…19일부터 환급 안내",
+      "url": "https://www.etoday.co.kr/news/view/2636054",
+      "publisher": "이투데이",
+      "tier": 2,
+      "accessedAt": "2026-10-18",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S4",
+      "title": "네이버페이·카카오페이·토스에 잠든 돈 255억원…19일부터 환급 안내",
+      "url": "https://www.dailian.co.kr/news/view/1701757",
+      "publisher": "데일리안",
+      "tier": 2,
+      "accessedAt": "2026-10-18",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S5",
+      "title": "네카토에 묵힌 돈 255억…19일부터 환급 안내",
+      "url": "https://www.sidae.com/article/2026101510560250388",
+      "publisher": "시대일보",
+      "tier": 2,
+      "accessedAt": "2026-10-18",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S6",
+      "title": "잠자는 '충전형 선불금' 주인 찾기 본격화…빅테크 3사, 연 1회 알림",
+      "url": "https://cbci.co.kr/news/articleView.html?idxno=615926",
+      "publisher": "CBC뉴스",
+      "tier": 2,
+      "accessedAt": "2026-10-18",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S7",
+      "title": "네이버·카카오·토스, 장기 미사용 선불잔액 정기 안내...간편 환급도 지원",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727942",
+      "publisher": "EBN",
+      "tier": 2,
+      "accessedAt": "2026-10-18",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S8",
+      "title": "금융위, 선불충전금 255억 간편 환급 방안 마련...이달 네이버·카카오페이·토스 도입",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=71828",
+      "publisher": "뉴스후플러스",
+      "tier": 2,
+      "accessedAt": "2026-10-18",
+      "referenceDate": "2026-10-15"
+    },
+    {
+      "id": "S9",
+      "title": "매년 사라지는 페이·머니 529억 원…'소멸시효 사전 안내' 의무화",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148946978",
+      "publisher": "대한민국 정책브리핑(국민권익위원회)",
+      "tier": 1,
+      "accessedAt": "2026-10-18",
+      "referenceDate": "2025-08-01"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "장기 미사용 선불 통지 대상 이용자 수",
+      "value": "176만 명",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S4",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "빅테크 3개사 합계, 중복 포함, 8월 말 기준"
+    },
+    {
+      "id": "C2",
+      "claim": "통지 대상 이용자가 보유한 장기 미사용 선불충전금",
+      "value": "255억 원",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "빅테크 3개사 합계, 8월 말 기준"
+    },
+    {
+      "id": "C3",
+      "claim": "장기 미사용 선불 통지 시작일",
+      "value": "10월 19일",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "3개사 순차 안내 시작",
+      "notes": "정책브리핑·EBN은 '이달부터'로 표기, 날짜는 언론 3곳 일치"
+    },
+    {
+      "id": "C4",
+      "claim": "카카오페이 통지 기준",
+      "value": "1년 이상 미사용, 잔액 1원 이상",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "카카오톡 알림톡으로 안내"
+    },
+    {
+      "id": "C5",
+      "claim": "네이버페이 통지 기준",
+      "value": "2년 이상 미사용, 잔액 1,000원 이상",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "네이버톡톡 공식 계정으로 안내"
+    },
+    {
+      "id": "C6",
+      "claim": "토스 통지 기준",
+      "value": "2년 이상 미사용, 잔액 1,000원 이상",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "토스 앱 푸시 알림으로 안내"
+    },
+    {
+      "id": "C7",
+      "claim": "장기 미사용 선불 정기 통지 주기",
+      "value": "연 1회 이상",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C8",
+      "claim": "선불충전금 유효기간",
+      "value": "네이버페이·카카오페이 10년, 토스 별도 유효기간 없음",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S5",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "기존 통지 의무",
+      "value": "유효기간 만료 30일 전부터 3회 이상",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S4",
+        "S5",
+        "S6",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "신유형 상품권 표준약관 기준"
+    },
+    {
+      "id": "C10",
+      "claim": "금융위원회·금융감독원 발표일",
+      "value": "10월 15일",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S1",
+        "S2"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C11",
+      "claim": "국민권익위원회 집계 2021~2024년 선불전자지급수단 소멸시효 만료 금액 합계",
+      "value": "2,116억 원",
+      "referenceDate": "2025-08-01",
+      "sourceIds": [
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "교통카드·페이 등 선불전자지급수단, 소멸시효(5년) 만료분",
+      "notes": "이번 빅테크 3사 통지 대상과 다른 집계"
+    },
+    {
+      "id": "C12",
+      "claim": "소멸시효 만료 금액 연평균",
+      "value": "529억 원",
+      "referenceDate": "2025-08-01",
+      "sourceIds": [
+        "S9"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "2021~2024년 4년 평균",
+      "formula": "211600000000/4"
+    },
+    {
+      "id": "C13",
+      "claim": "통지 대상 1명당 단순 평균 잔액",
+      "value": "1만 4,489원",
+      "referenceDate": "2026-08-31",
+      "sourceIds": [
+        "S1",
+        "S3"
+      ],
+      "verified": true,
+      "conflict": false,
+      "condition": "255억 원 ÷ 176만 명, 중복 포함 인원 기준 단순 계산",
+      "formula": "25500000000/1760000",
+      "notes": "계산 예시용, 실제 1인당 잔액과 다를 수 있음"
+    },
+    {
+      "id": "C14",
+      "claim": "장기 미사용 분류 후 사용·환급 제한 여부",
+      "value": "제한 없음",
+      "referenceDate": "2026-10-15",
+      "sourceIds": [
+        "S4",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "네이버페이·카카오페이·토스에 잠든 선불충전금 255억 원 안내가 10월 19일 시작된다는 표지 그래픽",
+        "eyebrow": "10월 15일 금융위원회 발표{C10}",
+        "title": "잠든 선불충전금 255억 원{C2}",
+        "subtitle": "10월 19일부터 순차 안내{C3}"
+      },
+      {
+        "kind": "stats",
+        "slot": 2,
+        "alt": "통지 대상 인원, 잔액 규모, 통지 주기를 보여주는 숫자 카드",
+        "title": "장기 미사용 선불 현황",
+        "stats": [
+          {
+            "label": "통지 대상",
+            "value": "176만 명",
+            "note": "중복 포함{C1}"
+          },
+          {
+            "label": "보유 잔액",
+            "value": "255억 원",
+            "note": "8월 말 기준{C2}"
+          },
+          {
+            "label": "안내 주기",
+            "value": "연 1회 이상",
+            "note": "정기 통지{C7}"
+          }
+        ],
+        "footnote": "출처: 금융위원회·금융감독원"
+      },
+      {
+        "kind": "table",
+        "slot": 3,
+        "alt": "카카오페이, 네이버페이, 토스의 미사용 기간과 최소 잔액 기준 비교표",
+        "title": "회사별 안내 기준",
+        "headers": [
+          "회사",
+          "미사용 기간",
+          "최소 잔액"
+        ],
+        "rows": [
+          [
+            "카카오페이",
+            "1년 이상{C4}",
+            "1원 이상{C4}"
+          ],
+          [
+            "네이버페이",
+            "2년 이상{C5}",
+            "1,000원 이상{C5}"
+          ],
+          [
+            "토스",
+            "2년 이상{C6}",
+            "1,000원 이상{C6}"
+          ]
+        ],
+        "footnote": "마지막 충전·사용일 기준"
+      },
+      {
+        "kind": "timeline",
+        "slot": 4,
+        "alt": "발표부터 순차 안내, 정기 통지, 업계 확산까지의 진행 순서",
+        "title": "통지·환급 진행 일정",
+        "events": [
+          {
+            "date": "10.15",
+            "label": "금융당국 방안 발표{C10}"
+          },
+          {
+            "date": "10.19",
+            "label": "3개사 순차 안내 시작{C3}"
+          },
+          {
+            "date": "이후 매년",
+            "label": "연 1회 이상 정기 안내{C7}"
+          },
+          {
+            "date": "추후",
+            "label": "전자금융업계 확산 유도"
+          }
+        ],
+        "footnote": "2026년 기준, 일정은 회사별로 다를 수 있음"
+      },
+      {
+        "kind": "flow",
+        "slot": 5,
+        "alt": "공식 알림 확인부터 앱 실행, 환급 메뉴 선택, 입금 확인까지의 환급 단계",
+        "title": "선불충전금 환급 순서",
+        "steps": [
+          "공식 알림 확인",
+          "공식 앱 직접 실행",
+          "송금·환급 메뉴 선택",
+          "계좌 입금 확인"
+        ],
+        "footnote": "메시지 속 링크 대신 앱을 직접 실행"
+      },
+      {
+        "kind": "checklist",
+        "slot": 6,
+        "alt": "환급 안내 사칭을 피하기 위해 확인할 다섯 가지 항목",
+        "title": "사칭 피하는 확인 사항",
+        "items": [
+          "계좌·비밀번호 묻는 문자 무시",
+          "알림톡·톡톡·앱 푸시만 신뢰",
+          "링크 대신 공식 앱 직접 실행",
+          "알림 꺼 두었다면 직접 잔액 확인",
+          "의심되면 공식 고객센터 문의"
+        ],
+        "footnote": "금융당국 당부 사항 기준"
+      }
+    ],
+    "video": {
+      "alt": "장기 미사용 선불충전금 안내 시작과 회사별 기준을 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "내 페이머니, 잊고 있지 않나요?"
+        },
+        {
+          "kind": "fact",
+          "heading": "3개사에 잠든 선불충전금",
+          "big": "255억 원{C2}",
+          "body": "통지 대상 176만 명, 중복 포함{C1}"
+        },
+        {
+          "kind": "fact",
+          "heading": "안내 시작",
+          "big": "10월 19일{C3}",
+          "body": "이후 연 1회 이상 정기 안내{C7}"
+        },
+        {
+          "kind": "explain",
+          "heading": "카카오페이 1년, 네이버페이·토스 2년 미사용 기준",
+          "body": "공식 앱에서 환급 메뉴로 받기"
+        },
+        {
+          "kind": "cta",
+          "heading": "자세한 내용은 본문에서",
+          "body": "계좌 묻는 문자는 사칭 주의"
+        }
+      ]
+    }
+  },
+  "topicCandidates": [
+    {
+      "topic": "빅테크 3사 장기 미사용 선불충전금 통지·환급",
+      "category": "생활경제",
+      "primaryKeyword": "선불충전금 환급",
+      "angle": "회사별 통지 기준 비교·환급 순서·사칭 주의",
+      "whyNow": "10월 15일 발표, 10월 19일 안내 시작 https://www.korea.kr/news/policyNewsView.do?newsId=148973556",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.etoday.co.kr/news/view/2636054",
+        "https://www.dailian.co.kr/news/view/1701757"
+      ]
+    },
+    {
+      "topic": "일본 면세제도 리펀드 방식 전환(11월)",
+      "category": "생활경제",
+      "primaryKeyword": "일본 면세 리펀드",
+      "angle": "여행자 환급 절차 변화",
+      "whyNow": "11월 시행 예정(시행일 7일 초과) https://www.japan.travel/ko/kr/topic/saesosig-2026nyeon-11weolbuteo-sobija-myeonse-jedoga-ripeondeu-bangsigeuro-baggwibnida/",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://matcha-jp.com/ko/27460"
+      ]
+    },
+    {
+      "topic": "결혼준비대행업 가격·위약금 표시 위반 17곳 적발",
+      "category": "생활경제",
+      "primaryKeyword": "결혼 업체 가격표시",
+      "angle": "예비부부 계약 전 확인 사항",
+      "whyNow": "10월 16일 발표 https://www.korea.kr/news/policyNewsList.do",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": []
+    },
+    {
+      "topic": "온라인 원산지 표시 고지 의무(10월 30일)",
+      "category": "생활경제",
+      "primaryKeyword": "배달앱 원산지 표시",
+      "angle": "배달앱 이용자 확인법",
+      "whyNow": "10월 30일 시행 https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": []
+    },
+    {
+      "topic": "주민등록 등·초본 가족 표기 변경(10월 29일)",
+      "category": "정책제도",
+      "primaryKeyword": "등초본 세대원 표기",
+      "angle": "발급 시 달라지는 점",
+      "whyNow": "10월 29일 시행 https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": []
+    },
+    {
+      "topic": "9월 취업자 11만 3,000명 증가",
+      "category": "경제",
+      "primaryKeyword": "9월 고용동향",
+      "angle": "업종·연령별 고용",
+      "whyNow": "10월 16일 발표 https://www.korea.kr/news/policyNewsList.do",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "low",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": []
+    },
+    {
+      "topic": "10월 금통위(10월 22일) 통화정책방향",
+      "category": "경제",
+      "primaryKeyword": "기준금리 동결 인상",
+      "angle": "대출이자 영향",
+      "whyNow": "10월 22일 예정 https://www.newspim.com/news/view/20261016001256",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "factCheckDifficulty": "high",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": []
+    },
+    {
+      "topic": "금감원 노후 자금 소비자경보(10월 21일)",
+      "category": "생활경제",
+      "primaryKeyword": "노후 자금 소비자경보",
+      "angle": "발표 전이라 내용 미확정",
+      "whyNow": "10월 21일 예정 https://www.newspim.com/news/view/20261016001256",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "low",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": []
+    },
+    {
+      "topic": "철도 승차권 예매 2개월 전으로 확대",
+      "category": "생활경제",
+      "primaryKeyword": "철도 예매 2개월",
+      "angle": "연말 예매 일정",
+      "whyNow": "10월 1일 시행(7일 초과) https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "low",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": []
+    },
+    {
+      "topic": "2차 모두의 창업 1만 명 선발",
+      "category": "정책제도",
+      "primaryKeyword": "모두의 창업 2차",
+      "angle": "신청 대상·지원 내용",
+      "whyNow": "10월 15일 발표 https://www.korea.kr/news/policyNewsList.do",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "competition": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": []
+    }
+  ]
+}
