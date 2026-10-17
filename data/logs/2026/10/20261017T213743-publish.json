@@ -1,0 +1,86 @@
+{
+  "runId": "20261017T213743-publish",
+  "mode": "publish",
+  "date": "2026-10-18",
+  "draftPath": "data/articles/2026/10/20261018-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-17T21:37:43.585Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-17T21:37:43.585Z",
+      "attempts": 1,
+      "endedAt": "2026-10-17T21:37:43.600Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-17T21:37:43.612Z",
+      "endedAt": "2026-10-17T21:37:43.612Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-17T21:37:43.612Z",
+      "attempts": 1,
+      "endedAt": "2026-10-17T21:38:06.103Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-17T21:38:06.109Z",
+      "endedAt": "2026-10-17T21:38:06.109Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-17T21:38:06.109Z",
+      "attempts": 1,
+      "endedAt": "2026-10-17T21:38:09.406Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-17T21:38:09.408Z",
+      "attempts": 1,
+      "endedAt": "2026-10-17T21:38:14.142Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-17T21:38:14.143Z",
+      "attempts": 1,
+      "endedAt": "2026-10-17T21:38:14.152Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261018-001",
+  "topic": "금융위원회·금융감독원(10월 15일): 네이버페이·카카오페이·토스 장기 미사용 선불충전금 255억 원(176만 명) 10월 19일부터 연 1회 이상 통지·환급 안내",
+  "category": "생활경제",
+  "keywords": [
+    "선불충전금 환급",
+    "장기 미사용 선불충전금",
+    "네이버페이 환급",
+    "카카오페이 환급",
+    "토스머니 환급"
+  ],
+  "title": "선불충전금 환급 안내 10월 19일 시작, 네이버페이·카카오페이·토스에 잠든 돈 255억",
+  "sources": [
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148973556",
+    "https://www.fsc.go.kr/no010101/87938",
+    "https://www.etoday.co.kr/news/view/2636054",
+    "https://www.dailian.co.kr/news/view/1701757",
+    "https://www.sidae.com/article/2026101510560250388",
+    "https://cbci.co.kr/news/articleView.html?idxno=615926",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1727942",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=71828",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148946978"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3456,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "7416856482330681368",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/idle-prepaid-balance-refund-notice.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-17T21:38:14.152Z",
+  "executionTimeMs": 30567
+}
