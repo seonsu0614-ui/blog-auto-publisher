@@ -1,0 +1,85 @@
+{
+  "runId": "20261018T213801-publish",
+  "mode": "publish",
+  "date": "2026-10-19",
+  "draftPath": "data/articles/2026/10/20261019-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-18T21:38:01.066Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-18T21:38:01.066Z",
+      "attempts": 1,
+      "endedAt": "2026-10-18T21:38:01.082Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-18T21:38:01.092Z",
+      "endedAt": "2026-10-18T21:38:01.092Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-18T21:38:01.092Z",
+      "attempts": 1,
+      "endedAt": "2026-10-18T21:38:24.639Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-18T21:38:24.644Z",
+      "endedAt": "2026-10-18T21:38:24.644Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-18T21:38:24.644Z",
+      "attempts": 1,
+      "endedAt": "2026-10-18T21:38:26.552Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-18T21:38:26.553Z",
+      "attempts": 1,
+      "endedAt": "2026-10-18T21:38:26.950Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-18T21:38:26.951Z",
+      "attempts": 1,
+      "endedAt": "2026-10-18T21:38:26.960Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261019-001",
+  "topic": "보건복지부(10월 18일): 비대면진료 실시·처방기준 구체화 의료법 시행규칙 등 개정령안 10월 19일~11월 9일 입법예고, 개정 의료법 12월 24일 시행",
+  "category": "정책제도",
+  "keywords": [
+    "비대면진료 초진",
+    "비대면진료 처방일수",
+    "비대면진료 제도화",
+    "비대면진료 비만치료제"
+  ],
+  "title": "비대면진료 초진 12월 24일부터, 같은 시·도 의원만·약은 7일까지",
+  "sources": [
+    "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785554",
+    "https://www.law.go.kr/LSW/lsRvsDocListP.do?lsId=001788&chrClsCd=010102",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148955797",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148952982",
+    "https://www.etoday.co.kr/news/view/2636828",
+    "https://www.rapportian.com/news/articleView.html?idxno=241366",
+    "https://www.fnnews.com/news/202610181817064568",
+    "https://www.medipana.com/news/articleView.html?idxno=419515",
+    "https://view.asiae.co.kr/article/2026101800262188150"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3858,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "1966137335069949858",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/telemedicine-first-visit-rules.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-18T21:38:26.960Z",
+  "executionTimeMs": 25894
+}
