@@ -445,5 +445,38 @@
     "wordCount": 3858,
     "imageCount": 6,
     "videoCreated": true
+  },
+  {
+    "contentId": "20261020-001",
+    "date": "2026-10-20",
+    "title": "취약 어르신 낙상 치료비·치매배상책임보험 무료, 2027년부터 누가 받나",
+    "topic": "금융위원회·보건복지부·보험업권(10월 19일): 취약 어르신 57만 명 낙상 치료비·헬스케어, 치매환자 약 8만 명 무료 치매배상책임보험, 2027년 1분기부터 2년간",
+    "primaryKeyword": "치매배상책임보험",
+    "secondaryKeywords": [
+      "낙상 치료비 지원",
+      "노인맞춤돌봄서비스",
+      "보험업권 상생기금"
+    ],
+    "category": "생활경제",
+    "searchIntent": "부모님이 낙상 치료비 지원이나 무료 치매배상책임보험 대상인지, 언제부터 어떻게 신청하는지 알고 싶음",
+    "tags": [
+      "생활경제",
+      "정책제도",
+      "치매배상책임보험",
+      "낙상 치료비",
+      "노인맞춤돌봄서비스",
+      "취약 어르신",
+      "독거노인",
+      "상생보험",
+      "보험업권 상생기금",
+      "금융위원회",
+      "보건복지부"
+    ],
+    "url": "https://lifeeconomy-briefing.blogspot.com/2026/10/senior-fall-dementia-insurance-support.html",
+    "postId": "1129767323500403072",
+    "publishedAt": "2026-10-20T06:36:16+09:00",
+    "wordCount": 3325,
+    "imageCount": 6,
+    "videoCreated": true
   }
 ]

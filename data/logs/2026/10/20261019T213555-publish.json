@@ -1,0 +1,83 @@
+{
+  "runId": "20261019T213555-publish",
+  "mode": "publish",
+  "date": "2026-10-20",
+  "draftPath": "data/articles/2026/10/20261020-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-19T21:35:55.028Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-19T21:35:55.028Z",
+      "attempts": 1,
+      "endedAt": "2026-10-19T21:35:55.040Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-19T21:35:55.046Z",
+      "endedAt": "2026-10-19T21:35:55.046Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-19T21:35:55.046Z",
+      "attempts": 1,
+      "endedAt": "2026-10-19T21:36:15.778Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-19T21:36:15.782Z",
+      "endedAt": "2026-10-19T21:36:15.782Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-19T21:36:15.782Z",
+      "attempts": 1,
+      "endedAt": "2026-10-19T21:36:18.181Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-19T21:36:18.182Z",
+      "attempts": 1,
+      "endedAt": "2026-10-19T21:36:18.542Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-19T21:36:18.543Z",
+      "attempts": 1,
+      "endedAt": "2026-10-19T21:36:18.549Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261020-001",
+  "topic": "금융위원회·보건복지부·보험업권(10월 19일): 취약 어르신 57만 명 낙상 치료비·헬스케어, 치매환자 약 8만 명 무료 치매배상책임보험, 2027년 1분기부터 2년간",
+  "category": "생활경제",
+  "keywords": [
+    "치매배상책임보험",
+    "낙상 치료비 지원",
+    "노인맞춤돌봄서비스",
+    "보험업권 상생기금"
+  ],
+  "title": "취약 어르신 낙상 치료비·치매배상책임보험 무료, 2027년부터 누가 받나",
+  "sources": [
+    "https://www.jungbunews.com/news/articleView.html?idxno=2766189",
+    "https://www.insnews.co.kr/news/articleView.html?idxno=93387",
+    "https://www.etoday.co.kr/news/view/2637292",
+    "https://biz.heraldcorp.com/article/10907520",
+    "https://www.ksw-news.com/news/articleView.html?idxno=3049193",
+    "https://state.gwd.go.kr/portal/partinfo/senior/welfare/sevices",
+    "https://www.gg.go.kr/myggd/vol152/sub3_5.html"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3325,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "1129767323500403072",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/senior-fall-dementia-insurance-support.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-19T21:36:18.549Z",
+  "executionTimeMs": 23521
+}
