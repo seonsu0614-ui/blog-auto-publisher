@@ -1,0 +1,931 @@
+{
+  "contentId": "20261020-001",
+  "date": "2026-10-20",
+  "topic": "금융위원회·보건복지부·보험업권(10월 19일): 취약 어르신 57만 명 낙상 치료비·헬스케어, 치매환자 약 8만 명 무료 치매배상책임보험, 2027년 1분기부터 2년간",
+  "category": "생활경제",
+  "searchIntent": "부모님이 낙상 치료비 지원이나 무료 치매배상책임보험 대상인지, 언제부터 어떻게 신청하는지 알고 싶음",
+  "differentiation": "최근 14일 글(비대면진료, 선불충전금, 주택 착공, 가계대출 등)과 겹치지 않는 고령층 보험·돌봄 주제. 대상 요건(노인맞춤돌봄서비스)과 신청 경로 중심",
+  "title": "취약 어르신 낙상 치료비·치매배상책임보험 무료, 2027년부터 누가 받나",
+  "seoTitle": "치매배상책임보험 무료·낙상 치료비 지원: 대상 65만 명, 2027년 1분기 시작",
+  "metaDescription": "10월 19일 금융위·복지부·보험업권 협약 기준으로 낙상 치료비 지원과 무료 치매배상책임보험의 대상, 지원 내용, 신청 방법, 2027년 시작 일정을 정리했습니다.{C1}",
+  "slug": "senior-fall-dementia-insurance-support",
+  "primaryKeyword": "치매배상책임보험",
+  "secondaryKeywords": [
+    "낙상 치료비 지원",
+    "노인맞춤돌봄서비스",
+    "보험업권 상생기금"
+  ],
+  "relatedKeywords": [
+    "독거노인종합지원센터",
+    "한국취약노인지원재단",
+    "생활지원사",
+    "금융위원회",
+    "보건복지부"
+  ],
+  "tags": [
+    "생활경제",
+    "정책제도",
+    "치매배상책임보험",
+    "낙상 치료비",
+    "노인맞춤돌봄서비스",
+    "취약 어르신",
+    "독거노인",
+    "상생보험",
+    "보험업권 상생기금",
+    "금융위원회",
+    "보건복지부"
+  ],
+  "hook": [
+    "혼자 사는 부모님이 집에서 넘어져 다치면 병원비는 누가 챙길까요?",
+    "치매가 있는 어르신이 실수로 남의 물건을 망가뜨리면 배상은 어떻게 할까요?",
+    "금융위원회·보건복지부와 보험업권이 10월 19일 취약 어르신 약 65만 명에게 낙상 치료비와 치매배상책임보험을 무료로 지원하는 협약을 맺었습니다.{C1}{C4}[S1][S3]",
+    "누가 대상인지, 무엇을 받는지, 언제부터 어떻게 신청하는지 정리했습니다."
+  ],
+  "summary": [
+    "10월 19일 금융위·복지부, 생명보험협회·손해보험협회, 한국취약노인지원재단, 독거노인종합지원센터가 업무협약을 맺었습니다.{C1}[S1][S2]",
+    "노인맞춤돌봄서비스를 받는 취약 어르신 약 57만 명에게 낙상사고 치료비, 금융교육, 헬스케어를 제공합니다.{C2}[S1][S3]",
+    "취약계층 치매환자 약 8만 명에게는 치매배상책임보험을 무료로 제공합니다.{C3}[S1][S4]",
+    "총사업비는 105억 원이며, 사업은 2027년 1분기에 시작해 2028년까지 2년간 이어집니다.{C5}{C12}[S2][S5]"
+  ],
+  "sections": [
+    {
+      "heading": "무엇이 달라지나: 보험업권이 돌봄에 들어온다",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "이번 사업의 이름은 '시니어 취약계층 통합지원사업'입니다. 보험업권이 모은 상생기금으로 취약 어르신에게 치료비 지원, 무료 보험 같은 금융 지원과 건강관리 같은 비금융 지원을 함께 제공합니다.[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "현장 운영은 복지부 산하 노인지원기관이 맡습니다. 낙상 치료비와 헬스케어는 독거노인종합지원센터, 치매배상책임보험은 한국취약노인지원재단이 담당합니다.[S1][S5]"
+        },
+        {
+          "type": "p",
+          "text": "상생기금은 보험업권이 사회공헌을 위해 마련한 돈입니다. 올해 9월부터 일부 지자체와 함께 소상공인 등에게 무료 상생보험을 제공한 데 이어 나온 후속 사업입니다.[S1][S4]"
+        }
+      ]
+    },
+    {
+      "heading": "누가 대상인가: 노인맞춤돌봄서비스가 기준",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "낙상 치료비와 헬스케어 대상은 노인맞춤돌봄서비스를 이용하는 만 65세 이상 취약 어르신입니다. 규모는 약 57만 명입니다.{C2}[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "노인맞춤돌봄서비스(혼자 일상생활이 어려운 어르신에게 안부 확인·생활 지원을 하는 정부 돌봄 사업)는 만 65세 이상 기초생활수급자, 차상위계층, 기초연금수급자 가운데 돌봄이 필요한 분이 대상입니다.{C14}[S6][S7]"
+        },
+        {
+          "type": "p",
+          "text": "무료 보험은 치매환자로 등록된 어르신 가운데 취약계층이 대상입니다. 한국취약노인지원재단이 소득수준 등을 고려해 약 8만 명을 선정합니다.{C3}[S4][S5]"
+        },
+        {
+          "type": "table",
+          "caption": "대상과 지원 내용(10월 19일 협약 기준)",
+          "headers": [
+            "구분",
+            "대상",
+            "주요 지원"
+          ],
+          "rows": [
+            [
+              "돌봄 연계 사업",
+              "노인맞춤돌봄 이용 어르신 약 57만 명{C2}",
+              "낙상 치료비, 금융교육, 헬스케어"
+            ],
+            [
+              "치매 보험",
+              "취약계층 치매환자 약 8만 명{C3}",
+              "보험 무료 가입"
+            ],
+            [
+              "합계",
+              "약 65만 명{C4}",
+              "—"
+            ]
+          ],
+          "note": "대상 인원은 협약 발표 기준이며, 세부 기준은 2026년 4분기 사업계획에서 정해집니다."
+        },
+        {
+          "type": "image",
+          "slot": 2
+        }
+      ]
+    },
+    {
+      "heading": "낙상 치료비와 헬스케어는 어떻게 받나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "낙상사고 치료비는 타박상, 염좌, 골절 등을 입은 어르신에게 신체 손상 정도에 따라 치료·회복비를 차등 지원합니다. 1인당 지원 금액은 아직 발표되지 않았습니다.[S3][S4]"
+        },
+        {
+          "type": "p",
+          "text": "병·의원에서 치료를 받은 뒤 진단서와 영수증을 독거노인종합지원센터에 내면 됩니다. 어르신을 담당하는 생활지원사가 대신 신청할 수도 있습니다.[S4][S5]"
+        },
+        {
+          "type": "p",
+          "text": "헬스케어는 대학병원 경력 5년 이상 간호사 등이 전화로 건강상담과 건강검진 결과 분석을 해 주는 서비스입니다. 복약 안내, 고혈압·당뇨 식단 관리, 진료 예약 대행, 진료 후 사후관리도 포함됩니다.{C15}[S3][S4]"
+        },
+        {
+          "type": "p",
+          "text": "생활지원사가 보이스피싱 예방 수칙과 모바일뱅킹 이용법을 직접 알려 주는 금융교육, 고립·우울 위험 어르신을 위한 건강관리 프로그램도 함께 운영됩니다.[S1][S3]"
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "치매배상책임보험은 무엇을 보장하나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "치매배상책임보험은 치매 어르신이 의도하지 않게 다른 사람을 다치게 하거나 남의 물건에 손해를 입혔을 때, 그 배상 책임을 보상하는 보험입니다.[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "예를 들어 길을 잃은 어르신이 가게 물건을 망가뜨린 경우처럼, 가족이 떠안을 수 있는 배상 부담을 덜어 주는 장치입니다. 다만 구체적인 보장 한도와 보상 범위는 아직 발표되지 않았습니다.[S4][S5]"
+        },
+        {
+          "type": "p",
+          "text": "이 보험을 맡을 보험사는 2026년 4분기에 선정됩니다. 이후 전용 콜센터에서 보험금 청구를 받을 예정입니다.{C13}[S2][S5]"
+        },
+        {
+          "type": "image",
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 사업비 105억 원 어디에 쓰나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "항목별 사업비(10월 19일 발표 기준)",
+          "headers": [
+            "항목",
+            "금액"
+          ],
+          "rows": [
+            [
+              "헬스케어 서비스",
+              "39억 원{C8}"
+            ],
+            [
+              "낙상사고 치료·회복비",
+              "25억 원{C6}"
+            ],
+            [
+              "치매보험",
+              "20억 원{C7}"
+            ],
+            [
+              "고립·우울 건강관리 프로그램",
+              "15억 원{C10}"
+            ],
+            [
+              "맞춤형 금융교육",
+              "4억 원{C9}"
+            ],
+            [
+              "우수 참여자 보상",
+              "2억 원{C11}"
+            ],
+            [
+              "합계",
+              "105억 원{C5}"
+            ]
+          ],
+          "note": "항목별 금액의 합이 총사업비와 같습니다. 출처: 금융위원회·보건복지부 발표 보도"
+        },
+        {
+          "type": "p",
+          "text": "가장 큰 몫은 헬스케어로 39억 원입니다. 낙상 치료비 25억 원, 치매배상책임보험 20억 원이 뒤를 잇습니다.{C8}{C6}{C7}[S1][S5]"
+        },
+        {
+          "type": "p",
+          "text": "총사업비 105억 원을 2년 동안 약 65만 명에게 나누는 구조입니다. 사람마다 받는 서비스가 달라 1인당 금액으로 단순히 나누기는 어렵습니다.{C5}{C4}[S2][S3]"
+        },
+        {
+          "type": "image",
+          "slot": 5
+        }
+      ]
+    },
+    {
+      "heading": "언제부터, 지금 확인할 것",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026년 4분기에 세부 사업계획을 세우고 서비스 수행업체와 보험사를 고릅니다. 실제 지원은 2027년 1분기에 시작해 2028년까지 2년간 이어집니다.{C13}{C12}[S2][S5]"
+        },
+        {
+          "type": "p",
+          "text": "신청이 한꺼번에 몰리지 않도록 지역별로 수행 보험사를 나눠 운영할 방침입니다.[S3]"
+        },
+        {
+          "type": "ol",
+          "items": [
+            "부모님이 노인맞춤돌봄서비스를 이용 중인지 확인합니다. 담당 생활지원사가 있다면 대상일 가능성이 큽니다.",
+            "이용하지 않는다면 주소지 읍·면·동 주민센터에서 노인맞춤돌봄서비스 신청 자격을 물어봅니다. 가족이 대리 신청할 수 있습니다.[S7]",
+            "치매가 있다면 치매환자 등록 여부를 확인해 둡니다.",
+            "2027년 시작 전 발표되는 세부 계획에서 1인당 지원 금액과 보장 한도를 확인합니다."
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "아직은 협약 단계입니다. 지금 당장 신청을 받는 곳은 없으므로, '사전 접수'를 내세우며 개인정보나 비용을 요구하는 연락은 주의하세요."
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "부모님이 기초연금만 받아도 낙상 치료비 지원 대상인가요?",
+      "answer": "노인맞춤돌봄서비스 이용자가 대상이어서, 기초연금수급자이면서 돌봄이 필요해 이 서비스를 받고 있어야 합니다.{C14}[S6][S7] 서비스 신청은 주소지 읍·면·동 주민센터에서 합니다."
+    },
+    {
+      "question": "치매보험은 직접 가입 신청하나요?",
+      "answer": "한국취약노인지원재단이 치매환자로 등록된 어르신 가운데 소득수준 등을 고려해 약 8만 명을 선정합니다.{C3}[S4][S5] 개별 신청 절차는 아직 발표되지 않았습니다."
+    },
+    {
+      "question": "낙상 치료비는 얼마까지 받을 수 있나요?",
+      "answer": "신체 손상 정도에 따라 차등 지원한다는 원칙만 나왔고, 1인당 금액은 발표되지 않았습니다.[S3][S4] 2026년 4분기 세부 계획에서 정해질 예정입니다.{C13}"
+    },
+    {
+      "question": "지원은 언제부터 받을 수 있나요?",
+      "answer": "2027년 1분기에 시작해 2028년까지 2년간 운영됩니다.{C12}[S2][S5]"
+    }
+  ],
+  "closing": [
+    "10월 19일 협약으로 취약 어르신 약 65만 명에게 낙상 치료비와 무료 치매배상책임보험이 지원됩니다.{C1}{C4}",
+    "낙상 치료비·헬스케어는 노인맞춤돌봄서비스 이용자, 치매보험은 재단이 고른 취약계층 치매환자가 대상입니다.",
+    "치료 후 진단서·영수증을 독거노인종합지원센터에 내거나 생활지원사에게 대리 신청을 부탁할 수 있습니다.",
+    "사업은 2027년 1분기 시작이므로, 1인당 금액과 보장 한도는 세부 계획 발표 때 다시 확인하세요.{C12}"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "보험업권과 복지부 산하 노인지원기관이 손잡고 65만명의 취약어르신에게 낙상사고 치료비, 치매배상책임보험을 무료로 제공하겠습니다.(보도자료 전재)",
+      "url": "https://www.jungbunews.com/news/articleView.html?idxno=2766189",
+      "publisher": "중부뉴스통신(금융위원회·보건복지부 보도자료)",
+      "tier": 2,
+      "accessedAt": "2026-10-20",
+      "referenceDate": "2026-10-19"
+    },
+    {
+      "id": "S2",
+      "title": "보험업권, 취약어르신 65만명에 낙상 치료비·치매배상책임보험 무료 지원",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93387",
+      "publisher": "한국보험신문",
+      "tier": 2,
+      "accessedAt": "2026-10-20",
+      "referenceDate": "2026-10-19"
+    },
+    {
+      "id": "S3",
+      "title": "보험업권, 취약 어르신 65만명 지원⋯낙상 치료비ㆍ치매보험 무료제공",
+      "url": "https://www.etoday.co.kr/news/view/2637292",
+      "publisher": "이투데이",
+      "tier": 2,
+      "accessedAt": "2026-10-20",
+      "referenceDate": "2026-10-19"
+    },
+    {
+      "id": "S4",
+      "title": "보험업계 취약 노년층 낙상사고 치료비·치매보험 무료 가입 지원",
+      "url": "https://biz.heraldcorp.com/article/10907520",
+      "publisher": "헤럴드경제",
+      "tier": 2,
+      "accessedAt": "2026-10-20",
+      "referenceDate": "2026-10-19"
+    },
+    {
+      "id": "S5",
+      "title": "금융위·복지부, 어르신 57만 명 낙상 지원·치매보험 8만 명 무료",
+      "url": "https://www.ksw-news.com/news/articleView.html?idxno=3049193",
+      "publisher": "한국사회복지저널",
+      "tier": 2,
+      "accessedAt": "2026-10-20",
+      "referenceDate": "2026-10-19"
+    },
+    {
+      "id": "S6",
+      "title": "노인맞춤돌봄서비스 안내",
+      "url": "https://state.gwd.go.kr/portal/partinfo/senior/welfare/sevices",
+      "publisher": "강원특별자치도",
+      "tier": 1,
+      "accessedAt": "2026-10-20",
+      "referenceDate": "2023-06-28"
+    },
+    {
+      "id": "S7",
+      "title": "부모님 노후가 걱정이세요? 메모하세요(노인맞춤돌봄서비스)",
+      "url": "https://www.gg.go.kr/myggd/vol152/sub3_5.html",
+      "publisher": "경기도",
+      "tier": 1,
+      "accessedAt": "2026-10-20"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "시니어 취약계층 통합지원 업무협약 체결일",
+      "value": "10월 19일",
+      "referenceDate": "2026-10-19",
+      "condition": "2026년, 금융위·복지부·생보협·손보협·한국취약노인지원재단·독거노인종합지원센터",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C2",
+      "claim": "노인맞춤돌봄서비스 연계 지원 대상",
+      "value": "약 57만 명",
+      "referenceDate": "2026-10-19",
+      "condition": "만 65세 이상 취약 어르신",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C3",
+      "claim": "무료 치매배상책임보험 대상",
+      "value": "약 8만 명",
+      "referenceDate": "2026-10-19",
+      "condition": "치매환자 등록 어르신 중 소득수준 등 고려해 재단이 선정",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C4",
+      "claim": "전체 지원 대상 규모",
+      "value": "65만 명",
+      "formula": "570000+80000",
+      "referenceDate": "2026-10-19",
+      "condition": "57만 명 + 8만 명, 보도자료 제목 '65만명'과 일치",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C5",
+      "claim": "총사업비",
+      "value": "105억 원",
+      "formula": "3900000000+2500000000+2000000000+1500000000+400000000+200000000",
+      "referenceDate": "2026-10-19",
+      "condition": "항목별 사업비 합계, 3개 언론 총사업비 105억 원과 일치",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "상생기금 규모 표기는 출처마다 96억/105억으로 달라 본문에 쓰지 않음"
+    },
+    {
+      "id": "C6",
+      "claim": "낙상사고 치료·회복비 사업비",
+      "value": "25억 원",
+      "referenceDate": "2026-10-19",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C7",
+      "claim": "치매배상책임보험 사업비",
+      "value": "20억 원",
+      "referenceDate": "2026-10-19",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C8",
+      "claim": "헬스케어 등 비금융 서비스 사업비",
+      "value": "39억 원",
+      "referenceDate": "2026-10-19",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "맞춤형 금융교육 사업비",
+      "value": "4억 원",
+      "referenceDate": "2026-10-19",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C10",
+      "claim": "고립·우울 어르신 건강관리 프로그램 사업비",
+      "value": "15억 원",
+      "referenceDate": "2026-10-19",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C11",
+      "claim": "우수 참여자 보상 사업비",
+      "value": "2억 원",
+      "referenceDate": "2026-10-19",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C12",
+      "claim": "사업 시행 기간",
+      "value": "2027년 1분기 시작, 2028년까지 2년간",
+      "referenceDate": "2026-10-19",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C13",
+      "claim": "세부 사업계획 수립·수행업체·보험사 선정 시기",
+      "value": "2026년 4분기",
+      "referenceDate": "2026-10-19",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C14",
+      "claim": "노인맞춤돌봄서비스 대상",
+      "value": "만 65세 이상 기초생활수급자·차상위계층·기초연금수급자 중 돌봄 필요자",
+      "referenceDate": "2023-06-28",
+      "sourceIds": [
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C15",
+      "claim": "헬스케어 상담 인력 요건",
+      "value": "대학병원 경력 5년 이상 간호사 등",
+      "referenceDate": "2026-10-19",
+      "sourceIds": [
+        "S3",
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "취약 어르신 낙상 치료비와 무료 치매배상책임보험 지원을 알리는 표지 그래픽",
+        "eyebrow": "10월 19일 금융위·복지부 협약{C1}",
+        "title": "낙상 치료비·치매보험 무료",
+        "subtitle": "2027년 1분기 시작{C12}"
+      },
+      {
+        "kind": "stats",
+        "slot": 2,
+        "alt": "돌봄 연계 대상 57만 명, 치매보험 대상 8만 명, 전체 65만 명을 보여주는 숫자 카드",
+        "title": "지원 대상 규모",
+        "stats": [
+          {
+            "label": "돌봄 연계",
+            "value": "57만 명",
+            "note": "노인맞춤돌봄{C2}"
+          },
+          {
+            "label": "치매보험",
+            "value": "8만 명",
+            "note": "취약계층 치매환자{C3}"
+          },
+          {
+            "label": "합계",
+            "value": "65만 명",
+            "note": "약{C4}"
+          }
+        ],
+        "footnote": "출처: 금융위원회·보건복지부 발표"
+      },
+      {
+        "kind": "flow",
+        "slot": 3,
+        "alt": "낙상 후 병원 치료, 진단서·영수증 발급, 센터 제출, 치료비 지원으로 이어지는 신청 순서",
+        "title": "낙상 치료비 신청 순서",
+        "steps": [
+          "병·의원 치료",
+          "진단서·영수증 발급",
+          "센터 제출·대리 신청",
+          "치료·회복비 지원"
+        ],
+        "footnote": "독거노인종합지원센터, 생활지원사 대리 신청 가능"
+      },
+      {
+        "kind": "checklist",
+        "slot": 4,
+        "alt": "치매배상책임보험의 보장 내용과 운영 방식을 정리한 확인 목록",
+        "title": "치매배상책임보험 핵심",
+        "items": [
+          "제3자 신체 상해 보상",
+          "제3자 재산 손해 보상",
+          "재단이 대상자 선정",
+          "보험료 본인 부담 없음",
+          "보장 한도는 추후 발표"
+        ],
+        "footnote": "한국취약노인지원재단 운영"
+      },
+      {
+        "kind": "table",
+        "slot": 5,
+        "alt": "헬스케어, 낙상 치료비, 치매보험 등 항목별 사업비 비교표",
+        "title": "항목별 사업비",
+        "headers": [
+          "항목",
+          "금액"
+        ],
+        "rows": [
+          [
+            "헬스케어",
+            "39억 원{C8}"
+          ],
+          [
+            "낙상 치료비",
+            "25억 원{C6}"
+          ],
+          [
+            "치매보험",
+            "20억 원{C7}"
+          ],
+          [
+            "건강관리 프로그램",
+            "15억 원{C10}"
+          ],
+          [
+            "합계(6개 항목)",
+            "105억 원{C5}"
+          ]
+        ],
+        "footnote": "금융교육 4억·보상 2억 포함 합계"
+      },
+      {
+        "kind": "timeline",
+        "slot": 6,
+        "alt": "협약 체결, 세부계획·보험사 선정, 사업 시작, 사업 종료로 이어지는 일정",
+        "title": "사업 일정",
+        "events": [
+          {
+            "date": "2026.10.19",
+            "label": "업무협약 체결{C1}"
+          },
+          {
+            "date": "2026년 4분기",
+            "label": "세부계획·보험사 선정{C13}"
+          },
+          {
+            "date": "2027년 1분기",
+            "label": "지원 시작{C12}"
+          },
+          {
+            "date": "2028년",
+            "label": "2년 운영 종료{C12}"
+          }
+        ],
+        "footnote": "출처: 금융위원회·보건복지부 발표"
+      }
+    ],
+    "video": {
+      "alt": "취약 어르신 낙상 치료비와 무료 치매배상책임보험 지원 내용을 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "부모님 낙상 치료비, 지원받을 수 있을까?"
+        },
+        {
+          "kind": "fact",
+          "heading": "지원 대상",
+          "big": "약 65만 명{C4}",
+          "body": "돌봄 57만 + 치매보험 8만{C2}{C3}"
+        },
+        {
+          "kind": "fact",
+          "heading": "총사업비",
+          "big": "105억 원{C5}",
+          "body": "보험업권 상생기금 활용"
+        },
+        {
+          "kind": "explain",
+          "heading": "치매배상책임보험 무료",
+          "body": "제3자 상해·재물 손해 보상"
+        },
+        {
+          "kind": "cta",
+          "heading": "자세한 내용은 본문에서",
+          "body": "2027년 1분기 시작{C12}"
+        }
+      ]
+    }
+  },
+  "topicCandidates": [
+    {
+      "topic": "취약 어르신 낙상 치료비·무료 치매배상책임보험(10월 19일 협약)",
+      "category": "생활경제",
+      "primaryKeyword": "치매배상책임보험",
+      "angle": "대상 요건·신청 경로 중심",
+      "whyNow": "10월 19일 금융위·복지부 협약 발표",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.etoday.co.kr/news/view/2637292"
+      ]
+    },
+    {
+      "topic": "다회용 컵 보증금·탄소중립포인트(세종)",
+      "category": "정책제도",
+      "primaryKeyword": "다회용 컵 보증금",
+      "angle": "지역 한정 제도 이용법",
+      "whyNow": "10월 19일 기후부·세종시 협약",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/briefing/pressReleaseList.do"
+      ]
+    },
+    {
+      "topic": "2027년 전통시장·상점가 활성화 지원사업 공고",
+      "category": "정책제도",
+      "primaryKeyword": "전통시장 지원사업",
+      "angle": "상인회 신청 요건",
+      "whyNow": "10월 20일~11월 16일 모집",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/briefing/pressReleaseList.do"
+      ]
+    },
+    {
+      "topic": "2기 부가세 예정신고·고지납부 10월 26일",
+      "category": "생활경제",
+      "primaryKeyword": "부가세 예정신고",
+      "angle": "개인사업자 고지납부 구분",
+      "whyNow": "10월 26일 기한",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.taxtimes.co.kr/news/article.html?no=277054"
+      ]
+    },
+    {
+      "topic": "반도체 상생 무역금융 2조원",
+      "category": "경제",
+      "primaryKeyword": "상생 무역금융",
+      "angle": "기업 대상",
+      "whyNow": "10월 19일 발표",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": []
+    },
+    {
+      "topic": "주택공급 정례 공개",
+      "category": "정책제도",
+      "primaryKeyword": "주택공급 공개",
+      "angle": "공급 일정 확인법",
+      "whyNow": "10월 16일 발표, 최근 착공 글과 중복",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://fsc.go.kr/no010101/87948"
+      ]
+    },
+    {
+      "topic": "무기한 선물 이용자 유의사항",
+      "category": "경제",
+      "primaryKeyword": "무기한 선물",
+      "angle": "투자 유의",
+      "whyNow": "10월 16일 안내",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": [
+        "https://fsc.go.kr/no010101/87947"
+      ]
+    },
+    {
+      "topic": "국민참여성장펀드 2차 판매 종료",
+      "category": "경제",
+      "primaryKeyword": "국민참여성장펀드",
+      "angle": "판매 결과",
+      "whyNow": "10월 16일",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": [
+        "https://fsc.go.kr/no010101/87944"
+      ]
+    },
+    {
+      "topic": "위기가구 19만 명 조사·복지 연계(12월 11일까지)",
+      "category": "정책제도",
+      "primaryKeyword": "위기가구 발굴",
+      "angle": "복지 연계 신청",
+      "whyNow": "12월 11일까지 조사",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.ksw-news.com/news/articleView.html?idxno=3049188"
+      ]
+    },
+    {
+      "topic": "고유가 피해지원금 2차 지급",
+      "category": "생활경제",
+      "primaryKeyword": "고유가 피해지원금",
+      "angle": "지급 대상",
+      "whyNow": "2차 지급 진행 중이나 시작일 오래됨",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "low",
+        "depth": "medium",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148964141"
+      ]
+    }
+  ]
+}
