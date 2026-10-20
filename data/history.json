@@ -478,5 +478,36 @@
     "wordCount": 3325,
     "imageCount": 6,
     "videoCreated": true
+  },
+  {
+    "contentId": "20261021-001",
+    "date": "2026-10-21",
+    "title": "모두의카드 카드정보 10월 26일까지 현행화, 카드 재발급했다면 꼭 확인",
+    "topic": "국토교통부 대광위(10월 20일 안내): 모두의카드 등록 카드번호와 실제 사용 카드번호가 다르면 10월 26일까지 현행화해야 10월 27일 이용분부터 교통비 환급이 끊기지 않음",
+    "primaryKeyword": "모두의카드",
+    "secondaryKeywords": [
+      "카드정보 현행화",
+      "K-패스 환급",
+      "교통비 환급"
+    ],
+    "category": "생활경제",
+    "searchIntent": "모두의카드(K-패스) 카드정보 현행화가 무엇인지, 내가 해야 하는지, 어디서 어떻게 하는지, 안 하면 환급이 어떻게 되는지 알고 싶음",
+    "tags": [
+      "생활경제",
+      "정책제도",
+      "모두의카드",
+      "K-패스",
+      "교통비 환급",
+      "카드정보 현행화",
+      "대중교통",
+      "국토교통부",
+      "대광위"
+    ],
+    "url": "https://lifeeconomy-briefing.blogspot.com/2026/10/transit-card-info-update-deadline.html",
+    "postId": "7114840468634065654",
+    "publishedAt": "2026-10-21T06:37:57+09:00",
+    "wordCount": 3220,
+    "imageCount": 6,
+    "videoCreated": true
   }
 ]

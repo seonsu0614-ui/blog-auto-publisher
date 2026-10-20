@@ -1,0 +1,81 @@
+{
+  "runId": "20261020T213729-publish",
+  "mode": "publish",
+  "date": "2026-10-21",
+  "draftPath": "data/articles/2026/10/20261021-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-20T21:37:29.373Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-20T21:37:29.373Z",
+      "attempts": 1,
+      "endedAt": "2026-10-20T21:37:29.390Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-20T21:37:29.401Z",
+      "endedAt": "2026-10-20T21:37:29.401Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-20T21:37:29.401Z",
+      "attempts": 1,
+      "endedAt": "2026-10-20T21:37:54.624Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-20T21:37:54.630Z",
+      "endedAt": "2026-10-20T21:37:54.630Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-20T21:37:54.630Z",
+      "attempts": 1,
+      "endedAt": "2026-10-20T21:37:59.366Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-20T21:37:59.367Z",
+      "attempts": 1,
+      "endedAt": "2026-10-20T21:38:04.204Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-20T21:38:04.205Z",
+      "attempts": 1,
+      "endedAt": "2026-10-20T21:38:04.214Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261021-001",
+  "topic": "국토교통부 대광위(10월 20일 안내): 모두의카드 등록 카드번호와 실제 사용 카드번호가 다르면 10월 26일까지 현행화해야 10월 27일 이용분부터 교통비 환급이 끊기지 않음",
+  "category": "생활경제",
+  "keywords": [
+    "모두의카드",
+    "카드정보 현행화",
+    "K-패스 환급",
+    "교통비 환급"
+  ],
+  "title": "모두의카드 카드정보 10월 26일까지 현행화, 카드 재발급했다면 꼭 확인",
+  "sources": [
+    "https://www.sideview.co.kr/news/articleView.html?idxno=20568",
+    "https://newsseoul.co.kr/news/view/1065588619318695",
+    "https://www.djournal.co.kr/news/article.html?no=128399",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148960648",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148962910"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3220,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "7114840468634065654",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/transit-card-info-update-deadline.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-20T21:38:04.214Z",
+  "executionTimeMs": 34841
+}
