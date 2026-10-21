@@ -1,0 +1,81 @@
+{
+  "runId": "20261021T213940-publish",
+  "mode": "publish",
+  "date": "2026-10-22",
+  "draftPath": "data/articles/2026/10/20261022-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-21T21:39:40.256Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-21T21:39:40.256Z",
+      "attempts": 1,
+      "endedAt": "2026-10-21T21:39:40.272Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-21T21:39:40.283Z",
+      "endedAt": "2026-10-21T21:39:40.283Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-21T21:39:40.283Z",
+      "attempts": 1,
+      "endedAt": "2026-10-21T21:40:04.236Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-21T21:40:04.243Z",
+      "endedAt": "2026-10-21T21:40:04.243Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-21T21:40:04.243Z",
+      "attempts": 1,
+      "endedAt": "2026-10-21T21:40:07.400Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-21T21:40:07.401Z",
+      "attempts": 1,
+      "endedAt": "2026-10-21T21:40:07.791Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-21T21:40:07.791Z",
+      "attempts": 1,
+      "endedAt": "2026-10-21T21:40:07.800Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261022-001",
+  "topic": "금융위원회(10월 19일): 청년미래적금 2차 가입 신청자 68.8만 명, 10월 19일~11월 13일 가입심사, 10월 30일~11월 2일 사전심사 결과 안내(잠정), 11월 16~27일 계좌개설(이후 개설 불가)",
+  "category": "생활경제",
+  "keywords": [
+    "청년미래적금 계좌개설",
+    "청년미래적금 사전심사",
+    "청년미래적금 2차",
+    "청년도약계좌 갈아타기"
+  ],
+  "title": "청년미래적금 계좌개설 11월 16~27일, 사전심사 결과는 10월 30일부터",
+  "sources": [
+    "https://eiec.kdi.re.kr/policy/materialView.do?num=288269",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148972819",
+    "https://www.newspim.com/news/view/20261019001102",
+    "https://www.hankooki.com/news/articleView.html?idxno=346243",
+    "https://www.fnnews.com/news/202610191733053818"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3208,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "5031909614194661546",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/youth-savings-account-opening-schedule.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-21T21:40:07.801Z",
+  "executionTimeMs": 27545
+}
