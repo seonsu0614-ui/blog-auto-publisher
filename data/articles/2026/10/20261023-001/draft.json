@@ -1,0 +1,190 @@
+{
+  "contentId": "20261023-001",
+  "date": "2026-10-23",
+  "topic": "한국은행 금융통화위원회(10월 22일) 기준금리 연 3.00% 만장일치 동결, 7·8월 연속 인상 후 첫 동결. 9월 소비자물가 2.9%·근원물가 2.8%, 9월 신규취급액 코픽스 3.43%(전월 대비 0.25%p 상승)와 변동금리 대출자 영향",
+  "category": "생활경제",
+  "searchIntent": "기준금리가 동결됐는데 내 변동금리 대출이자는 내려가는지, 왜 코픽스와 주담대 금리는 계속 오르는지, 앞으로 금리 방향은 어떤지 알고 싶음",
+  "differentiation": "10월 2일 글은 8월 인상(3.00%) 직후 이자 계산법이었다. 이번 글은 10월 22일 동결 결정이라는 새 발표와, 동결에도 코픽스가 9월에 0.25%p 오른 이유(기준금리 인상 파급), 추가 인상 여지를 열어 둔 한국은행 입장을 대출자 관점에서 정리한다.",
+  "title": "기준금리 3.00% 동결, 내 대출이자는 내려갈까? 코픽스 3.43%로 본 현실",
+  "seoTitle": "기준금리 3.00% 동결(10월 22일), 변동금리 대출이자 영향 정리",
+  "metaDescription": "한국은행이 10월 22일 기준금리를 연 3.00%로 동결했습니다. 동결인데도 9월 코픽스가 3.43%로 오른 이유와 변동금리 대출자가 확인할 점을 정리했습니다.{C1}{C6}",
+  "slug": "base-rate-hold-loan-interest",
+  "primaryKeyword": "기준금리 동결",
+  "secondaryKeywords": ["기준금리 3.00%", "코픽스 3.43%", "변동금리 대출이자"],
+  "relatedKeywords": ["금융통화위원회", "주택담보대출 금리", "근원물가", "한국은행"],
+  "tags": ["생활경제", "기준금리", "기준금리 동결", "기준금리 3.00%", "코픽스", "변동금리 대출이자", "주택담보대출", "금융통화위원회", "한국은행", "소비자물가"],
+  "hook": [
+    "기준금리가 동결됐다는 소식에 이자가 곧 내려갈지 기대한 변동금리 대출자가 많을 것입니다.",
+    "한국은행은 10월 22일 기준금리를 연 3.00%로 묶었지만, 주택담보대출 변동금리의 기준이 되는 9월 코픽스는 이미 3.43%로 올랐습니다.{C1}{C6}[S2][S6]",
+    "동결이 곧 인하를 뜻하지 않는 이유와 내 대출에서 지금 확인할 점을 정리했습니다."
+  ],
+  "summary": [
+    "한국은행 금융통화위원회는 10월 22일 기준금리를 연 3.00%로 만장일치 동결했습니다.{C1}{C2}[S2][S3][S4]",
+    "7월과 8월 각각 0.25%p씩 올린 뒤 처음 맞은 동결입니다.{C3}[S1][S5]",
+    "9월 소비자물가 상승률은 2.9%, 근원물가는 2.8%로 목표치 2%를 웃돌고 있습니다.{C4}[S3][S4]",
+    "9월 신규취급액 기준 코픽스는 3.43%로 한 달 새 0.25%p 올랐습니다(10월 15일 은행연합회 공시 기준).{C6}[S6][S7]"
+  ],
+  "sections": [
+    {
+      "heading": "기준금리 동결, 10월 22일 무엇이 결정됐나",
+      "level": 2,
+      "blocks": [
+        { "type": "image", "slot": 1 },
+        { "type": "video" },
+        { "type": "p", "text": "한국은행 금융통화위원회는 10월 22일 통화정책방향 결정회의에서 기준금리를 연 3.00%로 유지했습니다. 금통위원 전원이 동결에 찬성했습니다.{C1}{C2}[S2][S3][S4]" },
+        { "type": "p", "text": "기준금리는 7월에 연 2.50%에서 2.75%로, 8월에 다시 3.00%로 올랐습니다. 두 차례 연속 인상 뒤 처음으로 숨을 고른 셈입니다.{C3}[S1][S5][S8]" },
+        { "type": "p", "text": "한국은행은 두 차례 인상의 파급 효과와 대내외 위험 요인을 점검할 필요가 있다고 동결 이유를 밝혔습니다. 3분기 GDP와 10월 물가 같은 추가 지표를 확인한 뒤 판단하겠다는 입장입니다.[S3][S4]" }
+      ]
+    },
+    {
+      "heading": "동결이어도 긴축은 계속, 왜 그런가",
+      "level": 2,
+      "blocks": [
+        { "type": "image", "slot": 2 },
+        { "type": "p", "text": "동결 배경에는 여전히 높은 물가가 있습니다. 9월 소비자물가 상승률은 2.9%, 식료품과 에너지를 뺀 근원물가는 2.8%였습니다.{C4}[S3][S4]" },
+        { "type": "p", "text": "한국은행은 물가가 상당 기간 목표 수준(2%)을 웃돌 것으로 보고, 물가가 목표에 안정적으로 수렴한다는 확신이 들 때까지 대응하겠다고 밝혔습니다.{C5}[S3]" },
+        { "type": "callout", "text": "추가 인상의 시기와 속도는 앞으로 나오는 지표를 보고 결정하겠다는 것이 한국은행 설명입니다. 이번 동결을 금리 인하 신호로 읽기는 어렵습니다.[S3][S4]" },
+        { "type": "p", "text": "주택 관련 대출이 늘고 서울 중저가 지역과 경기 일부에서 집값 오름세가 다시 커진 점도 언급됐습니다. 다만 다음 결정 방향은 아직 정해지지 않았습니다.[S3]" }
+      ]
+    },
+    {
+      "heading": "코픽스 3.43%, 동결에도 대출이자가 오르는 이유",
+      "level": 2,
+      "blocks": [
+        { "type": "p", "text": "코픽스(COFIX, 자금조달비용지수)는 은행이 예금 등으로 돈을 모으는 데 드는 평균 비용입니다. 변동금리 주택담보대출과 전세대출 금리가 이 지수를 따라 움직입니다.[S6][S7]" },
+        { "type": "p", "text": "은행연합회가 10월 15일 공시한 9월 신규취급액 기준 코픽스는 3.43%로, 8월(3.18%)보다 0.25%p 올랐습니다.{C6}[S6][S7]" },
+        { "type": "image", "slot": 3 },
+        {
+          "type": "table",
+          "caption": "코픽스 종류별 변화(10월 15일 은행연합회 공시 기준){C9}",
+          "headers": ["구분", "8월", "9월", "변화"],
+          "rows": [
+            ["신규취급액 기준", "3.18%{C6}", "3.43%{C6}", "+0.25%p{C6}"],
+            ["잔액 기준", "3.05%{C7}", "3.15%{C7}", "+0.10%p{C7}"],
+            ["신잔액 기준", "2.71%{C8}", "2.79%{C8}", "+0.08%p{C8}"]
+          ],
+          "note": "내 대출이 어느 코픽스에 연동되는지는 대출 약정서나 은행 앱에서 확인하세요."
+        },
+        { "type": "p", "text": "기준금리를 올리면 은행 예금금리가 오르고, 그만큼 은행의 자금조달 비용인 코픽스도 뒤따라 오릅니다. 7·8월 인상 효과가 시차를 두고 반영되고 있어 기준금리 동결이 곧바로 이자 하락으로 이어지지는 않습니다.[S6][S7]" },
+        { "type": "image", "slot": 4 }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 변동금리 대출이자 계산 예시",
+      "level": 2,
+      "blocks": [
+        { "type": "p", "text": "대출 금리가 0.25%p 오르면 이자가 얼마나 늘까요? 원금 1억 원을 가정하면 연 이자는 25만 원, 한 달에 약 2만 원 늘어납니다.{C10}{C11}" },
+        { "type": "p", "text": "원금 3억 원이라면 같은 0.25%p 상승에 연 75만 원, 한 달 6만 2,500원이 더 나갑니다.{C12}{C13}" },
+        { "type": "image", "slot": 5 },
+        { "type": "p", "text": "위 계산은 이해를 돕기 위한 가정입니다. 원금이 줄지 않는다고 본 단리 기준 단순 계산이며, 실제 이자는 가산금리·우대금리·상환 방식·금리 변동 주기에 따라 달라집니다." }
+      ]
+    },
+    {
+      "heading": "변동금리 대출자가 지금 확인할 사항",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "내 대출의 기준금리 종류(신규취급액·신잔액 코픽스, 금융채 등)를 확인합니다.",
+            "다음 금리 변동일이 언제인지 은행 앱이나 약정서에서 봅니다.",
+            "금리인하요구권을 쓸 수 있는지 확인합니다. 소득이 늘거나 신용점수가 오르면 신청할 수 있습니다.",
+            "갈아타기를 생각한다면 중도상환수수료와 새 대출 금리를 함께 비교합니다."
+          ]
+        },
+        { "type": "p", "text": "은행별 대출 금리는 은행연합회 소비자포털 금리 비교 공시에서 확인할 수 있습니다. 같은 코픽스라도 은행마다 가산금리가 달라 실제 금리 차이가 날 수 있습니다.[S9]" },
+        { "type": "image", "slot": 6 },
+        { "type": "p", "text": "올해 마지막 통화정책방향 결정회의는 11월에 열릴 예정입니다. 정확한 날짜와 결과는 한국은행 발표로 확인하는 것이 좋습니다.[S2]" }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "기준금리가 동결되면 변동금리 대출이자도 그대로인가요?",
+      "answer": "꼭 그렇지는 않습니다. 변동금리는 기준금리가 아니라 코픽스 등 연동 지표를 따라 바뀝니다. 9월 신규취급액 코픽스는 동결 전에 이미 3.43%로 올랐습니다.{C6}[S6]"
+    },
+    {
+      "question": "이번 동결이 금리 인하로 이어지나요?",
+      "answer": "한국은행은 추가 인상의 시기와 속도를 지표를 보고 결정하겠다고 밝혔습니다.[S3] 인하를 시사한 내용은 없었습니다."
+    },
+    {
+      "question": "10월 코픽스는 언제 나오나요?",
+      "answer": "코픽스는 은행연합회가 매달 공시합니다. 9월 코픽스는 10월 15일에 공시됐으니 다음 공시 일정은 은행연합회 소비자포털에서 확인하세요.{C9}[S6]"
+    }
+  ],
+  "closing": [
+    "기준금리는 10월 22일 연 3.00%로 동결됐고, 만장일치 결정이었습니다.{C1}{C2}",
+    "물가가 목표를 웃돌아 한국은행은 추가 인상 여지를 열어 두었습니다.",
+    "9월 신규취급액 코픽스가 3.43%로 올라 변동금리 대출이자는 동결과 별개로 오를 수 있습니다.{C6}",
+    "내 대출의 연동 지표와 다음 금리 변동일을 먼저 확인하세요."
+  ],
+  "sources": [
+    { "id": "S1", "title": "통화정책방향(2026.8.27)", "url": "https://www.bok.or.kr/portal/bbs/P0000559/view.do?nttId=11064191&menuNo=200690&programType=newsData&relate=Y&depth=200690", "publisher": "한국은행", "tier": 1, "accessedAt": "2026-10-02", "referenceDate": "2026-08-27" },
+    { "id": "S2", "title": "한은 기준금리 3.0% 동결..긴축 신호 세게 켜고 '숨 고르기'", "url": "https://www.fnnews.com/news/202610221028218008", "publisher": "파이낸셜뉴스", "tier": 2, "accessedAt": "2026-10-23", "referenceDate": "2026-10-22" },
+    { "id": "S3", "title": "신현송 \"성장·물가 상방위험 커져…추가 지표 확인 후 금리 결정\"", "url": "https://www.newspim.com/news/view/20261022000731", "publisher": "뉴스핌", "tier": 2, "accessedAt": "2026-10-23", "referenceDate": "2026-10-22" },
+    { "id": "S4", "title": "한국은행 금융통화위원회 기준금리 3.0%로 동결 결정", "url": "https://www.kyeongin.com/article/1773225", "publisher": "경인일보", "tier": 2, "accessedAt": "2026-10-23", "referenceDate": "2026-10-22" },
+    { "id": "S5", "title": "신현송 '호미질'에 한숨 돌린 기준금리⋯\"성장·물가 더 뛴다\" 추가 긴축 시사 [종합]", "url": "https://www.etoday.co.kr/news/view/2638950", "publisher": "이투데이", "tier": 2, "accessedAt": "2026-10-23", "referenceDate": "2026-10-22" },
+    { "id": "S6", "title": "주담대 변동금리 더 오른다...9월 코픽스 3.43%", "url": "https://www.newspim.com/news/view/20261015001064", "publisher": "뉴스핌", "tier": 2, "accessedAt": "2026-10-23", "referenceDate": "2026-10-15" },
+    { "id": "S7", "title": "9월 신규 코픽스 3.43%로 0.25%p↑…변동형 주담대 금리 오른다", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261015010005014", "publisher": "아시아투데이", "tier": 2, "accessedAt": "2026-10-23", "referenceDate": "2026-10-15" },
+    { "id": "S8", "title": "한은, 기준금리 연 2.50%→2.75%로…3년 6개월만에 인상", "url": "https://www.fnnews.com/news/202607160953106773", "publisher": "파이낸셜뉴스", "tier": 2, "accessedAt": "2026-10-02", "referenceDate": "2026-07-16" },
+    { "id": "S9", "title": "대출금리 비교 공시", "url": "https://portal.kfb.or.kr/compare/loan.php", "publisher": "전국은행연합회 소비자포털", "tier": 1, "accessedAt": "2026-10-02" },
+    { "id": "S10", "title": "코픽스 한 달 만에 다시 상승", "url": "https://www.fnnews.com/news/202610151503479633", "publisher": "파이낸셜뉴스", "tier": 2, "accessedAt": "2026-10-23", "referenceDate": "2026-10-15" }
+  ],
+  "claims": [
+    { "id": "C1", "claim": "한국은행 금통위 기준금리 동결 수준과 결정일", "value": "10월 22일, 연 3.00%", "referenceDate": "2026-10-22", "condition": "통화정책방향 결정회의 결과", "sourceIds": ["S2", "S3", "S4", "S5"], "verified": true, "conflict": false, "notes": "한국은행 원문(bok.or.kr)은 이번 실행에서 열람 불가, 언론 4곳 일치" },
+    { "id": "C2", "claim": "동결 결정 표결", "value": "만장일치(금통위원 7명 전원 찬성)", "referenceDate": "2026-10-22", "sourceIds": ["S2", "S3", "S4", "S5"], "verified": true, "conflict": false },
+    { "id": "C3", "claim": "2026년 7월·8월 기준금리 인상 경과", "value": "7월 2.50%→2.75%, 8월 2.75%→3.00%, 각 0.25%p", "referenceDate": "2026-08-27", "sourceIds": ["S1", "S8", "S2", "S3"], "verified": true, "conflict": false },
+    { "id": "C4", "claim": "2026년 9월 소비자물가·근원물가 상승률", "value": "소비자물가 2.9%, 근원물가 2.8%", "referenceDate": "2026-10-22", "condition": "근원물가는 식료품·에너지 제외", "sourceIds": ["S3", "S4"], "verified": true, "conflict": false },
+    { "id": "C5", "claim": "한국은행 물가안정목표", "value": "2%", "referenceDate": "2026-10-22", "sourceIds": ["S3", "S4", "S5"], "verified": true, "conflict": false },
+    { "id": "C6", "claim": "9월 신규취급액 기준 코픽스(전월 대비)", "value": "3.43%(8월 3.18%, +0.25%p)", "referenceDate": "2026-10-15", "condition": "은행연합회 10월 15일 공시", "sourceIds": ["S6", "S7", "S10"], "verified": true, "conflict": false },
+    { "id": "C7", "claim": "9월 잔액 기준 코픽스(전월 대비)", "value": "3.15%(8월 3.05%, +0.10%p)", "referenceDate": "2026-10-15", "sourceIds": ["S6", "S10"], "verified": true, "conflict": false },
+    { "id": "C8", "claim": "9월 신잔액 기준 코픽스(전월 대비)", "value": "2.79%(8월 2.71%, +0.08%p)", "referenceDate": "2026-10-15", "sourceIds": ["S6", "S7"], "verified": true, "conflict": false },
+    { "id": "C9", "claim": "9월 코픽스 공시일", "value": "10월 15일", "referenceDate": "2026-10-15", "sourceIds": ["S6", "S7", "S10"], "verified": true, "conflict": false },
+    { "id": "C10", "claim": "원금 1억 원, 금리 0.25%p 상승 시 연 이자 증가", "value": "250,000원", "formula": "100000000 * 0.0025", "referenceDate": "2026-10-22", "sourceIds": ["S2"], "verified": true, "conflict": false, "notes": "계산 예시용 가정, 단리 기준 단순 계산" },
+    { "id": "C11", "claim": "원금 1억 원, 0.25%p 상승 시 월 이자 증가(약)", "value": "20,833원", "formula": "100000000 * 0.0025 / 12", "referenceDate": "2026-10-22", "sourceIds": ["S2"], "verified": true, "conflict": false, "notes": "계산 예시용 가정, 본문에는 약 2만 원으로 표기" },
+    { "id": "C12", "claim": "원금 3억 원, 0.25%p 상승 시 연 이자 증가", "value": "750,000원", "formula": "300000000 * 0.0025", "referenceDate": "2026-10-22", "sourceIds": ["S2"], "verified": true, "conflict": false, "notes": "계산 예시용 가정" },
+    { "id": "C13", "claim": "원금 3억 원, 0.25%p 상승 시 월 이자 증가", "value": "62,500원", "formula": "300000000 * 0.0025 / 12", "referenceDate": "2026-10-22", "sourceIds": ["S2"], "verified": true, "conflict": false, "notes": "계산 예시용 가정" }
+  ],
+  "media": {
+    "images": [
+      { "kind": "cover", "slot": 1, "alt": "10월 22일 기준금리 연 3.00% 동결 소식을 알리는 표지 그래픽", "eyebrow": "10월 22일 금융통화위원회", "title": "기준금리 동결", "subtitle": "연 3.00% 유지{C1}" },
+      { "kind": "timeline", "slot": 2, "alt": "7월 인상, 8월 인상, 10월 동결, 11월 다음 회의로 이어지는 기준금리 흐름", "title": "올해 기준금리 흐름",
+        "events": [
+          { "date": "7월", "label": "2.50→2.75%{C3}" },
+          { "date": "8월", "label": "2.75→3.00%{C3}" },
+          { "date": "10.22", "label": "3.00% 동결{C1}" },
+          { "date": "11월", "label": "다음 결정회의" }
+        ], "footnote": "각 0.25%p 인상 후 첫 동결" },
+      { "kind": "table", "slot": 3, "alt": "신규취급액, 잔액, 신잔액 기준 코픽스의 8월과 9월 값을 비교한 표", "title": "9월 코픽스",
+        "headers": ["구분", "8월", "9월"],
+        "rows": [["신규취급액", "3.18%{C6}", "3.43%{C6}"], ["잔액", "3.05%{C7}", "3.15%{C7}"], ["신잔액", "2.71%{C8}", "2.79%{C8}"]],
+        "footnote": "은행연합회 10월 15일 공시" },
+      { "kind": "flow", "slot": 4, "alt": "기준금리 인상이 예금금리, 은행 조달비용, 코픽스를 거쳐 변동금리 대출이자에 반영되는 순서", "title": "금리가 전달되는 길",
+        "steps": ["기준금리 인상", "예금금리 상승", "코픽스 상승", "변동금리 반영"], "footnote": "시차를 두고 반영" },
+      { "kind": "stats", "slot": 5, "alt": "기준금리, 9월 소비자물가 상승률, 9월 신규취급액 코픽스를 보여주는 숫자 카드", "title": "숫자로 본 현재",
+        "stats": [
+          { "label": "기준금리", "value": "3.00%{C1}", "note": "10월 22일 동결" },
+          { "label": "9월 물가", "value": "2.9%{C4}", "note": "소비자물가" },
+          { "label": "9월 코픽스", "value": "3.43%{C6}", "note": "신규취급액" }
+        ], "footnote": "출처: 한국은행·은행연합회 발표 보도" },
+      { "kind": "checklist", "slot": 6, "alt": "연동 지표, 금리 변동일, 금리인하요구권, 중도상환수수료 확인 항목", "title": "변동금리 대출 점검",
+        "items": ["연동 지표 종류 확인", "다음 금리 변동일 확인", "금리인하요구권 검토", "갈아타기 땐 수수료 비교", "은행별 금리 공시 확인"], "footnote": "은행연합회 소비자포털 금리 비교" }
+    ],
+    "video": {
+      "alt": "기준금리 3.00% 동결과 코픽스 상승을 요약한 세로 영상",
+      "scenes": [
+        { "kind": "hook", "heading": "기준금리 동결, 이자도 내려갈까?" },
+        { "kind": "fact", "heading": "10월 22일 결정", "big": "3.00%{C1}", "body": "만장일치 동결" },
+        { "kind": "fact", "heading": "9월 코픽스", "big": "3.43%{C6}", "body": "한 달 새 0.25%p 상승" },
+        { "kind": "explain", "heading": "왜 오르나", "body": "7·8월 인상 효과가 시차를 두고 반영" },
+        { "kind": "cta", "heading": "내 대출 연동 지표 확인", "body": "자세한 내용은 본문에서" }
+      ]
+    }
+  },
+  "topicCandidates": [
+    { "topic": "기준금리 3.00% 동결과 변동금리 대출자 영향", "category": "생활경제", "primaryKeyword": "기준금리 동결", "angle": "동결에도 코픽스가 오르는 이유와 대출자 점검 사항", "whyNow": "10월 22일 금통위 결정", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "high", "differentiation": "medium", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "low" }, "evidenceUrls": ["https://www.fnnews.com/news/202610221028218008", "https://www.newspim.com/news/view/20261022000731"] },
+    { "topic": "9월 코픽스 3.43%와 은행별 변동형 주담대 금리 인상", "category": "생활경제", "primaryKeyword": "코픽스 3.43%", "angle": "은행별 금리 변화", "whyNow": "10월 15일 공시", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "medium", "differentiation": "low", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.asiatoday.co.kr/kn/view.php?key=20261015010005014"] },
+    { "topic": "10월 FOMC(27~28일) 앞두고 한미 금리 영향", "category": "경제", "primaryKeyword": "FOMC 10월", "angle": "미국 결정이 국내 금리에 주는 영향", "whyNow": "다음 주 FOMC", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "low", "differentiation": "low", "intentClarity": "medium", "competition": "unknown", "factCheckDifficulty": "high", "contentRisk": "medium" }, "evidenceUrls": ["https://www.fnnews.com/news/202610221028218008"] },
+    { "topic": "물가 목표 2% 달성 시점(2028년 전망)과 생활물가", "category": "경제", "primaryKeyword": "물가 전망", "angle": "높은 물가 지속 시 가계 영향", "whyNow": "10월 22일 총재 기자간담회", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "medium", "intentClarity": "low", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.etoday.co.kr/news/view/2638891"] }
+  ]
+}
