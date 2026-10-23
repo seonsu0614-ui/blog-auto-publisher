@@ -1,0 +1,84 @@
+{
+  "runId": "20261023T213214-publish",
+  "mode": "publish",
+  "date": "2026-10-24",
+  "draftPath": "data/articles/2026/10/20261024-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-23T21:32:14.435Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-23T21:32:14.435Z",
+      "attempts": 1,
+      "endedAt": "2026-10-23T21:32:14.449Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-23T21:32:14.457Z",
+      "endedAt": "2026-10-23T21:32:14.457Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-23T21:32:14.457Z",
+      "attempts": 1,
+      "endedAt": "2026-10-23T21:32:36.985Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-23T21:32:36.991Z",
+      "endedAt": "2026-10-23T21:32:36.991Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-23T21:32:36.991Z",
+      "attempts": 1,
+      "endedAt": "2026-10-23T21:32:38.632Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-23T21:32:38.633Z",
+      "attempts": 1,
+      "endedAt": "2026-10-23T21:32:39.001Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-23T21:32:39.002Z",
+      "attempts": 1,
+      "endedAt": "2026-10-23T21:32:39.008Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261024-001",
+  "topic": "2026년 기부분부터 고향사랑기부금 10만 원 초과~20만 원 이하 구간 세액공제율이 16.5%에서 44%로 상향(지방소득세 포함). 10만 원까지 전액, 20만 원 초과분 16.5%, 연간 한도 2,000만 원, 답례품 기부액의 30% 이내. 올해분 공제는 12월 31일까지 기부해야 반영",
+  "category": "생활경제",
+  "keywords": [
+    "고향사랑기부 세액공제",
+    "고향사랑기부 20만원",
+    "고향사랑기부 답례품",
+    "고향사랑e음"
+  ],
+  "title": "고향사랑기부 세액공제 2026년 44%로, 20만 원 기부하면 얼마 돌려받나",
+  "sources": [
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148956582",
+    "https://www.imaeil.com/page/view/2026092007312521927",
+    "https://www.fnnews.com/news/202609281940141515",
+    "https://www.korea.kr/news/reporterView.do?newsId=148956252",
+    "https://www.khan.co.kr/article/202601021227001/",
+    "https://www.hankyung.com/article/2025111667771",
+    "https://www.ajunews.com/view/20261021111016803",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=66633"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3056,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "8948522430482451111",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/hometown-donation-tax-credit-2026.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-23T21:32:39.009Z",
+  "executionTimeMs": 24574
+}
