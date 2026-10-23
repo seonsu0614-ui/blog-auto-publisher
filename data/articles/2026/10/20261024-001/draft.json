@@ -1,0 +1,215 @@
+{
+  "contentId": "20261024-001",
+  "date": "2026-10-24",
+  "topic": "2026년 기부분부터 고향사랑기부금 10만 원 초과~20만 원 이하 구간 세액공제율이 16.5%에서 44%로 상향(지방소득세 포함). 10만 원까지 전액, 20만 원 초과분 16.5%, 연간 한도 2,000만 원, 답례품 기부액의 30% 이내. 올해분 공제는 12월 31일까지 기부해야 반영",
+  "category": "생활경제",
+  "searchIntent": "올해 고향사랑기부를 얼마 하면 세액공제를 가장 효율적으로 받는지, 20만 원 기부 시 실제 공제액과 답례품, 기부 방법과 연말정산 반영 방법을 알고 싶음",
+  "differentiation": "최근 14일 이력에 고향사랑기부 관련 글이 없다. 2026년부터 바뀐 구간별 공제율을 기부액별 계산표로 보여주고, 2025년 기부자의 98.4%가 10만 원 이하였다는 통계와 연말 기부 마감을 함께 정리한다.",
+  "title": "고향사랑기부 세액공제 2026년 44%로, 20만 원 기부하면 얼마 돌려받나",
+  "seoTitle": "고향사랑기부 세액공제 2026, 10만~20만 원 구간 44% 계산 정리",
+  "metaDescription": "2026년 기부분부터 고향사랑기부 10만 원 초과~20만 원 이하 구간 세액공제율이 44%로 올랐습니다. 기부액별 공제액과 답례품, 12월 31일 마감 전 확인할 점을 정리했습니다.{C2}",
+  "slug": "hometown-donation-tax-credit-2026",
+  "primaryKeyword": "고향사랑기부 세액공제",
+  "secondaryKeywords": ["고향사랑기부 20만원", "고향사랑기부 답례품", "고향사랑e음"],
+  "relatedKeywords": ["연말정산", "행정안전부", "지방소득세", "기부금 세액공제"],
+  "tags": ["생활경제", "고향사랑기부", "고향사랑기부 세액공제", "고향사랑기부 20만원", "고향사랑기부 답례품", "고향사랑e음", "연말정산", "세액공제", "행정안전부", "절세"],
+  "hook": [
+    "연말정산을 앞두고 고향사랑기부를 10만 원만 할지, 더 할지 고민하는 직장인이 많습니다.",
+    "올해부터는 10만 원을 넘는 기부 가운데 20만 원까지의 구간 세액공제율이 16.5%에서 44%로 올랐습니다.{C2}[S1][S2]",
+    "20만 원을 기부하면 얼마를 돌려받는지, 답례품은 얼마까지인지 계산으로 정리했습니다."
+  ],
+  "summary": [
+    "2026년 기부분부터 10만 원 초과~20만 원 이하 구간 세액공제율이 44%로 상향됐습니다(지방소득세 포함).{C2}[S1][S2][S3]",
+    "10만 원까지는 전액, 20만 원 초과분은 16.5%가 공제됩니다.{C1}{C3}[S2][S7]",
+    "20만 원을 기부하면 세액공제 14만 4,000원과 답례품 최대 6만 원 상당을 받을 수 있습니다(계산 예시).{C7}{C11}[S7]",
+    "올해 연말정산에 넣으려면 12월 31일까지 기부를 마쳐야 합니다.{C13}[S7]"
+  ],
+  "sections": [
+    {
+      "heading": "고향사랑기부 세액공제, 2026년 무엇이 바뀌었나",
+      "level": 2,
+      "blocks": [
+        { "type": "image", "slot": 1 },
+        { "type": "video" },
+        { "type": "p", "text": "고향사랑기부제는 주민등록상 주소지가 아닌 다른 지방자치단체에 기부하고 세액공제와 지역 답례품을 받는 제도입니다. 꼭 태어난 고향이 아니어도 되고, 내가 사는 지역에는 기부할 수 없습니다.[S4]" },
+        { "type": "p", "text": "가장 큰 변화는 공제율입니다. 행정안전부는 2026년부터 10만 원 초과 20만 원 이하 기부금의 세액공제율이 16.5%에서 44%로 확대된다고 밝혔습니다.{C2}[S1]" },
+        { "type": "p", "text": "10만 원까지는 지방소득세를 포함해 전액 공제되고, 20만 원을 넘는 부분은 기존처럼 16.5%가 적용됩니다.{C1}{C3}[S2][S7]" },
+        {
+          "type": "table",
+          "caption": "고향사랑기부 구간별 세액공제율(지방소득세 포함){C14}",
+          "headers": ["기부 구간", "2025년 기부분", "2026년 기부분"],
+          "rows": [
+            ["10만 원 이하", "전액{C1}", "전액{C1}"],
+            ["10만 원 초과~20만 원 이하", "16.5%{C2}", "44%{C2}"],
+            ["20만 원 초과", "16.5%{C3}", "16.5%{C3}"]
+          ],
+          "note": "특별재난지역 기부 등 예외 공제율은 별도로 적용됩니다."
+        },
+        { "type": "image", "slot": 2 }
+      ]
+    },
+    {
+      "heading": "왜 지금 알아야 하나, 10만 원에 멈춘 기부",
+      "level": 2,
+      "blocks": [
+        { "type": "p", "text": "2025년 고향사랑기부 모금액은 약 1,515억 원으로 집계됐습니다. 기부 건수는 약 139만 건이었습니다.{C8}{C9}[S3][S5]" },
+        { "type": "p", "text": "이 가운데 10만 원 이하 기부 비중은 98.4%였습니다. 10만 원을 넘으면 공제율이 크게 떨어지던 구조 때문에 대부분 10만 원에서 멈춘 것으로 풀이됩니다.{C10}[S2][S3]" },
+        { "type": "p", "text": "올해 고향사랑기부 세액공제 확대는 이 구간을 넓히려는 조치입니다. 연말정산은 그해 1월 1일부터 12월 31일까지 기부한 금액을 기준으로 하므로, 올해분 혜택을 받으려면 연내에 기부를 마쳐야 합니다.{C13}[S7]" },
+        { "type": "callout", "text": "12월에 기부가 몰리는 경향이 있습니다. 2025년에는 연간 모금액의 절반가량이 12월에 들어왔습니다. 마감 직전에는 결제 지연 등 변수가 있을 수 있어 여유 있게 기부하는 편이 좋습니다.[S2]" }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 고향사랑기부 20만 원이면 얼마 돌려받나",
+      "level": 2,
+      "blocks": [
+        { "type": "p", "text": "아래는 결정세액(실제 낼 세금)이 공제액보다 충분히 많은 근로자를 가정한 단순 계산입니다. 공제액은 지방소득세를 포함한 금액입니다." },
+        { "type": "p", "text": "10만 원을 기부하면 10만 원이 모두 공제됩니다. 20만 원을 기부하면 10만 원에 나머지 10만 원의 44%인 4만 4,000원이 더해져 14만 4,000원이 공제됩니다.{C5}{C6}{C7}" },
+        { "type": "image", "slot": 3 },
+        {
+          "type": "table",
+          "caption": "기부액별 세액공제와 답례품(2026년 기부분, 계산 예시)",
+          "headers": ["기부액", "세액공제(지방소득세 포함)", "답례품 최대"],
+          "rows": [
+            ["10만 원", "100,000원{C5}", "30,000원{C12}"],
+            ["20만 원", "144,000원{C7}", "60,000원{C11}"],
+            ["30만 원", "160,500원{C15}", "90,000원{C16}"],
+            ["50만 원", "193,500원{C17}", "150,000원{C18}"]
+          ],
+          "note": "결정세액이 공제액보다 적으면 공제 효과가 줄어듭니다. 답례품은 기부액의 30% 이내에서 지자체가 정한 품목으로 받습니다."
+        },
+        { "type": "p", "text": "같은 20만 원이라도 지난해 기준으로 계산하면 공제액은 11만 6,500원이었습니다. 올해 바뀐 공제율로는 2만 7,500원이 늘어난 셈입니다.{C19}{C20}" },
+        { "type": "p", "text": "20만 원을 넘기면 초과분 공제율이 다시 16.5%로 내려갑니다. 세금 혜택만 놓고 보면 20만 원까지가 공제 효율이 가장 높은 구간입니다.{C3}[S2]" },
+        { "type": "image", "slot": 4 }
+      ]
+    },
+    {
+      "heading": "고향사랑기부 답례품과 한도, 알아둘 조건",
+      "level": 2,
+      "blocks": [
+        { "type": "p", "text": "답례품은 기부액의 30% 이내에서 받을 수 있습니다. 10만 원이면 3만 원 상당, 20만 원이면 6만 원 상당입니다.{C4}{C11}{C12}[S1][S4]" },
+        { "type": "p", "text": "답례품은 지역 농축수산물, 가공식품, 지역상품권 등에서 고를 수 있습니다. 답례품을 받지 않고 기부만 하는 것도 가능합니다.[S2][S4]" },
+        { "type": "p", "text": "개인의 연간 기부 한도는 2,000만 원입니다. 2025년부터 기존 500만 원에서 높아졌습니다.{C21}[S2][S6]" },
+        {
+          "type": "ul",
+          "items": [
+            "주민등록상 주소지 지자체에는 기부할 수 없습니다.",
+            "세액공제는 낼 세금에서 빼 주는 방식이라 결정세액이 없으면 돌려받을 금액도 없습니다.",
+            "전액이 현금으로 환급되는 것이 아니라 연말정산 세액에서 차감됩니다."
+          ]
+        },
+        { "type": "image", "slot": 5 }
+      ]
+    },
+    {
+      "heading": "기부 방법과 연말정산 반영, 실제로 확인할 사항",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "고향사랑e음 누리집이나 앱에 로그인하거나, 가까운 농협은행 창구를 찾습니다.",
+            "기부할 지자체를 고르고 내 주소지와 다른지 확인합니다.",
+            "기부 금액과 답례품 수령 여부를 정한 뒤 결제합니다.",
+            "기부 내역은 국세청 홈택스에 자동으로 넘어가 연말정산 간소화 자료에 반영됩니다."
+          ]
+        },
+        { "type": "p", "text": "온라인 기부는 고향사랑e음에서 '자치단체에 기부하기' 메뉴로 진행합니다. 민간 기부 플랫폼과 은행 앱으로도 기부할 수 있습니다.[S1][S4]" },
+        { "type": "image", "slot": 6 },
+        { "type": "p", "text": "2027년부터는 지역 여건에 따라 공제율을 달리하는 개편안이 정부 세제개편안에 담겼습니다. 다만 국회 심의를 거쳐야 확정되므로, 올해 기부분에는 지금의 공제율이 적용됩니다.[S8][S2]" }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "고향사랑기부 20만 원 하면 세액공제는 얼마인가요?",
+      "answer": "2026년 기부분 기준으로 지방소득세를 포함해 14만 4,000원입니다. 10만 원은 전액, 나머지 10만 원은 44%가 공제됩니다.{C7} 결정세액이 충분하다는 가정입니다."
+    },
+    {
+      "question": "올해 기부하면 언제 돌려받나요?",
+      "answer": "올해 기부분은 2027년 초 연말정산에서 반영됩니다. 기부 내역은 홈택스로 자동 제공되니 간소화 자료에 들어왔는지 확인하면 됩니다.[S4]"
+    },
+    {
+      "question": "지금 사는 지역에도 고향사랑기부를 할 수 있나요?",
+      "answer": "할 수 없습니다. 주민등록상 주소지가 아닌 다른 지방자치단체에만 기부할 수 있고, 꼭 출생지일 필요는 없습니다.[S4]"
+    }
+  ],
+  "closing": [
+    "2026년 기부분부터 10만 원 초과~20만 원 이하 구간 공제율이 44%로 올랐습니다.{C2}",
+    "20만 원 기부 시 세액공제 14만 4,000원과 답례품 최대 6만 원 상당을 받을 수 있습니다(계산 예시).{C7}{C11}",
+    "올해분 공제를 받으려면 12월 31일까지 기부를 마쳐야 합니다.{C13}",
+    "기부 전 내 결정세액이 있는지, 기부처가 주소지와 다른지 확인하세요."
+  ],
+  "sources": [
+    { "id": "S1", "title": "고향사랑기부 1000억 원 돌파…내년엔 세액공제 혜택 더 늘어", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148956582", "publisher": "대한민국 정책브리핑(행정안전부)", "tier": 1, "accessedAt": "2026-10-24", "referenceDate": "2025-12-16" },
+    { "id": "S2", "title": "고향사랑기부제 한도 2000만원인데…98%가 `10만원`에 멈췄다", "url": "https://www.imaeil.com/page/view/2026092007312521927", "publisher": "매일신문", "tier": 2, "accessedAt": "2026-10-24", "referenceDate": "2026-09-20" },
+    { "id": "S3", "title": "고향사랑기부 전액공제 10만→20만원 올려야", "url": "https://www.fnnews.com/news/202609281940141515", "publisher": "파이낸셜뉴스", "tier": 2, "accessedAt": "2026-10-24", "referenceDate": "2026-09-28" },
+    { "id": "S4", "title": "다가오는 연말정산 '고향사랑기부제'로 세액 공제 받고 답례품도", "url": "https://www.korea.kr/news/reporterView.do?newsId=148956252", "publisher": "대한민국 정책브리핑", "tier": 2, "accessedAt": "2026-10-24", "referenceDate": "2025-12-11" },
+    { "id": "S5", "title": "지난해 고향사랑기부금 1515억원…전년보다 70% 늘었다", "url": "https://www.khan.co.kr/article/202601021227001/", "publisher": "경향신문", "tier": 2, "accessedAt": "2026-10-24", "referenceDate": "2026-01-02" },
+    { "id": "S6", "title": "기부한만큼 세액공제…고향사랑 한도 4배 확대", "url": "https://www.hankyung.com/article/2025111667771", "publisher": "한국경제", "tier": 2, "accessedAt": "2026-10-24", "referenceDate": "2025-11-16" },
+    { "id": "S7", "title": "두 달 남은 2026년…놓치면 사라지는 혜택들", "url": "https://www.ajunews.com/view/20261021111016803", "publisher": "아주경제", "tier": 2, "accessedAt": "2026-10-24", "referenceDate": "2026-10-21" },
+    { "id": "S8", "title": "행안부, 고향사랑기부 지방 우대…취약지역 공제율 높인다", "url": "https://www.newswhoplus.com/news/articleView.html?idxno=66633", "publisher": "뉴스후플러스", "tier": 2, "accessedAt": "2026-10-24", "referenceDate": "2026-08-10" }
+  ],
+  "claims": [
+    { "id": "C1", "claim": "고향사랑기부 10만 원 이하 세액공제", "value": "전액(지방소득세 포함)", "referenceDate": "2026-01-01", "condition": "2025·2026년 기부분 공통", "sourceIds": ["S1", "S2", "S7"], "verified": true, "conflict": false },
+    { "id": "C2", "claim": "10만 원 초과~20만 원 이하 구간 세액공제율 변경", "value": "16.5%→44%", "referenceDate": "2026-01-01", "condition": "2026년 기부분부터, 지방소득세 포함(국세 15%→40%)", "sourceIds": ["S1", "S2", "S3", "S7"], "verified": true, "conflict": false, "notes": "국세 40%+지방소득세 10%분=44%. 행안부 정책브리핑 원문 확인" },
+    { "id": "C3", "claim": "20만 원 초과분 세액공제율", "value": "16.5%", "referenceDate": "2026-01-01", "condition": "지방소득세 포함, 특별재난지역 제외", "sourceIds": ["S2", "S7"], "verified": true, "conflict": false },
+    { "id": "C4", "claim": "답례품 한도", "value": "기부액의 30%", "referenceDate": "2025-12-16", "sourceIds": ["S1", "S2", "S4", "S6"], "verified": true, "conflict": false },
+    { "id": "C5", "claim": "10만 원 기부 시 세액공제", "value": "100,000원", "formula": "100000 * 1", "referenceDate": "2026-10-24", "sourceIds": ["S1", "S7"], "verified": true, "conflict": false, "notes": "계산 예시용 가정, 결정세액 충분" },
+    { "id": "C6", "claim": "20만 원 기부 시 10만 원 초과분 공제", "value": "44,000원", "formula": "100000 * 0.44", "referenceDate": "2026-10-24", "sourceIds": ["S1", "S2"], "verified": true, "conflict": false, "notes": "계산 예시용 가정" },
+    { "id": "C7", "claim": "20만 원 기부 시 세액공제 합계", "value": "144,000원", "formula": "100000 + 100000 * 0.44", "referenceDate": "2026-10-24", "sourceIds": ["S1", "S7"], "verified": true, "conflict": false, "notes": "계산 예시용 가정, 아주경제 14만 4000원과 일치" },
+    { "id": "C8", "claim": "2025년 고향사랑기부 모금액", "value": "약 1,515억 원", "referenceDate": "2026-01-02", "condition": "잠정 집계", "sourceIds": ["S2", "S3", "S5"], "verified": true, "conflict": false },
+    { "id": "C9", "claim": "2025년 기부 건수", "value": "약 139만 건", "referenceDate": "2026-01-02", "sourceIds": ["S2", "S5"], "verified": true, "conflict": false },
+    { "id": "C10", "claim": "2025년 10만 원 이하 기부 비중", "value": "98.4%", "referenceDate": "2026-09-28", "sourceIds": ["S2", "S3"], "verified": true, "conflict": false, "notes": "경향신문은 약 98%로 보도" },
+    { "id": "C11", "claim": "20만 원 기부 시 답례품 최대", "value": "60,000원", "formula": "200000 * 0.3", "referenceDate": "2026-10-24", "sourceIds": ["S1", "S7"], "verified": true, "conflict": false, "notes": "계산 예시" },
+    { "id": "C12", "claim": "10만 원 기부 시 답례품 최대", "value": "30,000원", "formula": "100000 * 0.3", "referenceDate": "2026-10-24", "sourceIds": ["S4", "S7"], "verified": true, "conflict": false, "notes": "계산 예시" },
+    { "id": "C13", "claim": "올해 귀속 공제를 위한 기부 마감", "value": "12월 31일", "referenceDate": "2026-10-21", "condition": "2026년 귀속 연말정산", "sourceIds": ["S7"], "verified": true, "conflict": false, "notes": "과세연도(1.1~12.31) 기부분 공제 원칙" },
+    { "id": "C14", "claim": "구간별 공제율 비교표 근거", "value": "전액·44%·16.5%", "referenceDate": "2026-01-01", "sourceIds": ["S1", "S2", "S7"], "verified": true, "conflict": false },
+    { "id": "C15", "claim": "30만 원 기부 시 세액공제", "value": "160,500원", "formula": "100000 + 100000 * 0.44 + 100000 * 0.165", "referenceDate": "2026-10-24", "sourceIds": ["S2", "S7"], "verified": true, "conflict": false, "notes": "계산 예시용 가정" },
+    { "id": "C16", "claim": "30만 원 기부 시 답례품 최대", "value": "90,000원", "formula": "300000 * 0.3", "referenceDate": "2026-10-24", "sourceIds": ["S1"], "verified": true, "conflict": false, "notes": "계산 예시" },
+    { "id": "C17", "claim": "50만 원 기부 시 세액공제", "value": "193,500원", "formula": "100000 + 100000 * 0.44 + 300000 * 0.165", "referenceDate": "2026-10-24", "sourceIds": ["S2", "S7"], "verified": true, "conflict": false, "notes": "계산 예시용 가정" },
+    { "id": "C18", "claim": "50만 원 기부 시 답례품 최대", "value": "150,000원", "formula": "500000 * 0.3", "referenceDate": "2026-10-24", "sourceIds": ["S1"], "verified": true, "conflict": false, "notes": "계산 예시" },
+    { "id": "C19", "claim": "2025년 기준 20만 원 기부 시 세액공제", "value": "116,500원", "formula": "100000 + 100000 * 0.165", "referenceDate": "2025-12-16", "sourceIds": ["S1", "S4"], "verified": true, "conflict": false, "notes": "계산 예시, 2025년 공제율 적용" },
+    { "id": "C20", "claim": "20만 원 기부 시 공제 증가액", "value": "27,500원", "formula": "100000 * (0.44 - 0.165)", "referenceDate": "2026-10-24", "sourceIds": ["S1"], "verified": true, "conflict": false, "notes": "계산 예시" },
+    { "id": "C21", "claim": "개인 연간 기부 한도", "value": "2,000만 원(종전 500만 원)", "referenceDate": "2025-01-01", "sourceIds": ["S2", "S4", "S6"], "verified": true, "conflict": false }
+  ],
+  "media": {
+    "images": [
+      { "kind": "cover", "slot": 1, "alt": "2026년 고향사랑기부 10만~20만 원 구간 공제율 44% 상향을 알리는 표지 그래픽", "eyebrow": "2026년 기부분부터", "title": "고향사랑기부 세액공제", "subtitle": "10만~20만 원 구간 44%{C2}" },
+      { "kind": "table", "slot": 2, "alt": "10만 원 이하, 10만~20만 원, 20만 원 초과 구간의 2025년과 2026년 공제율 비교표", "title": "구간별 공제율",
+        "headers": ["구간", "2025년", "2026년"],
+        "rows": [["10만 원 이하", "전액{C1}", "전액{C1}"], ["10만~20만 원", "16.5%{C2}", "44%{C2}"], ["20만 원 초과", "16.5%{C3}", "16.5%{C3}"]],
+        "footnote": "지방소득세 포함, 행정안전부 발표 기준" },
+      { "kind": "stats", "slot": 3, "alt": "20만 원 기부 시 세액공제액, 답례품 최대 금액, 작년 대비 늘어난 공제액을 보여주는 숫자 카드", "title": "20만 원 기부하면",
+        "stats": [
+          { "label": "세액공제", "value": "14.4만 원{C7}", "note": "지방소득세 포함" },
+          { "label": "답례품", "value": "최대 6만 원{C11}", "note": "기부액의 30%" },
+          { "label": "작년보다", "value": "+2.75만 원{C20}", "note": "공제 증가" }
+        ], "footnote": "결정세액이 충분하다고 가정한 계산 예시" },
+      { "kind": "table", "slot": 4, "alt": "10만, 20만, 30만, 50만 원 기부 시 세액공제액과 답례품 최대 금액 표", "title": "기부액별 계산",
+        "headers": ["기부액", "세액공제", "답례품"],
+        "rows": [["10만 원", "10만 원{C5}", "3만 원{C12}"], ["20만 원", "14.4만 원{C7}", "6만 원{C11}"], ["30만 원", "16.05만 원{C15}", "9만 원{C16}"], ["50만 원", "19.35만 원{C17}", "15만 원{C18}"]],
+        "footnote": "2026년 기부분, 단순 계산" },
+      { "kind": "checklist", "slot": 5, "alt": "주소지 제외, 결정세액 확인, 연간 한도, 답례품 선택, 연내 기부 확인 항목", "title": "기부 전 확인",
+        "items": ["내 주소지 지자체는 기부 불가", "결정세액이 있는지 확인", "연간 한도 2,000만 원{C21}", "답례품은 기부액의 30% 이내{C4}", "12월 31일 전 기부 완료{C13}"], "footnote": "행정안전부·정책브리핑 안내 기준" },
+      { "kind": "flow", "slot": 6, "alt": "고향사랑e음 접속, 지자체 선택, 금액과 답례품 선택, 홈택스 자동 반영으로 이어지는 기부 절차", "title": "기부 절차",
+        "steps": ["고향사랑e음 접속", "지자체 선택", "금액·답례품 결제", "홈택스 자동 반영"], "footnote": "농협은행 창구에서도 가능" }
+    ],
+    "video": {
+      "alt": "2026년 고향사랑기부 세액공제 44% 상향과 20만 원 기부 시 공제액을 요약한 세로 영상",
+      "scenes": [
+        { "kind": "hook", "heading": "고향사랑기부, 올해 얼마가 유리할까?" },
+        { "kind": "fact", "heading": "10만~20만 원 구간", "big": "44%{C2}", "body": "작년 16.5%에서 상향" },
+        { "kind": "fact", "heading": "20만 원 기부하면", "big": "14.4만 원{C7}", "body": "세액공제, 지방소득세 포함" },
+        { "kind": "explain", "heading": "답례품도", "body": "기부액의 30% 이내 지역 특산품" },
+        { "kind": "cta", "heading": "12월 31일 전 기부 완료", "body": "자세한 내용은 본문에서" }
+      ]
+    }
+  },
+  "topicCandidates": [
+    { "topic": "고향사랑기부 2026년 세액공제 44% 상향과 연말 기부 계산", "category": "생활경제", "primaryKeyword": "고향사랑기부 세액공제", "angle": "기부액별 공제·답례품 계산과 연말 마감", "whyNow": "연말 기부 집중 시기 진입, 9월 말 공제 확대 요구 보도(S3), 10월 21일 연말 혜택 보도(S7)", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "high", "differentiation": "high", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148956582", "https://www.ajunews.com/view/20261021111016803"] },
+    { "topic": "문화누리카드 11월 30일 발급·재충전 마감, 12월 31일 잔액 소멸", "category": "생활경제", "primaryKeyword": "문화누리카드 마감", "angle": "마감 일정과 잔액 사용법", "whyNow": "11월 30일 마감", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "medium", "differentiation": "medium", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.ajunews.com/view/20261021111016803"] },
+    { "topic": "에너지바우처 동절기 사용과 12월 31일 신청 마감", "category": "생활경제", "primaryKeyword": "에너지바우처 동절기", "angle": "가구원 수별 지원액과 신청처", "whyNow": "동절기 진입", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "medium", "differentiation": "medium", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.ajunews.com/view/20261021111016803"] },
+    { "topic": "연금저축·IRP 연말 세액공제 한도 900만 원", "category": "생활경제", "primaryKeyword": "IRP 세액공제", "angle": "연내 납입 마감", "whyNow": "연말정산 대비", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "low", "depth": "medium", "differentiation": "low", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "medium" }, "evidenceUrls": ["https://www.ajunews.com/view/20261021111016803"] },
+    { "topic": "유류세 인하 11월 말 종료 예정, 연장 여부", "category": "경제", "primaryKeyword": "유류세 인하 연장", "angle": "종료 시 가격 영향", "whyNow": "11월 말 기한", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "low", "depth": "low", "differentiation": "medium", "intentClarity": "medium", "competition": "unknown", "factCheckDifficulty": "high", "contentRisk": "low" }, "evidenceUrls": ["https://www.fnnews.com/news/202609180801253271"] }
+  ]
+}
