@@ -1,0 +1,84 @@
+{
+  "runId": "20261024T213508-publish",
+  "mode": "publish",
+  "date": "2026-10-25",
+  "draftPath": "data/articles/2026/10/20261025-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-24T21:35:08.660Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-24T21:35:08.660Z",
+      "attempts": 1,
+      "endedAt": "2026-10-24T21:35:08.671Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-24T21:35:08.684Z",
+      "endedAt": "2026-10-24T21:35:08.684Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-24T21:35:08.684Z",
+      "attempts": 1,
+      "endedAt": "2026-10-24T21:35:31.111Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-24T21:35:31.117Z",
+      "endedAt": "2026-10-24T21:35:31.117Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-24T21:35:31.117Z",
+      "attempts": 1,
+      "endedAt": "2026-10-24T21:35:34.224Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-24T21:35:34.225Z",
+      "attempts": 1,
+      "endedAt": "2026-10-24T21:35:34.604Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-24T21:35:34.605Z",
+      "attempts": 1,
+      "endedAt": "2026-10-24T21:35:34.614Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261025-001",
+  "topic": "양육비 선지급제 소득기준(기준 중위소득 150% 이하)이 2026년 10월 29일 폐지돼 양육비를 받지 못하는 한부모가족은 소득과 관계없이 자녀 1인당 월 20만 원 선지급을 신청할 수 있음. 나머지 요건(집행권원, 직전 3개월 평균 이행액 미달, 이행확보 절차)은 유지, 10월분부터 적용·소급 없음",
+  "category": "생활경제",
+  "keywords": [
+    "양육비 선지급",
+    "양육비 선지급 소득기준",
+    "양육비 선지급 신청방법",
+    "양육비이행관리원"
+  ],
+  "title": "양육비 선지급 10월 29일부터 소득기준 폐지, 나도 월 20만 원 받을 수 있을까",
+  "sources": [
+    "https://www.mogef.go.kr/cs/opf/cs_opf_f998.do",
+    "https://www.childsupport.or.kr/lay1/S1T134C136/contents.do",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148953933",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+    "https://www.munhwa.com/article/11618633",
+    "https://www.newspim.com/news/view/20260918000963",
+    "https://www.ksw-news.com/news/articleView.html?idxno=3037955",
+    "https://www.childsupport.or.kr/lay1/program/S1T135C138/part/part_01_03.do"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 2788,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "8448022126024137900",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/child-support-advance-payment-income_0455482928.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-24T21:35:34.614Z",
+  "executionTimeMs": 25954
+}
