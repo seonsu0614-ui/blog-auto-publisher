@@ -1,0 +1,938 @@
+{
+  "contentId": "20261025-001",
+  "date": "2026-10-25",
+  "topic": "양육비 선지급제 소득기준(기준 중위소득 150% 이하)이 2026년 10월 29일 폐지돼 양육비를 받지 못하는 한부모가족은 소득과 관계없이 자녀 1인당 월 20만 원 선지급을 신청할 수 있음. 나머지 요건(집행권원, 직전 3개월 평균 이행액 미달, 이행확보 절차)은 유지, 10월분부터 적용·소급 없음",
+  "category": "생활경제",
+  "searchIntent": "양육비를 못 받는데 소득 때문에 선지급에서 제외됐던 한부모가 10월 29일부터 대상이 되는지, 얼마를 언제부터 받는지, 어떤 서류와 절차로 신청하는지 알고 싶음",
+  "differentiation": "최근 14일 이력에 양육비 관련 글이 없다. 소득기준만 사라지고 남는 요건 3가지를 자가점검표로 정리하고, 소급 없음·10월분부터 적용·자녀 수별 계산 예시를 함께 보여준다.",
+  "title": "양육비 선지급 10월 29일부터 소득기준 폐지, 나도 월 20만 원 받을 수 있을까",
+  "seoTitle": "양육비 선지급 소득기준 폐지 10월 29일 시행, 대상·신청방법 정리",
+  "metaDescription": "10월 29일부터 양육비 선지급 소득기준이 없어집니다. 소득과 관계없이 자녀 1인당 월 20만 원을 신청할 수 있는지, 남는 요건과 신청 방법을 2026년 10월 25일 기준으로 정리했습니다.{C1}{C3}",
+  "slug": "child-support-advance-payment-income-limit",
+  "primaryKeyword": "양육비 선지급",
+  "secondaryKeywords": [
+    "양육비 선지급 소득기준",
+    "양육비 선지급 신청방법",
+    "양육비이행관리원"
+  ],
+  "relatedKeywords": [
+    "한부모가족",
+    "성평등가족부",
+    "집행권원",
+    "양육비 채권"
+  ],
+  "tags": [
+    "생활경제",
+    "양육비 선지급",
+    "양육비 선지급 소득기준",
+    "양육비 선지급 신청방법",
+    "양육비이행관리원",
+    "한부모가족",
+    "성평등가족부",
+    "육아지원",
+    "정책변화"
+  ],
+  "hook": [
+    "전 배우자가 양육비를 주지 않는데, 소득이 기준을 조금 넘는다는 이유로 선지급을 신청하지 못했던 한부모가 적지 않습니다.",
+    "10월 29일부터는 이 소득기준이 사라집니다.{C3}[S4]",
+    "소득과 관계없이 자녀 1인당 월 20만 원을 받을 수 있는지, 여전히 남는 조건은 무엇인지 차례로 정리했습니다.{C1}[S1]"
+  ],
+  "summary": [
+    "2026년 10월 29일부터 선지급 소득기준(기준 중위소득 150% 이하)이 폐지됩니다.{C2}{C3}[S4][S5]",
+    "지급액은 그대로 자녀 1인당 월 20만 원입니다.{C1}[S1][S2]",
+    "집행권원, 직전 3개월 평균 이행액 미달, 이행확보 절차 요건은 그대로 남습니다.{C8}[S2][S8]",
+    "10월 선지급분부터 적용되며, 소급 지급은 없습니다.{C13}[S5]"
+  ],
+  "sections": [
+    {
+      "heading": "양육비 선지급, 10월 29일부터 무엇이 바뀌나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "양육비 선지급제는 양육비를 받지 못한 한부모에게 국가가 먼저 양육비를 지급하고, 나중에 양육비를 주지 않은 부모에게서 그 돈을 회수하는 제도입니다.[S1][S2]"
+        },
+        {
+          "type": "p",
+          "text": "2025년 7월 1일 처음 시행될 때는 가구 소득인정액이 기준 중위소득 150% 이하인 한부모가족만 신청할 수 있었습니다.{C2}{C4}[S2][S3]"
+        },
+        {
+          "type": "p",
+          "text": "성평등가족부는 10월 29일부터 이 소득기준을 없앤다고 밝혔습니다. 양육비를 받지 못하는 상황이 같다면 소득 수준과 관계없이 신청할 수 있게 됩니다.{C3}[S4][S5][S6]"
+        },
+        {
+          "type": "table",
+          "caption": "선지급 신청 조건 비교{C3}",
+          "headers": [
+            "항목",
+            "기존",
+            "10월 29일부터"
+          ],
+          "rows": [
+            [
+              "소득기준",
+              "기준 중위소득 150% 이하{C2}",
+              "없음{C3}"
+            ],
+            [
+              "지급액",
+              "자녀 1인당 월 20만 원{C1}",
+              "자녀 1인당 월 20만 원{C1}"
+            ],
+            [
+              "대상 자녀",
+              "만 18세 이하{C14}",
+              "만 18세 이하{C14}"
+            ],
+            [
+              "불이행 기준",
+              "직전 3개월 평균 20만 원 미만{C8}",
+              "직전 3개월 평균 20만 원 미만{C8}"
+            ]
+          ],
+          "note": "소득기준 외 요건은 그대로 유지됩니다."
+        },
+        {
+          "type": "image",
+          "slot": 2
+        }
+      ]
+    },
+    {
+      "heading": "왜 지금 알아야 하나, 1년 남짓 만의 대상 확대",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "제도 시행 후 2026년 8월까지 8,188가구, 미성년 자녀 12,924명이 선지급을 받았습니다. 지원액은 약 231억 원입니다.{C5}{C6}{C7}[S5][S6][S7]"
+        },
+        {
+          "type": "p",
+          "text": "그동안은 소득이 기준을 넘는 한부모는 양육비를 한 푼도 받지 못해도 대상에서 빠졌습니다. 이번 개편은 이 공백을 메우려는 조치입니다.[S5]"
+        },
+        {
+          "type": "p",
+          "text": "2025년 9월 1일에는 소액만 보내 선지급을 피하는 이른바 꼼수 이행을 막기 위해 불이행 기준도 바뀌었습니다. 직전 3개월 월평균 이행액이 선지급금보다 적으면 대상이 됩니다.{C8}{C15}[S3][S8]"
+        },
+        {
+          "type": "callout",
+          "text": "소득기준 폐지는 소급되지 않습니다. 소득이 기준을 넘었던 가구는 10월 29일 이후 결정되는 10월 선지급분부터 받을 수 있습니다.{C13}[S5][S6]"
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 선지급금은 얼마인가",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "선지급금은 자녀 1인당 월 20만 원입니다. 다만 판결문이나 양육비부담조서에 정한 월 양육비가 이보다 적으면 그 금액을 넘을 수 없습니다.{C1}[S1][S2]"
+        },
+        {
+          "type": "p",
+          "text": "아래는 집행권원상 양육비가 자녀당 월 20만 원 이상이라고 가정한 단순 계산입니다. 실제 지급액은 요건 조사 결과에 따라 달라질 수 있습니다."
+        },
+        {
+          "type": "table",
+          "caption": "자녀 수·기간별 선지급 계산 예시",
+          "headers": [
+            "경우",
+            "계산",
+            "금액"
+          ],
+          "rows": [
+            [
+              "자녀 1명, 1개월",
+              "20만 원 × 1",
+              "200,000원{C1}"
+            ],
+            [
+              "자녀 2명, 1개월",
+              "20만 원 × 2",
+              "400,000원{C11}"
+            ],
+            [
+              "자녀 1명, 10~12월",
+              "20만 원 × 3",
+              "600,000원{C16}"
+            ],
+            [
+              "자녀 1명, 12개월",
+              "20만 원 × 12",
+              "2,400,000원{C12}"
+            ]
+          ],
+          "note": "계산 예시용 가정입니다. 지급 결정 시점과 이행액에 따라 달라집니다."
+        },
+        {
+          "type": "p",
+          "text": "지급은 요건 조사를 거쳐 결정된 뒤 통상 매월 25일에 이뤄집니다.{C9}[S3][S7]"
+        },
+        {
+          "type": "image",
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "heading": "양육비 선지급 소득기준 말고 남는 조건 3가지",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "소득기준이 사라져도 모든 한부모가 자동으로 받는 것은 아닙니다. 다음 조건은 그대로 충족해야 합니다.[S1][S8]"
+        },
+        {
+          "type": "ol",
+          "items": [
+            "양육비 집행권원(양육비를 받을 권리를 공식 문서로 정한 것)이 있어야 합니다. 판결문, 양육비부담조서 등이 해당합니다.",
+            "신청한 달 직전 3개월 동안 받은 양육비 월평균이 선지급금보다 적어야 합니다.{C8}",
+            "양육비이행관리원의 법률지원·채권추심지원을 받았거나, 소송 등 이행확보 절차를 진행 중이거나 마쳤어야 합니다."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "대상 자녀는 만 18세 이하입니다. 자녀가 만 18세가 될 때까지 지원됩니다.{C14}[S1][S2]"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "직전 3개월 중 양육비를 전액 받은 달이 있으면 대상에서 빠질 수 있습니다.{C8}",
+            "선지급 후에도 이행 여부와 자격 변동을 점검하며, 부정수급은 반환해야 합니다.",
+            "국가는 양육비를 주지 않은 부모에게서 선지급금을 국세 강제징수의 예에 따라 회수합니다."
+          ]
+        },
+        {
+          "type": "image",
+          "slot": 5
+        }
+      ]
+    },
+    {
+      "heading": "양육비 선지급 신청방법, 실제로 확인할 사항",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "양육비이행관리원 누리집의 자가점검 메뉴로 신청 가능 여부를 먼저 확인합니다.",
+            "선지급 메뉴의 지원신청에서 동의, 신청인·가구원 정보, 상대 부모 정보를 입력합니다.",
+            "집행권원 등 제출서류를 첨부해 신청을 마칩니다.",
+            "서류 검토와 자격 판정을 거쳐 지급이 결정됩니다."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "온라인이 어렵다면 신청서와 구비서류를 우편으로 양육비이행관리원 선지급 담당자에게 보낼 수 있습니다. 주소와 제출서류 목록은 누리집에서 확인하는 것이 정확합니다.[S1][S2]"
+        },
+        {
+          "type": "p",
+          "text": "문의는 양육비이행관리원 상담센터(1644-6621)로 할 수 있고, 평일 오전 9시부터 오후 6시까지 운영합니다.{C10}[S1][S2]"
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "소득이 높아도 10월 29일부터 양육비 선지급을 받을 수 있나요?",
+      "answer": "소득기준은 없어지지만 집행권원, 직전 3개월 평균 이행액 미달, 이행확보 절차 요건은 충족해야 합니다.{C3}{C8}"
+    },
+    {
+      "question": "소득기준 때문에 못 받았던 기간도 소급해서 받을 수 있나요?",
+      "answer": "소급되지 않습니다. 10월 29일 이후 결정되는 10월 선지급분부터 받을 수 있습니다.{C13}"
+    },
+    {
+      "question": "양육비를 조금씩만 받고 있어도 신청할 수 있나요?",
+      "answer": "직전 3개월 월평균 이행액이 선지급금(월 20만 원)보다 적으면 신청할 수 있습니다.{C8}"
+    }
+  ],
+  "closing": [
+    "10월 29일부터 선지급 소득기준이 폐지됩니다.{C3}",
+    "지급액은 자녀 1인당 월 20만 원이며, 10월분부터 적용되고 소급은 없습니다.{C1}{C13}",
+    "집행권원과 이행확보 절차가 있는지, 직전 3개월 이행액이 얼마였는지 먼저 확인하세요.{C8}",
+    "궁금한 점은 양육비이행관리원 누리집이나 상담센터로 문의하면 됩니다."
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "양육비 선지급 지원 - 한부모가족",
+      "url": "https://www.mogef.go.kr/cs/opf/cs_opf_f998.do",
+      "publisher": "성평등가족부",
+      "tier": 1,
+      "accessedAt": "2026-10-25",
+      "referenceDate": "2025-07-01"
+    },
+    {
+      "id": "S2",
+      "title": "선지급제 안내",
+      "url": "https://www.childsupport.or.kr/lay1/S1T134C136/contents.do",
+      "publisher": "양육비이행관리원",
+      "tier": 1,
+      "accessedAt": "2026-10-25",
+      "referenceDate": "2025-07-01"
+    },
+    {
+      "id": "S3",
+      "title": "양육비 선지급제도, 9월 1일부터 개선안 시행!",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148953933",
+      "publisher": "대한민국 정책브리핑",
+      "tier": 1,
+      "accessedAt": "2026-10-25",
+      "referenceDate": "2025-09-02"
+    },
+    {
+      "id": "S4",
+      "title": "지원은 넓히고 생활은 편리하게…10월부터 달라지는 제도",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+      "publisher": "대한민국 정책브리핑",
+      "tier": 1,
+      "accessedAt": "2026-10-25",
+      "referenceDate": "2026-10-01"
+    },
+    {
+      "id": "S5",
+      "title": "29일부터 한부모 가족이면 양육비 선지급 신청 가능…소득기준 폐지",
+      "url": "https://www.munhwa.com/article/11618633",
+      "publisher": "문화일보",
+      "tier": 2,
+      "accessedAt": "2026-10-25",
+      "referenceDate": "2026-09-21"
+    },
+    {
+      "id": "S6",
+      "title": "양육비 선지급 소득기준 없어진다…10월29일부터 소득 관계없이 신청",
+      "url": "https://www.newspim.com/news/view/20260918000963",
+      "publisher": "뉴스핌",
+      "tier": 2,
+      "accessedAt": "2026-10-25",
+      "referenceDate": "2026-09-21"
+    },
+    {
+      "id": "S7",
+      "title": "양육비 선지급 소득기준 10월 29일 폐지…한부모가족 누구나 신청 가능",
+      "url": "https://www.ksw-news.com/news/articleView.html?idxno=3037955",
+      "publisher": "한국사회복지저널",
+      "tier": 2,
+      "accessedAt": "2026-10-25",
+      "referenceDate": "2026-09-21"
+    },
+    {
+      "id": "S8",
+      "title": "양육비 선지급제 지원신청",
+      "url": "https://www.childsupport.or.kr/lay1/program/S1T135C138/part/part_01_03.do",
+      "publisher": "양육비이행관리원",
+      "tier": 1,
+      "accessedAt": "2026-10-25",
+      "referenceDate": "2025-09-01"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "양육비 선지급금",
+      "value": "자녀 1인당 월 20만 원",
+      "referenceDate": "2025-07-01",
+      "condition": "집행권원상 월 양육비를 넘을 수 없음",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C2",
+      "claim": "기존 소득기준",
+      "value": "기준 중위소득 150% 이하",
+      "referenceDate": "2025-07-01",
+      "condition": "소득기준 폐지 전까지 적용",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C3",
+      "claim": "소득기준 폐지 시행일",
+      "value": "2026년 10월 29일",
+      "referenceDate": "2026-10-29",
+      "condition": "소득과 관계없이 신청 가능, 나머지 요건 유지",
+      "sourceIds": [
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "정책브리핑 10월 달라지는 제도 원문 확인"
+    },
+    {
+      "id": "C4",
+      "claim": "양육비 선지급제 시행일",
+      "value": "2025년 7월 1일",
+      "referenceDate": "2025-07-01",
+      "condition": "",
+      "sourceIds": [
+        "S1",
+        "S2"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C5",
+      "claim": "누적 지원 가구",
+      "value": "8,188가구",
+      "referenceDate": "2026-08-31",
+      "condition": "2025년 7월~2026년 8월",
+      "sourceIds": [
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C6",
+      "claim": "누적 지원 미성년 자녀",
+      "value": "12,924명",
+      "referenceDate": "2026-08-31",
+      "condition": "2025년 7월~2026년 8월",
+      "sourceIds": [
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C7",
+      "claim": "누적 지원액",
+      "value": "약 231억 원",
+      "referenceDate": "2026-08-31",
+      "condition": "2025년 7월~2026년 8월",
+      "sourceIds": [
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C8",
+      "claim": "불이행 기준",
+      "value": "직전 3개월 월평균 이행액이 선지급금(월 20만 원) 미만",
+      "referenceDate": "2025-09-01",
+      "condition": "2025년 9월 1일 이후 신청건부터",
+      "sourceIds": [
+        "S2",
+        "S3",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "지급일",
+      "value": "매월 25일",
+      "referenceDate": "2025-09-02",
+      "condition": "요건 조사 후 지급 결정 시",
+      "sourceIds": [
+        "S3",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C10",
+      "claim": "상담 전화",
+      "value": "1644-6621(평일 9~18시)",
+      "referenceDate": "2026-10-25",
+      "condition": "양육비이행관리원 상담센터",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C11",
+      "claim": "자녀 2명 월 선지급금",
+      "value": "400,000원",
+      "referenceDate": "2026-10-25",
+      "condition": "집행권원상 양육비가 자녀당 20만 원 이상인 경우",
+      "sourceIds": [
+        "S1",
+        "S2"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "200000 * 2",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C12",
+      "claim": "자녀 1명 연간 선지급금",
+      "value": "2,400,000원",
+      "referenceDate": "2026-10-25",
+      "condition": "12개월 지급 가정",
+      "sourceIds": [
+        "S1",
+        "S2"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "200000 * 12",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C13",
+      "claim": "소득기준 폐지 적용 시점",
+      "value": "10월 선지급분부터, 소급 적용 없음",
+      "referenceDate": "2026-09-21",
+      "condition": "10월 29일 이후 결정되는 10월분부터",
+      "sourceIds": [
+        "S5",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C14",
+      "claim": "지원 연령",
+      "value": "만 18세 이하 자녀",
+      "referenceDate": "2025-07-01",
+      "condition": "자녀가 만 18세가 될 때까지",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C15",
+      "claim": "소액 이행 기준 개선 시행",
+      "value": "2025년 9월 1일",
+      "referenceDate": "2025-09-01",
+      "condition": "",
+      "sourceIds": [
+        "S3",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C16",
+      "claim": "자녀 1명 10월~12월 3개월분",
+      "value": "600,000원",
+      "referenceDate": "2026-10-25",
+      "condition": "10월분부터 지급 결정 가정",
+      "sourceIds": [
+        "S1",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "200000 * 3",
+      "notes": "계산 예시용 가정"
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "10월 29일부터 양육비 선지급 소득기준이 폐지된다는 내용의 표지 그래픽",
+        "eyebrow": "10월 29일부터{C3}",
+        "title": "양육비 선지급",
+        "subtitle": "소득기준 폐지, 자녀당 월 20만 원{C1}"
+      },
+      {
+        "kind": "table",
+        "slot": 2,
+        "alt": "기존과 10월 29일 이후의 소득기준, 지급액, 대상 자녀 조건 비교표",
+        "title": "무엇이 바뀌나",
+        "headers": [
+          "항목",
+          "기존",
+          "10.29부터{C3}"
+        ],
+        "rows": [
+          [
+            "소득기준",
+            "중위 150% 이하{C2}",
+            "없음{C3}"
+          ],
+          [
+            "지급액",
+            "월 20만 원{C1}",
+            "월 20만 원{C1}"
+          ],
+          [
+            "대상 자녀",
+            "만 18세 이하{C14}",
+            "만 18세 이하{C14}"
+          ]
+        ],
+        "footnote": "성평등가족부 발표 기준"
+      },
+      {
+        "kind": "stats",
+        "slot": 3,
+        "alt": "제도 시행 후 2026년 8월까지 지원 가구 수, 자녀 수, 지원액을 보여주는 숫자 카드",
+        "title": "지금까지 지원 실적",
+        "stats": [
+          {
+            "label": "가구",
+            "value": "8,188{C5}",
+            "note": "2026년 8월까지"
+          },
+          {
+            "label": "자녀",
+            "value": "12,924명{C6}",
+            "note": "미성년"
+          },
+          {
+            "label": "지원액",
+            "value": "231억 원{C7}",
+            "note": "약"
+          }
+        ],
+        "footnote": "2025년 7월 시행 이후 누적"
+      },
+      {
+        "kind": "table",
+        "slot": 4,
+        "alt": "자녀 수와 기간에 따른 선지급 계산 예시 표",
+        "title": "얼마 받나(예시)",
+        "headers": [
+          "경우",
+          "금액"
+        ],
+        "rows": [
+          [
+            "자녀 1명·1개월",
+            "20만 원{C1}"
+          ],
+          [
+            "자녀 2명·1개월",
+            "40만 원{C11}"
+          ],
+          [
+            "자녀 1명·10~12월",
+            "60만 원{C16}"
+          ],
+          [
+            "자녀 1명·12개월",
+            "240만 원{C12}"
+          ]
+        ],
+        "footnote": "집행권원상 양육비 20만 원 이상 가정"
+      },
+      {
+        "kind": "checklist",
+        "slot": 5,
+        "alt": "집행권원, 직전 3개월 이행액, 이행확보 절차, 자녀 나이를 확인하는 점검표",
+        "title": "신청 전 확인",
+        "items": [
+          "판결문 등 집행권원 보유",
+          "직전 3개월 평균 20만 원 미만{C8}",
+          "법률·추심지원 등 절차 진행",
+          "자녀 만 18세 이하{C14}",
+          "10월분부터, 소급 없음{C13}"
+        ],
+        "footnote": "양육비이행관리원 안내 기준"
+      },
+      {
+        "kind": "flow",
+        "slot": 6,
+        "alt": "자가점검, 온라인 신청서 작성, 서류 첨부, 자격 판정과 지급으로 이어지는 신청 절차",
+        "title": "신청 절차",
+        "steps": [
+          "자가점검",
+          "신청서 작성",
+          "서류 첨부",
+          "판정·지급"
+        ],
+        "footnote": "누리집 또는 우편 신청"
+      }
+    ],
+    "video": {
+      "alt": "양육비 선지급 소득기준 폐지와 지급액, 남는 요건을 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "양육비 못 받는데 소득 때문에 막혔다면?"
+        },
+        {
+          "kind": "fact",
+          "heading": "소득기준 폐지",
+          "big": "10월 29일{C3}",
+          "body": "소득과 관계없이 신청"
+        },
+        {
+          "kind": "fact",
+          "heading": "지급액",
+          "big": "월 20만 원{C1}",
+          "body": "자녀 1인당"
+        },
+        {
+          "kind": "explain",
+          "heading": "남는 조건",
+          "body": "집행권원, 이행액 미달, 이행확보 절차"
+        },
+        {
+          "kind": "cta",
+          "heading": "10월분부터, 소급 없음",
+          "body": "자세한 내용은 본문에서"
+        }
+      ]
+    }
+  },
+  "topicCandidates": [
+    {
+      "topic": "양육비 선지급 소득기준 10월 29일 폐지",
+      "category": "생활경제",
+      "primaryKeyword": "양육비 선지급",
+      "angle": "남는 요건과 소급 없음, 자녀 수별 계산",
+      "whyNow": "10월 29일 시행(4일 후), 정책브리핑 S4",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822",
+        "https://www.munhwa.com/article/11618633"
+      ]
+    },
+    {
+      "topic": "통신판매중개업자 농수산물 원산지 표시 의무 10월 30일",
+      "category": "생활경제",
+      "primaryKeyword": "배달앱 원산지 표시",
+      "angle": "배달앱 이용자가 확인할 표시",
+      "whyNow": "10월 30일 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "주민등록표 등·초본 세대원·동거인 표기 통일 10월 29일",
+      "category": "정책/제도",
+      "primaryKeyword": "등본 표기 변경",
+      "angle": "등본 발급 시 달라지는 표기",
+      "whyNow": "10월 29일 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "철도 승차권 예매 2개월 전으로 확대",
+      "category": "생활경제",
+      "primaryKeyword": "기차표 예매",
+      "angle": "연말 예매 일정",
+      "whyNow": "10월 1일 시행",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "문화누리카드 11월 30일 발급·재충전 마감",
+      "category": "생활경제",
+      "primaryKeyword": "문화누리카드 마감",
+      "angle": "잔액 소멸 전 사용",
+      "whyNow": "11월 30일 마감",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.ajunews.com/view/20261021111016803"
+      ]
+    },
+    {
+      "topic": "에너지바우처 동절기 사용",
+      "category": "생활경제",
+      "primaryKeyword": "에너지바우처 동절기",
+      "angle": "가구원 수별 지원액",
+      "whyNow": "동절기 진입",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.ajunews.com/view/20261021111016803"
+      ]
+    },
+    {
+      "topic": "메탄올 초과 일반증류주 회수",
+      "category": "생활경제",
+      "primaryKeyword": "증류주 회수",
+      "angle": "해당 제품 확인법",
+      "whyNow": "10월 23일 식약처 발표",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786327"
+      ]
+    },
+    {
+      "topic": "재난문자 157자로 확대",
+      "category": "정책/제도",
+      "primaryKeyword": "재난문자 개선",
+      "angle": "달라지는 문자 형태",
+      "whyNow": "10월 달라지는 제도",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "low",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "모바일 신분증 발급 은행앱 11개로 확대",
+      "category": "정책/제도",
+      "primaryKeyword": "모바일 신분증",
+      "angle": "발급 가능한 앱",
+      "whyNow": "10월 달라지는 제도",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    },
+    {
+      "topic": "담배 유해성분 정보 공개",
+      "category": "정책/제도",
+      "primaryKeyword": "담배 유해성분 공개",
+      "angle": "공개 항목",
+      "whyNow": "10월 달라지는 제도",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972822"
+      ]
+    }
+  ]
+}
