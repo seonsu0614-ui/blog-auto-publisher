@@ -1,0 +1,219 @@
+{
+  "contentId": "20261026-001",
+  "date": "2026-10-26",
+  "topic": "신용회복위원회 채무상담 대표번호 1375가 10월 1일 가오픈에 이어 10월 29일 정식 운영을 시작. 수신자 부담으로 채무조정·개인회생·파산 신청 지원·불법사금융 피해 상담·고용·복지 연계를 한 번에 안내(금융위원회 7월 14일 발표)",
+  "category": "생활경제",
+  "searchIntent": "빚 때문에 상담받고 싶은 사람이 1375가 무엇인지, 언제부터 이용하는지, 무료인지, 어떤 상담을 받을 수 있는지, 불법사금융 피해는 어떻게 되는지 알고 싶음",
+  "differentiation": "최근 14일 이력에 채무조정·채무상담 관련 글이 없다. 10월 29일 정식 운영을 앞두고 1375에서 받을 수 있는 상담 범위를 표로 정리하고, 2025년 7월 시행된 연 60% 초과 대부계약 무효 규정과 함께 전화 전 준비사항을 안내한다.",
+  "title": "채무상담 1375 10월 29일 정식 운영, 빚 상담 어디까지 받을 수 있나",
+  "seoTitle": "채무상담 1375 정식 운영 10월 29일, 이용 방법과 상담 범위 정리",
+  "metaDescription": "신용회복위원회 채무상담 대표번호 1375가 10월 29일 정식 운영됩니다. 무료 통화로 채무조정, 개인회생·파산, 불법사금융 피해까지 어떤 상담을 받을 수 있는지 정리했습니다.{C2}",
+  "slug": "debt-counseling-hotline-launch",
+  "primaryKeyword": "채무상담 1375",
+  "secondaryKeywords": ["신용회복위원회 채무조정", "개인회생 파산 상담", "불법사금융 피해"],
+  "relatedKeywords": ["개인워크아웃", "신속채무조정", "금융위원회", "대부업법", "서민금융통합지원센터"],
+  "tags": ["생활경제", "채무상담 1375", "1375", "신용회복위원회", "채무조정", "개인회생", "파산", "불법사금융", "대부업법", "금융위원회", "서민금융"],
+  "hook": [
+    "카드값과 대출 이자가 겹쳐 어디부터 물어봐야 할지 막막한 분들이 적지 않습니다.",
+    "그동안은 채무조정은 신용회복위원회, 개인회생·파산은 법원, 불법사금융은 금융감독원처럼 창구가 흩어져 있었습니다.",
+    "이 상담을 한 번호로 받는 채무상담 1375가 10월 29일부터 정식 운영됩니다.{C2}[S2][S3]",
+    "무엇을 상담받을 수 있는지, 전화 전에 무엇을 준비하면 좋은지 정리했습니다."
+  ],
+  "summary": [
+    "신용회복위원회 채무상담 대표번호 1375는 10월 1일 가오픈했고, 10월 29일 정식 운영을 시작합니다.{C1}{C2}[S2][S3]",
+    "통화료는 받는 쪽이 내는 수신자 부담 방식이라 상담하는 사람은 별도 비용이 들지 않습니다.{C3}[S1][S5]",
+    "채무조정, 개인회생·파산 신청 지원, 불법사금융 피해 상담, 고용·복지 연계를 한 번에 안내합니다.[S1][S3]",
+    "법정 최고금리의 3배인 연 60%를 넘는 대부계약은 원금과 이자 모두 무효입니다.{C8}{C13}[S7][S8]"
+  ],
+  "sections": [
+    {
+      "heading": "채무상담 1375, 무엇이 달라지나",
+      "level": 2,
+      "blocks": [
+        { "type": "image", "slot": 1 },
+        { "type": "video" },
+        { "type": "p", "text": "1375는 신용회복위원회(신복위, 채무조정을 맡는 공적 기관)가 운영하는 채무상담 대표번호입니다. 금융위원회가 7월 14일 경제적 위기자 지원 대책을 발표하면서 도입을 밝혔습니다.{C9}[S1][S5]" },
+        { "type": "p", "text": "기존 신복위 대표 콜센터 번호는 8자리여서 기억하기 어렵다는 지적이 있었습니다. 1375에는 '빚으로 지친 일상(13)을 치료(75)하라'는 뜻이 담겼다고 합니다.[S2][S3][S5]" },
+        { "type": "p", "text": "가장 큰 변화는 창구가 하나로 모인다는 점입니다. 단순한 빚 상담부터 채무조정, 법원 절차 안내, 불법사금융 피해 대응까지 한 번 전화로 안내받고 필요한 기관으로 연계됩니다.[S1][S6]" },
+        {
+          "type": "table",
+          "caption": "채무상담 1375에서 안내받을 수 있는 내용",
+          "headers": ["상담 분야", "주요 내용", "연계 기관"],
+          "rows": [
+            ["채무조정", "신속채무조정·사전채무조정·개인워크아웃 중 맞는 제도 안내", "신용회복위원회"],
+            ["개인회생·파산", "신청 상담, 신용상담보고서 무료 발급, 소송비용 지원", "법원·대한법률구조공단"],
+            ["불법사금융", "피해 상담, 신고·지원 절차 안내", "신용회복위원회·금융감독원 등"],
+            ["생활 지원", "취업·생계 어려움 확인 시 고용·복지 연계", "고용·복지 기관"]
+          ],
+          "note": "금융위원회 보도자료(2026년 7월 14일)와 언론 보도 기준. 세부 운영 방식은 정식 운영 후 달라질 수 있습니다."
+        }
+      ]
+    },
+    {
+      "heading": "왜 지금 알아야 하나, 10월 29일 정식 운영",
+      "level": 2,
+      "blocks": [
+        { "type": "p", "text": "1375는 10월 1일부터 가오픈 상태로 운영되고 있어 지금도 전화 상담을 받을 수 있습니다. 정식 운영은 10월 29일부터입니다.{C1}{C2}[S2][S3]" },
+        { "type": "p", "text": "금융위원회 주간 일정에도 10월 29일 채무상담 대표번호 개통식이 잡혀 있습니다. 정식 운영 이후 운영 시간 등 세부 사항이 추가로 안내될 수 있습니다.{C2}[S4]" },
+        { "type": "image", "slot": 2 },
+        { "type": "p", "text": "연체가 시작되면 이자 부담과 신용 하락이 빠르게 커질 수 있습니다. 연체 기간에 따라 이용할 수 있는 제도가 달라지므로, 상황이 더 나빠지기 전에 상담을 받아 보는 편이 선택지를 넓힐 수 있습니다.[S1][S3]" }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 신용회복위원회 채무조정 범위",
+      "level": 2,
+      "blocks": [
+        { "type": "p", "text": "신복위 채무조정은 은행·카드사·저축은행 등 제도권 금융회사 약 7천 곳의 채무를 대상으로 합니다. 통신요금, 전기요금 같은 일부 비금융 채무도 포함됩니다.{C5}[S1][S3]" },
+        { "type": "p", "text": "2002년 설립 이후 24년간 약 252만 명이 신복위 채무조정을 지원받았습니다.{C4}[S1][S2]" },
+        { "type": "image", "slot": 3 },
+        {
+          "type": "table",
+          "caption": "채무 상담·지원 거점 현황",
+          "headers": ["구분", "현황", "비고"],
+          "rows": [
+            ["채무조정 대상 금융회사", "약 7천 곳{C5}", "통신·전기 채무 포함"],
+            ["개인회생파산종합지원센터", "총 12곳{C6}", "7월 2일 2곳 추가 개소"],
+            ["서민금융통합지원센터", "50곳{C7}", "6곳 추가 설치 계획"]
+          ],
+          "note": "금융위원회 2026년 7월 14일 보도자료 기준. 추가 설치 시기는 발표되지 않았습니다."
+        },
+        { "type": "p", "text": "채무조정은 크게 세 가지입니다. 연체 기간 등 상황에 따라 신속채무조정, 사전채무조정, 개인워크아웃 중 하나를 안내받고, 제도에 따라 이자나 원금 감면을 받을 수 있습니다.[S1][S3]" },
+        { "type": "p", "text": "구체적인 감면 폭과 상환 기간은 소득, 채무 규모, 연체 기간에 따라 달라집니다. 상담만으로 감면 여부가 확정되지는 않으므로 개별 심사 결과를 확인해야 합니다.[S3]" }
+      ]
+    },
+    {
+      "heading": "불법사금융 피해라면, 연 60% 넘는 계약은 무효",
+      "level": 2,
+      "blocks": [
+        { "type": "p", "text": "1375에서는 불법사금융 피해 상담도 받을 수 있습니다. 함께 알아두면 좋은 것이 2025년 7월 22일부터 시행된 개정 대부업법입니다.{C14}[S7][S8]" },
+        { "type": "p", "text": "법정 최고금리는 연 20%입니다. 이를 넘는 이자는 무효이고, 연 60%를 넘는 초고금리 대부계약은 원금과 이자를 모두 갚지 않아도 되는 무효 계약이 됩니다.{C10}{C11}{C8}[S7][S8]" },
+        {
+          "type": "table",
+          "caption": "대부계약 이자율에 따른 효력(2025년 7월 22일 시행){C14}",
+          "headers": ["구분", "효력"],
+          "rows": [
+            ["연 20% 이하", "유효{C10}"],
+            ["연 20% 초과분 이자", "초과 부분 무효{C11}"],
+            ["연 60% 초과 계약", "원금·이자 모두 무효{C8}"],
+            ["미등록 대부업자와의 이자 약정", "이자 전부 무효{C12}"]
+          ],
+          "note": "폭행·협박 등으로 맺은 계약은 이자율과 관계없이 무효가 될 수 있습니다."
+        },
+        { "type": "image", "slot": 4 },
+        { "type": "p", "text": "등록하지 않은 불법사금융업자는 이자를 아예 받을 수 없습니다. 폭행이나 협박, 궁박한 처지를 이용해 맺은 계약도 무효가 될 수 있습니다.{C12}[S7][S8]" }
+      ]
+    },
+    {
+      "heading": "전화 전에 확인할 사항과 주의할 점",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            "빌린 곳(금융회사, 대부업체 등)과 남은 금액을 대략 정리합니다.",
+            "연체 여부와 연체가 시작된 시점을 확인합니다.",
+            "현재 소득과 매달 갚을 수 있는 금액을 적어 둡니다.",
+            "불법추심이나 고금리 피해가 있다면 문자·통화 기록을 보관합니다.",
+            "1375로 전화해 상황을 설명하고 안내받은 제도로 신청합니다."
+          ]
+        },
+        { "type": "p", "text": "첫 전화 상담에는 별도 서류가 필요하지 않습니다. 상담은 소득, 채무 규모, 연체 여부를 바탕으로 진행되고, 실제 채무조정이나 회생·파산 신청 단계에서 제도별 서류가 필요합니다.[S2][S3]" },
+        { "type": "image", "slot": 5 },
+        { "type": "callout", "text": "1375는 모든 빚을 자동으로 줄여 주는 번호가 아닙니다. 개인회생·파산은 법원 판단이 필요해 상담만으로 지원 여부가 정해지지 않습니다.[S3]" },
+        { "type": "p", "text": "1375를 사칭해 수수료나 개인정보를 요구하는 연락에도 주의해야 합니다. 공적 채무상담은 수신자 부담으로 운영되므로, 상담을 이유로 돈을 먼저 보내라는 요구는 의심해 보는 것이 좋습니다.{C3}[S1]" },
+        { "type": "image", "slot": 6 }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "채무상담 1375는 무료인가요?",
+      "answer": "수신자 부담으로 운영돼 상담하는 사람은 통화 요금을 내지 않습니다.{C3} 상담 자체에도 별도 비용이 안내되지 않았습니다.[S1][S3]"
+    },
+    {
+      "question": "정식 운영 전인데 지금 전화해도 되나요?",
+      "answer": "10월 1일부터 가오픈 상태라 지금도 상담할 수 있습니다.{C1} 10월 29일 정식 운영 이후에는 세부 운영 사항이 추가로 안내될 수 있습니다.{C2}[S2][S3]"
+    },
+    {
+      "question": "1375에 전화하면 빚이 바로 줄어드나요?",
+      "answer": "아닙니다. 상담에서 맞는 제도를 안내받고, 채무조정은 신복위 심사, 개인회생·파산은 법원 판단을 거쳐야 감면 여부가 정해집니다.[S3]"
+    }
+  ],
+  "closing": [
+    "채무상담 1375는 10월 29일 정식 운영을 시작하며, 지금도 가오픈 상태로 상담할 수 있습니다.{C1}{C2}",
+    "수신자 부담이라 통화 요금 걱정 없이 채무조정, 회생·파산, 불법사금융 상담을 받을 수 있습니다.{C3}",
+    "연 60%를 넘는 대부계약은 원금과 이자 모두 무효이니 피해 기록을 남겨 두세요.{C8}",
+    "전화 전 빌린 곳, 남은 금액, 연체 시점, 월 상환 가능액을 정리해 두면 상담이 빨라집니다."
+  ],
+  "sources": [
+    { "id": "S1", "title": "국민 누구도 빚으로 인해 삶을 포기하지 않는 나라를 만들겠습니다(관계부처 합동 대책 국무회의 보고)", "url": "https://fsc.go.kr/no010101/87323", "publisher": "금융위원회", "tier": 1, "accessedAt": "2026-10-26", "referenceDate": "2026-07-14" },
+    { "id": "S2", "title": "[머니브리핑] 빚 고민 어디에 물어보나⋯채무상담 '1375' 이용법", "url": "https://www.etoday.co.kr/news/view/2632117", "publisher": "이투데이", "tier": 2, "accessedAt": "2026-10-26", "referenceDate": "2026-10-04" },
+    { "id": "S3", "title": "빚 때문에 막막하다면 1375…채무조정부터 회생·파산까지 한 번에 상담", "url": "https://www.thedailyeconomy.kr/news/articleView.html?idxno=6434", "publisher": "더데일리이코노미", "tier": 2, "accessedAt": "2026-10-26", "referenceDate": "2026-10-06" },
+    { "id": "S4", "title": "이번주 국내 주요 금융일정(10.26~10.30)", "url": "https://www.newspim.com/news/view/20261023001217", "publisher": "뉴스핌", "tier": 2, "accessedAt": "2026-10-26", "referenceDate": "2026-10-23" },
+    { "id": "S5", "title": "빚 때문에 삶 포기 않게…정부, 채무상담 대표번호 '1375' 신설", "url": "https://www.newsis.com/view/NISX20260714_0003708797", "publisher": "뉴시스", "tier": 2, "accessedAt": "2026-10-26", "referenceDate": "2026-07-14" },
+    { "id": "S6", "title": "빚 상담 창구, '1375' 하나로 통합한다", "url": "https://www.etoday.co.kr/news/view/2603573", "publisher": "이투데이", "tier": 2, "accessedAt": "2026-10-26", "referenceDate": "2026-07-14" },
+    { "id": "S7", "title": "협박 등 통한 불법대부계약 전부 무효…원금·이자 한푼도 못받는다", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148946037", "publisher": "대한민국 정책브리핑(금융위원회)", "tier": 1, "accessedAt": "2026-10-26", "referenceDate": "2025-07-15" },
+    { "id": "S8", "title": "'25.7.22일부터 반사회적 대부계약 무효화 등 불법사금융 근절 제도개선 사항 시행", "url": "https://www.fsc.go.kr/no010101/84930", "publisher": "금융위원회", "tier": 1, "accessedAt": "2026-10-26", "referenceDate": "2025-07-15" }
+  ],
+  "claims": [
+    { "id": "C1", "claim": "채무상담 1375 가오픈 시작일", "value": "10월 1일", "referenceDate": "2026-10-04", "condition": "2026년, 신용회복위원회 운영", "sourceIds": ["S2", "S3"], "verified": true, "conflict": false },
+    { "id": "C2", "claim": "채무상담 1375 정식 운영 시작일", "value": "10월 29일", "referenceDate": "2026-10-23", "condition": "2026년. 금융위 발표는 '10월 시행', 언론은 1일 가오픈·29일 정식 운영으로 보도(충돌 아님)", "sourceIds": ["S2", "S3", "S4"], "verified": true, "conflict": false, "notes": "S4 금융일정에 10월 29일 채무상담 대표번호 개통식 기재" },
+    { "id": "C3", "claim": "1375 수신자 부담 운영", "value": "수신자 부담", "referenceDate": "2026-07-14", "sourceIds": ["S1", "S5"], "verified": true, "conflict": false },
+    { "id": "C4", "claim": "신복위 설립 이후 채무조정 지원 인원", "value": "약 252만 명", "referenceDate": "2026-07-14", "condition": "2002년 설립 이후 24년간 누적", "sourceIds": ["S1", "S2", "S3"], "verified": true, "conflict": false },
+    { "id": "C5", "claim": "신복위 채무조정 대상 제도권 금융회사 수", "value": "약 7천 곳", "referenceDate": "2026-07-14", "sourceIds": ["S1", "S2"], "verified": true, "conflict": false },
+    { "id": "C6", "claim": "개인회생파산종합지원센터 수", "value": "총 12곳(7월 2일 2곳 추가)", "referenceDate": "2026-07-14", "condition": "대한법률구조공단 운영", "sourceIds": ["S1", "S6"], "verified": true, "conflict": false },
+    { "id": "C7", "claim": "서민금융통합지원센터 수", "value": "50곳(6곳 추가 설치 계획)", "referenceDate": "2026-07-14", "sourceIds": ["S1", "S6"], "verified": true, "conflict": false },
+    { "id": "C8", "claim": "연 60% 초과 대부계약 원금·이자 전부 무효", "value": "연 60% 초과", "referenceDate": "2025-07-22", "condition": "개정 대부업법 시행일 이후", "sourceIds": ["S7", "S8"], "verified": true, "conflict": false },
+    { "id": "C9", "claim": "금융위원회 1375 도입 발표일", "value": "7월 14일", "referenceDate": "2026-07-14", "condition": "2026년 국무회의 보고", "sourceIds": ["S1", "S5"], "verified": true, "conflict": false },
+    { "id": "C10", "claim": "법정 최고금리", "value": "연 20%", "referenceDate": "2025-07-15", "sourceIds": ["S7", "S8"], "verified": true, "conflict": false },
+    { "id": "C11", "claim": "법정 최고금리 초과 이자 부분 무효", "value": "연 20% 초과분", "referenceDate": "2025-07-15", "condition": "연 60% 이하 계약의 경우", "sourceIds": ["S8"], "verified": true, "conflict": false, "notes": "금융위 보도자료 판단 절차도에서 직접 확인" },
+    { "id": "C12", "claim": "미등록 대부업자 이자 약정 전부 무효", "value": "이자율 0%", "referenceDate": "2025-07-22", "sourceIds": ["S7", "S8"], "verified": true, "conflict": false },
+    { "id": "C13", "claim": "연 60%는 법정 최고금리의 3배", "value": "3배", "formula": "60 / 20", "referenceDate": "2025-07-15", "sourceIds": ["S7", "S8"], "verified": true, "conflict": false },
+    { "id": "C14", "claim": "개정 대부업법(반사회적 대부계약 무효) 시행일", "value": "2025년 7월 22일", "referenceDate": "2025-07-15", "sourceIds": ["S7", "S8"], "verified": true, "conflict": false }
+  ],
+  "media": {
+    "images": [
+      { "kind": "cover", "slot": 1, "alt": "채무상담 대표번호 1375의 10월 29일 정식 운영을 알리는 표지 그래픽", "eyebrow": "신용회복위원회", "title": "채무상담 1375", "subtitle": "10월 29일 정식 운영{C2}" },
+      { "kind": "timeline", "slot": 2, "alt": "7월 14일 도입 발표, 10월 1일 가오픈, 10월 29일 정식 운영으로 이어지는 일정", "title": "1375 운영 일정",
+        "events": [
+          { "date": "7월 14일{C9}", "label": "금융위 도입 발표" },
+          { "date": "10월 1일{C1}", "label": "가오픈, 상담 가능" },
+          { "date": "10월 29일{C2}", "label": "정식 운영 시작" }
+        ], "footnote": "2026년, 금융위원회·언론 보도 기준" },
+      { "kind": "stats", "slot": 3, "alt": "신복위 채무조정 누적 지원 인원, 대상 금융회사 수, 개인회생파산종합지원센터 수를 보여주는 숫자 카드", "title": "숫자로 본 채무조정",
+        "stats": [
+          { "label": "누적 지원", "value": "약 252만 명{C4}", "note": "2002년 이후" },
+          { "label": "대상 금융사", "value": "약 7천 곳{C5}", "note": "통신·전기 포함" },
+          { "label": "회생파산센터", "value": "12곳{C6}", "note": "법률구조공단" }
+        ], "footnote": "금융위원회 2026년 7월 14일 발표" },
+      { "kind": "table", "slot": 4, "alt": "대부계약 이자율 구간별로 계약이 유효한지 무효인지 비교한 표", "title": "이자율별 대부계약 효력",
+        "headers": ["구분", "효력"],
+        "rows": [["연 20% 이하{C10}", "유효"], ["연 20% 초과분{C11}", "초과 이자 무효"], ["연 60% 초과{C8}", "원금·이자 무효"], ["미등록 업자", "이자 전부 무효{C12}"]],
+        "footnote": "개정 대부업법, 2025년 7월 22일 시행" },
+      { "kind": "checklist", "slot": 5, "alt": "빌린 곳과 잔액, 연체 시점, 월 상환 가능액, 피해 기록, 1375 전화 순서의 준비 항목", "title": "전화 전 준비",
+        "items": ["빌린 곳과 남은 금액 정리", "연체 여부와 시작 시점", "소득과 월 상환 가능액", "불법추심 문자·통화 기록", "1375로 상황 설명"], "footnote": "첫 상담은 서류 없이 가능" },
+      { "kind": "flow", "slot": 6, "alt": "1375 전화 상담 후 상황 진단, 제도 안내, 기관 연계로 이어지는 상담 흐름", "title": "1375 상담 흐름",
+        "steps": ["1375 전화", "소득·채무 상황 진단", "맞는 제도 안내", "신복위·법원 등 연계"], "footnote": "수신자 부담 운영" }
+    ],
+    "video": {
+      "alt": "채무상담 1375의 10월 29일 정식 운영과 상담 범위를 요약한 세로 영상",
+      "scenes": [
+        { "kind": "hook", "heading": "빚 상담, 어디에 전화해야 할까?" },
+        { "kind": "fact", "heading": "채무상담 1375", "big": "10월 29일{C2}", "body": "정식 운영 시작, 지금도 가오픈 상담" },
+        { "kind": "explain", "heading": "한 번에 안내", "body": "채무조정·회생파산·불법사금융 상담" },
+        { "kind": "fact", "heading": "불법 고금리라면", "big": "연 60% 초과{C8}", "body": "원금·이자 모두 무효" },
+        { "kind": "cta", "heading": "수신자 부담 무료 통화", "body": "자세한 내용은 본문에서" }
+      ]
+    }
+  },
+  "topicCandidates": [
+    { "topic": "채무상담 대표번호 1375 10월 29일 정식 운영", "category": "생활경제", "primaryKeyword": "채무상담 1375", "angle": "정식 운영 직전 상담 범위·준비사항·불법사금융 무효 규정 정리", "whyNow": "10월 29일 정식 운영·개통식(S2, S3, S4)", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "medium", "differentiation": "high", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://fsc.go.kr/no010101/87323", "https://www.thedailyeconomy.kr/news/articleView.html?idxno=6434", "https://www.newspim.com/news/view/20261023001217"] },
+    { "topic": "문화누리카드 11월 30일 발급 마감, 12월 31일 잔액 소멸", "category": "생활경제", "primaryKeyword": "문화누리카드 마감", "angle": "마감 일정과 잔액 사용법", "whyNow": "11월 30일 마감(아주경제 10월 21일)", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "medium", "differentiation": "low", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.ajunews.com/view/20261021111016803"] },
+    { "topic": "에너지바우처 동절기 사용과 12월 31일 신청 마감", "category": "생활경제", "primaryKeyword": "에너지바우처 동절기", "angle": "가구원 수별 지원액", "whyNow": "동절기 진입", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "medium", "differentiation": "low", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.ajunews.com/view/20261021111016803"] },
+    { "topic": "연금저축·IRP 연말 세액공제 한도 900만 원", "category": "생활경제", "primaryKeyword": "IRP 세액공제", "angle": "연내 납입 마감", "whyNow": "연말정산 대비", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "low", "depth": "medium", "differentiation": "low", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "medium" }, "evidenceUrls": ["https://www.ajunews.com/view/20261021111016803"] },
+    { "topic": "청년문화예술패스 2차 11월 30일 마감", "category": "생활경제", "primaryKeyword": "청년문화예술패스", "angle": "대상 연도·지원액", "whyNow": "11월 30일 마감", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "low", "differentiation": "medium", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.ajunews.com/view/20261021111016803"] },
+    { "topic": "여신전문금융사 부동산·건설 대출한도 규제 강화(10월 23일)", "category": "경제", "primaryKeyword": "여신전문금융업감독규정", "angle": "카드·캐피탈 대출 영향", "whyNow": "10월 23일 규정변경예고", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "medium", "intentClarity": "low", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974200"] },
+    { "topic": "유류세 인하 11월 말 종료 예정, 연장 여부", "category": "경제", "primaryKeyword": "유류세 인하 연장", "angle": "종료 시 가격 영향", "whyNow": "11월 말 기한", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "low", "depth": "low", "differentiation": "medium", "intentClarity": "medium", "competition": "unknown", "factCheckDifficulty": "high", "contentRisk": "low" }, "evidenceUrls": ["https://biz.sbs.co.kr/amp/article/20000335452"] },
+    { "topic": "메탄올 초과 검출 일반증류주 회수", "category": "생활경제", "primaryKeyword": "증류주 회수", "angle": "소비자 확인 방법", "whyNow": "10월 23일 식약처 발표", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "low", "intentClarity": "medium", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "medium" }, "evidenceUrls": ["https://www.korea.kr/briefing/pressReleaseList.do"] }
+  ]
+}
