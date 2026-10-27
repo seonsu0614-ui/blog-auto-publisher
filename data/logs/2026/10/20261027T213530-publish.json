@@ -1,0 +1,83 @@
+{
+  "runId": "20261027T213530-publish",
+  "mode": "publish",
+  "date": "2026-10-28",
+  "draftPath": "data/articles/2026/10/20261028-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-27T21:35:30.998Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-27T21:35:30.998Z",
+      "attempts": 1,
+      "endedAt": "2026-10-27T21:35:31.013Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-27T21:35:31.027Z",
+      "endedAt": "2026-10-27T21:35:31.027Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-27T21:35:31.027Z",
+      "attempts": 1,
+      "endedAt": "2026-10-27T21:35:51.253Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-27T21:35:51.260Z",
+      "endedAt": "2026-10-27T21:35:51.260Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-27T21:35:51.260Z",
+      "attempts": 1,
+      "endedAt": "2026-10-27T21:35:52.980Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-27T21:35:52.981Z",
+      "attempts": 1,
+      "endedAt": "2026-10-27T21:35:53.400Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-27T21:35:53.401Z",
+      "attempts": 1,
+      "endedAt": "2026-10-27T21:35:53.407Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261028-001",
+  "topic": "정부 통합 소비축제 '제2회 코리아 그랜드 페스티벌'(10월 29일~11월 15일)의 소비자 혜택 정리: 지역사랑상품권 할인율 상향(수도권 13%·비수도권 15%·인구감소지역 17%), 디지털 온누리상품권 10% 할인(11월 2~6일), 상생소비복권 응모 방법과 당첨 규모, 한우·수산물·농할상품권 할인 일정",
+  "category": "생활경제",
+  "keywords": [
+    "코리아 그랜드 페스티벌",
+    "지역사랑상품권 할인율",
+    "상생소비복권",
+    "디지털 온누리상품권 할인"
+  ],
+  "title": "코리아 그랜드 페스티벌 10월 29일 개막, 지역사랑상품권 최대 17% 할인 챙기는 법",
+  "sources": [
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148974363",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148973540",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=72791",
+    "https://www.fnnews.com/news/202610271809412907",
+    "https://dazabi.com/insurance_magazine/article.php?id=46331",
+    "https://www.newstnt.com/news/articleView.html?idxno=725140",
+    "https://biz.sbs.co.kr/amp/article/20000340314"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 3716,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "3052334139100523059",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/korea-grand-festival-discount-guide.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-27T21:35:53.407Z",
+  "executionTimeMs": 22409
+}
