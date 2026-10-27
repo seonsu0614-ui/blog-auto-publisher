@@ -1,0 +1,351 @@
+{
+  "contentId": "20261028-001",
+  "date": "2026-10-28",
+  "topic": "정부 통합 소비축제 '제2회 코리아 그랜드 페스티벌'(10월 29일~11월 15일)의 소비자 혜택 정리: 지역사랑상품권 할인율 상향(수도권 13%·비수도권 15%·인구감소지역 17%), 디지털 온누리상품권 10% 할인(11월 2~6일), 상생소비복권 응모 방법과 당첨 규모, 한우·수산물·농할상품권 할인 일정",
+  "category": "생활경제",
+  "searchIntent": "10월 말~11월 중순 장보기·소비를 앞둔 사람이 코리아 그랜드 페스티벌에서 어떤 할인을 언제, 어떻게 받을 수 있는지 한 번에 알고 싶음",
+  "differentiation": "최근 14일 발행 글과 겹치는 키워드 없음. 할인 품목 나열 대신 소비자가 직접 챙길 상품권 할인율·복권 응모 조건·날짜를 계산 예시와 함께 정리",
+  "title": "코리아 그랜드 페스티벌 10월 29일 개막, 지역사랑상품권 최대 17% 할인 챙기는 법",
+  "seoTitle": "코리아 그랜드 페스티벌 일정과 지역사랑상품권·온누리 할인율 정리",
+  "metaDescription": "제2회 코리아 그랜드 페스티벌이 10월 29일부터 11월 15일까지 열립니다. 지역사랑상품권 할인율, 디지털 온누리상품권 할인 기간, 상생소비복권 응모 방법을 2026년 10월 27일 정부 발표 기준으로 정리했습니다.",
+  "slug": "korea-grand-festival-discount-guide",
+  "primaryKeyword": "코리아 그랜드 페스티벌",
+  "secondaryKeywords": [
+    "지역사랑상품권 할인율",
+    "상생소비복권",
+    "디지털 온누리상품권 할인"
+  ],
+  "relatedKeywords": [
+    "중소벤처기업부",
+    "한우 할인",
+    "수산물 할인",
+    "농할상품권",
+    "소비축제"
+  ],
+  "tags": [
+    "생활경제",
+    "코리아 그랜드 페스티벌",
+    "지역사랑상품권",
+    "지역사랑상품권 할인율",
+    "온누리상품권",
+    "상생소비복권",
+    "한우 할인",
+    "수산물 할인",
+    "농할상품권",
+    "소비축제"
+  ],
+  "hook": [
+    "김장철과 연말 장보기를 앞두고 정부가 여러 할인행사를 한데 묶은 소비축제를 엽니다.",
+    "제2회 코리아 그랜드 페스티벌이 10월 29일부터 11월 15일까지 18일간 이어집니다.{C1}{C2}[S1]",
+    "품목 할인도 있지만, 내가 직접 챙겨야 하는 혜택은 따로 있습니다. 상품권 할인율과 복권 응모 조건을 날짜별로 정리했습니다."
+  ],
+  "summary": [
+    "제2회 코리아 그랜드 페스티벌은 10월 29일~11월 15일 열리며, 참여 기업은 4만여 곳입니다.{C1}{C3}",
+    "지역사랑상품권 할인율이 수도권 13%, 비수도권 15%, 인구감소지역 17%로 오릅니다. 적용 기간은 지자체마다 다릅니다.{C4}{C5}{C6}",
+    "디지털 온누리상품권은 11월 2~6일 5일 동안 할인율이 7%에서 10%로 오릅니다.{C7}",
+    "상생소비복권은 디지털 온누리상품권 오프라인 결제 3만 원당 응모권 1장, 비수도권 결제는 2배입니다.{C9}{C17}",
+    "한우는 10월 28일~11월 8일, 주요 수산물은 10월 28일~11월 29일 최대 50% 할인합니다.{C18}{C19}"
+  ],
+  "sections": [
+    {
+      "heading": "코리아 그랜드 페스티벌, 언제 무엇을 하나",
+      "level": 2,
+      "blocks": [
+        { "type": "image", "slot": 1 },
+        { "type": "video" },
+        {
+          "type": "p",
+          "text": "중소벤처기업부 등 정부는 10월 27일 국무회의 보고를 거쳐 제2회 코리아 그랜드 페스티벌 계획을 발표했습니다. 기간은 10월 29일부터 11월 15일까지입니다.{C1}[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "부처마다 따로 열던 할인행사를 하나로 묶은 국가 단위 소비축제입니다. 동행축제, 코리아세일페스타, 숙박세일페스타, 김장재료 할인행사, 한우세일, 수산대전 등이 함께 진행됩니다.[S1]"
+        },
+        {
+          "type": "p",
+          "text": "올해 참여 기업은 4만여 곳으로 늘었습니다.{C3} 온라인몰과 매장, 앱 등에서 행사를 알리며, 세부 내용은 통합 누리집(koreagrandfestival.kr)에서 확인할 수 있습니다.[S1][S3]"
+        },
+        {
+          "type": "table",
+          "caption": "코리아 그랜드 페스티벌 기본 정보",
+          "headers": ["구분", "내용"],
+          "rows": [
+            ["행사 기간", "10월 29일~11월 15일{C1}"],
+            ["참여 규모", "4만여 개 기업{C3}"],
+            ["통합 개막행사", "10월 31일, 경북 안동 옛 안동역사 일원{C20}"],
+            ["안내 누리집", "koreagrandfestival.kr"]
+          ],
+          "note": "정책브리핑 2026년 10월 27일 발표 기준{C21}"
+        }
+      ]
+    },
+    {
+      "heading": "지역사랑상품권·온누리상품권 할인율, 얼마나 오르나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "직접 체감이 큰 부분은 상품권 할인입니다. 행사 기간 국비 지원을 늘려 지역사랑상품권 할인율을 5%p씩 올립니다.{C8}[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "수도권은 8%에서 13%로, 비수도권은 10%에서 15%로 오릅니다.{C4}{C5} 인구감소지역은 17%가 적용됩니다.{C6}[S1][S4][S6]"
+        },
+        { "type": "image", "slot": 2 },
+        {
+          "type": "table",
+          "caption": "행사 기간 상품권 할인율",
+          "headers": ["구분", "할인율", "기간"],
+          "rows": [
+            ["지역사랑상품권 수도권", "8% → 13%{C4}", "지자체별 상이"],
+            ["지역사랑상품권 비수도권", "10% → 15%{C5}", "지자체별 상이"],
+            ["지역사랑상품권 인구감소지역", "17%{C6}", "지자체별 상이"],
+            ["디지털 온누리상품권", "7% → 10%{C7}", "11월 2~6일{C7}"]
+          ],
+          "note": "정부 발표(2026년 10월 27일) 기준{C21}. 구매 한도는 지자체·상품권별로 다름"
+        },
+        {
+          "type": "callout",
+          "text": "**지역사랑상품권 할인 적용 기간은 지자체마다 다릅니다.** 내가 사는 지역의 상품권 앱이나 지자체 공지에서 할인 시작일과 구매 한도를 먼저 확인하세요.[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "디지털 온누리상품권은 11월 2일부터 6일까지 5일 동안만 할인율이 평소 7%에서 10%로 오릅니다.{C7} 기간이 짧으니 날짜를 미리 메모해 두면 좋습니다.[S3][S5][S6]"
+        },
+        {
+          "type": "p",
+          "text": "일부 지자체는 추가 환급, 발행 확대, 구매 한도 상향 같은 자체 혜택을 더합니다. 정부 발표에는 강진군, 안동시, 고령군, 천안시, 과천시 등이 예로 나왔습니다.[S1]"
+        }
+      ]
+    },
+    {
+      "heading": "상생소비복권, 어떻게 응모하나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "상생소비복권은 디지털 온누리상품권으로 결제한 금액에 따라 응모권을 주는 이벤트입니다. 참여 기간은 10월 15일부터 11월 15일까지로, 축제보다 먼저 시작했습니다.{C10}[S2][S7]"
+        },
+        {
+          "type": "p",
+          "text": "누적 결제액 3만 원당 응모권 1장이 나오고, 비수도권 가맹점 결제는 2배로 받습니다.{C9}{C17} 1인당 받을 수 있는 응모권 수에는 상한이 있습니다.[S1][S2][S7]"
+        },
+        {
+          "type": "p",
+          "text": "중소벤처기업부 안내 기준으로 오프라인 가맹점에서 디지털 온누리상품권으로 결제한 금액만 인정됩니다. 온라인 결제와 종이 온누리상품권은 제외됩니다.[S2]"
+        },
+        {
+          "type": "ol",
+          "items": [
+            "디지털온누리 앱에서 상생소비복권 이벤트에 한 번 가입·신청합니다.[S1][S2]",
+            "오프라인 디지털 온누리 가맹점에서 결제합니다.[S2]",
+            "누적 결제액에 따라 응모권이 자동으로 쌓입니다.[S2]",
+            "당첨금은 디지털 온누리상품권으로 지급됩니다.[S1][S2]"
+          ]
+        },
+        { "type": "image", "slot": 3 },
+        {
+          "type": "table",
+          "caption": "상생소비복권 당첨 규모",
+          "headers": ["등수", "당첨금", "인원"],
+          "rows": [
+            ["1등", "3,000만 원{C11}", "10명"],
+            ["2등", "200만 원{C12}", "40명"],
+            ["3등", "100만 원{C13}", "850명"],
+            ["4등", "10만 원{C14}", "4,700명"]
+          ],
+          "note": "총 5,600명{C15}, 약 17억 원{C16}. 1등은 비수도권 응모권에서 추첨"
+        },
+        {
+          "type": "p",
+          "text": "당첨자 발표와 지급은 2026년 12월 예정이고, 한 사람은 가장 높은 등수 하나만 당첨됩니다.{C22}[S2]"
+        }
+      ]
+    },
+    {
+      "heading": "한우·수산물·농할상품권 할인 일정",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "먹거리 할인은 축제보다 하루 먼저 시작합니다. 한우는 대한민국 한우먹는 날(11월 1일)을 전후해 10월 28일부터 11월 8일까지 전국 유통업체에서 최대 50% 할인합니다.{C18}[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "김, 새우젓, 천일염 등 주요 수산물은 10월 28일부터 11월 29일까지 전국 마트와 공영홈쇼핑 등에서 최대 50% 할인합니다.{C19} 김장 준비와 겹치는 일정입니다.[S1][S3]"
+        },
+        {
+          "type": "p",
+          "text": "모바일 농할상품권은 11월 2일부터 15일까지 20% 할인된 가격에 판매합니다.{C23}[S1][S3]"
+        },
+        { "type": "image", "slot": 4 },
+        {
+          "type": "table",
+          "caption": "먹거리 할인 일정",
+          "headers": ["품목", "기간", "할인"],
+          "rows": [
+            ["한우", "10월 28일~11월 8일{C18}", "최대 50%{C18}"],
+            ["김·새우젓·천일염 등 수산물", "10월 28일~11월 29일{C19}", "최대 50%{C19}"],
+            ["모바일 농할상품권", "11월 2일~11월 15일{C23}", "20%{C23}"]
+          ],
+          "note": "'최대' 할인율은 일부 상품 기준이며 판매처·상품마다 다름"
+        }
+      ]
+    },
+    {
+      "heading": "숫자로 계산해 보면",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "할인율을 금액으로 바꿔 보면 차이가 분명해집니다. 아래는 상품권 10만 원어치를 살 때의 단순 계산이며, 실제 구매 한도와 결제 방식은 지역·상품권마다 다릅니다."
+        },
+        {
+          "type": "p",
+          "text": "수도권 지역사랑상품권은 13% 할인으로 87,000원에 살 수 있습니다.{C24} 비수도권은 85,000원,{C25} 인구감소지역은 83,000원입니다.{C26}"
+        },
+        {
+          "type": "p",
+          "text": "디지털 온누리상품권 10만 원어치는 11월 2~6일 10% 할인으로 90,000원입니다.{C27}"
+        },
+        { "type": "image", "slot": 5 },
+        {
+          "type": "p",
+          "text": "상생소비복권 응모권도 계산해 볼 수 있습니다. 수도권 가맹점에서 9만 원을 결제하면 응모권 3장,{C28} 같은 금액을 비수도권에서 결제하면 6장입니다.{C29}"
+        }
+      ]
+    },
+    {
+      "heading": "참여 전 확인할 사항",
+      "level": 2,
+      "blocks": [
+        { "type": "image", "slot": 6 },
+        {
+          "type": "ul",
+          "items": [
+            "내 지역 지역사랑상품권의 할인 시작일·구매 한도를 지자체 공지에서 확인합니다.[S1]",
+            "디지털 온누리상품권 할인일(11월 2~6일)을 달력에 적어 둡니다.{C7}",
+            "상생소비복권은 디지털온누리 앱에서 따로 신청해야 응모권이 쌓입니다.[S2]",
+            "'최대 50%'는 일부 상품 기준이므로 실제 가격을 비교합니다.[S1]",
+            "카드 할인·캐시백은 결제 금액 조건이 있으니 행사 안내를 확인합니다.[S1]"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "카드 이벤트도 있습니다. 백년가게와 온누리가맹점에서 3만 원 이상 결제하면 10% 할인, 전통시장에서 1만 원 이상 결제하면 10% 캐시백을 받을 수 있습니다.{C30}[S1]"
+        },
+        {
+          "type": "p",
+          "text": "할인이 많다고 필요 없는 물건까지 사면 오히려 지출이 늘 수 있습니다. 김장 재료나 평소 사는 생필품처럼 살 계획이 있던 품목 위주로 활용하는 편이 좋습니다."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "지역사랑상품권 할인은 10월 29일부터 바로 적용되나요?",
+      "answer": "정부는 할인율을 수도권 13%, 비수도권 15%, 인구감소지역 17%로 올린다고 밝혔지만 적용 기간은 지자체마다 다릅니다.{C4}{C5}{C6} 지역 상품권 앱이나 지자체 공지를 확인하세요.[S1][S3]"
+    },
+    {
+      "question": "상생소비복권은 온라인 결제도 인정되나요?",
+      "answer": "중소벤처기업부 안내 기준으로 오프라인 가맹점에서 디지털 온누리상품권으로 결제한 금액만 인정되고, 온라인 결제와 종이 상품권은 제외됩니다.[S2]"
+    },
+    {
+      "question": "복권 당첨금은 현금으로 받나요?",
+      "answer": "아닙니다. 당첨금은 디지털 온누리상품권으로 지급되며, 발표와 지급은 2026년 12월 예정입니다.{C22}[S1][S2]"
+    }
+  ],
+  "closing": [
+    "제2회 코리아 그랜드 페스티벌은 10월 29일부터 11월 15일까지 열립니다.{C1}",
+    "지역사랑상품권은 최대 17%, 디지털 온누리상품권은 11월 2~6일 10% 할인입니다.{C6}{C7}",
+    "상생소비복권은 디지털온누리 앱 신청 후 오프라인 결제 3만 원당 응모권 1장입니다.{C9}",
+    "지역별 적용 기간과 구매 한도는 지자체 공지와 통합 누리집(koreagrandfestival.kr)에서 확인하세요."
+  ],
+  "sources": [
+    { "id": "S1", "title": "한우·수산물·의류 최대 50% 할인…'코리아 그랜드 페스티벌' 개막", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974363", "publisher": "중소벤처기업부(대한민국 정책브리핑)", "tier": 1, "accessedAt": "2026-10-28", "referenceDate": "2026-10-27" },
+    { "id": "S2", "title": "디지털온누리로 결제하고, '최대 3000만 원' 당첨 기회를 잡으세요!", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973540", "publisher": "중소벤처기업부(대한민국 정책브리핑)", "tier": 1, "accessedAt": "2026-10-28", "referenceDate": "2026-10-15" },
+    { "id": "S3", "title": "장보기부터 여행까지 할인…'코리아 그랜드 페스티벌' 29일 시작", "url": "https://www.newswhoplus.com/news/articleView.html?idxno=72791", "publisher": "뉴스후플러스", "tier": 2, "accessedAt": "2026-10-28", "referenceDate": "2026-10-27" },
+    { "id": "S4", "title": "29일부터 '코리아 그랜드 페스티벌'…지역사랑상품권 최대 할인율 17%", "url": "https://www.fnnews.com/news/202610271809412907", "publisher": "파이낸셜뉴스", "tier": 2, "accessedAt": "2026-10-28", "referenceDate": "2026-10-27" },
+    { "id": "S5", "title": "자동차·가전부터 한우·수산물까지...최대 50% 할인 정부, 「제2회 코리아 그랜드 페스티벌」 시작(10.29~11.15)", "url": "https://dazabi.com/insurance_magazine/article.php?id=46331", "publisher": "이즈보험(정부 보도자료 게재)", "tier": 2, "accessedAt": "2026-10-28", "referenceDate": "2026-10-27" },
+    { "id": "S6", "title": "지역사랑상품권 최대 17% 할인…상생소비복권 1등 3000만원", "url": "https://www.newstnt.com/news/articleView.html?idxno=725140", "publisher": "뉴스티앤티", "tier": 2, "accessedAt": "2026-10-28", "referenceDate": "2026-10-27" },
+    { "id": "S7", "title": "지역경제 살리는 '상생소비복권' 본격 운영…당첨금 최대 3천만원", "url": "https://biz.sbs.co.kr/amp/article/20000340314", "publisher": "SBS Biz", "tier": 2, "accessedAt": "2026-10-28", "referenceDate": "2026-10-16" }
+  ],
+  "claims": [
+    { "id": "C1", "claim": "제2회 코리아 그랜드 페스티벌 행사 기간", "value": "10월 29일~11월 15일", "referenceDate": "2026-10-27", "condition": "2026년", "sourceIds": ["S1", "S3", "S4", "S5"], "verified": true, "conflict": false },
+    { "id": "C2", "claim": "행사 일수 (10월 29~31일 3일 + 11월 1~15일 15일)", "value": "18일", "formula": "3 + 15", "referenceDate": "2026-10-27", "condition": "시작일·종료일 포함", "sourceIds": ["S1", "S3"], "verified": true, "conflict": false },
+    { "id": "C3", "claim": "참여 기업 수", "value": "4만여 개", "referenceDate": "2026-10-27", "condition": "2026년 제2회 행사", "sourceIds": ["S1", "S3"], "verified": true, "conflict": false },
+    { "id": "C4", "claim": "지역사랑상품권 수도권 할인율 상향", "value": "8% → 13%", "referenceDate": "2026-10-27", "condition": "행사 기간, 적용 기간은 지자체별 상이", "sourceIds": ["S1", "S5", "S6"], "verified": true, "conflict": false },
+    { "id": "C5", "claim": "지역사랑상품권 비수도권 할인율 상향", "value": "10% → 15%", "referenceDate": "2026-10-27", "condition": "행사 기간, 적용 기간은 지자체별 상이", "sourceIds": ["S1", "S5", "S6"], "verified": true, "conflict": false },
+    { "id": "C6", "claim": "지역사랑상품권 인구감소지역 할인율(행사 기간)", "value": "17%", "referenceDate": "2026-10-27", "condition": "행사 기간, 적용 기간은 지자체별 상이", "sourceIds": ["S1", "S4", "S5", "S6"], "verified": true, "conflict": false, "notes": "변경 후 17%는 모든 출처 일치. 인구감소지역 '기존' 할인율은 S1 11%, S5·S6 12%로 달라 본문에 쓰지 않음" },
+    { "id": "C7", "claim": "디지털 온누리상품권 할인율 상향 기간(5일)과 할인율", "value": "11월 2~6일, 7% → 10%", "referenceDate": "2026-10-27", "condition": "2026년 11월 2일~6일", "sourceIds": ["S3", "S5", "S6"], "verified": true, "conflict": false },
+    { "id": "C8", "claim": "지역사랑상품권 할인율 상향 폭", "value": "5%p", "formula": "13 - 8", "referenceDate": "2026-10-27", "condition": "수도권 기준 계산, 비수도권 15-10도 동일", "sourceIds": ["S1", "S3", "S4"], "verified": true, "conflict": false },
+    { "id": "C9", "claim": "상생소비복권 응모권 발급 기준", "value": "3만 원당 1장", "referenceDate": "2026-10-27", "condition": "디지털 온누리상품권 오프라인 가맹점 누적 결제액", "sourceIds": ["S1", "S2", "S7"], "verified": true, "conflict": false, "notes": "1인 상한은 S1 '최대 10장', S2·S7 '수도권 10장+비수도권 20장, 최대 30장'으로 표현이 달라 본문에 숫자로 쓰지 않음" },
+    { "id": "C10", "claim": "상생소비복권 참여 기간", "value": "10월 15일~11월 15일", "referenceDate": "2026-10-15", "condition": "2026년", "sourceIds": ["S2", "S5", "S7"], "verified": true, "conflict": false },
+    { "id": "C11", "claim": "상생소비복권 1등 당첨금(10명)", "value": "3,000만 원", "referenceDate": "2026-10-27", "condition": "디지털 온누리상품권 지급", "sourceIds": ["S1", "S2", "S7"], "verified": true, "conflict": false },
+    { "id": "C12", "claim": "상생소비복권 2등 당첨금(40명)", "value": "200만 원", "referenceDate": "2026-10-27", "condition": "디지털 온누리상품권 지급", "sourceIds": ["S1", "S2", "S7"], "verified": true, "conflict": false },
+    { "id": "C13", "claim": "상생소비복권 3등 당첨금(850명)", "value": "100만 원", "referenceDate": "2026-10-27", "condition": "디지털 온누리상품권 지급", "sourceIds": ["S1", "S2", "S7"], "verified": true, "conflict": false },
+    { "id": "C14", "claim": "상생소비복권 4등 당첨금(4,700명)", "value": "10만 원", "referenceDate": "2026-10-27", "condition": "디지털 온누리상품권 지급", "sourceIds": ["S1", "S2", "S7"], "verified": true, "conflict": false },
+    { "id": "C15", "claim": "상생소비복권 총 당첨 인원", "value": "5,600명", "formula": "10 + 40 + 850 + 4700", "referenceDate": "2026-10-15", "condition": "1~4등 합계", "sourceIds": ["S2", "S6", "S7"], "verified": true, "conflict": false },
+    { "id": "C16", "claim": "상생소비복권 총 당첨금 규모", "value": "17억 원", "formula": "10*30000000 + 40*2000000 + 850*1000000 + 4700*100000", "referenceDate": "2026-10-27", "condition": "1~4등 합계", "sourceIds": ["S1", "S6", "S7"], "verified": true, "conflict": false },
+    { "id": "C17", "claim": "비수도권 결제 응모권 배수", "value": "2배", "referenceDate": "2026-10-27", "condition": "비수도권 가맹점 결제분", "sourceIds": ["S1", "S2", "S7"], "verified": true, "conflict": false },
+    { "id": "C18", "claim": "한우 할인 기간과 최대 할인율", "value": "10월 28일~11월 8일, 최대 50%", "referenceDate": "2026-10-27", "condition": "전국 유통업체, 일부 상품 기준", "sourceIds": ["S1", "S3"], "verified": true, "conflict": false },
+    { "id": "C19", "claim": "주요 수산물 할인 기간과 최대 할인율", "value": "10월 28일~11월 29일, 최대 50%", "referenceDate": "2026-10-27", "condition": "전국 마트·공영홈쇼핑 등, 김·새우젓·천일염 등", "sourceIds": ["S1", "S3"], "verified": true, "conflict": false },
+    { "id": "C20", "claim": "통합 개막행사 일시·장소", "value": "10월 31일", "referenceDate": "2026-10-27", "condition": "경북 안동 옛 안동역사 일원", "sourceIds": ["S1", "S3", "S5"], "verified": true, "conflict": false },
+    { "id": "C21", "claim": "정부 발표일(국무회의 보고)", "value": "2026년 10월 27일", "referenceDate": "2026-10-27", "condition": "정책브리핑 게재일", "sourceIds": ["S1", "S4"], "verified": true, "conflict": false },
+    { "id": "C22", "claim": "상생소비복권 당첨자 발표·지급 시기", "value": "2026년 12월", "referenceDate": "2026-10-15", "condition": "예정, 1인 1회(최고 등수) 당첨", "sourceIds": ["S2"], "verified": true, "conflict": false, "notes": "1순위 공식 출처(중기부 정책브리핑) 원문 확인" },
+    { "id": "C23", "claim": "모바일 농할상품권 할인 판매 기간과 할인율", "value": "11월 2일~11월 15일, 20%", "referenceDate": "2026-10-27", "condition": "2026년", "sourceIds": ["S1", "S3"], "verified": true, "conflict": false },
+    { "id": "C24", "claim": "수도권 지역사랑상품권 10만 원어치 13% 할인 구매가", "value": "87,000원", "formula": "100000 - 100000 * 13 / 100", "referenceDate": "2026-10-27", "condition": "단순 계산 예시, 구매 한도·수수료 제외", "sourceIds": ["S1"], "verified": true, "conflict": false },
+    { "id": "C25", "claim": "비수도권 지역사랑상품권 10만 원어치 15% 할인 구매가", "value": "85,000원", "formula": "100000 - 100000 * 15 / 100", "referenceDate": "2026-10-27", "condition": "단순 계산 예시", "sourceIds": ["S1"], "verified": true, "conflict": false },
+    { "id": "C26", "claim": "인구감소지역 지역사랑상품권 10만 원어치 17% 할인 구매가", "value": "83,000원", "formula": "100000 - 100000 * 17 / 100", "referenceDate": "2026-10-27", "condition": "단순 계산 예시", "sourceIds": ["S1"], "verified": true, "conflict": false },
+    { "id": "C27", "claim": "디지털 온누리상품권 10만 원어치 10% 할인 구매가", "value": "90,000원", "formula": "100000 - 100000 * 10 / 100", "referenceDate": "2026-10-27", "condition": "11월 2~6일, 단순 계산 예시", "sourceIds": ["S3", "S6"], "verified": true, "conflict": false },
+    { "id": "C28", "claim": "수도권 9만 원 결제 시 응모권 수", "value": "3장", "formula": "90000 / 30000", "referenceDate": "2026-10-15", "condition": "단순 계산 예시, 9만 원 결제", "sourceIds": ["S2"], "verified": true, "conflict": false },
+    { "id": "C29", "claim": "비수도권 9만 원 결제 시 응모권 수", "value": "6장", "formula": "90000 / 30000 * 2", "referenceDate": "2026-10-15", "condition": "단순 계산 예시, 9만 원 결제", "sourceIds": ["S2", "S7"], "verified": true, "conflict": false },
+    { "id": "C30", "claim": "카드 이벤트: 백년가게·온누리가맹점 3만 원 이상 10% 할인, 전통시장 1만 원 이상 10% 캐시백", "value": "3만 원 이상 10% 할인, 1만 원 이상 10% 캐시백", "referenceDate": "2026-10-27", "condition": "행사 참여 카드사 조건 적용", "sourceIds": ["S1"], "verified": true, "conflict": false, "notes": "1순위 공식 출처(정책브리핑) 원문 문장 확인" }
+  ],
+  "media": {
+    "images": [
+      { "kind": "cover", "slot": 1, "alt": "코리아 그랜드 페스티벌 10월 29일~11월 15일 일정을 알리는 표지 그래픽", "eyebrow": "정부 통합 소비축제", "title": "코리아 그랜드 페스티벌", "subtitle": "10월 29일~11월 15일{C1}" },
+      { "kind": "stats", "slot": 2, "alt": "지역사랑상품권 할인율 수도권 13%, 비수도권 15%, 인구감소지역 17%를 보여주는 숫자 카드", "title": "지역사랑상품권 할인율", "stats": [
+        { "label": "수도권", "value": "13%{C4}", "note": "기존 8%" },
+        { "label": "비수도권", "value": "15%{C5}", "note": "기존 10%" },
+        { "label": "인구감소지역", "value": "17%{C6}", "note": "최대" }
+      ], "footnote": "적용 기간은 지자체별 상이" },
+      { "kind": "flow", "slot": 3, "alt": "디지털온누리 앱 신청, 오프라인 가맹점 결제, 응모권 자동 적립, 12월 당첨 발표로 이어지는 상생소비복권 참여 순서", "title": "상생소비복권 참여 순서", "steps": ["앱에서 신청", "가맹점에서 결제", "응모권 자동 적립", "12월 당첨 발표"], "footnote": "온라인·종이 상품권 결제 제외" },
+      { "kind": "timeline", "slot": 4, "alt": "10월 28일 한우·수산물 할인 시작, 10월 29일 축제 개막, 11월 2일 온누리·농할 할인 시작, 11월 15일 축제 종료 일정", "title": "날짜별 할인 일정", "events": [
+        { "date": "10월 28일{C18}", "label": "한우·수산물 할인" },
+        { "date": "10월 29일{C1}", "label": "축제 개막" },
+        { "date": "11월 2일{C7}", "label": "온누리·농할 할인" },
+        { "date": "11월 15일{C1}", "label": "축제·복권 종료" }
+      ], "footnote": "정부 발표 기준" },
+      { "kind": "table", "slot": 5, "alt": "상품권 10만 원어치를 살 때 지역별·종류별 할인 구매가를 비교한 표", "title": "10만 원어치 구매가", "headers": ["상품권", "구매가"], "rows": [
+        ["지역사랑 수도권", "87,000원{C24}"],
+        ["지역사랑 비수도권", "85,000원{C25}"],
+        ["지역사랑 인구감소지역", "83,000원{C26}"],
+        ["디지털 온누리", "90,000원{C27}"]
+      ], "footnote": "단순 계산, 구매 한도는 지역별 상이" },
+      { "kind": "checklist", "slot": 6, "alt": "지역 할인 기간 확인, 온누리 할인일 메모, 복권 앱 신청, 실제 가격 비교 순서의 확인 항목", "title": "참여 전 확인할 것", "items": ["내 지역 할인 시작일 확인", "온누리 할인일 메모", "복권은 앱에서 신청", "실제 가격 비교하기", "카드 이벤트 조건 확인"], "footnote": "통합 누리집 koreagrandfestival.kr" }
+    ],
+    "video": {
+      "alt": "코리아 그랜드 페스티벌 일정과 상품권 할인율, 상생소비복권 응모법을 요약한 세로 영상",
+      "scenes": [
+        { "kind": "hook", "heading": "18일간의 소비축제, 뭘 챙길까?" },
+        { "kind": "fact", "heading": "코리아 그랜드 페스티벌", "big": "10월 29일{C1}", "body": "11월 15일까지" },
+        { "kind": "fact", "heading": "지역사랑상품권 할인", "big": "최대 17%{C6}", "body": "적용 기간은 지자체별 상이" },
+        { "kind": "explain", "heading": "상생소비복권", "body": "디지털 온누리 결제 3만 원당 응모권 1장{C9}" },
+        { "kind": "cta", "heading": "날짜별 일정은 본문에서", "body": "할인 기간을 미리 확인하세요" }
+      ]
+    }
+  },
+  "topicCandidates": [
+    { "topic": "제2회 코리아 그랜드 페스티벌 10월 29일~11월 15일, 상품권 할인율·상생소비복권", "category": "생활경제", "primaryKeyword": "코리아 그랜드 페스티벌", "angle": "소비자가 직접 챙길 상품권 할인·복권 응모 조건과 날짜", "whyNow": "10월 27일 정부 발표, 10월 29일 개막(S1)", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "high", "differentiation": "high", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974363"] },
+    { "topic": "3분기 경제성장률 1.0%, 민간소비 감소 이유", "category": "경제", "primaryKeyword": "3분기 경제성장률", "angle": "성장률 숫자가 내 살림에 주는 의미", "whyNow": "10월 27일 한국은행 속보치·재정경제부 설명", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "medium", "differentiation": "medium", "intentClarity": "low", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974354"] },
+    { "topic": "대학 등록금 인상 시 증액분 사용처 등록금심의위 확인", "category": "정책/제도", "primaryKeyword": "등록금 인상", "angle": "학부모·학생이 확인할 수 있는 것", "whyNow": "10월 27일 교육 분야 발표", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "medium", "intentClarity": "medium", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974367"] },
+    { "topic": "산재 사망 3명 이상 기업 영업이익 5% 과징금", "category": "정책/제도", "primaryKeyword": "산재 과징금", "angle": "제도 개요", "whyNow": "10월 27일 발표", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "medium", "differentiation": "medium", "intentClarity": "low", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "medium" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974361"] },
+    { "topic": "외환위기 공적자금 73.1% 회수", "category": "경제", "primaryKeyword": "공적자금 회수", "angle": "숫자 정리", "whyNow": "10월 27일 발표", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "low", "intentClarity": "low", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974362"] },
+    { "topic": "군 장병 찾아가는 재무상담소", "category": "생활경제", "primaryKeyword": "찾아가는 재무상담소", "angle": "장병 재무상담 이용법", "whyNow": "10월 27일 금융위 발표", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "medium", "intentClarity": "medium", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974360"] },
+    { "topic": "한우 할인 한우먹는 날 11월 1일", "category": "생활경제", "primaryKeyword": "한우 할인", "angle": "한우 할인만 단독 정리", "whyNow": "10월 28일 시작", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "low", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "medium", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974363"] },
+    { "topic": "상생소비복권 단독 정리", "category": "생활경제", "primaryKeyword": "상생소비복권", "angle": "응모 방법", "whyNow": "11월 15일 마감", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "medium", "depth": "low", "differentiation": "low", "intentClarity": "high", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148973540"] },
+    { "topic": "고흥 우주발사체 국가산업단지 2032년 준공", "category": "경제", "primaryKeyword": "고흥 국가산단", "angle": "지역 개발", "whyNow": "10월 27일 발표", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "low", "intentClarity": "low", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974355"] },
+    { "topic": "AI 로드킬 방지 시범운영", "category": "정책/제도", "primaryKeyword": "로드킬 AI", "angle": "생활 안전", "whyNow": "10월 27일 발표", "factors": { "searchDemand": "unknown", "adValue": "unknown", "freshness": "high", "depth": "low", "differentiation": "low", "intentClarity": "low", "competition": "unknown", "factCheckDifficulty": "low", "contentRisk": "low" }, "evidenceUrls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974366"] }
+  ]
+}
