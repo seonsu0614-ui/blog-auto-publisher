@@ -1,0 +1,82 @@
+{
+  "runId": "20261029T213312-publish",
+  "mode": "publish",
+  "date": "2026-10-30",
+  "draftPath": "data/articles/2026/10/20261030-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-29T21:33:12.527Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-29T21:33:12.527Z",
+      "attempts": 1,
+      "endedAt": "2026-10-29T21:33:12.548Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-29T21:33:12.561Z",
+      "endedAt": "2026-10-29T21:33:12.561Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-29T21:33:12.561Z",
+      "attempts": 1,
+      "endedAt": "2026-10-29T21:33:41.656Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-29T21:33:41.663Z",
+      "endedAt": "2026-10-29T21:33:41.663Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-29T21:33:41.663Z",
+      "attempts": 1,
+      "endedAt": "2026-10-29T21:33:46.227Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-29T21:33:46.228Z",
+      "attempts": 1,
+      "endedAt": "2026-10-29T21:33:48.703Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-29T21:33:48.704Z",
+      "attempts": 1,
+      "endedAt": "2026-10-29T21:33:48.712Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261030-001",
+  "topic": "일본 면세제도가 2026년 11월 1일 구매분부터 리펀드(사후환급) 방식으로 바뀜. 결제·공항 세관 확인·환급 순서, 세전 5,000엔 기준, 소모품 50만 엔 상한 폐지, 90일 기한, 영수증 단위 판정, 한국 입국 면세한도 800달러와의 관계",
+  "category": "생활경제",
+  "keywords": [
+    "일본 면세 리펀드",
+    "일본 면세 환급",
+    "일본 소비세 환급",
+    "공항 세관 확인"
+  ],
+  "title": "일본 면세 11월 1일부터 사후환급, 공항 세관 확인 안 하면 세금 못 돌려받는다",
+  "sources": [
+    "https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/pdf/0025003-110_02.pdf",
+    "https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/0523.htm",
+    "https://www.segye.com/newsView/20261028516445",
+    "https://biz.heraldcorp.com/article/10915988",
+    "https://www.dtoday.co.kr/news/articleView.html?idxno=799569",
+    "https://www.taxtimes.co.kr/mobile/article.html?no=255634"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 6,
+  "videoCreated": true,
+  "wordCount": 2930,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "157262161962758182",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/japan-tax-free-refund-change.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-29T21:33:48.712Z",
+  "executionTimeMs": 36185
+}
