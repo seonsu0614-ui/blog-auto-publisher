@@ -1,0 +1,84 @@
+{
+  "runId": "20261030T213635-publish",
+  "mode": "publish",
+  "date": "2026-10-31",
+  "draftPath": "data/articles/2026/10/20261031-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-30T21:36:35.950Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-30T21:36:35.950Z",
+      "attempts": 1,
+      "endedAt": "2026-10-30T21:36:35.967Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-30T21:36:35.978Z",
+      "endedAt": "2026-10-30T21:36:35.978Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-30T21:36:35.978Z",
+      "attempts": 1,
+      "endedAt": "2026-10-30T21:36:59.731Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-30T21:36:59.738Z",
+      "endedAt": "2026-10-30T21:36:59.738Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-30T21:36:59.738Z",
+      "attempts": 1,
+      "endedAt": "2026-10-30T21:37:03.625Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-30T21:37:03.626Z",
+      "attempts": 1,
+      "endedAt": "2026-10-30T21:37:04.130Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-30T21:37:04.131Z",
+      "attempts": 1,
+      "endedAt": "2026-10-30T21:37:04.139Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261031-001",
+  "topic": "2026년 11월 시행되는 초기(1·2세대) 실손보험 선택형 할인 특약과 5세대 계약전환 할인. 대상(2013년 3월 이전, 재가입 조건 없는 계약), 제외 가능한 보장, 예상 할인율, 5세대 자기부담률·한도, 철회 규정, 금융당국 보험료 예시",
+  "category": "생활경제",
+  "keywords": [
+    "실손보험 할인",
+    "1세대 실손",
+    "5세대 실손 전환",
+    "선택형 할인 특약",
+    "계약전환 할인"
+  ],
+  "title": "1·2세대 실손보험 할인 11월 시작, 보장 뺄까 5세대로 갈아탈까",
+  "sources": [
+    "https://www.fsc.go.kr/no010101/86831",
+    "https://news.bizwatch.co.kr/article/finance/2026/10/20/0029",
+    "https://www.ajunews.com/view/20261026141938082",
+    "https://www.hankooki.com/news/articleView.html?idxno=347194",
+    "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03503046645616856",
+    "https://www.fnnews.com/news/202605051853588845",
+    "https://www.fnnews.com/news/202605060600458299"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 5,
+  "videoCreated": true,
+  "wordCount": 3065,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "5613397228476067539",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/10/old-medical-insurance-discount-switch.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-30T21:37:04.140Z",
+  "executionTimeMs": 28190
+}
