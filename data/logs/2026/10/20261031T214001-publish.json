@@ -1,0 +1,17 @@
+{
+  "runId": "20261031T214001-publish",
+  "mode": "publish",
+  "date": "2026-10-31",
+  "draftPath": "data/articles/2026/11/20261101-001/draft.json",
+  "status": "RUNNING",
+  "startedAt": "2026-10-31T21:40:01.675Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-31T21:40:01.676Z",
+      "attempts": 1,
+      "endedAt": "2026-10-31T21:40:01.691Z"
+    }
+  },
+  "errors": []
+}

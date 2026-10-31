@@ -1,0 +1,81 @@
+{
+  "runId": "20261031T214001-publish",
+  "mode": "publish",
+  "date": "2026-11-01",
+  "draftPath": "data/articles/2026/11/20261101-001/draft.json",
+  "status": "SUCCESS",
+  "startedAt": "2026-10-31T21:40:01.675Z",
+  "steps": {
+    "load_draft": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-31T21:40:01.676Z",
+      "attempts": 1,
+      "endedAt": "2026-10-31T21:40:01.691Z"
+    },
+    "fact_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-31T21:40:01.703Z",
+      "endedAt": "2026-10-31T21:40:01.703Z"
+    },
+    "media": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-31T21:40:01.703Z",
+      "attempts": 1,
+      "endedAt": "2026-10-31T21:40:25.942Z"
+    },
+    "quality_check": {
+      "status": "SUCCESS",
+      "attempts": 0,
+      "startedAt": "2026-10-31T21:40:25.949Z",
+      "endedAt": "2026-10-31T21:40:25.949Z"
+    },
+    "publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-31T21:40:25.949Z",
+      "attempts": 1,
+      "endedAt": "2026-10-31T21:40:29.548Z"
+    },
+    "verify_publish": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-31T21:40:29.549Z",
+      "attempts": 1,
+      "endedAt": "2026-10-31T21:40:30.109Z"
+    },
+    "save_history": {
+      "status": "SUCCESS",
+      "startedAt": "2026-10-31T21:40:30.110Z",
+      "attempts": 1,
+      "endedAt": "2026-10-31T21:40:30.119Z"
+    }
+  },
+  "errors": [],
+  "contentId": "20261101-001",
+  "topic": "2026년 10월 30일 제5차 장기요양위원회 의결: 2027년 장기요양보험료율 0.9448%→0.9994%(5.78%), 세대당 월평균 보험료 1,100원 증가, 1·2등급 재가급여 월 한도액 인상과 방문요양 횟수 확대, 통합재가·재택의료센터 확대",
+  "category": "생활경제",
+  "keywords": [
+    "장기요양보험료",
+    "장기요양보험료율",
+    "재가급여 한도",
+    "방문요양",
+    "통합재가서비스"
+  ],
+  "title": "장기요양보험료 2027년 월 1,100원 인상, 1·2등급 재가 한도는 최대 37만 8,500원 늘어",
+  "sources": [
+    "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787374&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-31&endDate=2026-10-31&srchWord=&period=",
+    "https://www.youcandonews.com/news/articleView.html?idxno=21223",
+    "https://www.sedaily.com/article/20108420",
+    "https://news.mtn.co.kr/article/2026103017283472885"
+  ],
+  "factCheck": "PASS",
+  "imageCount": 5,
+  "videoCreated": true,
+  "wordCount": 2703,
+  "qualityCheck": "PASS",
+  "bloggerPostId": "1688876172776309124",
+  "bloggerUrl": "https://lifeeconomy-briefing.blogspot.com/2026/11/long-term-care-premium-2027.html",
+  "duplicatePrevented": false,
+  "publishStatus": "PUBLISHED",
+  "endedAt": "2026-10-31T21:40:30.119Z",
+  "executionTimeMs": 28444
+}
