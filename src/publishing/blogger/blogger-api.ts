@@ -96,6 +96,14 @@ export class BloggerApi {
     return this.request('GET', `/blogs/${encodeURIComponent(blogId)}`);
   }
 
+  /** 블로그 조회수 (Blogger 통계와 같은 값). 읽기 전용 */
+  getPageViews(
+    blogId: string,
+    ranges: Array<'7DAYS' | '30DAYS' | 'all'>,
+  ): Promise<{ counts?: Array<{ timeRange: string; count: string }> }> {
+    return this.request('GET', `/blogs/${encodeURIComponent(blogId)}/pageviews`, undefined, { range: ranges });
+  }
+
   /**
    * 글 생성은 멱등하지 않다(서버에서 생성된 뒤 응답만 실패할 수 있음).
    * 그래서 여기서는 자동 재시도를 하지 않고, 재시도 전 중복 여부 확인은 Publisher가 담당한다.
