@@ -1,0 +1,893 @@
+{
+  "contentId": "20261104-001",
+  "date": "2026-11-04",
+  "topic": "금융감독원 '퇴직연금 오래오래 캠페인' 출범(2026-11-03)과 매년 11~12월 '연금 채움 주간': 연말 전 퇴직연금 적립금·연금계좌(연금저축·IRP) 세액공제 한도 점검",
+  "category": "생활경제",
+  "searchIntent": "연말이 오기 전에 내 퇴직연금과 연금저축·IRP를 무엇부터 점검하고, 세액공제 한도를 얼마나 채울 수 있는지 알고 싶음",
+  "differentiation": "최근 14일 이력(장기요양보험료·실손보험 할인·일본 면세 등)과 핵심 키워드가 겹치지 않음. 11월 2일 원고(연말정산 미리보기)와 같은 연말정산 계열이지만, 이번 글은 11월 3일 출범한 금감원 퇴직연금 캠페인과 연금계좌 세액공제 한도 점검에 집중함",
+  "title": "퇴직연금 연금 채움 주간 11~12월, 연말 전 IRP 세액공제 한도 점검하는 법",
+  "seoTitle": "퇴직연금 점검 시기: 금감원 연금 채움 주간과 연금저축·IRP 세액공제 한도 정리",
+  "metaDescription": "금융감독원이 11월 3일 퇴직연금 캠페인을 시작하고 매년 11~12월을 연금 채움 주간으로 운영합니다. 연말 전 확인할 퇴직연금 점검 항목과 IRP 세액공제 한도를 정리했습니다.",
+  "slug": "retirement-pension-irp-tax-credit",
+  "primaryKeyword": "퇴직연금",
+  "secondaryKeywords": [
+    "IRP 세액공제",
+    "연금 채움 주간",
+    "연금저축 세액공제 한도",
+    "통합연금포털"
+  ],
+  "relatedKeywords": [
+    "퇴직연금 오래오래 캠페인",
+    "DC형",
+    "디폴트옵션",
+    "연말정산",
+    "금융감독원"
+  ],
+  "tags": [
+    "생활경제",
+    "퇴직연금",
+    "IRP 세액공제",
+    "연금저축",
+    "연금 채움 주간",
+    "통합연금포털",
+    "연말정산",
+    "금융감독원",
+    "DC형"
+  ],
+  "hook": [
+    "연말이 다가오면 연금저축이나 IRP에 돈을 더 넣을지 고민하는 직장인이 많습니다. 정작 내 퇴직연금이 어디에 얼마나 쌓여 있는지는 잘 모르는 경우도 많습니다.",
+    "금융감독원은 11월 3일 금융권과 함께 퇴직연금 캠페인을 시작하고, 매년 11~12월을 적립금과 납입 현황을 확인하는 '연금 채움 주간'으로 운영하기로 했습니다.{C1}{C5}[S1][S3]",
+    "연말 전에 무엇을 확인하면 되는지, 세액공제 한도는 얼마인지 정리했습니다."
+  ],
+  "summary": [
+    "금감원은 2026년 11월 3일 '퇴직연금 오래오래 캠페인'을 출범했습니다.{C1}",
+    "매년 11~12월은 '연금 채움 주간', 5~6월은 '연금 가꿈 주간'으로 운영됩니다.{C5}{C6}",
+    "연금저축은 연 600만 원, IRP를 합치면 연 900만 원까지 세액공제 대상입니다.{C7}{C8}",
+    "공제율은 지방소득세를 포함해 16.5% 또는 13.2%로, 소득 기준에 따라 다릅니다.{C9}{C10}[S7]"
+  ],
+  "sections": [
+    {
+      "heading": "금감원 연금 캠페인, 무엇이 시작됐나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "금융감독원은 11월 3일 서울 여의도에서 은행연합회·금융투자협회·생명보험협회·손해보험협회, 퇴직연금사업자와 함께 '퇴직연금 오래오래 캠페인' 출범식을 열었습니다.{C1}[S1][S2]"
+        },
+        {
+          "type": "p",
+          "text": "캠페인은 연금을 오래 묵혀 두지 말고 장기·분산투자 관점에서 관리하자는 취지입니다. 방향은 배우고(Learn)·열어보고(Open)·가꾸고(Nurture)·이어가는(Grow) 네 가지로, 앞 글자를 따 L.O.N.G로 부릅니다.[S1][S2][S3]"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "연금 가이드북을 만들어 배포합니다.[S1][S2][S3]",
+            "매년 11~12월 '연금 채움 주간', 5~6월 '연금 가꿈 주간'을 정기적으로 운영합니다.{C5}{C6}[S1][S3]",
+            "참여 기관 실무자 협의체를 꾸려 캠페인을 이어갑니다.[S2][S3]"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "왜 지금 퇴직연금을 점검해야 하나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "적립금은 2026년 6월 말 558조 3,000억 원으로 집계됐습니다.{C2}[S1][S2] 쌓이는 돈이 커진 만큼 어떻게 굴리느냐에 따라 노후 자금 차이도 커질 수 있습니다."
+        },
+        {
+          "type": "p",
+          "text": "가입자 움직임도 달라지고 있습니다. 올해 1~7월 확정기여형(DC형)으로 전환한 가입자는 약 34만 명으로, 전년 같은 기간보다 118.1% 늘었습니다.{C3}{C4}[S1][S2][S3]"
+        },
+        {
+          "type": "p",
+          "text": "DC형(확정기여형)은 회사가 낸 부담금을 근로자가 직접 운용하고, 그 결과에 따라 받을 돈이 달라지는 방식입니다. 직접 운용하는 사람이 늘수록 정기 점검의 필요성도 커집니다."
+        },
+        {
+          "type": "image",
+          "slot": 2
+        }
+      ]
+    },
+    {
+      "heading": "연금 채움 주간에 확인할 것",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "보도에 따르면 연금 채움 주간에는 적립금, 납입 현황, 세액공제 한도를 확인하도록 안내합니다.[S1] 연말 전에 스스로 점검해 볼 순서를 정리하면 다음과 같습니다."
+        },
+        {
+          "type": "ol",
+          "items": [
+            "금융감독원 통합연금포털에서 내 연금 계좌와 적립금을 한 번에 조회합니다.[S1][S2]",
+            "올해 연금저축·IRP에 얼마를 넣었는지 납입액을 확인합니다.",
+            "세액공제 한도(연금저축 600만 원, 합산 900만 원)까지 남은 금액을 계산합니다.{C7}{C8}[S4][S5]",
+            "DC형·IRP라면 적립금이 어떤 상품에 들어가 있는지, 디폴트옵션 설정은 어떤지 살펴봅니다.[S1]"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "디폴트옵션(사전지정운용제도)은 가입자가 운용 지시를 하지 않을 때 미리 정해 둔 상품으로 적립금이 운용되는 제도입니다. 이찬진 금감원장도 출범식에서 디폴트옵션을 직접 설정하며 40분가량 헤맸다고 말했습니다.[S1]"
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 연금계좌 세액공제 한도와 공제율",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "연금저축은 연간 납입액 600만 원까지, IRP(개인형 퇴직연금)와 합치면 900만 원까지 세액공제를 받을 수 있습니다.{C7}{C8}[S7][S4] IRP만으로 900만 원을 채워도 됩니다.[S4][S5]"
+        },
+        {
+          "type": "table",
+          "caption": "연금계좌 세액공제율과 최대 환급액 (지방소득세 포함)",
+          "headers": [
+            "소득 기준",
+            "공제율",
+            "최대 공제세액"
+          ],
+          "rows": [
+            [
+              "총급여 5,500만 원 이하 (종합소득 4,500만 원 이하)",
+              "16.5%{C9}",
+              "148만 5,000원{C11}"
+            ],
+            [
+              "총급여 5,500만 원 초과 (종합소득 4,500만 원 초과)",
+              "13.2%{C10}",
+              "118만 8,000원{C12}"
+            ]
+          ],
+          "note": "국세청·KB국민은행·뱅크샐러드 안내 기준. 최대액은 900만 원을 모두 채웠을 때"
+        },
+        {
+          "type": "p",
+          "text": "예를 들어 총급여 5,500만 원 이하인 직장인이{C15} 연말까지 IRP에 300만 원을 더 넣는다고 가정하면, 늘어나는 공제세액은 49만 5,000원입니다.{C13}[S4][S5] 다른 공제로 이미 낼 세금이 적다면 실제 환급액은 이보다 작을 수 있습니다."
+        },
+        {
+          "type": "image",
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "heading": "연말 납입 전 주의할 점",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "국세청은 12월 31일까지 연금계좌에 납입한 금액을 그해 공제 대상으로 안내합니다.{C14}[S7] KB국민은행 안내에 따르면 IRP는 그날까지 입금이 끝나야 하고, 연금저축펀드는 펀드 매수가 체결된 날을 기준으로 봅니다.[S4] 마지막 주에 넣는다면 날짜를 넉넉히 잡는 편이 좋습니다."
+        },
+        {
+          "type": "p",
+          "text": "연금계좌에 넣은 돈은 노후 자금으로 묶이는 성격이 있습니다. 중도에 꺼내면 공제받은 세금을 다시 낼 수 있으므로, 당장 쓸 돈까지 넣어 공제 한도를 채우는 것은 신중히 판단해야 합니다.[S4][S5]"
+        },
+        {
+          "type": "p",
+          "text": "정부가 8월에 발표한 세제개편안에는 15~34세 청년의 IRP 납입액에 공제율 15%를 추가 적용하는 내용이 담겼습니다.{C16}{C17}[S8] 다만 정부안이어서 국회 심의 과정에서 내용과 시행 시기가 달라질 수 있고, 이 글 작성 시점에 확정 여부는 확인되지 않았습니다.[S8]"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "세액공제율과 한도는 세법 개정으로 바뀔 수 있으니 연말정산 전 국세청 안내를 다시 확인합니다.",
+            "특정 상품 선택은 수수료·위험 수준을 비교한 뒤 본인이 판단합니다.",
+            "연금 가꿈 주간(5~6월)에는 디폴트옵션과 운용 상품을 다시 점검합니다.{C6}[S1][S3]"
+          ]
+        },
+        {
+          "type": "image",
+          "slot": 5
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "연금 채움 주간에 따로 신청해야 하나요?",
+      "answer": "보도된 내용은 금감원과 금융권이 매년 11~12월 점검을 안내하는 캠페인이라는 것이며, 별도 신청 절차는 발표되지 않았습니다.{C5}[S1][S3] 통합연금포털이나 가입한 금융회사에서 직접 조회하면 됩니다."
+    },
+    {
+      "question": "IRP 세액공제 한도는 연금저축과 따로인가요?",
+      "answer": "아닙니다. 연금저축은 600만 원까지이고, IRP를 합친 전체 한도가 900만 원입니다.{C7}{C8}[S4][S5]"
+    },
+    {
+      "question": "올해 납입분은 언제까지 넣어야 하나요?",
+      "answer": "KB국민은행 안내 기준으로 IRP는 12월 31일까지 입금이 완료돼야 올해 공제 대상이 됩니다.{C14}[S4] 연금저축펀드는 매수 체결일 기준이라 더 일찍 넣는 것이 안전합니다.[S4]"
+    }
+  ],
+  "closing": [
+    "금감원은 11월 3일 연금 캠페인을 시작했고, 매년 11~12월을 연금 채움 주간으로 운영합니다.{C1}{C5}",
+    "연금저축 600만 원, IRP 합산 900만 원이 세액공제 한도입니다.{C7}{C8}",
+    "공제율은 16.5% 또는 13.2%이며 소득 기준에 따라 갈립니다.{C9}{C10}",
+    "연말 납입은 마감일과 중도 인출 부담을 함께 따져 보고 결정하세요."
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "금감원, 퇴직연금 오래오래 캠페인 출범...장기·분산투자 유도",
+      "url": "https://www.newspim.com/news/view/20261103000244",
+      "publisher": "뉴스핌",
+      "tier": 2,
+      "accessedAt": "2026-11-04",
+      "referenceDate": "2026-11-03"
+    },
+    {
+      "id": "S2",
+      "title": "금감원, 퇴직연금 장기·분산투자 정착 캠페인 진행",
+      "url": "https://www.fnnews.com/news/202611031717277474",
+      "publisher": "파이낸셜뉴스",
+      "tier": 2,
+      "accessedAt": "2026-11-04",
+      "referenceDate": "2026-11-03"
+    },
+    {
+      "id": "S3",
+      "title": "금감원 퇴직연금 장기투자 캠페인 출범…매년 11~12월 연금 채움 주간",
+      "url": "https://www.ksw-news.com/news/articleView.html?idxno=3056073",
+      "publisher": "한국사회복지저널(금융감독원 보도자료 인용)",
+      "tier": 2,
+      "accessedAt": "2026-11-04",
+      "referenceDate": "2026-11-03"
+    },
+    {
+      "id": "S4",
+      "title": "연금저축펀드, IRP 차이 | 연말정산 세액공제 한도, 가입 및 중도인출 비교",
+      "url": "https://kbthink.com/year-end-tax/pension-savings-vs-irp.html",
+      "publisher": "KB국민은행(KB Think)",
+      "tier": 2,
+      "accessedAt": "2026-11-04",
+      "referenceDate": "2026-06-30"
+    },
+    {
+      "id": "S5",
+      "title": "연금저축·IRP 세액공제 총정리 | 방법, 한도, 최대 환급액까지",
+      "url": "https://www.banksalad.com/articles/%EC%86%8C%EB%93%9D%EA%B3%B5%EC%A0%9C-%EC%84%B8%EC%95%A1%EA%B3%B5%EC%A0%9C-%EA%B0%9C%EC%9D%B8%EC%97%B0%EA%B8%88-%EC%97%B0%EB%B4%89%EB%B3%84-%EB%B9%84%EA%B5%90",
+      "publisher": "뱅크샐러드",
+      "tier": 3,
+      "accessedAt": "2026-11-04",
+      "referenceDate": "2026-07-13"
+    },
+    {
+      "id": "S6",
+      "title": "이번주 국내 주요 금융일정(11.2~11.6)",
+      "url": "https://www.newspim.com/news/view/20261030001218",
+      "publisher": "뉴스핌",
+      "tier": 2,
+      "accessedAt": "2026-11-04",
+      "referenceDate": "2026-10-31"
+    },
+    {
+      "id": "S7",
+      "title": "연말정산, 놓치지 말아야 할 포인트 ②",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148957247",
+      "publisher": "국세청(정책브리핑)",
+      "tier": 1,
+      "accessedAt": "2026-11-04",
+      "referenceDate": "2025-12-29"
+    },
+    {
+      "id": "S8",
+      "title": "청년·서민 세 부담 낮추고 지방 지원 늘린다…세제개편안 살펴보니",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969870",
+      "publisher": "정책브리핑(재정경제부 자료)",
+      "tier": 1,
+      "accessedAt": "2026-11-04",
+      "referenceDate": "2026-08-13"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "퇴직연금 오래오래 캠페인 출범일",
+      "value": "2026년 11월 3일",
+      "referenceDate": "2026-11-03",
+      "condition": "금감원·금융권 공동, 서울 여의도 FKI타워",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "S3는 '장기투자 캠페인'으로 표기. 명칭 표기 차이일 뿐 같은 행사(일시·장소 동일). 금감원 보도자료 원문은 이번 실행에서 열람하지 못함"
+    },
+    {
+      "id": "C2",
+      "claim": "퇴직연금 적립금",
+      "value": "558조 3,000억 원",
+      "referenceDate": "2026-06-30",
+      "condition": "2026년 6월 말 기준",
+      "sourceIds": [
+        "S1",
+        "S2"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C3",
+      "claim": "DC형 전환 가입자 증가율",
+      "value": "118.1%",
+      "referenceDate": "2026-11-03",
+      "condition": "2026년 1~7월, 전년 동기 대비",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "S2는 반올림해 118%로 표기"
+    },
+    {
+      "id": "C4",
+      "claim": "DC형 전환 가입자 수",
+      "value": "약 34만 명",
+      "referenceDate": "2026-11-03",
+      "condition": "2026년 1~7월",
+      "sourceIds": [
+        "S1",
+        "S2"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "S1 34만156명, S2 34만여명"
+    },
+    {
+      "id": "C5",
+      "claim": "연금 채움 주간 운영 시기",
+      "value": "매년 11~12월",
+      "referenceDate": "2026-11-03",
+      "condition": "적립금·납입 현황 등 점검 안내",
+      "sourceIds": [
+        "S1",
+        "S3"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C6",
+      "claim": "연금 가꿈 주간 운영 시기",
+      "value": "매년 5~6월",
+      "referenceDate": "2026-11-03",
+      "condition": "디폴트옵션·운용상품 점검",
+      "sourceIds": [
+        "S1",
+        "S3"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C7",
+      "claim": "연금저축 세액공제 대상 납입 한도",
+      "value": "연 600만 원",
+      "referenceDate": "2026-06-30",
+      "condition": "연간 납입액 기준",
+      "sourceIds": [
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "국세청 안내(S7, 2025.12.29)와 금융기관 안내 2곳 일치. 2026 세제개편안(S8)에도 한도 변경 문구 없음"
+    },
+    {
+      "id": "C8",
+      "claim": "연금저축+IRP 합산 세액공제 한도",
+      "value": "연 900만 원",
+      "referenceDate": "2026-06-30",
+      "condition": "연금저축과 IRP 합산",
+      "sourceIds": [
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "국세청 안내(S7, 2025.12.29)와 금융기관 안내 2곳 일치. 2026 세제개편안(S8)에도 한도 변경 문구 없음"
+    },
+    {
+      "id": "C9",
+      "claim": "세액공제율(지방소득세 포함) 저소득 구간",
+      "value": "16.5%",
+      "referenceDate": "2026-06-30",
+      "condition": "총급여 5,500만 원 이하(종합소득금액 4,500만 원 이하)",
+      "sourceIds": [
+        "S7",
+        "S4",
+        "S5",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "S7·S8은 국세 기준 15%/12%로 표기, 지방소득세(10%) 포함 시 16.5%/13.2%로 S4·S5와 일치"
+    },
+    {
+      "id": "C10",
+      "claim": "세액공제율(지방소득세 포함) 그 외 구간",
+      "value": "13.2%",
+      "referenceDate": "2026-06-30",
+      "condition": "총급여 5,500만 원 초과(종합소득금액 4,500만 원 초과)",
+      "sourceIds": [
+        "S7",
+        "S4",
+        "S5",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "S7·S8은 국세 기준 15%/12%로 표기, 지방소득세(10%) 포함 시 16.5%/13.2%로 S4·S5와 일치"
+    },
+    {
+      "id": "C11",
+      "claim": "최대 공제세액(16.5% 구간)",
+      "value": "1,485,000원",
+      "referenceDate": "2026-06-30",
+      "condition": "900만 원 납입 시",
+      "sourceIds": [
+        "S4",
+        "S5"
+      ],
+      "formula": "9000000*0.165",
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C12",
+      "claim": "최대 공제세액(13.2% 구간)",
+      "value": "1,188,000원",
+      "referenceDate": "2026-06-30",
+      "condition": "900만 원 납입 시",
+      "sourceIds": [
+        "S4",
+        "S5"
+      ],
+      "formula": "9000000*0.132",
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C13",
+      "claim": "300만 원 추가 납입 시 늘어나는 공제세액 예시",
+      "value": "495,000원",
+      "referenceDate": "2026-06-30",
+      "condition": "총급여 5,500만 원 이하, 한도 내 추가 납입 가정",
+      "sourceIds": [
+        "S4",
+        "S5"
+      ],
+      "formula": "3000000*0.165",
+      "verified": true,
+      "conflict": false,
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C14",
+      "claim": "IRP 세액공제 납입 인정 기한",
+      "value": "12월 31일 입금 완료분까지",
+      "referenceDate": "2026-06-30",
+      "condition": "IRP 기준. 연금저축펀드는 매수 체결일 기준",
+      "sourceIds": [
+        "S7",
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "S7: 12.31.까지 연금계좌에 납입한 금액 대상. S4: IRP 12월 31일 입금 완료분, 연금저축펀드는 매수 체결일 기준"
+    },
+    {
+      "id": "C15",
+      "claim": "높은 공제율 적용 소득 기준",
+      "value": "총급여 5,500만 원 이하 또는 종합소득금액 4,500만 원 이하",
+      "referenceDate": "2026-08-13",
+      "condition": "연금계좌 세액공제",
+      "sourceIds": [
+        "S8",
+        "S4",
+        "S5",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "S7은 총급여 기준만 표기"
+    },
+    {
+      "id": "C16",
+      "claim": "2026 세제개편안 청년 IRP 대상 연령",
+      "value": "15~34세",
+      "referenceDate": "2026-08-13",
+      "condition": "정부 개편안, 국회 심의 과정에서 내용·시행 시기 변경 가능",
+      "sourceIds": [
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "정부안 단계. 본문에 확정되지 않았다고 명시"
+    },
+    {
+      "id": "C17",
+      "claim": "2026 세제개편안 청년 IRP 추가 공제율",
+      "value": "15% 추가 적용",
+      "referenceDate": "2026-08-13",
+      "condition": "15~34세 청년의 IRP 납입액, 정부안",
+      "sourceIds": [
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "정부안 단계. 국회 통과 여부·시행 시기는 이번 실행에서 확인 불가"
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "퇴직연금 연금 채움 주간과 연말 세액공제 한도 점검을 알리는 표지 그래픽",
+        "eyebrow": "퇴직연금 점검",
+        "title": "연금 채움 주간 11~12월{C5}",
+        "subtitle": "IRP 합산 공제 한도 900만 원{C8}"
+      },
+      {
+        "kind": "stats",
+        "slot": 2,
+        "alt": "퇴직연금 적립금 규모와 DC형 전환 가입자 증가율",
+        "title": "숫자로 본 퇴직연금",
+        "stats": [
+          {
+            "label": "6월 말 적립금",
+            "value": "558.3조 원{C2}"
+          },
+          {
+            "label": "DC형 전환 증가율",
+            "value": "118.1%{C3}",
+            "note": "1~7월, 약 34만 명{C4}"
+          }
+        ],
+        "footnote": "금융감독원 발표를 전한 보도 기준"
+      },
+      {
+        "kind": "flow",
+        "slot": 3,
+        "alt": "연말 전 퇴직연금과 연금계좌를 점검하는 네 단계",
+        "title": "연말 전 점검 순서",
+        "steps": [
+          "통합연금포털 조회",
+          "올해 납입액 확인",
+          "공제 한도 남은 금액 계산",
+          "운용 상품 점검"
+        ],
+        "footnote": "연금 채움 주간 11~12월{C5}"
+      },
+      {
+        "kind": "table",
+        "slot": 4,
+        "alt": "소득 기준별 연금계좌 세액공제율과 최대 공제세액 표",
+        "title": "연금계좌 세액공제율",
+        "headers": [
+          "소득 기준",
+          "공제율",
+          "최대 공제세액"
+        ],
+        "rows": [
+          [
+            "총급여 5,500만 원 이하",
+            "16.5%{C9}",
+            "148.5만 원{C11}"
+          ],
+          [
+            "총급여 5,500만 원 초과",
+            "13.2%{C10}",
+            "118.8만 원{C12}"
+          ]
+        ],
+        "footnote": "지방소득세 포함, 900만 원 납입 기준{C8}"
+      },
+      {
+        "kind": "timeline",
+        "slot": 5,
+        "alt": "퇴직연금 캠페인 출범부터 연금 채움 주간과 연금 가꿈 주간까지의 일정",
+        "title": "퇴직연금 캠페인 일정",
+        "events": [
+          {
+            "date": "11월 3일",
+            "label": "캠페인 출범{C1}"
+          },
+          {
+            "date": "11~12월",
+            "label": "연금 채움 주간{C5}"
+          },
+          {
+            "date": "12월 31일",
+            "label": "IRP 입금 마감{C14}"
+          },
+          {
+            "date": "5~6월",
+            "label": "연금 가꿈 주간{C6}"
+          }
+        ],
+        "footnote": "매년 정기 운영"
+      },
+      {
+        "kind": "checklist",
+        "slot": 6,
+        "alt": "연말 연금계좌 납입 전에 확인할 네 가지 항목",
+        "title": "연말 납입 전 확인",
+        "items": [
+          "연금저축 한도 600만 원{C7}",
+          "합산 한도 900만 원{C8}",
+          "펀드는 매수 체결일 기준",
+          "중도 인출 시 세금 부담"
+        ],
+        "footnote": "세법 변경 여부는 국세청 안내로 확인"
+      }
+    ],
+    "video": {
+      "alt": "퇴직연금 연금 채움 주간과 연금계좌 세액공제 한도를 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "연말 전, 내 퇴직연금 점검했나요?"
+        },
+        {
+          "kind": "fact",
+          "heading": "금감원 연금 채움 주간",
+          "big": "11~12월{C5}",
+          "body": "적립금·납입 현황 점검"
+        },
+        {
+          "kind": "fact",
+          "heading": "연금저축+IRP 공제 한도",
+          "big": "900만 원{C8}",
+          "body": "연금저축 단독은 600만 원{C7}"
+        },
+        {
+          "kind": "fact",
+          "heading": "최대 공제율",
+          "big": "16.5%{C9}",
+          "body": "총급여 5,500만 원 이하"
+        },
+        {
+          "kind": "cta",
+          "heading": "자세한 내용은 본문에서",
+          "body": "납입 마감일도 확인하세요"
+        }
+      ]
+    }
+  },
+  "topicCandidates": [
+    {
+      "topic": "금감원 퇴직연금 캠페인·연금 채움 주간과 연금계좌 세액공제 한도",
+      "category": "생활경제",
+      "primaryKeyword": "퇴직연금",
+      "angle": "연말 전 퇴직연금·IRP 점검 순서와 공제 한도",
+      "whyNow": "11월 3일 출범, 11~12월 연금 채움 주간(S1·S3)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261103000244",
+        "https://www.ksw-news.com/news/articleView.html?idxno=3056073"
+      ]
+    },
+    {
+      "topic": "포용금융 차주 체감성과 점검",
+      "category": "생활경제",
+      "primaryKeyword": "포용금융",
+      "angle": "금감원 포용금융 성과 점검 방향",
+      "whyNow": "11월 5일 금감원 발표 예정(S6)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "unknown",
+        "differentiation": "medium",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261030001218"
+      ]
+    },
+    {
+      "topic": "보험업감독규정 개정(계리가정보고서)",
+      "category": "생활경제",
+      "primaryKeyword": "보험업감독규정",
+      "angle": "보험사 계리가정 공시 변화",
+      "whyNow": "11월 4일 금융위 의결 예정(S6)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261030001218"
+      ]
+    },
+    {
+      "topic": "코너스톤투자자 제도 도입 자본시장법 시행령",
+      "category": "생활경제",
+      "primaryKeyword": "코너스톤투자자",
+      "angle": "IPO 제도 변화와 개인투자자 영향",
+      "whyNow": "11월 3일 국무회의 의결(S6)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "medium",
+        "differentiation": "medium",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "high",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261030001218"
+      ]
+    },
+    {
+      "topic": "전 금융권 침해사고 대응 대책",
+      "category": "생활경제",
+      "primaryKeyword": "금융 보안 사고",
+      "angle": "개인이 할 수 있는 금융 보안 점검",
+      "whyNow": "11월 5일 대책 회의(S6)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "unknown",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "high",
+        "contentRisk": "medium"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261030001218"
+      ]
+    },
+    {
+      "topic": "10월말 외환보유액",
+      "category": "생활경제",
+      "primaryKeyword": "외환보유액",
+      "angle": "외환보유액 변화의 의미",
+      "whyNow": "11월 4일 한은 발표(S6)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "low",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261030001218"
+      ]
+    },
+    {
+      "topic": "9월 국제수지",
+      "category": "생활경제",
+      "primaryKeyword": "경상수지",
+      "angle": "경상수지와 환율",
+      "whyNow": "11월 5일 한은 발표(S6)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "low",
+        "differentiation": "low",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261030001218"
+      ]
+    },
+    {
+      "topic": "퇴직연금사업자 간담회",
+      "category": "생활경제",
+      "primaryKeyword": "퇴직연금 수익률",
+      "angle": "사업자 간담회 결과",
+      "whyNow": "11월 6일 예정, 결과 미발표(S6)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "unknown",
+        "differentiation": "low",
+        "intentClarity": "low",
+        "competition": "unknown",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261030001218"
+      ]
+    },
+    {
+      "topic": "한국은행 화폐기획전",
+      "category": "생활경제",
+      "primaryKeyword": "화폐기획전",
+      "angle": "전시 관람 정보",
+      "whyNow": "11월 2일 개막(S6)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "medium",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.newspim.com/news/view/20261030001218"
+      ]
+    },
+    {
+      "topic": "청년 자동차보험 가입 절차 개편",
+      "category": "생활경제",
+      "primaryKeyword": "청년 자동차보험",
+      "angle": "11월 3일 원고와 중복",
+      "whyNow": "11월 2일 발표",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.etoday.co.kr/news/view/2642870"
+      ]
+    }
+  ]
+}
