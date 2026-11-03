@@ -117,7 +117,9 @@ export function finish(log: RunLog, status: RunStatus): RunLog {
 }
 
 export function logPath(root: string, log: RunLog): string {
-  return join(root, log.date.slice(0, 4), log.date.slice(5, 7), `${log.runId}.json`);
+  // 실행 시작 시각(runId, UTC) 기준으로 폴더를 고정한다. log.date는 원고를 읽은 뒤 바뀌므로
+  // 그걸 쓰면 월이 바뀌는 날 같은 로그가 두 폴더에 나뉘어 저장된다.
+  return join(root, log.runId.slice(0, 4), log.runId.slice(4, 6), `${log.runId}.json`);
 }
 
 export async function saveRunLog(root: string, log: RunLog): Promise<string> {
