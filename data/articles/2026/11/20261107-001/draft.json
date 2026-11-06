@@ -1,0 +1,1228 @@
+{
+  "contentId": "20261107-001",
+  "date": "2026-11-07",
+  "topic": "한국주택금융공사가 11월 9일 신청분부터 보금자리론 금리를 0.1%p 인상(올해 6번째, 누적 1.35%p). 아낌e-보금자리론 만기별 5.00~5.30%, 우대금리 최대 1.0%p 적용 시 4.00~4.30%, 8일까지 신청 시 기존 금리, 0.1%p 인상의 이자 영향 계산",
+  "category": "생활경제",
+  "searchIntent": "보금자리론으로 집을 사려는 사람이 11월 금리 인상 폭, 만기별 새 금리, 기존 금리를 받으려면 언제까지 신청해야 하는지, 이자가 얼마나 늘어나는지 알고 싶음",
+  "differentiation": "10월 6일 글(보금자리론 신혼부부 소득기준 완화)은 자격 기준을 다뤘고, 이번 글은 11월 금리 인상과 신청 시점·이자 영향을 다룸. 최근 14일 이력과 핵심 키워드 겹치지 않음",
+  "title": "보금자리론 금리 11월 9일부터 0.1%p 인상, 8일까지 신청하면 기존 금리",
+  "seoTitle": "보금자리론 금리 11월 인상: 만기별 5.00~5.30%, 우대금리와 신청 시점 정리",
+  "metaDescription": "보금자리론 금리가 11월 9일 신청분부터 0.1%p 올라 아낌e 기준 연 5.00~5.30%가 됩니다. 8일까지 신청하면 기존 금리, 우대금리 최대 1.0%p, 이자 영향 계산을 정리했습니다.",
+  "slug": "bogeumjari-loan-rate-hike-november",
+  "primaryKeyword": "보금자리론 금리",
+  "secondaryKeywords": [
+    "아낌e-보금자리론",
+    "보금자리론 우대금리",
+    "보금자리론 금리 인상"
+  ],
+  "relatedKeywords": [
+    "한국주택금융공사",
+    "고정금리 주택담보대출",
+    "기준금리",
+    "정책모기지"
+  ],
+  "hook": [
+    "보금자리론으로 집을 사려고 준비 중이라면 이번 주말 일정부터 확인해야 합니다.",
+    "한국주택금융공사가 11월 9일 신청분부터 보금자리론의 대출 금리를 0.1%p 올립니다.{C1}{C2}[S1][S4]",
+    "11월 8일까지 신청을 마치면 인상 전 금리가 적용됩니다.{C3}[S1][S6] 새 금리와 이자 영향을 순서대로 정리했습니다."
+  ],
+  "summary": [
+    "보금자리론 금리는 11월 9일 신청분부터 0.1%p 오릅니다.{C1}{C2}",
+    "아낌e-보금자리론 기준 연 5.00%(10년)~5.30%(50년)이고, 우대금리 최대 1.0%p 적용 시 연 4.00~4.30%입니다.{C4}{C5}{C10}{C11}{C12}",
+    "11월 8일까지 신청을 완료하면 인상 전 금리가 적용됩니다.{C3}",
+    "올해 여섯 번째 인상으로 누적 인상 폭은 1.35%p입니다(2026년 11월 2일 발표 기준).{C19}{C31}"
+  ],
+  "sections": [
+    {
+      "heading": "보금자리론 금리, 11월 9일부터 무엇이 바뀌나",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "slot": 1
+        },
+        {
+          "type": "video"
+        },
+        {
+          "type": "p",
+          "text": "보금자리론은 한국주택금융공사(주금공)가 공급하는 고정금리 주택담보대출입니다. 대출 기간 내내 처음 정한 금리가 유지되는 정책 대출이라 금리가 오르는 시기에 많이 찾습니다.[S8]"
+        },
+        {
+          "type": "p",
+          "text": "주금공은 11월 2일 이 상품의 금리를 11월 9일 신청분부터 0.1%p 올린다고 발표했습니다.{C31}{C1}{C2}[S1][S4] 온라인 상품인 아낌e-보금자리론 기준 금리는 만기에 따라 연 5.00~5.30%가 됩니다.{C4}{C5}[S3][S7]"
+        },
+        {
+          "type": "p",
+          "text": "공사는 시장금리와 주택저당증권(MBS, 주택담보대출을 묶어 발행하는 채권) 자금조달 여건을 함께 고려했다고 설명했습니다.[S1][S7]"
+        }
+      ]
+    },
+    {
+      "heading": "11월 8일까지 신청하면 기존 금리",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "가장 먼저 볼 부분은 신청 시점입니다. 신청 완료일이 11월 8일 이전이면 지금의 금리를 그대로 받습니다.{C3}[S1][S5][S6]"
+        },
+        {
+          "type": "p",
+          "text": "반대로 11월 9일 이후 신청하면 새 금리가 적용됩니다.{C1}[S4] 이미 집을 계약했고 보금자리론을 이용하려던 경우라면 서류 준비 상태부터 확인해 볼 만합니다."
+        },
+        {
+          "type": "callout",
+          "text": "이 금리는 신청일 기준으로 정해집니다. 이번 인상은 11월 9일 신청분부터 적용됩니다.{C1}[S4]"
+        },
+        {
+          "type": "image",
+          "slot": 2
+        }
+      ]
+    },
+    {
+      "heading": "만기별 보금자리론 금리 한눈에 보기",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "아낌e-보금자리론의 11월 9일 이후 만기별 금리는 아래와 같습니다.[S3][S5] 만기가 길수록 금리가 조금씩 높아지는 구조입니다."
+        },
+        {
+          "type": "table",
+          "caption": "아낌e-보금자리론 만기별 금리(11월 9일 신청분부터)",
+          "headers": [
+            "만기",
+            "기본 금리",
+            "우대금리 최대 적용 시"
+          ],
+          "rows": [
+            [
+              "10년",
+              "5.00%{C4}",
+              "4.00%{C11}"
+            ],
+            [
+              "15년",
+              "5.10%{C6}",
+              "-"
+            ],
+            [
+              "20년",
+              "5.15%{C7}",
+              "-"
+            ],
+            [
+              "30년",
+              "5.20%{C8}",
+              "-"
+            ],
+            [
+              "40년",
+              "5.25%{C9}",
+              "-"
+            ],
+            [
+              "50년",
+              "5.30%{C5}",
+              "4.30%{C12}"
+            ]
+          ],
+          "note": "15~40년 우대 적용 최저금리는 보도에서 확인되지 않아 비워 두었습니다. 2026년 11월 2일 발표 보도 기준."
+        },
+        {
+          "type": "p",
+          "text": "영업점에서 신청하는 t-보금자리론과 비대면 u-보금자리론은 아낌e-보금자리론보다 금리가 0.1%p 높습니다.{C13}[S1][S3][S5]"
+        },
+        {
+          "type": "p",
+          "text": "여러 언론은 10년 만기 금리가 5%대로 오른 것은 공사가 이 상품을 취급한 2014년 3월 이후 처음이라고 전했습니다.{C20}[S3][S7]"
+        },
+        {
+          "type": "image",
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "heading": "올해 여섯 번째 인상, 누적 1.35%p",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "이번 인상은 올해 여섯 번째입니다.[S3][S7] 1월 0.25%p, 2월 0.15%p, 4월 0.30%p, 5월 0.25%p, 7월 0.30%p에 이어 11월에 다시 올랐습니다.{C14}{C15}{C16}{C17}{C18}[S3][S4][S12]"
+        },
+        {
+          "type": "p",
+          "text": "올해 인상 폭을 모두 더하면 1.35%p입니다.{C19}[S4] 8~10월에는 금리가 동결됐습니다.[S8]"
+        },
+        {
+          "type": "image",
+          "slot": 4
+        },
+        {
+          "type": "p",
+          "text": "같은 시기 한국은행 기준금리는 연 3.00%입니다. 금융통화위원회는 10월 22일 회의에서 기준금리를 동결했습니다.{C23}{C24}[S9] 다음 결정회의는 11월 26일로 예정돼 있습니다.{C25}[S10][S11]"
+        },
+        {
+          "type": "p",
+          "text": "시장에서는 11월 회의 결과를 두고 여러 전망이 나오지만, 결정 전까지는 확정된 것이 없습니다. 보금자리론의 금리는 공사가 매달 시장 상황을 보고 따로 정합니다.[S7]"
+        }
+      ]
+    },
+    {
+      "heading": "숫자로 보면: 0.1%p 인상이 내 이자에 주는 영향",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "대출원금 3억 원을 가정해 첫해 이자를 단순 계산해 보겠습니다.{C26} 실제로는 매달 원금을 갚아 이자가 줄어들므로, 아래 금액은 대략적인 크기를 보여 주는 참고값입니다."
+        },
+        {
+          "type": "table",
+          "caption": "원금 3억 원 가정, 단리 기준 첫해 이자 단순 계산",
+          "headers": [
+            "구분",
+            "계산",
+            "금액"
+          ],
+          "rows": [
+            [
+              "10년 만기 기본 금리",
+              "3억 원 × 5.00%{C29}",
+              "1,500만 원{C29}"
+            ],
+            [
+              "0.1%p 인상분",
+              "3억 원 × 0.1%p{C27}",
+              "30만 원{C27}"
+            ],
+            [
+              "0.1%p 인상분(월)",
+              "30만 원 ÷ 12{C28}",
+              "2만 5,000원{C28}"
+            ],
+            [
+              "우대금리 1.0%p",
+              "3억 원 × 1.0%p{C30}",
+              "300만 원{C30}"
+            ]
+          ],
+          "note": "계산 예시용 가정. 원리금 상환에 따른 이자 감소, 중도상환, 부대비용은 반영하지 않았습니다."
+        },
+        {
+          "type": "p",
+          "text": "0.1%p 인상만 보면 연 30만 원, 월 2만 5,000원 정도의 차이입니다.{C27}{C28} 우대금리 1.0%p를 받을 수 있는지에 따라 첫해 이자가 300만 원가량 달라질 수 있어, 우대 조건 확인이 더 큰 차이를 만듭니다.{C30}"
+        },
+        {
+          "type": "image",
+          "slot": 5
+        }
+      ]
+    },
+    {
+      "heading": "실제로 확인해야 할 사항",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "신청 전에 자격과 우대 조건을 먼저 확인하세요. 보도에 따르면 보금자리론은 연소득 7,000만 원 이하, 주택가격 6억 원 이하일 때 이용할 수 있습니다.{C21}{C22}[S8][S13] 신혼가구는 부부 중 1명의 연소득이 7,000만 원 이하이면 이용할 수 있습니다.{C21}[S8][S13]"
+        },
+        {
+          "type": "ol",
+          "items": [
+            "주금공 홈페이지나 앱에서 내 조건의 예상 금리와 한도를 조회합니다.",
+            "우대금리 대상(저소득 청년, 신혼가구, 사회적 배려층, 전세사기 피해자)에 해당하는지 확인합니다.{C10}[S1][S7]",
+            "아낌e·u·t 중 신청 방식을 정합니다. 방식에 따라 금리가 0.1%p 다릅니다.{C13}[S3]",
+            "인상 전 금리를 원하면 11월 8일까지 신청을 완료합니다.{C3}[S1]"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "정확한 한도와 세부 요건은 개인 상황에 따라 다르므로, 신청 전에 한국주택금융공사 공식 안내와 상담센터에서 최종 확인하는 것이 좋습니다."
+        },
+        {
+          "type": "image",
+          "slot": 6
+        }
+      ]
+    },
+    {
+      "heading": "주의해야 할 부분",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "우대금리 최대 1.0%p는 여러 우대 항목을 합한 상한입니다. 모든 사람이 연 4.00%를 받는 것은 아닙니다.{C10}{C11}[S1]",
+            "신청을 서두르다 서류를 빠뜨리면 심사가 늦어질 수 있습니다. 필요한 서류를 먼저 챙기세요.",
+            "은행 변동금리 대출과 비교할 때는 앞으로의 금리 변화 위험까지 함께 따져 봐야 합니다.[S8]",
+            "이 글은 2026년 11월 7일 기준 보도 내용을 정리한 것으로, 이후 금리는 달라질 수 있습니다.{C32}"
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "11월 8일까지 신청하면 보금자리론 인상 전 금리를 받을 수 있나요?",
+      "answer": "네. 보도에 따르면 11월 8일까지 신청을 완료하면 인상 전 금리가 적용되고, 11월 9일 신청분부터 0.1%p 오른 금리가 적용됩니다.{C3}{C1}{C2}"
+    },
+    {
+      "question": "이미 보금자리론을 받은 사람도 금리가 오르나요?",
+      "answer": "보금자리론은 고정금리 상품이고, 이번 인상은 11월 9일 신청분부터 적용됩니다.{C1} 기존 대출의 약정 금리는 계약서 기준으로 확인하세요."
+    },
+    {
+      "question": "보금자리론 우대금리는 누가 받을 수 있나요?",
+      "answer": "저소득 청년, 신혼가구, 장애인·한부모 가정 등 사회적 배려층, 전세사기 피해자가 대상이며 최대 1.0%p까지 적용됩니다.{C10}"
+    },
+    {
+      "question": "11월 26일 기준금리 결정이 보금자리론 금리에 바로 반영되나요?",
+      "answer": "정해진 것은 없습니다. 기준금리는 한국은행 금융통화위원회가 11월 26일 결정하고, 보금자리론 금리는 주금공이 시장금리와 자금조달 여건을 보고 따로 정합니다.{C25}"
+    }
+  ],
+  "closing": [
+    "보금자리론 금리는 11월 9일 신청분부터 0.1%p 오릅니다.{C1}{C2}",
+    "기존 금리를 원하면 11월 8일까지 신청을 완료해야 합니다.{C3}",
+    "아낌e 기준 연 5.00~5.30%, 우대금리 최대 1.0%p입니다.{C4}{C5}{C10}",
+    "원금 3억 원 가정 시 0.1%p 인상분은 첫해 약 30만 원, 우대금리 1.0%p는 약 300만 원 차이입니다.{C26}{C27}{C30}"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "주금공, 11월 보금자리론 금리 0.1%P 인상…최저 연 4.0%",
+      "url": "https://www.asiae.co.kr/article/2026110215163182710",
+      "publisher": "아시아경제",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-02"
+    },
+    {
+      "id": "S2",
+      "title": "주금공, 11월 보금자리론 금리 0.10%p↑…연 4.00~5.30%",
+      "url": "https://www.mediapen.com/news/view/1134451",
+      "publisher": "미디어펜",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-02"
+    },
+    {
+      "id": "S3",
+      "title": "보금자리론, 올해 여섯번째 금리 인상…최고 연 5.3%",
+      "url": "https://www.dt.co.kr/article/12092673",
+      "publisher": "디지털타임스",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-02"
+    },
+    {
+      "id": "S4",
+      "title": "정책모기지 금리 하단 5% 돌파...보금자리론 0.1%P 인상",
+      "url": "https://www.sedaily.com/article/20109193",
+      "publisher": "서울경제",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-02"
+    },
+    {
+      "id": "S5",
+      "title": "주금공, 9일부터 보금자리론 금리 0.1%p 인상…최저 연 4.0%",
+      "url": "https://www.hankooki.com/news/articleView.html?idxno=347513",
+      "publisher": "주간한국(한국아이닷컴)",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-03"
+    },
+    {
+      "id": "S6",
+      "title": "보금자리론 10년 만기 금리도 5%대…'역대 최고'",
+      "url": "https://biz.sbs.co.kr/amp/article/20000343687",
+      "publisher": "SBS Biz",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-02"
+    },
+    {
+      "id": "S7",
+      "title": "보금자리론 10년 만기 금리도 5%대…역대 처음",
+      "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1433445",
+      "publisher": "연합뉴스",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-02"
+    },
+    {
+      "id": "S8",
+      "title": "'고정금리' 보금자리론도 사상 첫 5%대…금리매력 떨어져 판매 급감중",
+      "url": "https://supple.kr/news/cmvyyy5g3dlh3clgjncugk5c5",
+      "publisher": "한겨레",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-02"
+    },
+    {
+      "id": "S9",
+      "title": "통화정책방향(2026.10.22)",
+      "url": "https://www.bok.or.kr/portal/bbs/P0000559/view.do?menuNo=200690&nttId=11065823",
+      "publisher": "한국은행",
+      "tier": 1,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-10-22"
+    },
+    {
+      "id": "S10",
+      "title": "물가 3% 육박에 깜짝 성장까지…11월 금리 인상 명분 쌓였다",
+      "url": "https://www.fnnews.com/news/202611040600505451",
+      "publisher": "파이낸셜뉴스(뉴스1)",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-04"
+    },
+    {
+      "id": "S11",
+      "title": "[연말 물가 경고등] 꺾이지 않은 근원물가 상승세…11월 금리 인상 불씨 여전",
+      "url": "https://www.ajunews.com/view/20261103143740183",
+      "publisher": "아주경제",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-11-03"
+    },
+    {
+      "id": "S12",
+      "title": "주택금융공사, 2026년 1월 보금자리론 금리 0.25% 포인트 인상",
+      "url": "https://hf.go.kr/ko/sub05/sub05_04_05.do?mode=view&articleNo=599610",
+      "publisher": "한국주택금융공사",
+      "tier": 1,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2025-12-24"
+    },
+    {
+      "id": "S13",
+      "title": "주금공, 신혼부부 '대출 문턱' 낮춘다…1인 소득 7000만원 이하 보금자리론 허용",
+      "url": "https://www.dt.co.kr/article/12086223",
+      "publisher": "디지털타임스",
+      "tier": 2,
+      "accessedAt": "2026-11-07",
+      "referenceDate": "2026-09-28"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "보금자리론 금리 인상 적용 시작일",
+      "value": "11월 9일",
+      "referenceDate": "2026-11-02",
+      "condition": "2026년 11월 9일 신청분부터",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S5",
+        "S6",
+        "S7",
+        "S4"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C2",
+      "claim": "보금자리론 금리 인상 폭",
+      "value": "0.1%p",
+      "referenceDate": "2026-11-02",
+      "condition": "아낌e-보금자리론 기준, 전 만기 동일 인상",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C3",
+      "claim": "8일까지 신청을 완료하면 인상 전 금리 적용",
+      "value": "11월 8일",
+      "referenceDate": "2026-11-02",
+      "condition": "신청 완료 기준",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C4",
+      "claim": "아낌e-보금자리론 10년 만기 금리",
+      "value": "5.00%",
+      "referenceDate": "2026-11-02",
+      "condition": "11월 9일 신청분부터, 우대금리 적용 전",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5",
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C5",
+      "claim": "아낌e-보금자리론 50년 만기 금리",
+      "value": "5.30%",
+      "referenceDate": "2026-11-02",
+      "condition": "11월 9일 신청분부터, 우대금리 적용 전",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S5",
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C6",
+      "claim": "아낌e-보금자리론 15년 만기 금리",
+      "value": "5.10%",
+      "referenceDate": "2026-11-02",
+      "condition": "11월 9일 신청분부터",
+      "sourceIds": [
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C7",
+      "claim": "아낌e-보금자리론 20년 만기 금리",
+      "value": "5.15%",
+      "referenceDate": "2026-11-02",
+      "condition": "11월 9일 신청분부터",
+      "sourceIds": [
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C8",
+      "claim": "아낌e-보금자리론 30년 만기 금리",
+      "value": "5.20%",
+      "referenceDate": "2026-11-02",
+      "condition": "11월 9일 신청분부터",
+      "sourceIds": [
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C9",
+      "claim": "아낌e-보금자리론 40년 만기 금리",
+      "value": "5.25%",
+      "referenceDate": "2026-11-02",
+      "condition": "11월 9일 신청분부터",
+      "sourceIds": [
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C10",
+      "claim": "우대금리 최대 폭",
+      "value": "1.0%p",
+      "referenceDate": "2026-11-02",
+      "condition": "저소득 청년, 신혼가구, 사회적 배려층(장애인·한부모 가정 등), 전세사기 피해자",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C11",
+      "claim": "우대금리 최대 적용 시 10년 만기 최저 금리",
+      "value": "4.00%",
+      "referenceDate": "2026-11-02",
+      "condition": "우대금리 1.0%p 전부 적용 시",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C12",
+      "claim": "우대금리 최대 적용 시 50년 만기 최저 금리",
+      "value": "4.30%",
+      "referenceDate": "2026-11-02",
+      "condition": "우대금리 1.0%p 전부 적용 시",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S3",
+        "S7",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C13",
+      "claim": "u-보금자리론(비대면)·t-보금자리론(대면)은 아낌e보다 0.1%p 높음",
+      "value": "0.1%p",
+      "referenceDate": "2026-11-02",
+      "condition": "아낌e-보금자리론 대비 가산",
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C14",
+      "claim": "2026년 1월 보금자리론 금리 인상 폭",
+      "value": "0.25%p",
+      "referenceDate": "2025-12-24",
+      "condition": "2026년 1월 적용",
+      "sourceIds": [
+        "S12",
+        "S3",
+        "S4",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C15",
+      "claim": "2026년 2월 인상 폭",
+      "value": "0.15%p",
+      "referenceDate": "2026-11-02",
+      "condition": "",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C16",
+      "claim": "2026년 4월 인상 폭",
+      "value": "0.30%p",
+      "referenceDate": "2026-11-02",
+      "condition": "",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C17",
+      "claim": "2026년 5월 인상 폭",
+      "value": "0.25%p",
+      "referenceDate": "2026-11-02",
+      "condition": "",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C18",
+      "claim": "2026년 7월 인상 폭",
+      "value": "0.30%p",
+      "referenceDate": "2026-11-02",
+      "condition": "",
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C19",
+      "claim": "2026년 누적 인상 폭(1·2·4·5·7·11월 합계)",
+      "value": "1.35%p",
+      "referenceDate": "2026-11-02",
+      "condition": "올해 여섯 차례 인상 합계",
+      "sourceIds": [
+        "S4",
+        "S3",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "0.25+0.15+0.30+0.25+0.30+0.1"
+    },
+    {
+      "id": "C20",
+      "claim": "10년 만기 금리가 5%대로 오른 것은 2014년 3월 이후 처음",
+      "value": "2014년 3월",
+      "referenceDate": "2026-11-02",
+      "condition": "공사가 이 상품을 취급한 2014년 3월 이후",
+      "sourceIds": [
+        "S3",
+        "S7",
+        "S6",
+        "S8"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C21",
+      "claim": "보금자리론 이용 소득 기준(부부 합산, 신혼은 1인 기준 가능)",
+      "value": "7,000만 원",
+      "referenceDate": "2026-11-02",
+      "condition": "연소득 이하, 신혼가구는 부부 중 1인 연소득 기준 가능",
+      "sourceIds": [
+        "S8",
+        "S13"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C22",
+      "claim": "보금자리론 대상 주택가격",
+      "value": "6억 원",
+      "referenceDate": "2026-11-02",
+      "condition": "주택가격 이하",
+      "sourceIds": [
+        "S8",
+        "S13"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C23",
+      "claim": "한국은행 기준금리",
+      "value": "3.00%",
+      "referenceDate": "2026-10-22",
+      "condition": "10월 22일 금융통화위원회 동결",
+      "sourceIds": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C24",
+      "claim": "10월 금통위 날짜",
+      "value": "10월 22일",
+      "referenceDate": "2026-10-22",
+      "condition": "",
+      "sourceIds": [
+        "S9",
+        "S10"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C25",
+      "claim": "다음 금융통화위원회 통화정책방향 결정회의",
+      "value": "11월 26일",
+      "referenceDate": "2026-11-04",
+      "condition": "올해 마지막 금통위",
+      "sourceIds": [
+        "S10",
+        "S11"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C26",
+      "claim": "계산 예시 대출원금(가정)",
+      "value": "3억 원",
+      "referenceDate": "2026-11-07",
+      "condition": "계산 예시용 가정",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false,
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C27",
+      "claim": "3억 원에 금리 0.1%p가 오를 때 첫해 이자 증가(단리 단순 계산)",
+      "value": "30만 원",
+      "referenceDate": "2026-11-07",
+      "condition": "원금 3억 원 가정, 상환 효과 무시",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "300000000*0.001",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C28",
+      "claim": "연 30만 원을 월로 나눈 값",
+      "value": "2만 5,000원",
+      "referenceDate": "2026-11-07",
+      "condition": "단순 계산",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "300000/12",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C29",
+      "claim": "3억 원에 10년 만기 5.00% 적용 시 첫해 이자(단리 단순 계산)",
+      "value": "1,500만 원",
+      "referenceDate": "2026-11-07",
+      "condition": "원금 3억 원 가정, 상환 효과 무시",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "300000000*0.05",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C30",
+      "claim": "3억 원에 우대금리 1.0%p 적용 시 첫해 이자 차이(단리 단순 계산)",
+      "value": "300만 원",
+      "referenceDate": "2026-11-07",
+      "condition": "원금 3억 원 가정",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false,
+      "formula": "300000000*0.01",
+      "notes": "계산 예시용 가정"
+    },
+    {
+      "id": "C31",
+      "claim": "보금자리론 금리 인상 발표일",
+      "value": "11월 2일",
+      "referenceDate": "2026-11-02",
+      "condition": "한국주택금융공사 발표",
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4",
+        "S7"
+      ],
+      "verified": true,
+      "conflict": false
+    },
+    {
+      "id": "C32",
+      "claim": "원고 작성 기준일",
+      "value": "2026년 11월 7일",
+      "referenceDate": "2026-11-07",
+      "condition": "",
+      "sourceIds": [
+        "S1"
+      ],
+      "verified": true,
+      "conflict": false
+    }
+  ],
+  "tags": [
+    "생활경제",
+    "보금자리론 금리",
+    "보금자리론",
+    "아낌e-보금자리론",
+    "보금자리론 우대금리",
+    "보금자리론 금리 인상",
+    "한국주택금융공사",
+    "주택담보대출",
+    "고정금리",
+    "기준금리"
+  ],
+  "media": {
+    "images": [
+      {
+        "kind": "cover",
+        "slot": 1,
+        "alt": "보금자리론 인상 시작일과 인상 폭을 알리는 표지 그래픽",
+        "eyebrow": "보금자리론 금리",
+        "title": "11월 9일부터 0.1%p 인상{C1}{C2}",
+        "subtitle": "8일까지 신청하면 기존 금리{C3}"
+      },
+      {
+        "kind": "timeline",
+        "slot": 2,
+        "alt": "보금자리론 인상 발표부터 금통위까지 11월 일정",
+        "title": "11월 일정",
+        "events": [
+          {
+            "date": "11월 2일",
+            "label": "인상 발표{C31}"
+          },
+          {
+            "date": "11월 8일",
+            "label": "기존 금리 신청 마감{C3}"
+          },
+          {
+            "date": "11월 9일",
+            "label": "새 금리 적용{C1}"
+          },
+          {
+            "date": "11월 26일",
+            "label": "금통위 결정회의{C25}"
+          }
+        ],
+        "footnote": "언론 보도 기준"
+      },
+      {
+        "kind": "table",
+        "slot": 3,
+        "alt": "아낌e-보금자리론 만기별 새 금리 표",
+        "title": "만기별 금리(아낌e)",
+        "headers": [
+          "만기",
+          "금리"
+        ],
+        "rows": [
+          [
+            "10년",
+            "5.00%{C4}"
+          ],
+          [
+            "15년",
+            "5.10%{C6}"
+          ],
+          [
+            "20년",
+            "5.15%{C7}"
+          ],
+          [
+            "30년",
+            "5.20%{C8}"
+          ],
+          [
+            "40년",
+            "5.25%{C9}"
+          ],
+          [
+            "50년",
+            "5.30%{C5}"
+          ]
+        ],
+        "footnote": "11월 9일 신청분부터, 우대 전"
+      },
+      {
+        "kind": "stats",
+        "slot": 4,
+        "alt": "2026년 보금자리론 인상 횟수와 누적 폭",
+        "title": "2026년 인상 흐름",
+        "stats": [
+          {
+            "label": "이번 인상",
+            "value": "0.1%p{C2}",
+            "note": "11월"
+          },
+          {
+            "label": "올해 누적",
+            "value": "1.35%p{C19}",
+            "note": "6차례"
+          },
+          {
+            "label": "기준금리",
+            "value": "3.00%{C23}",
+            "note": "10월 동결"
+          }
+        ],
+        "footnote": "보도·한국은행 기준"
+      },
+      {
+        "kind": "flow",
+        "slot": 5,
+        "alt": "원금 3억 원 가정 시 금리 차이에 따른 첫해 이자 계산 흐름",
+        "title": "3억 원 가정 이자 계산",
+        "steps": [
+          "원금 3억 원 가정{C26}",
+          "0.1%p 인상: 연 30만 원{C27}",
+          "월 약 2만 5,000원{C28}",
+          "우대 1.0%p: 연 300만 원{C30}"
+        ],
+        "footnote": "단리 기준 단순 계산"
+      },
+      {
+        "kind": "checklist",
+        "slot": 6,
+        "alt": "보금자리론 신청 전 확인할 항목 목록",
+        "title": "신청 전 확인",
+        "items": [
+          "소득 7,000만 원 이하{C21}",
+          "주택가격 6억 원 이하{C22}",
+          "우대금리 대상 여부",
+          "신청 방식별 금리 차이 0.1%p{C13}"
+        ],
+        "footnote": "세부 요건은 공사 안내 확인"
+      }
+    ],
+    "video": {
+      "alt": "보금자리론 인상 일정과 새 금리를 요약한 세로 영상",
+      "scenes": [
+        {
+          "kind": "hook",
+          "heading": "보금자리론 신청을 준비 중인가요?"
+        },
+        {
+          "kind": "fact",
+          "heading": "금리 인상 시작",
+          "big": "11월 9일{C1}",
+          "body": "0.1%p 인상{C2}"
+        },
+        {
+          "kind": "fact",
+          "heading": "기존 금리 적용",
+          "big": "11월 8일{C3}",
+          "body": "이날까지 신청 완료 시"
+        },
+        {
+          "kind": "explain",
+          "heading": "새 금리(아낌e)",
+          "body": "연 5.00~5.30%, 우대 최대 1.0%p{C4}{C5}{C10}"
+        },
+        {
+          "kind": "cta",
+          "heading": "자세한 내용은 본문에서",
+          "body": "우대금리 대상인지 확인하세요"
+        }
+      ]
+    }
+  },
+  "topicCandidates": [
+    {
+      "topic": "보금자리론 금리 11월 9일 0.1%p 인상",
+      "category": "생활경제",
+      "primaryKeyword": "보금자리론 금리",
+      "angle": "신청 시점·만기별 금리·이자 영향",
+      "whyNow": "11월 2일 주금공 발표, 8일 신청분까지 기존 금리(S1·S7)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      },
+      "evidenceUrls": [
+        "https://www.dt.co.kr/article/12092673",
+        "https://www.koreancenter.or.kr/news/articleView.html?idxno=1433445"
+      ]
+    },
+    {
+      "topic": "11월 26일 금통위 앞두고 기준금리와 대출이자",
+      "category": "생활경제",
+      "primaryKeyword": "기준금리 11월",
+      "angle": "결정 전 사실만 정리",
+      "whyNow": "금통위 11월 26일 예정(S10)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "medium"
+      }
+    },
+    {
+      "topic": "10월 소비자물가 2.8% 품목별 정리",
+      "category": "생활경제",
+      "primaryKeyword": "10월 소비자물가",
+      "angle": "장바구니 품목",
+      "whyNow": "국가데이터처 11월 3일 발표",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "주담대 고정금리 평균 5%대 진입",
+      "category": "생활경제",
+      "primaryKeyword": "주담대 금리",
+      "angle": "은행 공시 해석",
+      "whyNow": "은행연합회·한은 통계(출처 간 지표 차이 큼)",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "high",
+        "contentRisk": "medium"
+      }
+    },
+    {
+      "topic": "유류세 인하 11월 말 종료 여부",
+      "category": "생활경제",
+      "primaryKeyword": "유류세 인하 연장",
+      "angle": "종료/연장 결정 전",
+      "whyNow": "11월 말 기한, 결정 미발표",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "medium"
+      }
+    },
+    {
+      "topic": "종합부동산세 고지서 11월 말 발송",
+      "category": "생활경제",
+      "primaryKeyword": "종부세 고지",
+      "angle": "납부·분납 일정",
+      "whyNow": "고지 전, 올해 기준 공식자료 미확인",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "high",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "medium",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "겨울철 에너지바우처 사용",
+      "category": "생활경제",
+      "primaryKeyword": "에너지바우처",
+      "angle": "동절기 사용법",
+      "whyNow": "공식 2026 동절기 자료 미확인",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "high",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "조류인플루엔자 확진과 계란값",
+      "category": "생활경제",
+      "primaryKeyword": "계란값",
+      "angle": "물가 영향",
+      "whyNow": "농식품부 11월 6일 방역 발표, 가격 영향 자료 없음",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "high",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "high",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "김장철 배추·무 작황",
+      "category": "생활경제",
+      "primaryKeyword": "김장 비용",
+      "angle": "생육 관리 정보",
+      "whyNow": "농진청 11월 6일 발표, 소비자 행동 정보 약함",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "medium",
+        "depth": "low",
+        "differentiation": "medium",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    },
+    {
+      "topic": "연말 IRP·연금저축 세액공제",
+      "category": "생활경제",
+      "primaryKeyword": "연금저축 세액공제",
+      "angle": "연말 납입",
+      "whyNow": "11월 4일 글과 중복",
+      "factors": {
+        "searchDemand": "unknown",
+        "adValue": "unknown",
+        "freshness": "high",
+        "depth": "high",
+        "differentiation": "low",
+        "intentClarity": "high",
+        "competition": "unknown",
+        "factCheckDifficulty": "low",
+        "contentRisk": "low"
+      }
+    }
+  ]
+}
